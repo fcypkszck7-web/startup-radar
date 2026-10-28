@@ -1,0 +1,41 @@
+name: Logos holen
+on:
+  workflow_dispatch:
+    inputs:
+      neu:
+        description: "Alle Logos neu laden"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["data/startups.json", "tools/logos.py", ".github/workflows/logos.yml"]
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: logos
+  cancel-in-progress: false
+jobs:
+  logos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Logos laden
+        run: python3 tools/logos.py ${{ inputs.neu && '--neu' || '' }}
+      - name: Speichern
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -n "$(git status --porcelain assets/logos)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/logos
+            git commit -m "Logos aktualisiert"
+            git pull --rebase origin main
+            git push
+            gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
+          fi
