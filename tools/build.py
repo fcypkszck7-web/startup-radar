@@ -6,6 +6,7 @@ Aufruf (im Repository-Ordner):
     python3 tools/build.py --hinweis            # zusätzlich Wochenhinweis anlegen (nur wenn etwas ansteht)
     python3 tools/build.py --stand --aenderung "Text" --aenderung "Text"   # Stand-Datum und Änderungsliste setzen
     python3 tools/build.py --heute 2026-11-02   # Datum für Tests vorgeben
+    python3 tools/build.py --sperrwort "Wort"   # bricht ab, wenn das Wort irgendwo in den öffentlichen Daten steht
 
 Nur Python-Standardbibliothek. Quelle der Wahrheit sind data/events.json und data/startups.json.
 """
@@ -13,6 +14,7 @@ import argparse
 import datetime as dt
 import html
 import json
+import re
 import sys
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -65,6 +67,48 @@ def lade(name, default=None):
 
 def speichere(name, obj):
     (DATA / name).write_text(json.dumps(obj, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+
+def lade_orte():
+    p = ROOT / "tools" / "orte.json"
+    if not p.exists():
+        return {"online": [], "orte": [], "regionen": []}
+    return json.loads(p.read_text(encoding="utf-8"))
+
+
+def geo_fuer(e, orte):
+    """Koordinaten für das Radar: (lat, lon), 'online' oder None (unbekannt)."""
+    ort, region = e.get("ort", "").lower(), e.get("region", "").lower()
+    if any(w in ort for w in orte.get("online", [])):
+        return "online"
+    for liste, feld in ((orte.get("orte", []), ort), (orte.get("orte", []), region), (orte.get("regionen", []), ort + " " + region)):
+        for name, lat, lon in liste:
+            if re.search(r"(?<!\w)" + re.escape(name.lower()) + r"(?!\w)", feld):
+                return [lat, lon]
+    return None
+
+
+def texte(obj, pfad=""):
+    if isinstance(obj, str):
+        yield pfad, obj
+    elif isinstance(obj, dict):
+        for k, v in obj.items():
+            yield from texte(v, f"{pfad}.{k}" if pfad else k)
+    elif isinstance(obj, list):
+        for i, v in enumerate(obj):
+            name = v.get("id") if isinstance(v, dict) and v.get("id") else str(i)
+            yield from texte(v, f"{pfad}[{name}]")
+
+
+def pruefe_sperrwoerter(woerter, quellen, fehler):
+    for wort in woerter:
+        w = wort.strip().lower()
+        if not w:
+            continue
+        for name, obj in quellen.items():
+            for pfad, text in texte(obj):
+                if w in text.lower():
+                    fehler.append(f"Nicht-öffentliches Wort in {name} → {pfad}")
 
 
 def kategorie(fmt):
@@ -129,9 +173,21 @@ def pruefe_startups(startups, fehler):
                 fehler.append(f"Start-up {s.get('id')}: '{k}' muss 1–5 sein")
 
 
-def berechne(events, startups, heute):
+def berechne(events, startups, heute, orte=None):
     neu_archiviert = []
+    ohne_geo = []
+    orte = orte or lade_orte()
     for e in events:
+        g = geo_fuer(e, orte)
+        if g == "online":
+            e["geo"] = None
+            e["online"] = True
+        elif g:
+            e["geo"] = g
+            e.pop("online", None)
+        elif not e.get("geo"):
+            e["geo"] = None
+            ohne_geo.append(e)
         sc = e["scores"]
         g = sum(sc[k] * w for k, w in GEWICHTE.items())
         e["gesamt"] = round(g + 1e-9, 1)
@@ -146,7 +202,7 @@ def berechne(events, startups, heute):
         s["prioritaet"] = prioritaet_startup(s["relevanz"], s["aufwand"])
         s["quickwin"] = s["relevanz"] >= 4 and s["aufwand"] <= 2
     startups.sort(key=lambda s: (s["prioritaet"], -s["relevanz"], s["aufwand"], s["name"]))
-    return neu_archiviert
+    return neu_archiviert, ohne_geo
 
 
 # ---------- iCalendar ----------
@@ -316,6 +372,7 @@ def main():
     ap.add_argument("--hinweis", action="store_true")
     ap.add_argument("--stand", action="store_true")
     ap.add_argument("--aenderung", action="append", default=[])
+    ap.add_argument("--sperrwort", action="append", default=[])
     a = ap.parse_args()
     heute = d(a.heute) if a.heute else heute_default()
 
@@ -327,13 +384,15 @@ def main():
     fehler = []
     pruefe_events(events, fehler)
     pruefe_startups(startups, fehler)
+    pruefe_sperrwoerter(a.sperrwort, {"events.json": events, "startups.json": startups,
+                        "meta.json": meta, "hinweise.json": hinweise, "Änderungstexte": a.aenderung}, fehler)
     if fehler:
         print("FEHLER – nichts geschrieben:")
         for f in fehler:
             print(" -", f)
         sys.exit(1)
 
-    neu_archiviert = berechne(events, startups, heute)
+    neu_archiviert, ohne_geo = berechne(events, startups, heute)
 
     if a.stand:
         meta["stand"] = heute.isoformat()
@@ -370,6 +429,9 @@ def main():
     print(f"Nächste 30 Tage: {len(termine)} Termine, {len(fristen)} Fristen.")
     if neu_archiviert:
         print("Neu im Archiv:", ", ".join(e["name"] for e in neu_archiviert))
+    if ohne_geo:
+        print("HINWEIS – Ort ohne Koordinaten (erscheint nicht im Radar), bitte in tools/orte.json ergänzen:",
+              ", ".join(f"{e['id']} ({e['ort']})" for e in ohne_geo))
 
 
 if __name__ == "__main__":

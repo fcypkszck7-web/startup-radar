@@ -8,14 +8,18 @@ Statische Webseite mit Start-up- und Netzwerkveranstaltungen sowie passenden Sta
 
 | Datei | Inhalt |
 |---|---|
-| `index.html`, `assets/` | Seite, Gestaltung und Logik (Filter, Kalender, Merkliste, Downloads) |
+| `index.html`, `assets/style.css`, `assets/app.js` | Seite, Gestaltung und Logik (Radar, Zeitstrahl, Kalender, Filter, Suche, Merkliste, Downloads) |
+| `assets/radar.js`, `assets/karte.js` | Animiertes Radar; vorberechnete Europa-Umrisse (Natural Earth, gemeinfrei) |
+| `assets/export.js` | Kalender-, Excel- und CSV-Export im Browser |
+| `assets/fonts/` | Schrift Barlow (SIL Open Font License), lokal eingebunden |
 | `data/events.json` | Veranstaltungen – Quelle der Wahrheit |
 | `data/startups.json` | Start-ups – Quelle der Wahrheit |
 | `data/meta.json` | Stand-Datum und Liste der letzten Änderungen |
 | `data/hinweise.json` | Wochenhinweise (erscheinen auf der Startseite und im Feed) |
 | `events.ics` | Kalender-Abo aller kommenden Termine (wird erzeugt) |
 | `feed.xml` | RSS-Feed der Wochenhinweise für die E-Mail-Benachrichtigung (wird erzeugt) |
-| `tools/build.py` | Prüft die Daten, berechnet Scores und Prioritäten, erzeugt `events.ics` und `feed.xml` |
+| `tools/build.py` | Prüft die Daten, berechnet Scores, Prioritäten und Koordinaten, erzeugt `events.ics` und `feed.xml` |
+| `tools/orte.json` | Koordinaten der Veranstaltungsorte für das Radar – neue Orte hier ergänzen |
 
 Bei Aktualisierungen ändern sich nur die Dateien in `data/` sowie `events.ics` und `feed.xml`.
 
@@ -30,7 +34,10 @@ Start-ups: A bei Relevanz ≥ 4 und Aufwand ≤ 3, B bei Relevanz ≥ 3, sonst C
 python3 tools/build.py                 # prüfen und Dateien erzeugen
 python3 tools/build.py --hinweis       # zusätzlich Wochenhinweis anlegen, wenn etwas ansteht
 python3 tools/build.py --stand --aenderung "…" --aenderung "…"   # Stand und Änderungsliste setzen
+python3 tools/build.py --sperrwort "…"     # bricht ab, wenn ein nicht-öffentliches Wort in den Daten steht
 ```
+
+Meldet das Skript „Ort ohne Koordinaten“, den Ort mit Breiten- und Längengrad in `tools/orte.json` ergänzen.
 
 Vergangene Veranstaltungen wandern automatisch ins Archiv (auf der Seite sofort, in den Daten beim nächsten Build).
 

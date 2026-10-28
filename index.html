@@ -2,68 +2,95 @@
 <html lang="de">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="referrer" content="no-referrer">
 <meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#1d2935">
 <title>Start-up- &amp; Event-Radar</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%231f5f8b'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='white' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='3' fill='white'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%231d2935'/%3E%3Ccircle cx='16' cy='16' r='10' fill='none' stroke='%23c3cbd3' stroke-width='1.2'/%3E%3Cpath d='M16 16 L16 1 A15 15 0 0 1 28 8 Z' fill='%23f5b800' opacity='.85'/%3E%3Ccircle cx='22' cy='11' r='2.4' fill='%23f5b800'/%3E%3C/svg%3E">
+<link rel="preload" href="assets/fonts/barlow-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/barlow-condensed-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="assets/style.css">
+<script>try{var t=localStorage.getItem("radar-theme");if(t)document.documentElement.setAttribute("data-theme",JSON.parse(t));}catch(e){}</script>
 </head>
 <body>
 <a class="skip" href="#inhalt">Zum Inhalt springen</a>
-<header class="kopf">
-  <div class="kopf-innen">
-    <div>
-      <h1>Start-up- &amp; Event-Radar</h1>
-      <p class="untertitel">Veranstaltungen und Start-ups rund um Dach, Solar, Bau, Handwerk und Fertigung – priorisiert und mit Quellen.</p>
-    </div>
-    <div class="kopf-rechts">
-      <span class="stand" id="stand">Stand: …</span>
-      <button class="knopf leise" type="button" id="hilfe-zeigen">Hilfe</button>
+
+<header class="leiste">
+  <div class="leiste-innen">
+    <a class="marke" href="#uebersicht" aria-label="Start-up- und Event-Radar, zur Übersicht">
+      <svg class="marke-icon" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="14.5" class="mi-bg"/><circle cx="16" cy="16" r="9.5" class="mi-ring"/><g class="mi-sweep"><path d="M16 16 L16 1.5 A14.5 14.5 0 0 1 27.5 7.5 Z"/></g><circle cx="22" cy="11" r="2.2" class="mi-blip"/></svg>
+      <span>Start-up- &amp; Event-Radar</span>
+    </a>
+    <nav class="hauptnav" aria-label="Bereiche">
+      <a href="#uebersicht" data-nav="uebersicht">Übersicht</a>
+      <a href="#termine" data-nav="termine">Termine</a>
+      <a href="#startups" data-nav="startups">Start-ups</a>
+      <a href="#archiv" data-nav="archiv">Archiv</a>
+    </nav>
+    <div class="leiste-werkzeug">
+      <a class="lw-knopf merk-link" href="#merkliste" data-nav="merkliste" title="Merkliste">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.2l2.6 5.5 6 .8-4.4 4.1 1.1 5.9L12 16.6l-5.3 2.9 1.1-5.9L3.4 9.5l6-.8z"/></svg>
+        <span class="vh">Merkliste</span><span class="merk-zahl" id="merk-zahl" hidden>0</span>
+      </a>
+      <button type="button" class="lw-knopf such-knopf" id="such-oeffnen" title="Suchen (Strg+K)">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>
+        <span class="such-text">Suchen</span><kbd class="such-kbd">Strg K</kbd>
+      </button>
+      <button type="button" class="lw-knopf" id="hilfe-oeffnen" title="Hilfe">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.6 9.3a2.5 2.5 0 1 1 3.6 2.3c-.8.4-1.2 1-1.2 1.9v.4"/><circle cx="12" cy="17.2" r=".6" class="fill"/></svg>
+        <span class="vh">Hilfe</span>
+      </button>
+      <button type="button" class="lw-knopf" id="thema" title="Hell oder dunkel">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" class="fill"/></svg>
+        <span class="vh">Farbschema wechseln</span>
+      </button>
     </div>
   </div>
-  <nav class="reiter" aria-label="Bereiche">
-    <a href="#uebersicht" data-tab="uebersicht">Übersicht</a>
-    <a href="#alle" data-tab="alle">Alle Termine</a>
-    <a href="#region" data-tab="region">Region Regensburg</a>
-    <a href="#de" data-tab="de">Deutschland</a>
-    <a href="#eu" data-tab="eu">EU &amp; Europa</a>
-    <a href="#startups" data-tab="startups">Start-ups</a>
-    <a href="#archiv" data-tab="archiv">Archiv</a>
-  </nav>
 </header>
 
 <main id="inhalt" tabindex="-1">
-  <section id="hilfe" class="hilfe" hidden>
-    <div class="hilfe-kopf">
-      <h2>So nutzt du diese Seite</h2>
-      <button class="knopf leise" type="button" id="hilfe-schliessen">Ausblenden</button>
-    </div>
-    <ol>
-      <li><strong>Bereich wählen:</strong> Oben zwischen Übersicht, den Regionen, Start-ups und Archiv wechseln.</li>
-      <li><strong>Filtern:</strong> Nach Priorität, Format, Monat oder Rubrik eingrenzen oder ins Suchfeld tippen. Mit „Kalender“ siehst du die Termine als Monatsansicht.</li>
-      <li><strong>Merken:</strong> Mit dem Stern ☆ landen Termine und Start-ups auf deiner Merkliste. Sie wird nur in diesem Browser gespeichert – jede Person hat ihre eigene.</li>
-      <li><strong>Mitnehmen:</strong> „In Kalender speichern“ legt einen Termin mit Erinnerungen in Outlook an. Über die Knöpfe über der Liste lädst du die aktuelle Auswahl als Kalenderdatei, Excel oder CSV herunter oder druckst sie als PDF.</li>
-    </ol>
-    <p class="klein">Priorität A = besonders lohnend, B = lohnend, C = nur bei passendem Anlass. „Geschätzt“ heißt: Termin aus dem Vorjahr abgeleitet, vor der Planung prüfen.</p>
-  </section>
-
-  <section id="ansicht" aria-live="polite"></section>
+  <div id="ansicht" class="ansicht"><div class="lade" role="status"><span class="lade-radar" aria-hidden="true"></span>Daten werden geladen …</div></div>
 </main>
 
-<dialog id="dialog" aria-label="Details">
-  <div class="dialog-kopf"><button type="button" class="knopf leise" id="dialog-zu">Schließen</button></div>
-  <div id="dialog-inhalt"></div>
-</dialog>
+<nav class="unternav" aria-label="Bereiche (mobil)">
+  <a href="#uebersicht" data-nav="uebersicht"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4"/><path d="M12 12L17.5 6"/></svg>Übersicht</a>
+  <a href="#termine" data-nav="termine"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>Termine</a>
+  <a href="#startups" data-nav="startups"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3c3 2 4.5 5.5 4.5 9l-2 4h-5l-2-4C7.5 8.5 9 5 12 3z"/><path d="M9.5 16l-2 4M14.5 16l2 4"/><circle cx="12" cy="10" r="1.6"/></svg>Start-ups</a>
+  <a href="#merkliste" data-nav="merkliste"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.2l2.6 5.5 6 .8-4.4 4.1 1.1 5.9L12 16.6l-5.3 2.9 1.1-5.9L3.4 9.5l6-.8z"/></svg>Merkliste</a>
+  <a href="#archiv" data-nav="archiv"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="4" width="17" height="5" rx="1"/><path d="M5 9v10.5h14V9M10 13h4"/></svg>Archiv</a>
+</nav>
 
 <footer class="fuss">
-  <p>Nur öffentlich recherchierte Angaben, jeweils mit Quelle und Prüfdatum. Termine vor der Anmeldung beim Veranstalter prüfen.</p>
-  <p>Keine Cookies, kein Tracking. Die Merkliste liegt nur in deinem Browser.</p>
+  <div class="fuss-innen">
+    <p>Nur öffentlich recherchierte Angaben, jeweils mit Quelle und Prüfdatum. Termine vor der Anmeldung beim Veranstalter prüfen.</p>
+    <p>Keine Cookies, kein Tracking, keine externen Schriften. Merkliste und Farbschema liegen nur in deinem Browser. Kartengrundlage: Natural Earth.</p>
+  </div>
 </footer>
+
+<dialog id="panel" class="panel" aria-labelledby="panel-titel">
+  <div class="panel-innen" id="panel-inhalt"></div>
+</dialog>
+
+<dialog id="suche" class="suche-dialog" aria-label="Suchen">
+  <div class="suche-kopf">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>
+    <input type="search" id="suche-feld" placeholder="Termin, Ort, Thema oder Start-up suchen" autocomplete="off" aria-controls="suche-treffer" aria-autocomplete="list">
+    <button type="button" class="esc-knopf" id="suche-zu">Esc</button>
+  </div>
+  <ul id="suche-treffer" class="suche-treffer" role="listbox" aria-label="Treffer"></ul>
+  <p class="suche-fuss">Pfeiltasten zum Auswählen, Enter zum Öffnen. Schnell erreichbar mit Strg+K oder /.</p>
+</dialog>
+
+<div id="tooltip" class="tooltip" role="tooltip" hidden></div>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<div id="druck" class="druck" aria-hidden="true"></div>
 
 <noscript><p class="noscript">Für diese Seite bitte JavaScript aktivieren.</p></noscript>
 <script src="assets/export.js"></script>
+<script src="assets/karte.js"></script>
+<script src="assets/radar.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>

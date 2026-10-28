@@ -33,7 +33,11 @@
   "gesamt": 3.9,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.135,
+   11.69
+  ]
  },
  {
   "id": "b2b-demoday-bamberg-2026",
@@ -70,7 +74,11 @@
   "gesamt": 4.1,
   "prioritaet": "A",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.8988,
+   10.9028
+  ]
  },
  {
   "rubrik": "eu",
@@ -91,7 +99,7 @@
   "kosten": "kostenpflichtig",
   "zielgruppe": "Start-ups, Investoren, Konzerne (zehntausende Teilnehmende)",
   "fokus": "Technologie allgemein",
-  "begruendung": "Eine der größten Tech-Konferenzen der Welt – für Lehmanns Themen zu breit, nur bei konkretem Anlass sinnvoll.",
+  "begruendung": "Eine der größten Tech-Konferenzen der Welt – für Dach, Solar und Bau zu breit, nur bei konkretem Anlass sinnvoll.",
   "rolle": [
    "Besuch"
   ],
@@ -106,7 +114,11 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   38.768,
+   -9.094
+  ]
  },
  {
   "rubrik": "eu",
@@ -127,7 +139,7 @@
   "kosten": "k. A.",
   "zielgruppe": "Energieversorger, Netzbetreiber, Technologieanbieter",
   "fokus": "Energiewende, Netze, Digitalisierung der Energiewirtschaft",
-  "begruendung": "Große Energiewirtschaftsmesse in Wien – für Lehmann eher am Rand, interessant für Energie- und Netzthemen in Österreich.",
+  "begruendung": "Große Energiewirtschaftsmesse in Wien – für Dach und Bau eher am Rand, interessant für Energie- und Netzthemen in Österreich.",
   "rolle": [
    "Besuch"
   ],
@@ -142,7 +154,11 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.2082,
+   16.3738
+  ]
  },
  {
   "id": "pitch-match-2026",
@@ -179,7 +195,9 @@
   "gesamt": 4.4,
   "prioritaet": "A",
   "kategorie": "Matchmaking",
-  "archiv": false
+  "archiv": false,
+  "geo": null,
+  "online": true
  },
  {
   "id": "startup-night-weiden-2026",
@@ -215,7 +233,11 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.6769,
+   12.1561
+  ]
  },
  {
   "id": "gruendungstag-deggendorf-2026",
@@ -251,7 +273,11 @@
   "gesamt": 3.7,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.84,
+   12.9606
+  ]
  },
  {
   "id": "hochschulgruendertag-2026",
@@ -288,7 +314,11 @@
   "gesamt": 3.9,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.003,
+   12.0958
+  ]
  },
  {
   "rubrik": "eu",
@@ -324,7 +354,11 @@
   "gesamt": 3.2,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   60.201,
+   24.938
+  ]
  },
  {
   "id": "bim-world-2026",
@@ -360,7 +394,11 @@
   "gesamt": 4.1,
   "prioritaet": "A",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.137,
+   11.693
+  ]
  },
  {
   "id": "demo-night-muenchen-2026",
@@ -396,7 +434,11 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "rubrik": "eu",
@@ -432,7 +474,11 @@
   "gesamt": 3.1,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   46.6111,
+   13.8558
+  ]
  },
  {
   "id": "startup-factory-2026",
@@ -469,7 +515,11 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Gründungswochenende & Hackathon",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.0062,
+   12.1093
+  ]
  },
  {
   "id": "ultimate-demo-day-2026",
@@ -505,7 +555,11 @@
   "gesamt": 4.0,
   "prioritaet": "A",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "id": "bau-2027",
@@ -542,7 +596,11 @@
   "gesamt": 4.8,
   "prioritaet": "A",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.135,
+   11.69
+  ]
  },
  {
   "id": "dld-2027",
@@ -578,7 +636,11 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "rubrik": "eu",
@@ -614,7 +676,11 @@
   "gesamt": 3.9,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   46.478,
+   11.331
+  ]
  },
  {
   "id": "tiger-winter-2027",
@@ -634,7 +700,7 @@
   "kosten": "kostenlos (Publikum)",
   "zielgruppe": "Junge Start-ups der Region, Publikum, Unternehmen",
   "fokus": "Sechs Start-ups pitchen vor Jury und Publikum",
-  "begruendung": "Kompakter Überblick über junge Tech-Start-ups aus Regensburg in zwei Stunden, direkt in Neutraubling-Nähe.",
+  "begruendung": "Kompakter Überblick über junge Tech-Start-ups aus Regensburg in zwei Stunden, direkt in der Region.",
   "rolle": [
    "Besuch"
   ],
@@ -650,7 +716,11 @@
   "gesamt": 3.9,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.0062,
+   12.1093
+  ]
  },
  {
   "rubrik": "eu",
@@ -671,7 +741,7 @@
   "kosten": "kostenpflichtig",
   "zielgruppe": "Start-ups, Investoren, Konzerne",
   "fokus": "Tech-Start-ups, Mobilfunk, KI",
-  "begruendung": "Große Start-up-Plattform neben dem MWC – für Lehmann thematisch weit entfernt.",
+  "begruendung": "Große Start-up-Plattform neben dem MWC – von Dach, Solar und Bau thematisch weit entfernt.",
   "rolle": [
    "Besuch"
   ],
@@ -686,7 +756,11 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   41.355,
+   2.128
+  ]
  },
  {
   "rubrik": "eu",
@@ -722,7 +796,11 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1575,
+   14.0289
+  ]
  },
  {
   "id": "bauindustrie-meets-startups-2027",
@@ -758,7 +836,11 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.95,
+   11.4
+  ]
  },
  {
   "id": "pv-symposium-2027",
@@ -795,7 +877,11 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   50.1378,
+   10.993
+  ]
  },
  {
   "rubrik": "eu",
@@ -831,7 +917,11 @@
   "gesamt": 3.0,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   44.056,
+   12.62
+  ]
  },
  {
   "id": "zukunft-handwerk-2027",
@@ -868,7 +958,11 @@
   "gesamt": 4.0,
   "prioritaet": "A",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.137,
+   11.693
+  ]
  },
  {
   "rubrik": "noneu",
@@ -904,7 +998,11 @@
   "gesamt": 3.1,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   47.4245,
+   9.3767
+  ]
  },
  {
   "id": "hannover-messe-2027",
@@ -940,7 +1038,11 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   52.32,
+   9.81
+  ]
  },
  {
   "id": "startup-factory-ndb-2027",
@@ -976,7 +1078,11 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Gründungswochenende & Hackathon",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.84,
+   12.9606
+  ]
  },
  {
   "rubrik": "eu",
@@ -1013,7 +1119,11 @@
   "gesamt": 3.8,
   "prioritaet": "B",
   "kategorie": "Matchmaking",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.2082,
+   16.3738
+  ]
  },
  {
   "id": "sensor-test-2027",
@@ -1049,7 +1159,11 @@
   "gesamt": 3.4,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.413,
+   11.117
+  ]
  },
  {
   "rubrik": "eu",
@@ -1085,7 +1199,11 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1575,
+   14.0289
+  ]
  },
  {
   "id": "intersolar-2027",
@@ -1123,7 +1241,11 @@
   "gesamt": 4.5,
   "prioritaet": "A",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.135,
+   11.69
+  ]
  },
  {
   "rubrik": "eu",
@@ -1159,7 +1281,11 @@
   "gesamt": 3.0,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   36.7,
+   -4.45
+  ]
  },
  {
   "rubrik": "eu",
@@ -1195,7 +1321,11 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.832,
+   2.287
+  ]
  },
  {
   "id": "hinterland-2027",
@@ -1231,7 +1361,11 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   52.0302,
+   8.5325
+  ]
  },
  {
   "id": "denk-summit-2027",
@@ -1267,7 +1401,11 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.6331,
+   12.0617
+  ]
  },
  {
   "rubrik": "noneu",
@@ -1303,7 +1441,11 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   51.508,
+   0.029
+  ]
  },
  {
   "id": "innovationskongress-2027",
@@ -1340,7 +1482,11 @@
   "gesamt": 4.2,
   "prioritaet": "A",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.0062,
+   12.1093
+  ]
  },
  {
   "id": "tiger-sommer-2027",
@@ -1376,7 +1522,11 @@
   "gesamt": 3.9,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.003,
+   12.0958
+  ]
  },
  {
   "id": "b2b-matchday-2027",
@@ -1413,7 +1563,11 @@
   "gesamt": 4.2,
   "prioritaet": "A",
   "kategorie": "Matchmaking",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "id": "bits-pretzels-2027",
@@ -1449,7 +1603,11 @@
   "gesamt": 3.4,
   "prioritaet": "B",
   "kategorie": "Start-up-Festival",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "rubrik": "eu",
@@ -1485,7 +1643,11 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.7384,
+   13.3736
+  ]
  },
  {
   "id": "startup-trifft-handwerk-2027",
@@ -1521,7 +1683,11 @@
   "gesamt": 4.1,
   "prioritaet": "A",
   "kategorie": "Matchmaking",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "id": "aircon-2027",
@@ -1558,7 +1724,11 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Matchmaking",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.0062,
+   12.1093
+  ]
  },
  {
   "id": "demo-night-nuernberg-2027",
@@ -1594,7 +1764,11 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.4521,
+   11.0767
+  ]
  },
  {
   "rubrik": "noneu",
@@ -1630,7 +1804,11 @@
   "gesamt": 2.5,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   59.9139,
+   10.7522
+  ]
  },
  {
   "id": "blechexpo-2027",
@@ -1666,7 +1844,11 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.69,
+   9.19
+  ]
  },
  {
   "id": "b2b-demoday-2027",
@@ -1703,7 +1885,11 @@
   "gesamt": 4.1,
   "prioritaet": "A",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.95,
+   11.4
+  ]
  },
  {
   "id": "gruendungstag-deggendorf-2027",
@@ -1739,7 +1925,11 @@
   "gesamt": 3.7,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.84,
+   12.9606
+  ]
  },
  {
   "id": "hochschulgruendertag-2027",
@@ -1776,7 +1966,11 @@
   "gesamt": 3.9,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.0134,
+   12.1016
+  ]
  },
  {
   "rubrik": "eu",
@@ -1812,7 +2006,11 @@
   "gesamt": 3.2,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   60.201,
+   24.938
+  ]
  },
  {
   "id": "bim-world-2027",
@@ -1848,7 +2046,11 @@
   "gesamt": 4.1,
   "prioritaet": "A",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "id": "startup-factory-2027",
@@ -1884,7 +2086,11 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Gründungswochenende & Hackathon",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   49.0062,
+   12.1093
+  ]
  },
  {
   "id": "ultimate-demo-day-2027",
@@ -1920,7 +2126,11 @@
   "gesamt": 4.0,
   "prioritaet": "A",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "rubrik": "noneu",
@@ -1957,7 +2167,11 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   47.563,
+   7.6
+  ]
  },
  {
   "rubrik": "eu",
@@ -1993,7 +2207,11 @@
   "gesamt": 3.9,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   46.478,
+   11.331
+  ]
  },
  {
   "rubrik": "eu",
@@ -2029,7 +2247,11 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1575,
+   14.0289
+  ]
  },
  {
   "id": "dach-holz-2028",
@@ -2066,7 +2288,11 @@
   "gesamt": 4.0,
   "prioritaet": "A",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.69,
+   9.19
+  ]
  },
  {
   "id": "zukunft-handwerk-2028",
@@ -2102,7 +2328,11 @@
   "gesamt": 4.0,
   "prioritaet": "A",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "id": "digitalbau-2028",
@@ -2138,6 +2368,10 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "geo": [
+   50.947,
+   6.983
+  ]
  }
 ]
