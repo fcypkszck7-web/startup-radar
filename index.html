@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="referrer" content="no-referrer">
+<meta name="color-scheme" content="light dark">
+<title>Start-up- &amp; Event-Radar</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%231f5f8b'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='white' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='3' fill='white'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#inhalt">Zum Inhalt springen</a>
+<header class="kopf">
+  <div class="kopf-innen">
+    <div>
+      <h1>Start-up- &amp; Event-Radar</h1>
+      <p class="untertitel">Veranstaltungen und Start-ups rund um Dach, Solar, Bau, Handwerk und Fertigung – priorisiert und mit Quellen.</p>
+    </div>
+    <div class="kopf-rechts">
+      <span class="stand" id="stand">Stand: …</span>
+      <button class="knopf leise" type="button" id="hilfe-zeigen">Hilfe</button>
+    </div>
+  </div>
+  <nav class="reiter" aria-label="Bereiche">
+    <a href="#uebersicht" data-tab="uebersicht">Übersicht</a>
+    <a href="#alle" data-tab="alle">Alle Termine</a>
+    <a href="#region" data-tab="region">Region Regensburg</a>
+    <a href="#de" data-tab="de">Deutschland</a>
+    <a href="#eu" data-tab="eu">EU &amp; Europa</a>
+    <a href="#startups" data-tab="startups">Start-ups</a>
+    <a href="#archiv" data-tab="archiv">Archiv</a>
+  </nav>
+</header>
+
+<main id="inhalt" tabindex="-1">
+  <section id="hilfe" class="hilfe" hidden>
+    <div class="hilfe-kopf">
+      <h2>So nutzt du diese Seite</h2>
+      <button class="knopf leise" type="button" id="hilfe-schliessen">Ausblenden</button>
+    </div>
+    <ol>
+      <li><strong>Bereich wählen:</strong> Oben zwischen Übersicht, den Regionen, Start-ups und Archiv wechseln.</li>
+      <li><strong>Filtern:</strong> Nach Priorität, Format, Monat oder Rubrik eingrenzen oder ins Suchfeld tippen. Mit „Kalender“ siehst du die Termine als Monatsansicht.</li>
+      <li><strong>Merken:</strong> Mit dem Stern ☆ landen Termine und Start-ups auf deiner Merkliste. Sie wird nur in diesem Browser gespeichert – jede Person hat ihre eigene.</li>
+      <li><strong>Mitnehmen:</strong> „In Kalender speichern“ legt einen Termin mit Erinnerungen in Outlook an. Über die Knöpfe über der Liste lädst du die aktuelle Auswahl als Kalenderdatei, Excel oder CSV herunter oder druckst sie als PDF.</li>
+    </ol>
+    <p class="klein">Priorität A = besonders lohnend, B = lohnend, C = nur bei passendem Anlass. „Geschätzt“ heißt: Termin aus dem Vorjahr abgeleitet, vor der Planung prüfen.</p>
+  </section>
+
+  <section id="ansicht" aria-live="polite"></section>
+</main>
+
+<dialog id="dialog" aria-label="Details">
+  <div class="dialog-kopf"><button type="button" class="knopf leise" id="dialog-zu">Schließen</button></div>
+  <div id="dialog-inhalt"></div>
+</dialog>
+
+<footer class="fuss">
+  <p>Nur öffentlich recherchierte Angaben, jeweils mit Quelle und Prüfdatum. Termine vor der Anmeldung beim Veranstalter prüfen.</p>
+  <p>Keine Cookies, kein Tracking. Die Merkliste liegt nur in deinem Browser.</p>
+</footer>
+
+<noscript><p class="noscript">Für diese Seite bitte JavaScript aktivieren.</p></noscript>
+<script src="assets/export.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
