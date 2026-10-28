@@ -3,12 +3,15 @@
  "site_url": "https://fcypkszck7-web.github.io/startup-radar/",
  "stand": "2026-10-28",
  "aenderungen": [
-  "Erstveröffentlichung: 59 Veranstaltungen in Region, Deutschland, EU und Europa sowie 14 Start-ups recherchiert, jeweils mit Quelle und Prüfdatum.",
-  "Termine, die noch nicht veröffentlicht sind, wurden aus dem Vorjahr geschätzt und sind als „geschätzt“ markiert."
+  "Neu: Bereich „Kapital“ mit 34 öffentlich bekannten Finanzierungsrunden, Übernahmen und Fonds sowie 13 Investoren-Profilen – inklusive Grafik, welche Investoren hinter welchen Unternehmen stehen.",
+  "Start-ups erweitert um Deutschland und Europa: jetzt 28 statt 14, jeweils mit öffentlich bekannten Investoren und Finanzierungsrunden.",
+  "Termine unverändert: 59 Veranstaltungen; noch nicht veröffentlichte Daten sind weiterhin als „geschätzt“ markiert."
  ],
  "anzahl": {
   "events_aktiv": 59,
   "events_archiv": 0,
-  "startups": 14
+  "startups": 28,
+  "runden": 34,
+  "investoren": 13
  }
 }

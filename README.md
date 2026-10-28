@@ -13,7 +13,10 @@ Statische Webseite mit Start-up- und Netzwerkveranstaltungen sowie passenden Sta
 | `assets/export.js` | Kalender-, Excel- und CSV-Export im Browser |
 | `assets/fonts/` | Schrift Barlow (SIL Open Font License), lokal eingebunden |
 | `data/events.json` | Veranstaltungen – Quelle der Wahrheit |
-| `data/startups.json` | Start-ups – Quelle der Wahrheit |
+| `data/startups.json` | Start-ups (Ostbayern, Bayern, Deutschland, Europa) – Quelle der Wahrheit |
+| `data/runden.json` | Öffentlich bekannte Finanzierungsrunden, Übernahmen und neue Fonds (Bereich „Kapital“) |
+| `data/investoren.json` | Profile von Investoren mit Fokus auf Bau, Energie und Industrie |
+| `assets/logos/` | Logos der Start-ups, automatisch von deren Websites geholt (siehe unten) |
 | `data/meta.json` | Stand-Datum und Liste der letzten Änderungen |
 | `data/hinweise.json` | Wochenhinweise (erscheinen auf der Startseite und im Feed) |
 | `events.ics` | Kalender-Abo aller kommenden Termine (wird erzeugt) |
@@ -40,6 +43,10 @@ python3 tools/build.py --sperrwort "…"     # bricht ab, wenn ein nicht-öffent
 Meldet das Skript „Ort ohne Koordinaten“, den Ort mit Breiten- und Längengrad in `tools/orte.json` ergänzen.
 
 Vergangene Veranstaltungen wandern automatisch ins Archiv (auf der Seite sofort, in den Daten beim nächsten Build).
+
+## Logos
+
+Die Logos holt der GitHub-Workflow „Logos holen“ (`.github/workflows/logos.yml`, Skript `tools/logos.py`) von der jeweiligen Website des Start-ups, sobald sich `data/startups.json` ändert. Sie liegen danach in `assets/logos/` und werden von hier ausgeliefert – Besucher der Seite verbinden sich nie mit fremden Servern. Ohne Website oder brauchbares Logo zeigt die Seite ein farbiges Kürzel. Ein bestimmtes Logo lässt sich über das Feld `logo_url` erzwingen.
 
 ## Von Hand hochladen (falls nötig, ca. 2 Minuten)
 

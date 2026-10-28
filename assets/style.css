@@ -399,6 +399,8 @@ select.feld { padding-right: 32px; appearance: none; background-image: url("data
 .aenderungen li { position: relative; padding: 0 0 14px 22px; color: var(--text-2); }
 .aenderungen li::before { content: ""; position: absolute; left: 3px; top: 8px; width: 8px; height: 8px; border-radius: 2px; background: var(--signal); transform: rotate(45deg); }
 .quick li + li { border-top: 1px solid var(--linie-2); }
+.quick .logo { width: 36px; height: 36px; border-radius: 9px; font-size: 14px; }
+.quick .logo.bild { padding: 3px; }
 .quick button { width: 100%; display: flex; align-items: center; gap: 12px; padding: 11px 4px; background: none; border: 0; text-align: left; border-radius: 6px; }
 .quick button:hover { background: var(--hover); }
 .q-name { font-weight: 500; display: block; }
@@ -662,6 +664,149 @@ kbd { font: 500 13px/1 var(--schrift); padding: 3px 6px; border: 1px solid var(-
 .fehler { max-width: 640px; margin: 80px auto; padding: 0 var(--rand); }
 .druck { display: none; }
 
+/* ---------- Dunkler Seitenkopf der Unterseiten ---------- */
+:root {
+  --ak-alle: #c3cbd3; --akd-alle: #5c6b7a;
+  --ak-region: #3cc4a6; --akd-region: #1c8a74;
+  --ak-bayern: #7cc4e8; --akd-bayern: #2a7fae;
+  --ak-de: #b49cf0; --akd-de: #6f55c0;
+  --ak-eu: #f0a35e; --akd-eu: #b8641f;
+  --ak-kapital: #f5b800; --akd-kapital: #8a6400;
+  --ak-archiv: #9aa6b2; --akd-archiv: #5c6b7a;
+}
+:root[data-theme="dark"] { --akd-alle: #a9b6c2; --akd-region: #3cc4a6; --akd-bayern: #7cc4e8; --akd-de: #b49cf0; --akd-eu: #f0a35e; --akd-kapital: #f5c533; --akd-archiv: #a9b6c2; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --akd-alle: #a9b6c2; --akd-region: #3cc4a6; --akd-bayern: #7cc4e8; --akd-de: #b49cf0; --akd-eu: #f0a35e; --akd-kapital: #f5c533; --akd-archiv: #a9b6c2; } }
+[data-akzent="alle"] { --ak: var(--ak-alle); }
+[data-akzent="region"] { --ak: var(--ak-region); }
+[data-akzent="bayern"] { --ak: var(--ak-bayern); }
+[data-akzent="de"] { --ak: var(--ak-de); }
+[data-akzent="eu"] { --ak: var(--ak-eu); }
+[data-akzent="kapital"], [data-akzent="merk"] { --ak: var(--ak-kapital); }
+[data-akzent="archiv"] { --ak: var(--ak-archiv); }
+.kopfband:not([data-akzent]) { --ak: var(--ak-alle); }
+.kopfband {
+  position: relative; overflow: hidden; color: var(--schiefer-text);
+  background:
+    radial-gradient(circle at 82% 55%, color-mix(in srgb, var(--ak) 20%, transparent) 0, transparent 46%),
+    var(--schiefer);
+  transition: background .4s;
+}
+.kopfband::before {
+  content: ""; position: absolute; inset: 0; pointer-events: none; opacity: .5;
+  background-image: linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
+  background-size: 48px 48px; mask-image: linear-gradient(90deg, #000 0%, transparent 75%);
+}
+.kopfband::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 3px; background: var(--ak); opacity: .85; transition: background .3s; }
+.kopfband-innen { position: relative; max-width: var(--breite); margin: 0 auto; padding: 40px var(--rand) 34px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 40px; align-items: center; }
+.kopfband h1 { font: 600 clamp(38px, 4.6vw, 56px)/1 var(--schmal); color: #fff; }
+.kb-intro { color: var(--schiefer-text-2); max-width: 64ch; margin: 12px 0 0; font-size: 17px; }
+.kb-link { margin: 16px 0 0; font-size: 15px; }
+.kb-link a { color: var(--ak); }
+.kb-rechts { justify-self: end; }
+.kb-radar { width: clamp(220px, 24vw, 300px); }
+.kb-radar .radar-svg .r-staedte { display: none; }
+.kb-stats { display: grid; grid-template-columns: repeat(2, minmax(150px, 1fr)); gap: 1px; margin: 0; background: #34475b; border: 1px solid #34475b; border-radius: 12px; overflow: hidden; min-width: 360px; }
+.kb-stats div { background: #213040; padding: 14px 16px; }
+.kb-stats dt { font-size: 13px; color: var(--schiefer-text-2); }
+.kb-stats dd { margin: 4px 0 0; font: 600 26px/1 var(--schmal); color: #fff; }
+.kopfband .reiter { margin-top: 22px; }
+.kopfband .reiter button { background: rgba(255,255,255,.04); border-color: #3a4e63; color: var(--schiefer-text); }
+.kopfband .reiter button span { color: var(--schiefer-text-2); }
+.kopfband .reiter button:hover { border-color: var(--ak); color: #fff; }
+.kopfband .reiter button[aria-selected="true"] { background: var(--ak); border-color: var(--ak); color: var(--schiefer); }
+.kopfband .reiter button[aria-selected="true"] span { color: rgba(29, 41, 53, .7); }
+.kopfband[data-akzent="alle"] .reiter button[aria-selected="true"] { background: #e8edf1; border-color: #e8edf1; }
+:root[data-theme="dark"] .reiter button[aria-selected="true"] { background: var(--ak, #e3e9ee); }
+
+/* Datums-Kachel in Rubrikfarbe */
+.zeile.rb-region { --rb: var(--akd-region); } .zeile.rb-de { --rb: var(--akd-de); } .zeile.rb-eu, .zeile.rb-noneu { --rb: var(--akd-eu); }
+.zeile-knopf .z-datum { align-self: start; padding: 9px 10px 8px; border-radius: 9px; background: color-mix(in srgb, var(--rb, var(--akd-alle)) 11%, var(--flaeche)); box-shadow: inset 3px 0 0 var(--rb, var(--akd-alle)); }
+.zeile-knopf .z-tag { color: var(--rb, var(--text)); }
+.monat-kopf::before { content: ""; width: 10px; height: 10px; border-radius: 3px; background: var(--akd-kapital); align-self: center; margin-right: 2px; }
+
+/* Logos und Kürzel */
+.logo { --f: #5b6b7b; flex-shrink: 0; width: 46px; height: 46px; border-radius: 11px; display: inline-flex; align-items: center; justify-content: center; overflow: hidden; }
+.logo.bild { background: #fff; border: 1px solid var(--linie); padding: 5px; }
+.logo.bild img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.logo.mono { background: var(--f); color: #fff; font: 700 17px/1 var(--schmal); letter-spacing: .02em; box-shadow: inset 0 -10px 18px rgba(0,0,0,.12); }
+.logo.gross { width: 64px; height: 64px; border-radius: 14px; font-size: 24px; }
+.su-zeile .zeile-knopf { grid-template-columns: 46px minmax(0, 1fr) auto; }
+.sf-tag { --f: #5b6b7b; display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--text-2); white-space: nowrap; }
+.sf-tag::before { content: ""; width: 9px; height: 9px; border-radius: 50%; background: var(--f); }
+.sf-legende { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 12px; }
+.su-region { --rc: var(--akd-alle); border-color: color-mix(in srgb, var(--rc) 50%, transparent) !important; color: var(--rc) !important; background: color-mix(in srgb, var(--rc) 10%, transparent) !important; }
+.su-region.r-region { --rc: var(--akd-region); } .su-region.r-bayern { --rc: var(--akd-bayern); } .su-region.r-de { --rc: var(--akd-de); } .su-region.r-eu { --rc: var(--akd-eu); }
+.z-geld { font-weight: 500; color: var(--text); }
+.p-logo-zeile { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+
+/* Finanzierung im Detailfenster */
+.rundenzeit { list-style: none; margin: 10px 0 0; padding: 0; position: relative; }
+.rundenzeit::before { content: ""; position: absolute; left: 92px; top: 6px; bottom: 6px; width: 2px; background: var(--linie); }
+.rundenzeit li { display: grid; grid-template-columns: 82px 20px minmax(0, 1fr); gap: 0 6px; align-items: start; padding: 5px 0; }
+.rz-datum { font: 600 15px/1.3 var(--schmal); color: var(--text-2); text-align: right; padding-right: 4px; }
+.rz-punkt { width: 12px; height: 12px; border-radius: 50%; background: var(--solar); margin: 3px 0 0 5px; position: relative; z-index: 1; box-shadow: 0 0 0 3px var(--flaeche); }
+.rz-lead { display: block; font-size: 14px; color: var(--text-3); }
+.linkknopf { background: none; border: 0; padding: 0; color: var(--link); text-align: left; text-decoration: underline; text-underline-offset: 2px; cursor: pointer; font: inherit; }
+.linkknopf:hover { color: var(--text); }
+.inv-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.inv-chip { font: 400 14px/1.2 var(--schrift); padding: 5px 10px; border-radius: 14px; background: var(--flaeche-2); border: 1px solid var(--linie); color: var(--text); }
+.inv-chip.profil { border-color: color-mix(in srgb, var(--solar) 45%, var(--linie)); color: var(--link); cursor: pointer; }
+.inv-chip.profil:hover { background: var(--hover); }
+.geteilt { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.geteilt li { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; font-size: 14px; color: var(--text-2); }
+.deal-betrag { font: 700 40px/1 var(--schmal); color: var(--text); margin-top: 6px; }
+.deal-kurz { color: var(--text-2); font-size: 16px; }
+.portfolio { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.portfolio li { display: flex; gap: 10px; align-items: center; }
+.portfolio .logo { width: 32px; height: 32px; border-radius: 8px; font-size: 12px; padding: 3px; }
+
+/* Kapital */
+.deal-filter { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; margin-bottom: 4px; }
+.deals .zeile-knopf { grid-template-columns: 70px minmax(0, 1fr) auto; }
+.deal-zeile .z-datum { text-align: center; box-shadow: none; background: var(--flaeche-2); }
+.deal-zeile .z-tag { font-size: 20px; color: var(--text); }
+.deal-zeile::before { background: var(--solar) !important; }
+.deal-zeile.art-uebernahme::before { background: #b5452f !important; }
+.deal-zeile.art-fonds::before { background: var(--akd-region) !important; }
+.deal-summe { font: 600 22px/1 var(--schmal); white-space: nowrap; }
+.art-badge { font-size: 13px; padding: 2px 8px; border-radius: 10px; background: color-mix(in srgb, var(--solar) 12%, transparent); color: var(--link); white-space: nowrap; }
+.art-badge.uebernahme { background: rgba(181, 69, 47, .12); color: #a33d29; }
+.art-badge.fonds { background: color-mix(in srgb, var(--akd-region) 14%, transparent); color: var(--akd-region); }
+:root[data-theme="dark"] .art-badge.uebernahme { color: #f08a75; }
+.im-radar { font-size: 12px; padding: 1px 7px; border-radius: 9px; background: var(--signal-weich); color: var(--warn-text); border: 1px solid rgba(210, 158, 0, .4); }
+.netz { background: var(--flaeche); border: 1px solid var(--linie); border-radius: 12px; padding: 16px 10px 8px; overflow: hidden; }
+.netz svg { display: block; width: 100%; height: auto; font-family: var(--schrift); }
+.netz .kante { fill: none; stroke: #8f9daa; stroke-width: 1.2; opacity: .35; transition: opacity .15s, stroke .15s; }
+.netz svg.hover .kante { opacity: .07; }
+.netz svg.hover .kante.an { opacity: .95; stroke: var(--solar); stroke-width: 2; }
+.netz .knoten { cursor: pointer; outline: none; }
+.netz .knoten text { fill: var(--text); transition: opacity .15s; }
+.netz .knoten.inv circle { fill: var(--schiefer); stroke: var(--flaeche); stroke-width: 2; }
+.netz .knoten.inv.profil circle { fill: var(--signal); stroke: var(--schiefer); stroke-width: 1.5; }
+.netz .knoten.firma rect { fill: #a6b1bc; }
+.netz .knoten.firma.im-radar rect { fill: var(--solar); }
+.netz svg.hover .knoten:not(.an) text { opacity: .3; }
+.netz .knoten.an text { font-weight: 600; }
+.netz .knoten:focus-visible text { text-decoration: underline; }
+:root[data-theme="dark"] .netz .knoten.inv circle { fill: #c3cbd3; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .netz .knoten.inv circle { fill: #c3cbd3; } }
+.netz-legende { display: flex; flex-wrap: wrap; gap: 6px 16px; padding: 10px 8px 4px; font-size: 13px; color: var(--text-3); border-top: 1px solid var(--linie-2); margin-top: 8px; }
+.netz-legende span { display: inline-flex; gap: 6px; align-items: center; }
+.netz-legende i { display: inline-block; width: 11px; height: 11px; }
+.nl-inv { border-radius: 50%; background: var(--schiefer); } .nl-profil { border-radius: 50%; background: var(--signal); } .nl-firma { border-radius: 2px; background: var(--solar); } .nl-firma.andere { background: #a6b1bc; }
+.inv-raster { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+.inv-karte { background: var(--flaeche); border: 1px solid var(--linie); border-radius: 12px; padding: 16px 18px; display: flex; flex-direction: column; gap: 8px; }
+.inv-karte h3 { font-size: 22px; }
+.inv-karte h3 .linkknopf { color: var(--text); text-decoration: none; }
+.inv-karte h3 .linkknopf:hover { color: var(--link); text-decoration: underline; }
+.inv-karte p { color: var(--text-2); font-size: 15px; margin: 0; }
+.inv-kopf { display: flex; justify-content: space-between; gap: 10px; font-size: 13px; color: var(--text-3); }
+.inv-typ { padding: 1px 8px; border-radius: 9px; background: var(--flaeche-2); border: 1px solid var(--linie); color: var(--text-2); }
+.inv-daten { display: grid; grid-template-columns: auto 1fr; gap: 2px 10px; margin: 2px 0 0; font-size: 14px; }
+.inv-daten dt { color: var(--text-3); } .inv-daten dd { margin: 0; }
+.inv-portfolio { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: auto; padding-top: 6px; font-size: 13px; color: var(--text-3); }
+.kapital-hinweis { margin-top: 28px; max-width: 80ch; }
+
 /* ---------- Seitenwechsel ---------- */
 ::view-transition-old(root) { animation: vt-aus .16s ease-in both; }
 ::view-transition-new(root) { animation: vt-ein .26s var(--ease) both; }
@@ -760,6 +905,25 @@ kbd { font: 500 13px/1 var(--schrift); padding: 3px 6px; border: 1px solid var(-
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
   .mi-sweep { animation: none; }
+}
+
+@media (max-width: 860px) {
+  .kopfband-innen { grid-template-columns: minmax(0, 1fr); padding-top: 28px; padding-bottom: 24px; gap: 18px; }
+  .kb-rechts { justify-self: stretch; }
+  .kb-radar { display: none; }
+  .kb-stats { min-width: 0; }
+  .kb-stats dd { font-size: 22px; }
+  .su-zeile .zeile-knopf { grid-template-columns: 46px minmax(0, 1fr); }
+  .su-zeile .z-rechts { grid-column: 2; }
+  .deals .zeile-knopf { grid-template-columns: 58px minmax(0, 1fr); }
+  .deals .z-rechts { grid-column: 2; }
+  .zeile-knopf .z-datum { padding: 7px 6px; }
+  .inv-raster { grid-template-columns: 1fr; }
+  .deal-filter .segment { max-width: 100%; overflow-x: auto; scrollbar-width: none; }
+  .deal-filter .segment button { padding: 6px 9px; font-size: 14px; }
+  .deals .z-wann { white-space: normal; }
+  .rundenzeit::before { left: 78px; }
+  .rundenzeit li { grid-template-columns: 68px 20px minmax(0, 1fr); }
 }
 
 /* ---------- Druck ---------- */

@@ -1,0 +1,367 @@
+[
+ {
+  "id": "uvc-partners",
+  "name": "UVC Partners",
+  "typ": "Venture Capital",
+  "sitz": "München",
+  "land": "DE",
+  "kurz": "Wagniskapitalgeber aus dem Umfeld des Gründerzentrums UnternehmerTUM; investiert in B2B-Start-ups aus Deeptech, Klimatechnik, Mobilität und Software/KI im DACH-Raum.",
+  "phasen": "Frühphase mit Folgefinanzierungen",
+  "ticket": "Erstinvestment bis 10 Mio. €, insgesamt bis 30 Mio. € je Start-up",
+  "volumen": "Vierter Fonds 250 Mio. € (Aug. 2024), über 600 Mio. € verwaltet",
+  "themen": [
+   "Fertigung, Qualität und Energie",
+   "Nachhaltigkeit und Material",
+   "Digitale Planung und Vertrieb"
+  ],
+  "website": "https://www.uvcpartners.com",
+  "quelle": "https://munich-startup.de/news/uvc-partners-schliesst-vierten-fonds-mit-250-millionen-euro-ab",
+  "aliase": [],
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "Kuro",
+    "startup_id": null,
+    "runde_id": "kuro-2026"
+   },
+   {
+    "unternehmen": "Tanso",
+    "startup_id": "tanso",
+    "runde_id": "tanso-a-2025"
+   },
+   {
+    "unternehmen": "BauGPT (damals Crafthunt)",
+    "startup_id": "baugpt",
+    "runde_id": "crafthunt-seed-2024"
+   }
+  ]
+ },
+ {
+  "id": "bayern-kapital",
+  "name": "Bayern Kapital",
+  "typ": "Öffentlicher Fonds",
+  "sitz": "Landshut",
+  "land": "DE",
+  "kurz": "Wagniskapitalgesellschaft des Freistaats Bayern für bayerische Hightech- und Deeptech-Start-ups; seit 1995 über 380 Unternehmen finanziert.",
+  "phasen": "Pre-Seed bis Exit, auch als Co-Investor",
+  "ticket": "250.000 € bis 50 Mio. € je Unternehmen",
+  "volumen": "rund 1,3 Mrd. € verwaltet",
+  "themen": [
+   "Fertigung, Qualität und Energie",
+   "Digitale Planung und Vertrieb",
+   "Nachhaltigkeit und Material"
+  ],
+  "website": "https://bayernkapital.de",
+  "quelle": "https://bayernkapital.de/en/bayern-kapital/",
+  "aliase": [],
+  "geprueft": "2026-10-28",
+  "portfolio": []
+ },
+ {
+  "id": "baybg",
+  "name": "BayBG Venture Capital",
+  "typ": "Öffentlicher Fonds",
+  "sitz": "München",
+  "land": "DE",
+  "kurz": "Venture-Capital-Bereich der Bayerischen Beteiligungsgesellschaft für technologieorientierte Start-ups; 2026 Co-Lead bei Conxai, zuvor Investor bei Building Radar.",
+  "phasen": "Frühphase und Wachstum",
+  "ticket": "k. A.",
+  "volumen": "k. A.",
+  "aliase": [
+   "BayBG"
+  ],
+  "themen": [
+   "Digitale Planung und Vertrieb",
+   "Fertigung, Qualität und Energie"
+  ],
+  "website": "https://www.baybg-vc.de",
+  "quelle": "https://www.munich-startup.de/en/financing/baybg-bayerische-beteiligungsgesellschaft-mbh",
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "Conxai",
+    "startup_id": null,
+    "runde_id": "conxai-2026"
+   }
+  ]
+ },
+ {
+  "id": "htgf",
+  "name": "High-Tech Gründerfonds",
+  "typ": "Öffentlich-privater Fonds",
+  "sitz": "Bonn",
+  "land": "DE",
+  "kurz": "Seed-Investor für Technologie-Start-ups in Deutschland; seit 2005 fast 700 Start-ups finanziert. Im Radar u. a. bei Plancraft und traide AI.",
+  "phasen": "Seed",
+  "ticket": "bis 1 Mio. € in der Seed-Runde, bis 4 Mio. € insgesamt",
+  "volumen": "Fonds IV: 493,8 Mio. € (2023)",
+  "aliase": [
+   "HTGF"
+  ],
+  "themen": [
+   "Digitale Planung und Vertrieb",
+   "Außenhandel und Zoll",
+   "Fertigung, Qualität und Energie"
+  ],
+  "website": "https://www.htgf.de",
+  "quelle": "https://www.munich-startup.de/en/news/high-tech-gruenderfonds-nearly-500-million-euro-fund-iv",
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "Plancraft",
+    "startup_id": "plancraft",
+    "runde_id": "plancraft-b-2025"
+   },
+   {
+    "unternehmen": "traide AI",
+    "startup_id": "traide",
+    "runde_id": "traide-2023"
+   }
+  ]
+ },
+ {
+  "id": "proptech1",
+  "name": "PropTech1 Ventures",
+  "typ": "Venture Capital",
+  "sitz": "Berlin",
+  "land": "DE",
+  "kurz": "Fonds für europäische Immobilien- und Bau-Start-ups: Digitalisierung, moderne Bauweisen, Nachhaltigkeit. Im Radar bei Building Radar und PlanRadar.",
+  "phasen": "Seed bis spätere Phasen",
+  "ticket": "k. A.",
+  "volumen": "Erster Fonds 50 Mio. € (Jan. 2022)",
+  "themen": [
+   "Digitale Planung und Vertrieb",
+   "Nachhaltigkeit und Material"
+  ],
+  "website": null,
+  "quelle": "https://tech.eu/2022/01/14/berlins-proptech1-ventures-announces-final-close-of-inaugural-fund-at-e50-million/",
+  "aliase": [],
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "PlanRadar",
+    "startup_id": "planradar",
+    "runde_id": "planradar-b-2022"
+   },
+   {
+    "unternehmen": "Building Radar",
+    "startup_id": "building-radar",
+    "runde_id": "building-radar-a-2019"
+   }
+  ]
+ },
+ {
+  "id": "realyze",
+  "name": "Realyze Ventures",
+  "typ": "Venture Capital",
+  "sitz": "Köln",
+  "land": "DE",
+  "kurz": "Fonds für Start-ups aus Immobilien, Bau und Handwerk mit Fokus auf Dekarbonisierung und Effizienz; Geldgeber u. a. Goldbeck und ZECH. 2026 bei Kuro und Phase0.",
+  "phasen": "k. A.",
+  "ticket": "k. A.",
+  "volumen": "Erstes Closing rund 50 Mio. € (Juni 2025)",
+  "themen": [
+   "Digitale Planung und Vertrieb",
+   "Nachhaltigkeit und Material"
+  ],
+  "website": null,
+  "quelle": "https://bebeez.eu/2025/06/17/german-vc-platform-realyze-ventures-announces-successful-first-closing-with-assets-of-around-e50-million/",
+  "aliase": [],
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "Kuro",
+    "startup_id": null,
+    "runde_id": "kuro-2026"
+   },
+   {
+    "unternehmen": "Phase0",
+    "startup_id": null,
+    "runde_id": "phase0-2026"
+   }
+  ]
+ },
+ {
+  "id": "foundamental",
+  "name": "Foundamental",
+  "typ": "Venture Capital",
+  "sitz": "International",
+  "land": "",
+  "kurz": "Auf die Bauwirtschaft spezialisierter Wagniskapitalgeber mit Partnern für Europa, Amerika und Asien-Pazifik. 2026 bei Kuro beteiligt.",
+  "phasen": "Pre-Seed bis Series B",
+  "ticket": "k. A.",
+  "volumen": "Zweiter Fonds 85 Mio. US-$ (Dez. 2022)",
+  "themen": [
+   "Digitale Planung und Vertrieb",
+   "Fertigung, Qualität und Energie"
+  ],
+  "website": "https://foundamental.com",
+  "quelle": "https://foundamental.com/perspectives/again-seeking-to-disrupt-the-multi-trillion-dollar-construction-industry-vc-foundamental-closes-its-second-fund",
+  "aliase": [],
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "Kuro",
+    "startup_id": null,
+    "runde_id": "kuro-2026"
+   }
+  ]
+ },
+ {
+  "id": "zacua",
+  "name": "Zacua Ventures",
+  "typ": "Venture Capital (Konzern-Konsortium)",
+  "sitz": "International",
+  "land": "",
+  "kurz": "Bau-Technologie-Fonds mit 19 Konzernen als Geldgebern, darunter Cemex, Procore und Volvo; Schwerpunkt Produktivität und Dekarbonisierung. Investor bei Conxai.",
+  "phasen": "Frühphase",
+  "ticket": "k. A.",
+  "volumen": "Erster Fonds 56 Mio. US-$ (Feb. 2024)",
+  "themen": [
+   "Digitale Planung und Vertrieb",
+   "Nachhaltigkeit und Material"
+  ],
+  "website": null,
+  "quelle": "https://globalventuring.com/corporate/europe/zacua-ventures-56m-fund-cemex-volvo-procore/",
+  "aliase": [],
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "Conxai",
+    "startup_id": null,
+    "runde_id": "conxai-2026"
+   }
+  ]
+ },
+ {
+  "id": "loom-ventures",
+  "name": "STRABAG (Loom Ventures)",
+  "typ": "Corporate Venture Capital",
+  "sitz": "Wien",
+  "land": "AT",
+  "kurz": "Der Baukonzern STRABAG ist direkt an Start-ups wie Concular beteiligt und startete im Mai 2026 den Frühphasenfonds Loom Ventures für europäische InfraTech: Digital, Energie, Automatisierung und Robotik.",
+  "phasen": "Seed und Series A",
+  "ticket": "1–5 Mio. € Erstinvestment",
+  "volumen": "100 Mio. € (Mai 2026)",
+  "aliase": [
+   "STRABAG",
+   "Loom Ventures (STRABAG)",
+   "Loom Ventures"
+  ],
+  "themen": [
+   "Fertigung, Qualität und Energie",
+   "Digitale Planung und Vertrieb"
+  ],
+  "website": null,
+  "quelle": "https://www.trendingtopics.eu/loom-ventures-austrian-construction-giant-strabag-to-invest-e100m-in-infratech-startups/",
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "Concular",
+    "startup_id": "concular",
+    "runde_id": "concular-seed-2023"
+   }
+  ]
+ },
+ {
+  "id": "baywa-re-ev",
+  "name": "BayWa r.e. Energy Ventures",
+  "typ": "Corporate Venture Capital",
+  "sitz": "München",
+  "land": "DE",
+  "kurz": "Beteiligungsarm des Erneuerbare-Energien-Unternehmens BayWa r.e.; Minderheitsbeteiligungen an Energie-Start-ups (digitale Lösungen, Speicher, E-Mobilität). Investor bei Roofit.Solar.",
+  "phasen": "nach Markteintritt, auch spätere Runden",
+  "ticket": "1–5 Mio. € Erstinvestment (Stand 2018)",
+  "volumen": "k. A.",
+  "themen": [
+   "Dach-Solar-Integration",
+   "Fertigung, Qualität und Energie"
+  ],
+  "website": null,
+  "quelle": "https://www.munich-startup.de/news/nachgefragt-baywa-energy-ventures",
+  "aliase": [],
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "Roofit.Solar",
+    "startup_id": "roofit-solar",
+    "runde_id": "roofit-2023"
+   }
+  ]
+ },
+ {
+  "id": "cemex-ventures",
+  "name": "Cemex Ventures",
+  "typ": "Corporate Venture Capital",
+  "sitz": "International",
+  "land": "",
+  "kurz": "Beteiligungsarm des Baustoffkonzerns Cemex (seit 2017) für Bau- und Klimatechnik: grünes Bauen, Produktivität, Lieferkette. Zugleich Geldgeber von Zacua Ventures.",
+  "phasen": "vor allem Seed und Series A",
+  "ticket": "k. A.",
+  "volumen": "k. A.",
+  "themen": [
+   "Nachhaltigkeit und Material",
+   "Digitale Planung und Vertrieb"
+  ],
+  "website": "https://www.cemexventures.com",
+  "quelle": "https://pulse2.com/cemex-ventures-profile-mateo-zimmermann-gonzalez-interview",
+  "aliase": [],
+  "geprueft": "2026-10-28",
+  "portfolio": []
+ },
+ {
+  "id": "saint-gobain-nova",
+  "name": "Saint-Gobain NOVA",
+  "typ": "Corporate Venture Capital",
+  "sitz": "International",
+  "land": "FR",
+  "kurz": "Start-up-Einheit des Baustoffkonzerns Saint-Gobain (seit 2006): Bau- und Immobilientechnik, Cleantech, Kreislaufwirtschaft, Digitalisierung; Teams in Europa, USA und China.",
+  "phasen": "k. A.",
+  "ticket": "k. A.",
+  "volumen": "k. A.",
+  "themen": [
+   "Nachhaltigkeit und Material",
+   "Digitale Planung und Vertrieb"
+  ],
+  "website": null,
+  "quelle": "https://globalventuring.com/corporate/saint-gobain-nova-corporate-venture-team/",
+  "aliase": [],
+  "geprueft": "2026-10-28",
+  "portfolio": []
+ },
+ {
+  "id": "aws",
+  "name": "Austria Wirtschaftsservice (aws)",
+  "typ": "Öffentlicher Fonds",
+  "sitz": "Wien",
+  "land": "AT",
+  "kurz": "Förderbank der Republik Österreich; beteiligt sich über den aws Gründungsfonds und Garantieprogramme an Start-ups. Im Radar bei Digicust und PlanRadar.",
+  "phasen": "Frühphase",
+  "ticket": "k. A.",
+  "volumen": "k. A.",
+  "aliase": [
+   "aws Gründungsfonds",
+   "Austria Wirtschaftsservice (aws)",
+   "aws"
+  ],
+  "themen": [
+   "Außenhandel und Zoll",
+   "Digitale Planung und Vertrieb"
+  ],
+  "website": null,
+  "quelle": "https://digicust.com/da/blog/digicust-pre-series-a-financing-round-finalized/",
+  "geprueft": "2026-10-28",
+  "portfolio": [
+   {
+    "unternehmen": "Digicust",
+    "startup_id": "digicust",
+    "runde_id": "digicust-2025"
+   },
+   {
+    "unternehmen": "PlanRadar",
+    "startup_id": "planradar",
+    "runde_id": "planradar-b-2022"
+   }
+  ]
+ }
+]

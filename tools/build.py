@@ -29,8 +29,12 @@ STATUS = {"bestätigt", "geschätzt"}
 PFLICHT_EVENT = ["id", "name", "format", "veranstalter", "ort", "land", "region", "rubrik", "start", "ende",
                  "turnus", "zeitraum", "status", "kosten", "zielgruppe", "fokus", "begruendung", "rolle",
                  "scores", "quelle", "geprueft"]
-PFLICHT_STARTUP = ["id", "name", "sitz", "region", "gruendung", "loesung", "suchfeld", "mehrwert", "reifegrad",
+PFLICHT_STARTUP = ["id", "name", "sitz", "region", "land", "gruendung", "loesung", "suchfeld", "mehrwert", "reifegrad",
                    "finanzierung", "anbindung", "kooperation", "relevanz", "aufwand", "quelle", "geprueft"]
+SU_REGIONEN = {"Ostbayern", "Bayern", "Deutschland", "Europa"}
+PFLICHT_RUNDE = ["id", "datum", "art", "runde", "unternehmen", "sitz", "land", "thema", "betrag", "kurz", "quelle", "geprueft"]
+RUNDEN_ARTEN = {"Finanzierungsrunde", "Übernahme", "Fonds"}
+PFLICHT_INVESTOR = ["id", "name", "typ", "sitz", "kurz", "phasen", "ticket", "volumen", "themen", "quelle", "geprueft"]
 KATEGORIE_REGELN = [
     ("gründungswochenende", "Gründungswochenende & Hackathon"),
     ("hackathon", "Gründungswochenende & Hackathon"),
@@ -171,6 +175,61 @@ def pruefe_startups(startups, fehler):
             v = s.get(k)
             if not isinstance(v, int) or not 1 <= v <= 5:
                 fehler.append(f"Start-up {s.get('id')}: '{k}' muss 1–5 sein")
+        if s.get("region") not in SU_REGIONEN:
+            fehler.append(f"Start-up {s.get('id')}: Region muss eine von {sorted(SU_REGIONEN)} sein")
+
+
+def pruefe_kapital(runden, investoren, startups, fehler):
+    ids, su_ids = set(), {s.get("id") for s in startups}
+    for r in runden:
+        for f in PFLICHT_RUNDE:
+            if f not in r or r[f] in (None, ""):
+                fehler.append(f"Runde {r.get('id', '?')}: Feld '{f}' fehlt")
+        if r.get("id") in ids:
+            fehler.append(f"Runden-ID doppelt: {r.get('id')}")
+        ids.add(r.get("id"))
+        if r.get("art") not in RUNDEN_ARTEN:
+            fehler.append(f"Runde {r.get('id')}: art muss eine von {sorted(RUNDEN_ARTEN)} sein")
+        if r.get("startup_id") and r["startup_id"] not in su_ids:
+            fehler.append(f"Runde {r.get('id')}: startup_id {r['startup_id']} unbekannt")
+        if not re.fullmatch(r"\d{4}-\d{2}(-\d{2})?", str(r.get("datum", ""))):
+            fehler.append(f"Runde {r.get('id')}: datum als JJJJ-MM oder JJJJ-MM-TT angeben")
+    ids = set()
+    for i in investoren:
+        for f in PFLICHT_INVESTOR:
+            if f not in i or i[f] in (None, ""):
+                fehler.append(f"Investor {i.get('id', '?')}: Feld '{f}' fehlt")
+        if i.get("id") in ids:
+            fehler.append(f"Investor-ID doppelt: {i.get('id')}")
+        ids.add(i.get("id"))
+
+
+def verknuepfe_kapital(runden, investoren, startups):
+    runden.sort(key=lambda r: r["datum"], reverse=True)
+    for s in startups:
+        eigene = [r for r in runden if r.get("startup_id") == s["id"] and r["art"] == "Finanzierungsrunde"]
+        namen = []
+        for r in eigene:
+            for n in r.get("lead", []) + r.get("investoren", []):
+                if n not in namen:
+                    namen.append(n)
+        for n in s.get("investoren_weitere", []):
+            if n not in namen:
+                namen.append(n)
+        s["investoren_alle"] = namen
+        s["runden_ids"] = [r["id"] for r in eigene]
+        s["letzte_runde"] = ({"datum": eigene[0]["datum"], "runde": eigene[0]["runde"], "betrag": eigene[0]["betrag"]} if eigene else None)
+    for i in investoren:
+        namen = {i["name"].casefold(), *[a.casefold() for a in i.get("aliase", [])]}
+        port = []
+        for r in runden:
+            if r["art"] != "Finanzierungsrunde":
+                continue
+            if any(n.casefold() in namen for n in r.get("lead", []) + r.get("investoren", [])):
+                eintrag = {"unternehmen": r["unternehmen"], "startup_id": r.get("startup_id"), "runde_id": r["id"]}
+                if not any(p["unternehmen"] == eintrag["unternehmen"] for p in port):
+                    port.append(eintrag)
+        i["portfolio"] = port
 
 
 def berechne(events, startups, heute, orte=None):
@@ -199,6 +258,8 @@ def berechne(events, startups, heute, orte=None):
             neu_archiviert.append(e)
     events.sort(key=lambda e: (e["start"], e["name"]))
     for s in startups:
+        g = geo_fuer({"ort": s.get("sitz", ""), "region": s.get("region", "") + " " + s.get("land", "")}, orte)
+        s["geo"] = g if isinstance(g, list) else None
         s["prioritaet"] = prioritaet_startup(s["relevanz"], s["aufwand"])
         s["quickwin"] = s["relevanz"] >= 4 and s["aufwand"] <= 2
     startups.sort(key=lambda s: (s["prioritaet"], -s["relevanz"], s["aufwand"], s["name"]))
@@ -380,12 +441,16 @@ def main():
     startups = lade("startups.json", [])
     meta = lade("meta.json", {})
     hinweise = lade("hinweise.json", [])
+    runden = lade("runden.json", [])
+    investoren = lade("investoren.json", [])
 
     fehler = []
     pruefe_events(events, fehler)
     pruefe_startups(startups, fehler)
-    pruefe_sperrwoerter(a.sperrwort, {"events.json": events, "startups.json": startups,
-                        "meta.json": meta, "hinweise.json": hinweise, "Änderungstexte": a.aenderung}, fehler)
+    pruefe_kapital(runden, investoren, startups, fehler)
+    pruefe_sperrwoerter(a.sperrwort, {"events.json": events, "startups.json": startups, "runden.json": runden,
+                        "investoren.json": investoren, "meta.json": meta, "hinweise.json": hinweise,
+                        "Änderungstexte": a.aenderung}, fehler)
     if fehler:
         print("FEHLER – nichts geschrieben:")
         for f in fehler:
@@ -393,6 +458,7 @@ def main():
         sys.exit(1)
 
     neu_archiviert, ohne_geo = berechne(events, startups, heute)
+    verknuepfe_kapital(runden, investoren, startups)
 
     if a.stand:
         meta["stand"] = heute.isoformat()
@@ -413,19 +479,23 @@ def main():
         "events_aktiv": sum(1 for e in events if not e["archiv"]),
         "events_archiv": sum(1 for e in events if e["archiv"]),
         "startups": len(startups),
+        "runden": len(runden),
+        "investoren": len(investoren),
     }
 
     speichere("events.json", events)
     speichere("startups.json", startups)
     speichere("meta.json", meta)
     speichere("hinweise.json", hinweise)
+    speichere("runden.json", runden)
+    speichere("investoren.json", investoren)
     jetzt = dt.datetime.now(dt.timezone.utc)
     (ROOT / "events.ics").write_text(ics_kalender(events, meta, jetzt), encoding="utf-8", newline="")
     (ROOT / "feed.xml").write_text(feed_xml(hinweise, meta), encoding="utf-8")
 
     termine, fristen = anstehend(events, heute)
     print(f"OK: {meta['anzahl']['events_aktiv']} aktive Events, {meta['anzahl']['events_archiv']} im Archiv, "
-          f"{len(startups)} Start-ups.")
+          f"{len(startups)} Start-ups, {len(runden)} Runden/Deals, {len(investoren)} Investoren.")
     print(f"Nächste 30 Tage: {len(termine)} Termine, {len(fristen)} Fristen.")
     if neu_archiviert:
         print("Neu im Archiv:", ", ".join(e["name"] for e in neu_archiviert))

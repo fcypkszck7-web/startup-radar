@@ -7,7 +7,11 @@
   var NS = "http://www.w3.org/2000/svg";
   var RAD = Math.PI / 180;
   var R = 1000;
-  var RINGE = [[100, "100 km"], [300, "300 km"], [1000, "1.000 km"], [2000, "2.000 km"]];
+  var RINGE = [[25, "25 km"], [50, "50 km"], [100, "100 km"], [300, "300 km"], [1000, "1.000 km"], [2000, "2.000 km"]];
+  var REGION_STAEDTE = [
+    ["Landshut", 48.537, 12.152], ["Straubing", 48.882, 12.574], ["Deggendorf", 48.840, 12.961], ["Weiden", 49.677, 12.156],
+    ["Amberg", 49.445, 11.848], ["Ingolstadt", 48.766, 11.426], ["Passau", 48.567, 13.432], ["Cham", 49.226, 12.656], ["Kelheim", 48.917, 11.889]
+  ];
   var STAEDTE = [
     ["München", 48.137, 11.575], ["Nürnberg", 49.452, 11.077], ["Prag", 50.075, 14.438], ["Wien", 48.208, 16.374],
     ["Berlin", 52.52, 13.405], ["Hamburg", 53.551, 9.994], ["Zürich", 47.377, 8.542], ["Mailand", 45.464, 9.19],
@@ -47,30 +51,34 @@
     this.blips = {}; this.liste = []; this.k = 0.3; this.fokusId = null;
     this.laeuft = false; this.sichtbar = true; this.erstDurchlauf = !reduziert.matches && !this.opts.sofort;
     this.t0 = performance.now();
+    var Rz = this.Rz = this.opts.bereich ? radius(this.opts.bereich) : R;
+    var vb = this.vb = Rz * 1.09;
 
-    var svg = this.svg = el("svg", { viewBox: "-1090 -1090 2180 2180", class: "radar-svg", role: "img", "aria-label": this.opts.label || "Radar der Termine nach Richtung und Entfernung von Regensburg" });
+    var svg = this.svg = el("svg", { viewBox: (-vb).toFixed(1) + " " + (-vb).toFixed(1) + " " + (2 * vb).toFixed(1) + " " + (2 * vb).toFixed(1), class: "radar-svg", role: "img", "aria-label": this.opts.label || "Radar der Termine nach Richtung und Entfernung von Regensburg" });
     var defs = el("defs", null, svg);
-    var cp = el("clipPath", { id: this.id + "-clip" }, defs); el("circle", { r: R }, cp);
-    var rg = el("radialGradient", { id: this.id + "-bg", cx: "0", cy: "0", r: "1000", gradientUnits: "userSpaceOnUse" }, defs);
+    var cp = el("clipPath", { id: this.id + "-clip" }, defs); el("circle", { r: Rz }, cp);
+    var rg = el("radialGradient", { id: this.id + "-bg", cx: "0", cy: "0", r: Rz.toFixed(1), gradientUnits: "userSpaceOnUse" }, defs);
     el("stop", { offset: "0", class: "rg-a" }, rg); el("stop", { offset: "1", class: "rg-b" }, rg);
 
-    el("circle", { r: R, class: "r-bg", fill: "url(#" + this.id + "-bg)" }, svg);
+    el("circle", { r: Rz, class: "r-bg", fill: "url(#" + this.id + "-bg)" }, svg);
     var karte = el("g", { "clip-path": "url(#" + this.id + "-clip)", class: "r-karte" }, svg);
     el("path", { d: K.land, class: "r-land", "fill-rule": "evenodd" }, karte);
     el("path", { d: K.deutschland, class: "r-de" }, karte);
     el("path", { d: K.grenzen, class: "r-grenzen" }, karte);
 
     var ringe = el("g", { class: "r-ringe" }, svg);
-    RINGE.forEach(function (rr) { el("circle", { r: radius(rr[0]).toFixed(1), class: rr[0] === 100 ? "ring ring-region" : "ring" }, ringe); });
-    el("path", { d: "M0,-1000V1000M-1000,0H1000", class: "r-achse" }, ringe);
+    this.ringe = RINGE.filter(function (rr) { var x = radius(rr[0]); return x <= Rz * 0.97 && (Rz < R || rr[0] >= 100) && x >= Rz * 0.18; });
+    this.ringe.forEach(function (rr) { el("circle", { r: radius(rr[0]).toFixed(1), class: rr[0] === 100 ? "ring ring-region" : "ring" }, ringe); });
+    el("path", { d: "M0," + (-Rz) + "V" + Rz + "M" + (-Rz) + ",0H" + Rz, class: "r-achse" }, ringe);
     this.ringText = el("g", { class: "r-ringtext" }, svg);
-    RINGE.forEach(function (rr) {
+    this.ringe.forEach(function (rr) {
       var t = el("text", { x: 8, y: (-radius(rr[0]) - 8).toFixed(1) }, self.ringText); t.textContent = rr[1];
     });
 
     this.staedte = el("g", { class: "r-staedte", "aria-hidden": "true" }, svg);
-    STAEDTE.forEach(function (s) {
+    STAEDTE.concat(Rz <= radius(260) ? REGION_STAEDTE : []).forEach(function (s) {
       var p = proj(s[1], s[2]);
+      if (Math.hypot(p.x, p.y) > Rz * 0.93) return;
       var g = el("g", { transform: "translate(" + p.x.toFixed(1) + "," + p.y.toFixed(1) + ")" }, self.staedte);
       el("circle", { r: 4, class: "st-punkt" }, g);
       var t = el("text", { x: 10, y: 4 }, g); t.textContent = s[0];
@@ -79,18 +87,19 @@
     var sweep = this.sweep = el("g", { class: "r-sweep", "clip-path": "url(#" + this.id + "-clip)" }, svg);
     var inner = this.sweepInner = el("g", null, sweep);
     for (var i = 0; i < 26; i++) {
-      el("path", { d: sektor(-(i + 1) * 1.8, -i * 1.8 + 0.2, R), class: "sw-scheibe", "fill-opacity": (0.34 * Math.pow(1 - i / 26, 1.7)).toFixed(3) }, inner);
+      el("path", { d: sektor(-(i + 1) * 1.8, -i * 1.8 + 0.2, Rz), class: "sw-scheibe", "fill-opacity": (0.34 * Math.pow(1 - i / 26, 1.7)).toFixed(3) }, inner);
     }
-    el("line", { x1: 0, y1: 0, x2: 0, y2: -R, class: "sw-kante" }, inner);
+    el("line", { x1: 0, y1: 0, x2: 0, y2: -Rz, class: "sw-kante" }, inner);
 
     this.peil = el("g", { class: "r-peil" }, svg);
     this.peilLinie = el("line", { x1: 0, y1: 0, x2: 0, y2: 0 }, this.peil);
     this.peilText = el("text", { x: 0, y: 0 }, this.peil);
 
     this.blipG = el("g", { class: "r-blips" }, svg);
-    el("circle", { r: R, class: "r-rand" }, svg);
+    el("circle", { r: Rz, class: "r-rand" }, svg);
     var komp = this.kompass = el("g", { class: "r-kompass", "aria-hidden": "true" }, svg);
-    [["N", 0, -1048], ["O", 1048, 0], ["S", 0, 1048], ["W", -1048, 0]].forEach(function (k) {
+    var kr = Rz * 1.048;
+    [["N", 0, -kr], ["O", kr, 0], ["S", 0, kr], ["W", -kr, 0]].forEach(function (k) {
       var t = el("text", { x: k[1], y: k[2], "text-anchor": "middle", "dominant-baseline": "central" }, komp); t.textContent = k[0];
     });
     var z = this.zentrum = el("g", { class: "r-zentrum" }, svg);
@@ -120,10 +129,11 @@
   }
 
   Radar.proj = proj;
+  Radar.radius = radius;
 
   Radar.prototype.messen = function () {
     var w = this.wrap.clientWidth || 300;
-    var k = w / 2180;
+    var k = w / (2 * this.vb);
     if (Math.abs(k - this.k) < 0.0005 && this.gemessen) return;
     this.k = k; this.gemessen = true;
     var u = 1 / k;
@@ -133,8 +143,9 @@
     Array.prototype.forEach.call(this.staedte.querySelectorAll("circle"), function (c) { c.setAttribute("r", (1.6 * u).toFixed(1)); });
     Array.prototype.forEach.call(this.staedte.querySelectorAll("text"), function (t) { t.setAttribute("x", (5 * u).toFixed(1)); t.setAttribute("y", (3.6 * u).toFixed(1)); });
     this.ringText.setAttribute("font-size", ((klein ? 9.5 : 10.5) * u).toFixed(1));
+    var rg = this.ringe;
     Array.prototype.forEach.call(this.ringText.querySelectorAll("text"), function (t, i) {
-      t.setAttribute("x", (4 * u).toFixed(1)); t.setAttribute("y", (-radius(RINGE[i][0]) - 4 * u).toFixed(1));
+      t.setAttribute("x", (4 * u).toFixed(1)); t.setAttribute("y", (-radius(rg[i][0]) - 4 * u).toFixed(1));
     });
     this.kompass.setAttribute("font-size", (11 * u).toFixed(1));
     this.zText.setAttribute("font-size", (11.5 * u).toFixed(1)); this.zText.setAttribute("y", (17 * u).toFixed(1));
@@ -154,6 +165,8 @@
     var platziert = [], neu = {};
     sortiert.forEach(function (e) {
       var p = proj(e.geo[0], e.geo[1]);
+      var h = Math.hypot(p.x, p.y), grenze = self.Rz * 0.95;
+      if (h > grenze) { p.x *= grenze / h; p.y *= grenze / h; }
       var r = PX[e.prioritaet] * u, abstand = 2.2 * u;
       var x = p.x, y = p.y;
       for (var i = 0; i < 400; i++) {

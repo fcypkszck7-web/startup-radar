@@ -110,13 +110,18 @@
     ["Priorität", function (s) { return s.prioritaet; }],
     ["Name", function (s) { return s.name; }],
     ["Sitz", function (s) { return s.sitz; }],
+    ["Land", function (s) { return s.land || ""; }],
     ["Region", function (s) { return s.region; }],
     ["Gründungsjahr", function (s) { return s.gruendung; }],
     ["Lösung", function (s) { return s.loesung; }],
     ["Suchfeld", function (s) { return s.suchfeld; }],
     ["Möglicher Mehrwert", function (s) { return s.mehrwert; }],
     ["Reifegrad", function (s) { return s.reifegrad; }],
-    ["Finanzierung und Investoren", function (s) { return s.finanzierung; }],
+    ["Finanzierung (Zusammenfassung)", function (s) { return s.finanzierung; }],
+    ["Letzte Runde: Datum", function (s) { return s.letzte_runde ? monatOderTag(s.letzte_runde.datum) : ""; }],
+    ["Letzte Runde: Art", function (s) { return s.letzte_runde ? s.letzte_runde.runde : ""; }],
+    ["Letzte Runde: Betrag", function (s) { return s.letzte_runde ? s.letzte_runde.betrag : ""; }],
+    ["Investoren (öffentlich bekannt)", function (s) { return (s.investoren_alle || []).join(", "); }],
     ["Anbindung", function (s) { return s.anbindung; }],
     ["Mögliche Kooperationsform", function (s) { return s.kooperation; }],
     ["Relevanz (1–5)", function (s) { return { num: s.relevanz }; }],
@@ -124,6 +129,38 @@
     ["Website", function (s) { return s.website || ""; }],
     ["Quelle", function (s) { return s.quelle; }],
     ["Zuletzt geprüft", function (s) { return { date: s.geprueft }; }]
+  ];
+  function monatOderTag(d) { return d.length === 7 ? d.slice(5, 7) + "." + d.slice(0, 4) : deDate(d); }
+  var RUNDEN_COLS = [
+    ["Datum", function (r) { return monatOderTag(r.datum); }],
+    ["Art", function (r) { return r.art; }],
+    ["Runde", function (r) { return r.runde; }],
+    ["Unternehmen", function (r) { return r.unternehmen; }],
+    ["Im Radar gelistet", function (r) { return r.startup_id ? "ja" : ""; }],
+    ["Sitz", function (r) { return r.sitz; }],
+    ["Land", function (r) { return r.land; }],
+    ["Thema", function (r) { return r.thema; }],
+    ["Betrag", function (r) { return r.betrag; }],
+    ["Betrag in Mio. € (ca.)", function (r) { return r.betrag_mio_eur != null ? { num: r.betrag_mio_eur } : ""; }],
+    ["Lead / Käufer", function (r) { return (r.lead || []).join(", "); }],
+    ["Beteiligte", function (r) { return (r.investoren || []).join(", "); }],
+    ["Kurzbeschreibung", function (r) { return r.kurz; }],
+    ["Quelle", function (r) { return r.quelle; }],
+    ["Zuletzt geprüft", function (r) { return { date: r.geprueft }; }]
+  ];
+  var INVESTOR_COLS = [
+    ["Name", function (i) { return i.name; }],
+    ["Typ", function (i) { return i.typ; }],
+    ["Sitz", function (i) { return i.sitz; }],
+    ["Beschreibung", function (i) { return i.kurz; }],
+    ["Phasen", function (i) { return i.phasen; }],
+    ["Ticket", function (i) { return i.ticket; }],
+    ["Fondsvolumen", function (i) { return i.volumen; }],
+    ["Themen", function (i) { return (i.themen || []).join(", "); }],
+    ["Beteiligungen im Radar", function (i) { return (i.portfolio || []).map(function (p) { return p.unternehmen; }).join(", "); }],
+    ["Website", function (i) { return i.website || ""; }],
+    ["Quelle", function (i) { return i.quelle; }],
+    ["Zuletzt geprüft", function (i) { return { date: i.geprueft }; }]
   ];
 
   function plain(v) {
@@ -267,6 +304,6 @@
 
   root.RadarExport = {
     buildICS: buildICS, buildCSV: buildCSV, buildXLSX: buildXLSX, download: download,
-    EVENT_COLS: EVENT_COLS, STARTUP_COLS: STARTUP_COLS, deDate: deDate
+    EVENT_COLS: EVENT_COLS, STARTUP_COLS: STARTUP_COLS, RUNDEN_COLS: RUNDEN_COLS, INVESTOR_COLS: INVESTOR_COLS, deDate: deDate
   };
 })(typeof window !== "undefined" ? window : globalThis);

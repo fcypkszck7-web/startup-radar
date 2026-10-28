@@ -3,7 +3,7 @@
   "id": "emidat",
   "name": "Emidat",
   "sitz": "München",
-  "region": "Bayern (erweitert)",
+  "region": "Bayern",
   "gruendung": "2023",
   "loesung": "KI-Plattform, die Umweltproduktdeklarationen (EPD) für Baustoffhersteller weitgehend automatisiert erstellt.",
   "suchfeld": "Nachhaltigkeit und Material",
@@ -14,17 +14,34 @@
   "kooperation": "Pilot-EPD für eine Produktgruppe",
   "relevanz": 5,
   "aufwand": 2,
-  "website": null,
+  "website": "https://www.emidat.com",
   "quelle": "https://www.startbase.de/news/emidat-sichert-sich-4-mio-eur-seed/",
   "geprueft": "2026-10-28",
   "prioritaet": "A",
-  "quickwin": true
+  "quickwin": true,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [
+   "General Catalyst"
+  ],
+  "runden_ids": [
+   "emidat-seed-2024"
+  ],
+  "letzte_runde": {
+   "datum": "2024-10-30",
+   "runde": "Seed",
+   "betrag": "4 Mio. €"
+  },
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "id": "reonic",
   "name": "Reonic",
   "sitz": "Augsburg",
-  "region": "Bayern (erweitert)",
+  "region": "Bayern",
   "gruendung": "2021",
   "loesung": "Planungs- und Prozesssoftware für Installateure von PV, Speichern und Wärmepumpen – von der Dachaufnahme bis zum Angebot.",
   "suchfeld": "Dach-Solar-Integration",
@@ -39,13 +56,32 @@
   "quelle": "https://www.startbase.de/news/climate-tech-startup-reonic-sammelt-13-mio-euro-in-series-a-runde-ein/",
   "geprueft": "2026-10-28",
   "prioritaet": "A",
-  "quickwin": true
+  "quickwin": true,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [
+   "Northzone",
+   "Point Nine",
+   "Puzzle Ventures"
+  ],
+  "runden_ids": [
+   "reonic-a-2024"
+  ],
+  "letzte_runde": {
+   "datum": "2024-09-05",
+   "runde": "Series A",
+   "betrag": "13 Mio. €"
+  },
+  "geo": [
+   48.3705,
+   10.8978
+  ]
  },
  {
   "id": "envitron",
   "name": "envitron systems",
   "sitz": "Planegg bei München",
-  "region": "Bayern (erweitert)",
+  "region": "Bayern",
   "gruendung": "2016",
   "loesung": "Sensorsysteme, die Schneelast und Stauwasser auf Dächern messen und bei Grenzwerten alarmieren – auch reihenweise auf PV-Dächern.",
   "suchfeld": "Smarte Dach- und Entwässerungssysteme",
@@ -60,28 +96,92 @@
   "quelle": "https://envitron-systems.com/en/snow-load/",
   "geprueft": "2026-10-28",
   "prioritaet": "A",
-  "quickwin": true
+  "quickwin": true,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   48.1047,
+   11.4253
+  ]
  },
  {
   "id": "building-radar",
   "name": "Building Radar",
   "sitz": "München",
-  "region": "Bayern (erweitert)",
+  "region": "Bayern",
   "gruendung": "2014",
   "loesung": "Software, die Bauprojekte früh erkennt und Herstellern sowie Zulieferern daraus Vertriebsleads und Workflows erstellt.",
   "suchfeld": "Digitale Planung und Vertrieb",
   "mehrwert": "Frühe Hinweise auf Dach-, Neubau- und Sanierungsprojekte für den Vertrieb an Handel und Handwerk.",
   "reifegrad": "Series A+",
-  "finanzierung": "6,6 Mio. € (Okt. 2024, Lead Socii Capital); frühere Investoren u. a. BayBG, Coparion, PropTech1",
+  "finanzierung": "6,6 Mio. € (Okt. 2024, Lead Socii Capital); 5 Mio. € Series A (Okt. 2019, Lead PropTech1 und Coparion)",
   "anbindung": "—",
   "kooperation": "Pilot im Vertrieb (Software-Lizenz)",
   "relevanz": 4,
   "aufwand": 1,
-  "website": null,
+  "website": "https://www.buildingradar.com",
   "quelle": "https://www.munich-startup.de/en/news/building-radar-secures-e6-6-million",
   "geprueft": "2026-10-28",
   "prioritaet": "A",
-  "quickwin": true
+  "quickwin": true,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [
+   "Socii Capital",
+   "PropTech1 Ventures",
+   "Coparion",
+   "Picus Capital",
+   "Astutia Ventures",
+   "Vito One",
+   "Ferdinand Oetker",
+   "Signa Innovations"
+  ],
+  "runden_ids": [
+   "building-radar-2024",
+   "building-radar-a-2019"
+  ],
+  "letzte_runde": {
+   "datum": "2024-10-10",
+   "runde": "Wachstumsrunde",
+   "betrag": "6,6 Mio. €"
+  },
+  "geo": [
+   48.1374,
+   11.5755
+  ]
+ },
+ {
+  "id": "airteam",
+  "name": "Airteam Aerial Intelligence",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "2017",
+  "loesung": "Wertet Drohnen- und Satellitenbilder per Computer Vision aus und liefert Dachaufmaße, 3D-Modelle und Berichte, u. a. für die PV-Planung.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Exaktes Dachaufmaß als Grundlage, um Modulhalter, Schneefang und Entwässerung für ein konkretes Dach automatisch zu konfigurieren.",
+  "reifegrad": "am Markt (kleines Team)",
+  "finanzierung": "Keine Finanzierungsrunden veröffentlicht",
+  "anbindung": "pv magazine highlight „Top Innovation“ 2023",
+  "kooperation": "Schnittstelle Dachaufmaß → Produktkonfigurator",
+  "relevanz": 4,
+  "aufwand": 2,
+  "website": "https://www.airteam.ai",
+  "quelle": "https://www.builtworld.com/company/airteam-aerial-intelligence",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": true,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   52.52,
+   13.405
+  ]
  },
  {
   "id": "atrocore",
@@ -102,13 +202,101 @@
   "quelle": "https://www.atrocore.com/en/about-us",
   "geprueft": "2026-10-28",
   "prioritaet": "A",
-  "quickwin": true
+  "quickwin": true,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   49.0134,
+   12.1016
+  ]
+ },
+ {
+  "id": "digicust",
+  "name": "Digicust",
+  "sitz": "Wien (Flughafen)",
+  "region": "Europa",
+  "land": "AT",
+  "gruendung": "k. A.",
+  "loesung": "KI-Plattform für Zollprozesse: Dokumente auslesen, Waren tarifieren, Exportkontrolle prüfen und Zollanmeldungen ausfüllen.",
+  "suchfeld": "Außenhandel und Zoll",
+  "mehrwert": "Schnellere, fehlerärmere Exportabwicklung; seit 2025 mit Markteintritt in Deutschland.",
+  "reifegrad": "Seed",
+  "finanzierung": "2,3 Mio. € Pre-Series A (Dez. 2025): Jet Investment, Look.AI Fund, aws",
+  "anbindung": "Über 60 Unternehmenskunden, über 500.000 Zollanmeldungen (laut Unternehmen)",
+  "kooperation": "Pilot für Exportsendungen",
+  "relevanz": 4,
+  "aufwand": 2,
+  "website": "https://digicust.com",
+  "quelle": "https://digicust.com/da/blog/digicust-pre-series-a-financing-round-finalized/",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": true,
+  "investoren_alle": [
+   "Jet Investment",
+   "Look.AI Fund",
+   "Austria Wirtschaftsservice (aws)"
+  ],
+  "runden_ids": [
+   "digicust-2025"
+  ],
+  "letzte_runde": {
+   "datum": "2025-12-03",
+   "runde": "Pre-Series A",
+   "betrag": "2,3 Mio. €"
+  },
+  "geo": [
+   48.2082,
+   16.3738
+  ]
+ },
+ {
+  "id": "one-click-lca",
+  "name": "One Click LCA",
+  "sitz": "Finnland",
+  "region": "Europa",
+  "land": "FI",
+  "gruendung": "k. A.",
+  "loesung": "Software für Ökobilanzen (LCA) und Umweltproduktdeklarationen (EPD) für Bauprojekte und Hersteller.",
+  "suchfeld": "Nachhaltigkeit und Material",
+  "mehrwert": "EPDs für Produktgruppen erstellen und in Planungs- und Ökobilanz-Tools für Architekten sichtbar machen.",
+  "reifegrad": "Series A+",
+  "finanzierung": "40 Mio. € Wachstumsinvestition (Nov. 2023) von PSG und InfraVia",
+  "anbindung": "Weltweit genutzte LCA-Datenbank",
+  "kooperation": "EPD-Erstellung für eine Produktfamilie",
+  "relevanz": 4,
+  "aufwand": 2,
+  "website": "https://oneclicklca.com",
+  "quelle": "https://tech.eu/2023/11/28/one-click-lca-secures-40-m-investment-to-decarbonise-the-world-s-construction",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": true,
+  "investoren_alle": [
+   "PSG Equity",
+   "InfraVia Capital Partners"
+  ],
+  "runden_ids": [
+   "oneclicklca-2023"
+  ],
+  "letzte_runde": {
+   "datum": "2023-11-28",
+   "runde": "Wachstumsinvestition",
+   "betrag": "40 Mio. €"
+  },
+  "geo": [
+   61.5,
+   25.0
+  ]
  },
  {
   "id": "telusio",
   "name": "TELUSIO",
   "sitz": "München",
-  "region": "Bayern (erweitert)",
+  "region": "Bayern",
   "gruendung": "2023",
   "loesung": "KI-Software, die den CO₂-Fußabdruck von Produkten (PCF) automatisch und ISO-konform berechnet.",
   "suchfeld": "Nachhaltigkeit und Material",
@@ -123,7 +311,139 @@
   "quelle": "https://www.bayern-innovativ.de/en/emagazine/innovation-management/detail/successful-sme-start-up-cooperation-successfully-scaling-sustainability/",
   "geprueft": "2026-10-28",
   "prioritaet": "A",
-  "quickwin": true
+  "quickwin": true,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   48.1374,
+   11.5755
+  ]
+ },
+ {
+  "id": "ecoplanet",
+  "name": "ecoplanet",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "gruendung": "2022",
+  "loesung": "Software, die Stromverbrauch und Energiebeschaffung von Mittelständlern analysiert und Verbrauch in günstige Zeiten verschiebt („Ecoplanet Cockpit“).",
+  "suchfeld": "Fertigung, Qualität und Energie",
+  "mehrwert": "Energiekosten energieintensiver Fertigungsschritte wie Verzinkung und Beschichtung senken und Lastspitzen glätten.",
+  "reifegrad": "Series A+",
+  "finanzierung": "16 Mio. € Series A (Jan. 2025), Lead EQT Ventures, mit HV Capital",
+  "anbindung": "Büros in München und Berlin; Gewinner HERMES Startup Award (Hannover Messe)",
+  "kooperation": "Pilot an einem Fertigungsstandort mit Lastgang-Analyse",
+  "relevanz": 4,
+  "aufwand": 2,
+  "website": null,
+  "quelle": "https://www.munich-startup.de/en/news/ecoplanet-secures-e16-million",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": true,
+  "investoren_alle": [
+   "EQT Ventures",
+   "HV Capital"
+  ],
+  "runden_ids": [
+   "ecoplanet-a-2025"
+  ],
+  "letzte_runde": {
+   "datum": "2025-01-21",
+   "runde": "Series A",
+   "betrag": "16 Mio. €"
+  },
+  "geo": [
+   48.1374,
+   11.5755
+  ]
+ },
+ {
+  "id": "traide",
+  "name": "traide AI",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "2021",
+  "loesung": "KI-Plattform, die Produktdaten automatisch in Zolltarifnummern und Zolldaten für fehlerfreie Zollanmeldungen übersetzt.",
+  "suchfeld": "Außenhandel und Zoll",
+  "mehrwert": "Automatische Tarifierung des Produktkatalogs für Exporte, weniger Aufwand und Fehler bei Zollanmeldungen.",
+  "reifegrad": "Seed",
+  "finanzierung": "Siebenstellige Runde (Aug. 2023), Hauptinvestor HTGF",
+  "anbindung": "Zusammenarbeit mit PwC Deutschland (laut HTGF)",
+  "kooperation": "Pilot: Tarifierung eines Teilsortiments",
+  "relevanz": 4,
+  "aufwand": 2,
+  "website": "https://traide.ai",
+  "quelle": "https://www.startbase.de/news/traide-sichert-sich-siebenstellige-finanzierung-zur-optimierung-von-zollprozessen/",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": true,
+  "investoren_alle": [
+   "High-Tech Gründerfonds",
+   "Smart Infrastructure Ventures",
+   "Prequel Ventures"
+  ],
+  "runden_ids": [
+   "traide-2023"
+  ],
+  "letzte_runde": {
+   "datum": "2023-08-29",
+   "runde": "Seed",
+   "betrag": "siebenstellig"
+  },
+  "geo": [
+   52.52,
+   13.405
+  ]
+ },
+ {
+  "id": "1komma5",
+  "name": "1KOMMA5°",
+  "sitz": "Hamburg",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "k. A.",
+  "loesung": "Installiert PV, Speicher und Wärmepumpen über übernommene Handwerksbetriebe und steuert sie mit der Energieplattform „Heartbeat AI“.",
+  "suchfeld": "Dach-Solar-Integration",
+  "mehrwert": "Großabnehmer für PV-Montagesysteme über ein Netz von Installationsbetrieben; Rahmenvertrag oder Produktlistung möglich.",
+  "reifegrad": "Series A+ (Unicorn)",
+  "finanzierung": "150 Mio. € vorbörsliche Runde (Dez. 2024); seit Series B 2023 mit über 1 Mrd. US-$ bewertet",
+  "anbindung": "Börsengang für 2026 erwogen (Stand Dez. 2024)",
+  "kooperation": "Lieferantenlistung, gemeinsames Montage-Pilotprojekt",
+  "relevanz": 4,
+  "aufwand": 3,
+  "website": "https://1komma5.com",
+  "quelle": "https://www.pv-magazine.de/2024/12/20/1komma5-schliesst-150-millionen-euro-schwere-vorboersliche-finanzierungsrunde-ab/",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": false,
+  "investoren_alle": [
+   "CalSTRS",
+   "G2 Venture Partners",
+   "Norrsken",
+   "Hamilton Lane",
+   "b2venture",
+   "Eurazeo",
+   "eCAPITAL"
+  ],
+  "runden_ids": [
+   "1komma5-preipo-2024"
+  ],
+  "letzte_runde": {
+   "datum": "2024-12-20",
+   "runde": "Pre-IPO",
+   "betrag": "150 Mio. €"
+  },
+  "geo": [
+   53.5511,
+   9.9937
+  ]
  },
  {
   "id": "consolinno",
@@ -144,7 +464,16 @@
   "quelle": "https://www.wirtschaftsforum.de/news/wenn-visionen-auf-leidenschaft-und-technologie-treffen",
   "geprueft": "2026-10-28",
   "prioritaet": "A",
-  "quickwin": false
+  "quickwin": false,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   49.0134,
+   12.1016
+  ]
  },
  {
   "id": "helioq",
@@ -165,19 +494,189 @@
   "quelle": "https://www.gzdn.de/founder/helioq/",
   "geprueft": "2026-10-28",
   "prioritaet": "A",
-  "quickwin": false
+  "quickwin": false,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   48.537,
+   12.1522
+  ]
+ },
+ {
+  "id": "maddox-ai",
+  "name": "Maddox AI",
+  "sitz": "Tübingen",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "2018",
+  "loesung": "KI-Plattform für die automatisierte visuelle Qualitätsprüfung in der Fertigung.",
+  "suchfeld": "Fertigung, Qualität und Energie",
+  "mehrwert": "Automatische Sichtprüfung von Stanz-, Biege- und verzinkten Teilen, weniger Ausschuss und Prüfaufwand.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Investoren u. a. Atlantic Labs, Addition, Susa Ventures; Rundendetails nicht veröffentlicht",
+  "anbindung": "Cyber Valley Tübingen",
+  "kooperation": "Pilot an einer Prüfstation",
+  "relevanz": 4,
+  "aufwand": 3,
+  "website": "https://maddox.ai",
+  "quelle": "https://atlantic.vc/portfolio/maddox-ai",
+  "investoren_weitere": [
+   "Atlantic Labs",
+   "Addition",
+   "Susa Ventures"
+  ],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": false,
+  "investoren_alle": [
+   "Atlantic Labs",
+   "Addition",
+   "Susa Ventures"
+  ],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   48.5216,
+   9.0576
+  ]
+ },
+ {
+  "id": "plancraft",
+  "name": "Plancraft",
+  "sitz": "Hamburg",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "k. A.",
+  "loesung": "Software für Handwerksbetriebe: Angebote, Zeiterfassung und Baustellendokumentation, zunehmend KI-gestützt.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Produktdaten für Schneefang, Entwässerung und PV-Montage direkt in der Angebotssoftware von Dachdeckern und Installateuren.",
+  "reifegrad": "Series A+",
+  "finanzierung": "Über 50 Mio. € insgesamt; zuletzt 38 Mio. € Series B (Aug. 2025, Lead Headline)",
+  "anbindung": "Investoren u. a. Creandum, HTGF, xdeck",
+  "kooperation": "Produktkatalog-Schnittstelle, Pilot mit Partnerbetrieben",
+  "relevanz": 4,
+  "aufwand": 3,
+  "website": "https://plancraft.de",
+  "quelle": "https://www.htgf.de/plancraft-series-b/",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": false,
+  "investoren_alle": [
+   "Headline",
+   "Creandum",
+   "High-Tech Gründerfonds",
+   "xdeck"
+  ],
+  "runden_ids": [
+   "plancraft-b-2025",
+   "plancraft-a-2024"
+  ],
+  "letzte_runde": {
+   "datum": "2025-08-13",
+   "runde": "Series B",
+   "betrag": "38 Mio. €"
+  },
+  "geo": [
+   53.5511,
+   9.9937
+  ]
+ },
+ {
+  "id": "roofit-solar",
+  "name": "Roofit.Solar",
+  "sitz": "Estland",
+  "region": "Europa",
+  "land": "EE",
+  "gruendung": "k. A.",
+  "loesung": "Metall-Solardach: Metalldach mit integrierten Solarmodulen als Alternative zu aufgesetzten Modulen.",
+  "suchfeld": "Dach-Solar-Integration",
+  "mehrwert": "Abgestimmte Schneefang- und Befestigungslösungen für Metall-Solardächer; Vertriebskooperation im DACH-Raum.",
+  "reifegrad": "Series A+",
+  "finanzierung": "17 Mio. € Eigenkapital und 2 Mio. € Förderung insgesamt; zuletzt 6,45 Mio. € (2023) mit BayWa r.e. Energy Ventures",
+  "anbindung": "Strategischer Investor BayWa r.e. Energy Ventures",
+  "kooperation": "Systemprüfung Schneefang auf Metall-Solardach",
+  "relevanz": 4,
+  "aufwand": 3,
+  "website": "https://roofit.solar",
+  "quelle": "https://www.baywa-re.com/en/news/details/roofitsolar-raises-eur645m-to-boost-integrated-solar-roofs",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": false,
+  "investoren_alle": [
+   "BayWa r.e. Energy Ventures",
+   "EdgeCap Partners"
+  ],
+  "runden_ids": [
+   "roofit-2023",
+   "roofit-a-2021"
+  ],
+  "letzte_runde": {
+   "datum": "2023-03",
+   "runde": "Wachstumsrunde",
+   "betrag": "6,45 Mio. €"
+  },
+  "geo": [
+   58.85,
+   25.3
+  ]
+ },
+ {
+  "id": "solar-monkey",
+  "name": "Solar Monkey",
+  "sitz": "Delft",
+  "region": "Europa",
+  "land": "NL",
+  "gruendung": "k. A.",
+  "loesung": "Software für Solarinstallateure: PV-Anlagen per Luftbild und 3D-Modell planen, anbieten und überwachen.",
+  "suchfeld": "Dach-Solar-Integration",
+  "mehrwert": "Montagesysteme als Komponente in der Planungssoftware hinterlegen, damit Installateure sie direkt mit einplanen.",
+  "reifegrad": "Series A+",
+  "finanzierung": "4 Mio. € (Aug. 2022), Helen Ventures und Eneco",
+  "anbindung": "Aktiv in Niederlanden, Belgien, Spanien; Deutschland geplant (Stand 2022)",
+  "kooperation": "Produktdaten-Integration",
+  "relevanz": 4,
+  "aufwand": 3,
+  "website": "https://solarmonkey.io",
+  "quelle": "https://www.pv-magazine.com/press-releases/solar-monkey-raises-e4-million-to-accelerate-the-solar-energy-transition-in-europe",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": false,
+  "investoren_alle": [
+   "Helen Ventures",
+   "Eneco",
+   "4impact capital",
+   "InnovationQuarter"
+  ],
+  "runden_ids": [
+   "solarmonkey-2022"
+  ],
+  "letzte_runde": {
+   "datum": "2022-08-24",
+   "runde": "Wachstumsrunde",
+   "betrag": "4 Mio. €"
+  },
+  "geo": [
+   52.0116,
+   4.3571
+  ]
  },
  {
   "id": "tanso",
   "name": "Tanso",
   "sitz": "München",
-  "region": "Bayern (erweitert)",
+  "region": "Bayern",
   "gruendung": "2021",
   "loesung": "Cloud-Plattform für CO₂-Bilanzierung, ESG-Daten und Umwelt-Compliance in der Industrie.",
   "suchfeld": "Nachhaltigkeit und Material",
   "mehrwert": "Unternehmens-CO₂-Bilanz inklusive energieintensiver Verzinkung als Antwort auf Anfragen von Handel und Großkunden.",
   "reifegrad": "Series A+",
-  "finanzierung": "12 Mio. € Series A (Aug. 2025), HenQ, Fortino Capital, Capnamic, UVC Partners",
+  "finanzierung": "12 Mio. € Series A (Aug. 2025), Lead henQ und Fortino Capital; dabei Capnamic und UVC Partners",
   "anbindung": "—",
   "kooperation": "Softwareeinführung mit Pilotphase",
   "relevanz": 4,
@@ -186,28 +685,104 @@
   "quelle": "https://munich-startup.de/news/tanso-series-a-finanzierung",
   "geprueft": "2026-10-28",
   "prioritaet": "A",
-  "quickwin": false
+  "quickwin": false,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [
+   "henQ",
+   "Fortino Capital",
+   "Capnamic",
+   "UVC Partners"
+  ],
+  "runden_ids": [
+   "tanso-a-2025"
+  ],
+  "letzte_runde": {
+   "datum": "2025-08-06",
+   "runde": "Series A",
+   "betrag": "12 Mio. €"
+  },
+  "geo": [
+   48.1374,
+   11.5755
+  ]
+ },
+ {
+  "id": "carbmee",
+  "name": "carbmee",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "k. A.",
+  "loesung": "KI-gestützte CO₂-Management-Software für Industrieunternehmen mit Fokus auf Scope-3-Emissionen der Lieferkette, Produkt-Fußabdruck, CSRD und CBAM.",
+  "suchfeld": "Nachhaltigkeit und Material",
+  "mehrwert": "Produkt-CO₂-Fußabdruck für Stahl- und Aluminiumteile inklusive Vorlieferanten; CBAM-Berichte für Stahlimporte.",
+  "reifegrad": "Series A+",
+  "finanzierung": "20 Mio. € Series A (Dez. 2024), Lead CommerzVentures, mit Fly Ventures",
+  "anbindung": "Büros in Berlin, München und New York",
+  "kooperation": "Pilot für eine Produktfamilie",
+  "relevanz": 4,
+  "aufwand": 3,
+  "website": "https://www.carbmee.com",
+  "quelle": "https://www.mynewsdesk.com/de/carbmee/pressreleases/enterprise-carbon-management-company-carbmee-secures-20-euro-million-series-a-funding-to-accelerate-innovation-and-international-expansion-3358006",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "A",
+  "quickwin": false,
+  "investoren_alle": [
+   "CommerzVentures",
+   "Fly Ventures"
+  ],
+  "runden_ids": [
+   "carbmee-a-2024"
+  ],
+  "letzte_runde": {
+   "datum": "2024-12-03",
+   "runde": "Series A",
+   "betrag": "20 Mio. €"
+  },
+  "geo": [
+   52.52,
+   13.405
+  ]
  },
  {
   "id": "baugpt",
   "name": "BauGPT (ehem. Crafthunt)",
   "sitz": "München",
-  "region": "Bayern (erweitert)",
+  "region": "Bayern",
   "gruendung": "k. A. (Plattform seit 2022)",
   "loesung": "KI-Assistent für Bau und Handwerk, der Fachsprache und Bauvorschriften versteht und bei Dokumentation und Angeboten hilft.",
   "suchfeld": "Digitale Planung und Vertrieb",
   "mehrwert": "Montage- und Produktwissen zu Schneefang, Entwässerung und PV-Haltern dort verfügbar machen, wo Handwerker fragen.",
-  "reifegrad": "Seed (zu prüfen)",
-  "finanzierung": "k. A.",
+  "reifegrad": "Seed",
+  "finanzierung": "3 Mio. € Seed (Juni 2024, als Crafthunt), Lead UVC Partners",
   "anbindung": "—",
   "kooperation": "Content- und Datenpartnerschaft",
   "relevanz": 3,
   "aufwand": 2,
-  "website": null,
+  "website": "https://baugpt.com",
   "quelle": "https://munich-startup.de/news/aus-crafthunt-wird-baugpt",
   "geprueft": "2026-10-28",
   "prioritaet": "B",
-  "quickwin": false
+  "quickwin": false,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [
+   "UVC Partners"
+  ],
+  "runden_ids": [
+   "crafthunt-seed-2024"
+  ],
+  "letzte_runde": {
+   "datum": "2024-06-04",
+   "runde": "Seed",
+   "betrag": "3 Mio. €"
+  },
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "id": "mycistern",
@@ -228,13 +803,64 @@
   "quelle": "https://www.gzdn.de/founder/mycistern/",
   "geprueft": "2026-10-28",
   "prioritaet": "B",
-  "quickwin": false
+  "quickwin": false,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   48.537,
+   12.1522
+  ]
+ },
+ {
+  "id": "concular",
+  "name": "Concular",
+  "sitz": "Stuttgart, Berlin, Düsseldorf",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "2020",
+  "loesung": "Plattform für zirkuläres Bauen: digitale Material- und Gebäudepässe, Vermittlung wiederverwendbarer Bauteile, CO₂- und Abfallbilanz.",
+  "suchfeld": "Nachhaltigkeit und Material",
+  "mehrwert": "Produktpässe und Rücknahme- bzw. Wiederverwendungskonzepte für Metallbauteile am Dach als Nachweis für zirkuläres Bauen.",
+  "reifegrad": "Seed",
+  "finanzierung": "2,5 Mio. € Seed (Sept. 2023), u. a. STRABAG, Hagedorn, Landmarken",
+  "anbindung": "Basis: Bauteilbörse restado.de",
+  "kooperation": "Materialpässe für eine Produktgruppe",
+  "relevanz": 3,
+  "aufwand": 3,
+  "website": "https://concular.de",
+  "quelle": "https://www.starting-up.de/news/news-investments/concular-proptech-start-up-schliesst-25-mio-euro-seed-runde-ab.html",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "B",
+  "quickwin": false,
+  "investoren_alle": [
+   "Landmarken",
+   "KVL Bauconsult",
+   "Hagedorn",
+   "STRABAG",
+   "GeRo Real Estate"
+  ],
+  "runden_ids": [
+   "concular-seed-2023"
+  ],
+  "letzte_runde": {
+   "datum": "2023-09-27",
+   "runde": "Seed",
+   "betrag": "2,5 Mio. €"
+  },
+  "geo": [
+   48.69,
+   9.19
+  ]
  },
  {
   "id": "krafthub",
   "name": "Krafthub",
   "sitz": "Grafing bei München",
-  "region": "Bayern (erweitert)",
+  "region": "Bayern",
   "gruendung": "2025",
   "loesung": "KI-Plattform für Handwerks- und Baubetriebe, die aus Anfragen, Plänen und Fotos Aufmaße und Angebote erstellt.",
   "suchfeld": "Digitale Planung und Vertrieb",
@@ -249,19 +875,117 @@
   "quelle": "https://www.munich-startup.de/news/krafthub-7-fragen",
   "geprueft": "2026-10-28",
   "prioritaet": "B",
-  "quickwin": false
+  "quickwin": false,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   48.0458,
+   11.9686
+  ]
+ },
+ {
+  "id": "planradar",
+  "name": "PlanRadar",
+  "sitz": "Wien",
+  "region": "Europa",
+  "land": "AT",
+  "gruendung": "k. A.",
+  "loesung": "Cloud-App für Baudokumentation, Mängel- und Aufgabenmanagement, Abnahmen und Wartung.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Montage- und Mängeldokumentation bei Dach- und PV-Projekten; Produktinformationen in Prüf- und Wartungslisten.",
+  "reifegrad": "Series A+",
+  "finanzierung": "69 Mio. US-$ Series B (Jan. 2022), Lead Insight Partners und Quadrille Capital; davor 34 Mio. US-$ Series A",
+  "anbindung": "14.500 Kunden in über 60 Ländern (Stand 2022)",
+  "kooperation": "Vorlagen für Montage- und Wartungsprotokolle",
+  "relevanz": 3,
+  "aufwand": 3,
+  "website": "https://www.planradar.com",
+  "quelle": "https://siliconcanals.com/planradar-secures-60-9m/",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "B",
+  "quickwin": false,
+  "investoren_alle": [
+   "Insight Partners",
+   "Quadrille Capital",
+   "Cavalry Ventures",
+   "Headline",
+   "Berliner Volksbank Ventures",
+   "aws Gründungsfonds",
+   "PropTech1 Ventures",
+   "Russmedia",
+   "GR Capital"
+  ],
+  "runden_ids": [
+   "planradar-b-2022"
+  ],
+  "letzte_runde": {
+   "datum": "2022-01-21",
+   "runde": "Series B",
+   "betrag": "69 Mio. US-$"
+  },
+  "geo": [
+   48.2082,
+   16.3738
+  ]
+ },
+ {
+  "id": "prewave",
+  "name": "Prewave",
+  "sitz": "Wien",
+  "region": "Europa",
+  "land": "AT",
+  "gruendung": "k. A.",
+  "loesung": "KI-Plattform, die Lieferkettenrisiken überwacht – von ESG und Compliance über Finanzlage bis zu Naturkatastrophen.",
+  "suchfeld": "Nachhaltigkeit und Material",
+  "mehrwert": "Frühwarnung bei Risiken in der Stahl- und Zinklieferkette; Nachweise für Lieferkettengesetze.",
+  "reifegrad": "Series A+",
+  "finanzierung": "63 Mio. € Series B (Juni 2024), Lead Hedosophia",
+  "anbindung": "Investoren u. a. Creandum, Speedinvest",
+  "kooperation": "Risikomonitoring für Hauptlieferanten",
+  "relevanz": 3,
+  "aufwand": 3,
+  "website": "https://www.prewave.com",
+  "quelle": "https://bebeez.eu/2024/06/25/vienna-based-prewave-raises-e63-series-b-to-deliver-supply-chain-superintelligence-for-compliance",
+  "investoren_weitere": [],
+  "geprueft": "2026-10-28",
+  "prioritaet": "B",
+  "quickwin": false,
+  "investoren_alle": [
+   "Hedosophia",
+   "Creandum",
+   "Ventech",
+   "Kompas",
+   "Speedinvest",
+   "Working Capital Fund"
+  ],
+  "runden_ids": [
+   "prewave-b-2024"
+  ],
+  "letzte_runde": {
+   "datum": "2024-06-25",
+   "runde": "Series B",
+   "betrag": "63 Mio. €"
+  },
+  "geo": [
+   48.2082,
+   16.3738
+  ]
  },
  {
   "id": "robco",
   "name": "RobCo",
   "sitz": "München",
-  "region": "Bayern (erweitert)",
+  "region": "Bayern",
   "gruendung": "2020",
   "loesung": "Modulare Industrieroboter, die Aufgaben per Vorführen lernen statt klassisch programmiert zu werden.",
   "suchfeld": "Fertigung, Qualität und Energie",
   "mehrwert": "Automatisierung von Handling-, Verpackungs- und Prüfschritten in der Kleinteilefertigung.",
   "reifegrad": "Series A+",
-  "finanzierung": "100 Mio. US-$ Series C (Jan. 2026), Lightspeed, Lingotto, Sequoia u. a.",
+  "finanzierung": "100 Mio. US-$ Series C (Jan. 2026); davor 39 Mio. € Series B (Feb. 2024, Lightspeed)",
   "anbindung": "—",
   "kooperation": "Pilotzelle in der Fertigung",
   "relevanz": 3,
@@ -270,7 +994,29 @@
   "quelle": "https://www.startbase.de/news/robco-sammelt-100-millionen-us-dollar-fuer-den-ausbau-autonomer-industrierobotik-ein/",
   "geprueft": "2026-10-28",
   "prioritaet": "B",
-  "quickwin": false
+  "quickwin": false,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [
+   "Lightspeed Venture Partners",
+   "Lingotto",
+   "Sequoia Capital",
+   "Kindred Capital",
+   "Promus Ventures"
+  ],
+  "runden_ids": [
+   "robco-c-2026",
+   "robco-b-2024"
+  ],
+  "letzte_runde": {
+   "datum": "2026-01",
+   "runde": "Series C",
+   "betrag": "100 Mio. US-$"
+  },
+  "geo": [
+   48.1374,
+   11.5755
+  ]
  },
  {
   "id": "ttxtech",
@@ -291,6 +1037,15 @@
   "quelle": "https://www.gzdn.de/startups/",
   "geprueft": "2026-10-28",
   "prioritaet": "B",
-  "quickwin": false
+  "quickwin": false,
+  "land": "DE",
+  "investoren_weitere": [],
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "geo": [
+   48.7,
+   12.7
+  ]
  }
 ]
