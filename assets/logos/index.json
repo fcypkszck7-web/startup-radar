@@ -1,9 +1,45 @@
 {
+ "1komma5": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "1komma5.png",
+  "quelle": "https://1komma5.com/og/apple-icon.png"
+ },
+ "airteam": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "airteam.png",
+  "quelle": "https://cdn.prod.website-files.com/67bf192ca3044b5d160197d9/67bf328bed15cd6f101625f3_Webclip.jpg"
+ },
  "atrocore": {
   "abgerufen": "2026-10-28",
   "art": "icon",
   "datei": "atrocore.svg",
   "quelle": "https://www.atrocore.com/user/themes/atrotheme/images/favicons/favicon.svg"
+ },
+ "baugpt": {
+  "abgerufen": "2026-10-28",
+  "art": "logo",
+  "datei": "baugpt.png",
+  "quelle": "https://baugpt.com/_next/static/media/BauGPT_logo_dark.470373d3.webp"
+ },
+ "building-radar": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "building-radar.png",
+  "quelle": "https://www.buildingradar.com/apple-icon.png?apple-icon.062.~c60-vhdm.png"
+ },
+ "carbmee": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "carbmee.png",
+  "quelle": "https://www.carbmee.com/images/favicons/apple-touch-icon-180x180.png"
+ },
+ "concular": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "concular.png",
+  "quelle": "https://concular.de/wp-content/themes/concular-1.8.0/img/icons/apple-touch-icon.png"
  },
  "consolinno": {
   "abgerufen": "2026-10-28",
@@ -11,17 +47,59 @@
   "datei": "consolinno.png",
   "quelle": "https://consolinno.de/wp-content/uploads/2022/12/cropped-favicon-180x180.png"
  },
+ "digicust": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "digicust.png",
+  "quelle": "https://digicust.com/images/brand/apple-touch-icon.png"
+ },
+ "emidat": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "emidat.png",
+  "quelle": "https://www.emidat.com/assets/cdn.prod.website-files.com/65f1055550447ddfb48017f1/698b655720e78bc167fb2b3c_Elogo1.png"
+ },
  "envitron": {
   "abgerufen": "2026-10-28",
   "art": "icon",
   "datei": "envitron.png",
   "quelle": "https://envitron-systems.com/wp-content/uploads/favicon.ico"
  },
+ "maddox-ai": {
+  "abgerufen": "2026-10-28",
+  "art": "logo",
+  "datei": "maddox-ai.svg",
+  "quelle": "https://framerusercontent.com/images/kLOGDMXifMuQmfBm6NFP0o8Lkg.svg?width=976&height=643"
+ },
  "mycistern": {
   "abgerufen": "2026-10-28",
   "art": "icon",
   "datei": "mycistern.png",
   "quelle": "https://mycistern.com/apple-touch-icon.png?v=dad05cc96750"
+ },
+ "one-click-lca": {
+  "abgerufen": "2026-10-28",
+  "art": "logo",
+  "datei": "one-click-lca.svg",
+  "quelle": "https://oneclicklca.com/hubfs/raw_assets/public/OneClickLCA/images/One-Click-LCA-logo.svg"
+ },
+ "plancraft": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "plancraft.png",
+  "quelle": "https://cdn.prod.website-files.com/66f772bc196c10da7b538340/67186e5db00465391cd5e7ff_Group%201000006012%20(2).png"
+ },
+ "planradar": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "planradar.png",
+  "quelle": "https://www.planradar.com/wp-content/themes/planradar/images/favicon_apple.png"
+ },
+ "prewave": {
+  "abgerufen": "2026-10-28",
+  "art": "logo",
+  "datei": "prewave.svg",
+  "quelle": "https://a.storyblok.com/f/297658/109x16/dd42e874ac/hilti.svg"
  },
  "reonic": {
   "abgerufen": "2026-10-28",
@@ -35,10 +113,28 @@
   "datei": "robco.png",
   "quelle": "https://cdn.prod.website-files.com/68f2341d705f07db40d6f962/68f2341d705f07db40d6ffef_Rmark%20dark.png"
  },
+ "roofit-solar": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "roofit-solar.png",
+  "quelle": "https://roofit.solar/wp-content/themes/roofit-solar/inc/theme/favicon/apple-touch-icon.png"
+ },
+ "solar-monkey": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "solar-monkey.png",
+  "quelle": "https://solarmonkey.io/wp-content/uploads/2023/08/favicon.png"
+ },
  "tanso": {
   "abgerufen": "2026-10-28",
   "art": "icon",
   "datei": "tanso.png",
   "quelle": "https://cdn.prod.website-files.com/6a718f5c39b47eb3a90296f0/6ac7439adb431e8a51f13d61_Favicon-large.png"
+ },
+ "traide": {
+  "abgerufen": "2026-10-28",
+  "art": "icon",
+  "datei": "traide.png",
+  "quelle": "https://www.google.com/s2/favicons?domain=traide.ai&sz=128"
  }
 }
