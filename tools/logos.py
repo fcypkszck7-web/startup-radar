@@ -63,7 +63,9 @@ class Sammler(HTMLParser):
             elif "icon" in rel and "mask-icon" not in rel:
                 self.links.append((rel, a.get("href", ""), a.get("sizes", ""), a.get("type", "")))
         elif tag == "img" and len(self.imgs) < 40:
-            text = " ".join([a.get("src", ""), a.get("alt", ""), a.get("class", ""), a.get("id", "")]).lower()
+            # nur der Pfad zählt – sonst passt jede Datei vom eigenen CDN zum Namen
+            pfad = urllib.parse.urlparse(a.get("src", "")).path
+            text = " ".join([pfad, a.get("alt", ""), a.get("class", ""), a.get("id", "")]).lower()
             if "logo" in text and a.get("src") and not a.get("src", "").startswith("data:"):
                 flach = re.sub(r"[^a-z0-9]", "", text)
                 if any(n in flach for n in self.namen):
