@@ -38,12 +38,24 @@ def hole(url, limit=600_000):
 
 
 class Sammler(HTMLParser):
-    def __init__(self):
+    """Sammelt Icons und Logo-Bilder. Ein <img> mit "logo" zählt nur, wenn es
+    den Namen des Start-ups trägt oder im Seitenkopf steht – Kundenlogos aus
+    Referenzleisten werden so ignoriert."""
+
+    def __init__(self, namen=()):
         super().__init__()
         self.links, self.imgs, self.manifest = [], [], None
+        self.namen = [n for n in namen if len(n) >= 3]
+        self.kopf = 0
+
+    def handle_endtag(self, tag):
+        if tag in ("header", "nav") and self.kopf:
+            self.kopf -= 1
 
     def handle_starttag(self, tag, attrs):
         a = {k.lower(): (v or "") for k, v in attrs}
+        if tag in ("header", "nav"):
+            self.kopf += 1
         if tag == "link":
             rel = a.get("rel", "").lower()
             if "manifest" in rel:
@@ -53,7 +65,11 @@ class Sammler(HTMLParser):
         elif tag == "img" and len(self.imgs) < 40:
             text = " ".join([a.get("src", ""), a.get("alt", ""), a.get("class", ""), a.get("id", "")]).lower()
             if "logo" in text and a.get("src") and not a.get("src", "").startswith("data:"):
-                self.imgs.append(a.get("src"))
+                flach = re.sub(r"[^a-z0-9]", "", text)
+                if any(n in flach for n in self.namen):
+                    self.imgs.append((70, a.get("src")))
+                elif self.kopf:
+                    self.imgs.append((64, a.get("src")))
 
 
 def groesse(s):
@@ -61,9 +77,14 @@ def groesse(s):
     return int(m.group(1)) if m else 0
 
 
-def kandidaten(seite_url):
+def namen_fuer(name, url):
+    stamm = urllib.parse.urlparse(url).netloc.lower().removeprefix("www.").split(".")[0]
+    return {re.sub(r"[^a-z0-9]", "", stamm), re.sub(r"[^a-z0-9]", "", (name or "").lower())}
+
+
+def kandidaten(seite_url, name=""):
     html, typ, basis = hole(seite_url, 2_000_000)
-    p = Sammler()
+    p = Sammler(namen_fuer(name, basis) | namen_fuer(name, seite_url))
     p.feed(html.decode("utf-8", "ignore"))
     k = []
     for rel, href, sizes, typ in p.links:
@@ -86,8 +107,8 @@ def kandidaten(seite_url):
                     k.append((82 + min(g, 512) / 100, urllib.parse.urljoin(mu, ic.get("src", "")), "icon"))
         except Exception:  # noqa: BLE001
             pass
-    for i, src in enumerate(p.imgs[:4]):
-        k.append((70 - i, urllib.parse.urljoin(basis, src), "logo"))
+    for i, (prio, src) in enumerate(p.imgs[:4]):
+        k.append((prio - i / 10, urllib.parse.urljoin(basis, src), "logo"))
     domain = urllib.parse.urlparse(basis).netloc
     k.append((20, f"https://www.google.com/s2/favicons?domain={domain}&sz=128", "icon"))
     k.sort(key=lambda x: -x[0])
@@ -105,8 +126,12 @@ def speichere(id_, daten, typ, url, art):
     kopf = daten[:400].lstrip().lower()
     if "svg" in typ or kopf.startswith(b"<svg") or kopf.startswith(b"<?xml") and b"<svg" in daten[:2000].lower():
         text = saeubere_svg(daten.decode("utf-8", "ignore"))
-        if "<svg" not in text.lower():
-            return None
+        if "<svg" not in text.lower() or re.search(r"<image\b", text, re.I):
+            return None  # eingebettete Rasterbilder werden beim Säubern leer
+        farben = {f.strip().lower() for f in re.findall(r"(?:fill|stroke)\s*[:=]\s*\"?([^;\"'>]+)", text, re.I)}
+        farben -= {"none", "transparent", "currentcolor", "inherit"}
+        if farben and farben <= {"white", "#fff", "#ffffff", "rgb(255,255,255)", "rgb(255, 255, 255)"}:
+            return None  # rein weißes Logo wäre auf hellem Grund unsichtbar
         (ZIEL / f"{id_}.svg").write_text(text, encoding="utf-8")
         return f"{id_}.svg"
     if Image is None:
@@ -150,7 +175,7 @@ def main():
             print(f"{id_}: keine Website – übersprungen")
             continue
         try:
-            liste = [(100, quelle, "logo")] if s.get("logo_url") else kandidaten(quelle)
+            liste = [(100, quelle, "logo")] if s.get("logo_url") else kandidaten(quelle, s.get("name", ""))
         except Exception as ex:  # noqa: BLE001
             print(f"{id_}: Website nicht lesbar ({ex})")
             continue
