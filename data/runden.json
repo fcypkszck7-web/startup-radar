@@ -1,5 +1,155 @@
 [
  {
+  "id": "tendos-seed-2026",
+  "datum": "2026-10-29",
+  "art": "Finanzierungsrunde",
+  "runde": "Seed",
+  "unternehmen": "Tendos",
+  "startup_id": "tendos",
+  "sitz": "München",
+  "land": "DE",
+  "thema": "Digitale Planung und Vertrieb",
+  "betrag": "12 Mio. €",
+  "betrag_mio_eur": 12,
+  "lead": [
+   "Insight Partners"
+  ],
+  "investoren": [
+   "Insight Partners",
+   "Stephan Tahy"
+  ],
+  "kurz": "KI-Agenten für Angebots- und Ausschreibungsprozesse von Baustoffherstellern.",
+  "quelle": "https://www.munich-startup.de/en/news/tendos-raises-e12-million-for-ai-in-building-material-sales",
+  "geprueft": "2026-11-02"
+ },
+ {
+  "id": "1komma5-2026",
+  "datum": "2026-10-13",
+  "art": "Finanzierungsrunde",
+  "runde": "Finanzierungsrunde",
+  "unternehmen": "1KOMMA5°",
+  "startup_id": "1komma5",
+  "sitz": "Hamburg",
+  "land": "DE",
+  "thema": "Dach-Solar-Integration",
+  "betrag": "über 70 Mio. €",
+  "betrag_mio_eur": 70,
+  "lead": [
+   "b2venture"
+  ],
+  "investoren": [
+   "b2venture",
+   "Marunouchi Innovation Partners",
+   "CalSTRS",
+   "eCapital",
+   "G2 Venture Partners",
+   "Eurazeo"
+  ],
+  "kurz": "Neue Runde für die Energie-KI-Plattform des Anbieters von PV-Anlagen und Wärmepumpen.",
+  "quelle": "https://1komma5.com/en/press/press-releases/1komma5-secures-new-funding-for-its-energy-ai-at-a-35-percent-higher-valuation/",
+  "geprueft": "2026-11-02"
+ },
+ {
+  "id": "reebuild-seed-2026",
+  "datum": "2026-10-13",
+  "art": "Finanzierungsrunde",
+  "runde": "Seed",
+  "unternehmen": "reebuild",
+  "startup_id": null,
+  "sitz": "Wien",
+  "land": "AT",
+  "thema": "Digitale Planung und Vertrieb",
+  "betrag": "3 Mio. €",
+  "betrag_mio_eur": 3,
+  "lead": [
+   "Fortino Ventures"
+  ],
+  "investoren": [
+   "Fortino Ventures",
+   "Rise PropTech",
+   "CuriosityVC"
+  ],
+  "kurz": "KI-Plattform, die Rechnungsprüfung sowie Kosten- und Materialmanagement für Bau- und Immobilienfirmen automatisiert.",
+  "quelle": "https://www.handelsblatt.com/adv/presseportal/reebuild-gmbh-reebuild-erhaelt-3-millionen-euro-seed-finanzierung-und-baut-sein-geschaeft-in-deutschland-aus/100261767.html",
+  "geprueft": "2026-11-02"
+ },
+ {
+  "id": "reclinker-a-2026",
+  "datum": "2026-10-08",
+  "art": "Finanzierungsrunde",
+  "runde": "Series A",
+  "unternehmen": "Reclinker",
+  "startup_id": null,
+  "sitz": "Cambridge",
+  "land": "GB",
+  "thema": "Nachhaltigkeit und Material",
+  "betrag": "10 Mio. £",
+  "betrag_mio_eur": null,
+  "lead": [
+   "Clean Growth Fund",
+   "AP Ventures"
+  ],
+  "investoren": [
+   "Clean Growth Fund",
+   "AP Ventures",
+   "Development Bank of Wales",
+   "Zero Carbon Capital",
+   "Cambridge Enterprise Ventures"
+  ],
+  "kurz": "Gewinnt im Elektrolichtbogenofen aus Abbruchmaterial CO₂-armen Zementklinker und Recyclingstahl.",
+  "quelle": "https://www.enterprise.cam.ac.uk/news/reclinker-secures-10-million-series-a-to-scale-low-carbon-cement-technology/",
+  "geprueft": "2026-11-02"
+ },
+ {
+  "id": "ista-homenergy-2026",
+  "datum": "2026-10-02",
+  "art": "Übernahme",
+  "runde": "Übernahme",
+  "unternehmen": "Homenergy",
+  "startup_id": null,
+  "sitz": "München",
+  "land": "DE",
+  "thema": "Dach-Solar-Integration",
+  "betrag": "nicht veröffentlicht",
+  "betrag_mio_eur": null,
+  "lead": [
+   "ista"
+  ],
+  "investoren": [
+   "ista"
+  ],
+  "kurz": "Übernahme eines 2022 gegründeten Planers und Installateurs von PV-Anlagen, Wärmepumpen und Speichern.",
+  "quelle": "https://www.pv-magazine.de/2026/10/02/ista-uebernimmt-photovoltaik-und-waermepumpen-anbieter-homenergy/",
+  "geprueft": "2026-11-02"
+ },
+ {
+  "id": "bleu-robotics-2026",
+  "datum": "2026-10",
+  "art": "Finanzierungsrunde",
+  "runde": "Pre-Seed",
+  "unternehmen": "Bleu Robotics",
+  "startup_id": null,
+  "sitz": "Paris",
+  "land": "FR",
+  "thema": "Fertigung, Qualität und Energie",
+  "betrag": "5 Mio. €",
+  "betrag_mio_eur": 5,
+  "lead": [
+   "Contrarian Ventures",
+   "OVNI Capital"
+  ],
+  "investoren": [
+   "Contrarian Ventures",
+   "OVNI Capital",
+   "Kvanted",
+   "WEPA Ventures",
+   "Motier Ventures"
+  ],
+  "kurz": "KI-Software, mit der Industrieroboter Aufgaben aus wenigen Vorführungen lernen.",
+  "quelle": "https://startbase.de/news/startupnews-zum-wochenende-kw-44-2026",
+  "geprueft": "2026-11-02"
+ },
+ {
   "id": "kuro-2026",
   "datum": "2026-09-30",
   "art": "Finanzierungsrunde",
@@ -25,6 +175,28 @@
   "geprueft": "2026-10-28"
  },
  {
+  "id": "htgf-v-2026",
+  "datum": "2026-09",
+  "art": "Fonds",
+  "runde": "Fundraising gestartet",
+  "unternehmen": "High-Tech Gründerfonds V",
+  "startup_id": null,
+  "sitz": "Bonn",
+  "land": "DE",
+  "thema": "Fertigung, Qualität und Energie",
+  "betrag": "nicht veröffentlicht",
+  "betrag_mio_eur": null,
+  "lead": [
+   "High-Tech Gründerfonds"
+  ],
+  "investoren": [
+   "High-Tech Gründerfonds"
+  ],
+  "kurz": "Fünfter Seedfonds des HTGF mit Erstinvestments von 1–3 Mio. €, u. a. in Clean Energy und neue Materialien; First Close für Mitte 2027 geplant.",
+  "quelle": "https://www.munich-startup.de/news/htgf-neuer-seedfonds-v",
+  "geprueft": "2026-11-02"
+ },
+ {
   "id": "phase0-2026",
   "datum": "2026-08-30",
   "art": "Finanzierungsrunde",
@@ -45,6 +217,31 @@
   "lead": [],
   "startup_id": null,
   "geprueft": "2026-10-28"
+ },
+ {
+  "id": "navvis-d-2026",
+  "datum": "2026-08-07",
+  "art": "Finanzierungsrunde",
+  "runde": "Series D",
+  "unternehmen": "NavVis",
+  "startup_id": null,
+  "sitz": "München",
+  "land": "DE",
+  "thema": "Digitale Planung und Vertrieb",
+  "betrag": "85 Mio. US-$",
+  "betrag_mio_eur": null,
+  "lead": [
+   "The Jordan Company"
+  ],
+  "investoren": [
+   "The Jordan Company",
+   "Yttrium",
+   "KOZO KEIKAKU ENGINEERING",
+   "Cipio Partners"
+  ],
+  "kurz": "Mobile Laserscanner und Cloud-Plattform für digitale Zwillinge von Gebäuden, Baustellen und Industrieanlagen.",
+  "quelle": "https://lidarmag.com/2026/08/07/navvis-raises-usd-85m-series-d-round-to-supply-the-data-foundation-for-physical-ai/",
+  "geprueft": "2026-11-02"
  },
  {
   "id": "conmeet-2026",
@@ -70,6 +267,31 @@
   "quelle": "https://thesaasnews.com/news/conmeet-raises-6m-seed",
   "startup_id": null,
   "geprueft": "2026-10-28"
+ },
+ {
+  "id": "sodex-2026",
+  "datum": "2026-07-13",
+  "art": "Finanzierungsrunde",
+  "runde": "Finanzierungsrunde",
+  "unternehmen": "Sodex Innovations",
+  "startup_id": null,
+  "sitz": "Vorarlberg",
+  "land": "AT",
+  "thema": "Digitale Planung und Vertrieb",
+  "betrag": "4 Mio. €",
+  "betrag_mio_eur": 4,
+  "lead": [
+   "Capmont Technology"
+  ],
+  "investoren": [
+   "Capmont Technology",
+   "Bloomhaus Ventures",
+   "SOSV",
+   "Superangels"
+  ],
+  "kurz": "KI-System, das Baustellen über Sensoren an Baumaschinen vermisst und den Baufortschritt dokumentiert.",
+  "quelle": "https://www.trendingtopics.eu/sodex-austrian-construction-startup-raises-e4-million/",
+  "geprueft": "2026-11-02"
  },
  {
   "id": "nextpower-zimmermann-2026",
@@ -211,6 +433,32 @@
   "quelle": "https://mtz.de/2026/04/14/neue-millionen-fuer-conxai-2/",
   "startup_id": null,
   "geprueft": "2026-10-28"
+ },
+ {
+  "id": "solarmonkey-eturnity-2026",
+  "datum": "2026-03-27",
+  "art": "Übernahme",
+  "runde": "Zusammenschluss",
+  "unternehmen": "Solar Monkey",
+  "startup_id": "solar-monkey",
+  "sitz": "Delft",
+  "land": "NL",
+  "thema": "Dach-Solar-Integration",
+  "betrag": "nicht veröffentlicht",
+  "betrag_mio_eur": null,
+  "lead": [
+   "Eturnity"
+  ],
+  "investoren": [
+   "Eturnity",
+   "Klima",
+   "Junction",
+   "Eneco Ventures",
+   "Helen"
+  ],
+  "kurz": "Zusammenschluss der PV-Planungssoftware mit Eturnity (Schweiz) gegen neue Aktien, verbunden mit frischem Kapital; beide Marken laufen vorerst weiter.",
+  "quelle": "https://www.startupticker.ch/en/news/solar-monkey-and-eturnity-merge-and-attract-fresh-capital",
+  "geprueft": "2026-11-02"
  },
  {
   "id": "robco-c-2026",

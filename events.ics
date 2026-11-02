@@ -8,71 +8,8 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:tbb-2026@startup-radar
-DTSTAMP:20261028T210213Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261030
-SUMMARY:[B] The Business Booster 2026
-LOCATION:Messe München\, Bayern (München)
-DESCRIPTION:Innovationskonferenz · EIT InnoEnergy\nPriorität B (Gesamtsco
- re 3\,9)\nTerminstatus: bestätigt\nWarum relevant: Europas Treffpunkt fü
- r Energie-Innovationen und Industriepartnerschaften – relevant für Ener
- giekosten der Fertigung.\nEmpfohlene Rolle: Besuch\nAnmeldung: Läuft gera
- de\; Registrierung über tbb.innoenergy.com\nQuelle: https://www.pv-magazi
- ne.de/unternehmensmeldungen/europas-industrielle-zukunft-im-fokus-innoener
- gy-laedt-zum-the-business-booster-2026/\nRadar: https://fcypkszck7-web.git
- hub.io/startup-radar/
-URL:https://www.pv-magazine.de/unternehmensmeldungen/europas-industrielle-z
- ukunft-im-fokus-innoenergy-laedt-zum-the-business-booster-2026/
-CATEGORIES:Konferenz & Kongress
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:The Business Booster 2026 in 30 Tagen
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:The Business Booster 2026 in 7 Tagen
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:b2b-demoday-bamberg-2026@startup-radar
-DTSTAMP:20261028T210213Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:[A] Startup meets Mittelstand: B2B-DemoDay 2026
-LOCATION:LAGARDE1\, Bamberg\, Bayern (Oberfranken)
-DESCRIPTION:Demo Day / Matchmaking · BayStartUP mit IHKs und Bayern Innova
- tiv (Initiative „Startup meets Mittelstand“)\nPriorität A (Gesamtscor
- e 4\,1)\nTerminstatus: bestätigt\nWarum relevant: Format genau für produ
- zierende Mittelständler: Challenges vorab einreichen und vorbereitete 1:1
- -Gespräche mit passenden Start-ups führen.\nEmpfohlene Rolle: Besuch\, C
- hallenge einbringen\nAnmeldung: Anmeldung über mittelstand-startups.bayst
- artup.de (kurzfristig)\nQuelle: https://www.forchheim-wirtschaft.de/termin
- e/b2b-demoday-2026-in-bamberg/\nRadar: https://fcypkszck7-web.github.io/st
- artup-radar/
-URL:https://www.forchheim-wirtschaft.de/termine/b2b-demoday-2026-in-bamberg
- /
-CATEGORIES:Pitch & Demo Day
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Startup meets Mittelstand: B2B-DemoDay 2026 in 30 Tagen
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Startup meets Mittelstand: B2B-DemoDay 2026 in 7 Tagen
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:web-summit-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Web Summit 2026
@@ -100,7 +37,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:enlit-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Enlit Europe 2026
@@ -128,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pitch-match-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[A] Pitch & Match 2026
@@ -160,8 +97,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:matchmaking-erlangen-2026@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:[B] Matchmaking: Mittelstand & Startups
+LOCATION:Erlangen\, Bayern (Mittelfranken)
+DESCRIPTION:Matchmaking · Bayern Innovativ mit BayStartUP\nPriorität B (G
+ esamtscore 3\,5)\nTerminstatus: bestätigt\nWarum relevant: Gezieltes Kenn
+ enlernen von Start-ups für Pilotprojekte\, nah genug für einen Nachmitta
+ gstermin.\nEmpfohlene Rolle: Besuch\, Challenge einbringen\nAnmeldung: Anm
+ eldung über die Veranstalter – Details zu prüfen\nQuelle: https://www.
+ baystartup.de/termine\nRadar: https://fcypkszck7-web.github.io/startup-rad
+ ar/
+URL:https://www.baystartup.de/termine
+CATEGORIES:Matchmaking
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Matchmaking: Mittelstand & Startups in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Matchmaking: Mittelstand & Startups in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:startup-night-weiden-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[C] Inspiration & StartUp Night 2026
@@ -192,7 +158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruendungstag-deggendorf-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[B] Deggendorfer Gründungstag mit Gründungspreis 2026
@@ -222,7 +188,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hochschulgruendertag-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[B] Hochschulgründertag 2026
@@ -254,7 +220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slush-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:[B] Slush 2026
@@ -282,7 +248,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bim-world-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261126
 SUMMARY:[A] BIM World MUNICH 2026
@@ -310,19 +276,81 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:sps-2026@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+SUMMARY:[B] SPS – Smart Production Solutions 2026
+LOCATION:NürnbergMesse\, Bayern (Mittelfranken)
+DESCRIPTION:Fachmesse mit Start-up-Bereich · Mesago Messe Frankfurt\nPrior
+ ität B (Gesamtscore 3\,7)\nTerminstatus: bestätigt\nWarum relevant: Jung
+ e Anbieter für Automatisierung und Industrial AI bieten Ansatzpunkte für
+  Piloten in Umformung\, Montage und Verzinkung.\nEmpfohlene Rolle: Besuch\
+ nAnmeldung: Besucherticket über sps.mesago.com\nQuelle: https://sps.mesag
+ o.com/nuernberg/de/expo/fuer_aussteller/aussteller_werden/start-up-area.ht
+ ml\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://sps.mesago.com/nuernberg/de/expo/fuer_aussteller/aussteller_wer
+ den/start-up-area.html
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SPS – Smart Production Solutions 2026 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SPS – Smart Production Solutions 2026 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:materialflusskongress-2026@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:[B] 4. Bayerischer Materialflusskongress
+LOCATION:TechBase Regensburg\, Bayern (Oberpfalz)
+DESCRIPTION:Kongress mit Fachausstellung und Ausstellerpitches · Transform
+ ationsnetzwerk transform.r des Cluster Mobility & Logistics\nPriorität B 
+ (Gesamtscore 3\,9)\nTerminstatus: bestätigt\nWarum relevant: Zeigt Automa
+ tisierung und Robotik für Fertigungs- und Lagerlogistik\, etwa bei Kleint
+ eilen für Dach und Solar\, mit Kontakten zu Hochschulen und Technologiean
+ bietern.\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über eveeno\, Pl
+ ätze begrenzt\nQuelle: https://www.techbase.de/news-termine/events-termin
+ e/detail/25/11/2026/4-bayerischer-materialflusskongress\nRadar: https://fc
+ ypkszck7-web.github.io/startup-radar/
+URL:https://www.techbase.de/news-termine/events-termine/detail/25/11/2026/4
+ -bayerischer-materialflusskongress
+CATEGORIES:Pitch & Demo Day
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:4. Bayerischer Materialflusskongress in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:4. Bayerischer Materialflusskongress in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:demo-night-muenchen-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[B] Startup Demo Night München
-LOCATION:TonHalle München\, Bayern (München)
+LOCATION:Werk1\, München\, Bayern (München)
 DESCRIPTION:Demo Night · BayStartUP und WERK1\nPriorität B (Gesamtscore 3
  \,6)\nTerminstatus: bestätigt\nWarum relevant: Viele bayerische Start-ups
   an einem Abend live erleben – gut für ein breites Scouting.\nEmpfohlen
  e Rolle: Besuch\nAnmeldung: Kostenlose Anmeldung über baystartup.de\nQuel
- le: https://www.munich-startup.de/events/startup-demo-night-1026\nRadar: h
- ttps://fcypkszck7-web.github.io/startup-radar/
-URL:https://www.munich-startup.de/events/startup-demo-night-1026
+ le: https://www.baystartup.de/termine\nRadar: https://fcypkszck7-web.githu
+ b.io/startup-radar/
+URL:https://www.baystartup.de/termine
 CATEGORIES:Pitch & Demo Day
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -339,7 +367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pv-fachtagung-at-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] Österreichische Fachtagung für Photovoltaik & Stromspeicherun
@@ -372,8 +400,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:b2b-demoday-augsburg-2026@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[B] B2B-DemoDay 2026 Augsburg
+LOCATION:Augsburg\, Bayern (Schwaben)
+DESCRIPTION:Demo Day / Matchmaking · BayStartUP mit IHK\nPriorität B (Ges
+ amtscore 3\,4)\nTerminstatus: bestätigt\nWarum relevant: Kompaktes Format
+ \, um B2B-Start-ups für Fertigung\, Vertrieb und Energie kennenzulernen u
+ nd Kooperationsideen zu prüfen.\nEmpfohlene Rolle: Besuch\, Challenge ein
+ bringen\nAnmeldung: Anmeldung über baystartup.de\nQuelle: https://www.bay
+ startup.de/termine\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.baystartup.de/termine
+CATEGORIES:Pitch & Demo Day
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B2B-DemoDay 2026 Augsburg in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:B2B-DemoDay 2026 Augsburg in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:startup-factory-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261129
 SUMMARY:[B] StartUP Factory Regensburg 2026
@@ -404,7 +460,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultimate-demo-day-2026@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[A] Ultimate Demo Day 2026
@@ -432,7 +488,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bau-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
 SUMMARY:[A] BAU 2027 – inkl. Future Lab & Start-up Area
@@ -462,7 +518,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dld-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270117
 SUMMARY:[C] DLD Munich 2027
@@ -490,7 +546,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:klimahouse-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270131
 SUMMARY:[B] Klimahouse 2027 inkl. Future Hub
@@ -518,8 +574,72 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:e-world-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270219
+SUMMARY:[B] E-world energy & water 2027
+LOCATION:Messe Essen\, Nordrhein-Westfalen
+DESCRIPTION:Fachmesse mit Start-up-Gemeinschaftsstand · E-world energy & w
+ ater GmbH\nPriorität B (Gesamtscore 3\,3)\nTerminstatus: bestätigt\nWaru
+ m relevant: Der Innovationsbereich zeigt junge Energieunternehmen mit Schn
+ ittstellen zu Photovoltaik auf dem Dach und dezentraler Versorgung.\nEmpfo
+ hlene Rolle: Besuch\nAnmeldung: Tickets über den Veranstalter\nQuelle: ht
+ tps://e-world-essen.com/en/neuigkeiten/e-world-2027-on-course-for-record-s
+ uccess-85-percent-of-exhibition-space-already-booked/\nRadar: https://fcyp
+ kszck7-web.github.io/startup-radar/
+URL:https://e-world-essen.com/en/neuigkeiten/e-world-2027-on-course-for-rec
+ ord-success-85-percent-of-exhibition-space-already-booked/
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-world energy & water 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:E-world energy & water 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:energiekongress-regensburg-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270225
+SUMMARY:[A] 8. Regensburger Energiekongress (Termin geschätzt)
+LOCATION:OTH Regensburg\, Bayern (Oberpfalz)
+DESCRIPTION:Zweitägiger Fachkongress · OTH Regensburg (Regensburg Center 
+ of Energy and Resources) mit IHK Regensburg und Bayern Innovativ\nPriorit
+ ät A (Gesamtscore 4\,1)\nTerminstatus: geschätzt – bitte vor der Planu
+ ng prüfen\nWarum relevant: Bringt Industrie und Hochschule zu Eigenversor
+ gung mit Photovoltaik und zur Dekarbonisierung energieintensiver Prozesse 
+ wie der Feuerverzinkung zusammen.\nEmpfohlene Rolle: Besuch\, Speaker\nAnm
+ eldung: noch nicht veröffentlicht – zu prüfen\nQuelle: https://www.oth
+ -regensburg.de/news/detailansicht/innovationen-fuer-die-energiewende-erfol
+ greicher-7-regensburger-energiekongress\nRadar: https://fcypkszck7-web.git
+ hub.io/startup-radar/
+URL:https://www.oth-regensburg.de/news/detailansicht/innovationen-fuer-die-
+ energiewende-erfolgreicher-7-regensburger-energiekongress
+CATEGORIES:Konferenz & Kongress
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:8. Regensburger Energiekongress in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:8. Regensburger Energiekongress in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:tiger-winter-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:[B] Tiger der TechBase – Winter-Edition 2027 (Termin geschätzt)
@@ -550,8 +670,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:tag-der-forschung-thd-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:[B] 14. Tag der Forschung der TH Deggendorf
+LOCATION:Campus TH Deggendorf\, Bayern (Niederbayern)
+DESCRIPTION:Forschungstag mit Postern\, Science Slam und Workshops · Techn
+ ische Hochschule Deggendorf\nPriorität B (Gesamtscore 3\,7)\nTerminstatus
+ : bestätigt\nWarum relevant: Guter Anlass\, Forschungsgruppen zu Bau\, Ge
+ bäudetechnik und Energie für Kooperationen rund um Dach- und Solarsystem
+ e kennenzulernen.\nEmpfohlene Rolle: Besuch\, Challenge einbringen\nAnmeld
+ ung: über die TH Deggendorf (Details noch offen)\nQuelle: https://www.th-
+ deg.de/tdf-2026\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.th-deg.de/tdf-2026
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:14. Tag der Forschung der TH Deggendorf in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:14. Tag der Forschung der TH Deggendorf in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:4yfn-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] 4YFN 2027 (parallel zum MWC)
@@ -560,10 +709,10 @@ DESCRIPTION:Start-up-Konferenz · GSMA / Mobile World Capital\nPriorität C
   (Gesamtscore 2\,9)\nTerminstatus: bestätigt\nWarum relevant: Große Star
  t-up-Plattform neben dem MWC – von Dach\, Solar und Bau thematisch weit 
  entfernt.\nEmpfohlene Rolle: Besuch\nAnmeldung: Tickets online\nQuelle: ht
- tps://www.polyu.edu.hk/kteo/about-kteo/news-and-events/events/2027/03/4fyn
- -2027/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
-URL:https://www.polyu.edu.hk/kteo/about-kteo/news-and-events/events/2027/03
- /4fyn-2027/
+ tps://event-assets.gsma.com/4YFN/documents/4YFN-Awards-2027-_rules_of_entr
+ y_V1.pdf\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://event-assets.gsma.com/4YFN/documents/4YFN-Awards-2027-_rules_of
+ _entry_V1.pdf
 CATEGORIES:Konferenz & Kongress
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -580,7 +729,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wsed-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270306
 SUMMARY:[B] World Sustainable Energy Days & Energiesparmesse Wels 2027
@@ -613,11 +762,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bauindustrie-meets-startups-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:[B] Bauindustrie meets Startups 2027 (Termin geschätzt)
-LOCATION:Bayern (Ort zu prüfen)\, Bayern
+LOCATION:Bayern (Ort nicht veröffentlicht)\, Bayern
 DESCRIPTION:Pitch-Format · Bayerischer Bauindustrieverband (BBIV)\nPriorit
  ät B (Gesamtscore 3\,6)\nTerminstatus: geschätzt – bitte vor der Planu
  ng prüfen\nWarum relevant: Kuratierte Bau-Start-ups vor Entscheidern der 
@@ -643,7 +792,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pv-symposium-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270312
 SUMMARY:[B] 42. PV-Symposium
@@ -670,24 +819,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pv-symposium-2027-frist@startup-radar
-DTSTAMP:20261028T210213Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Frist: 42. PV-Symposium – Günstiges Frühbucher-Ticket
-DESCRIPTION:Günstiges Frühbucher-Ticket für 42. PV-Symposium. Quelle: ht
- tps://www.pv-symposium.de/
-URL:https://www.pv-symposium.de/
+UID:ideenreich-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:[B] Prämierung Businessplan-Wettbewerb Ideenreich 2027
+LOCATION:Passau\, Bayern (Niederbayern)
+DESCRIPTION:Pitch- und Prämierungsabend · BayStartUP mit Partnern in Nied
+ erbayern\nPriorität B (Gesamtscore 3\,6)\nTerminstatus: bestätigt\nWarum
+  relevant: Gibt einen kompakten Überblick über junge Unternehmen aus Nie
+ derbayern\, darunter mögliche Partner für Fertigung\, Handwerk und Energ
+ ie.\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über baystartup.de\nQ
+ uelle: https://www.baystartup.de/termine\nRadar: https://fcypkszck7-web.gi
+ thub.io/startup-radar/
+URL:https://www.baystartup.de/termine
+CATEGORIES:Pitch & Demo Day
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Frist in 7 Tagen: 42. PV-Symposium
+DESCRIPTION:Prämierung Businessplan-Wettbewerb Ideenreich 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Prämierung Businessplan-Wettbewerb Ideenreich 2027 in 7 Tagen
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:key-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270313
 SUMMARY:[B] KEY – The Energy Transition Expo 2027
@@ -715,8 +877,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:salz-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270312
+SUMMARY:[B] SALZ – Festival für Innovation und Technologie 2027 (Termin 
+ geschätzt)
+LOCATION:Messezentrum Salzburg\, Österreich (Salzburg)
+DESCRIPTION:Innovationsfestival mit Start-up-Pitches und Expo · Messezentr
+ um Salzburg mit Innovation Salzburg\nPriorität B (Gesamtscore 3\,5)\nTerm
+ instatus: geschätzt – bitte vor der Planung prüfen\nWarum relevant: Da
+ s grenznahe Format bringt Industrie mit Start-ups für Pilotprojekte in Fe
+ rtigung und Energie zusammen.\nEmpfohlene Rolle: Besuch\, Challenge einbri
+ ngen\nAnmeldung: über salzfestival.at – Termin zu prüfen\nQuelle: http
+ s://www.innovation-salzburg.at/en/salz-2026/\nRadar: https://fcypkszck7-we
+ b.github.io/startup-radar/
+URL:https://www.innovation-salzburg.at/en/salz-2026/
+CATEGORIES:Pitch & Demo Day
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SALZ – Festival für Innovation und Technologie 2027 in 30 Ta
+ gen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SALZ – Festival für Innovation und Technologie 2027 in 7 Tag
+ en
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:zukunft-handwerk-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270312
 SUMMARY:[A] ZUKUNFT HANDWERK 2027 (parallel zur IHM)
@@ -744,8 +939,99 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ish-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:[B] ISH 2027 mit Startup@ISH
+LOCATION:Messe Frankfurt\, Hessen
+DESCRIPTION:Weltleitmesse mit Start-up-Bereich · Messe Frankfurt\nPriorit
+ ät B (Gesamtscore 3\,5)\nTerminstatus: bestätigt\nWarum relevant: Start-
+ ups aus Gebäudeenergie und Wassertechnik bieten Schnittstellen zu Solar\,
+  Dachentwässerung und Handwerkerlösungen.\nEmpfohlene Rolle: Besuch\nAnm
+ eldung: Tickets über den Veranstalter\; Start-ups bewerben sich beim VdZ\
+ nQuelle: https://ish.messefrankfurt.com/content/dam/messefrankfurt-redakti
+ on/ish/2027/documents/en/ish27-offer-startup-en.pdf\nRadar: https://fcypks
+ zck7-web.github.io/startup-radar/
+URL:https://ish.messefrankfurt.com/content/dam/messefrankfurt-redaktion/ish
+ /2027/documents/en/ish27-offer-startup-en.pdf
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISH 2027 mit Startup@ISH in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISH 2027 mit Startup@ISH in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:demo-night-nuernberg-2027-03@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:[B] Nürnberger Startup Demo Night 2027 (Prämierung Phase 1 BPW No
+ rdbayern)
+LOCATION:Nürnberg\, Bayern (Mittelfranken)
+DESCRIPTION:Demo Night / Pitch · BayStartUP\nPriorität B (Gesamtscore 3\,
+ 6)\nTerminstatus: bestätigt\nWarum relevant: Guter Überblick über junge
+  Unternehmen aus Nordbayern mit überschaubarem Aufwand ab Ostbayern.\nEmp
+ fohlene Rolle: Besuch\nAnmeldung: Anmeldung über baystartup.de\nQuelle: h
+ ttps://www.baystartup.de/termine\nRadar: https://fcypkszck7-web.github.io/
+ startup-radar/
+URL:https://www.baystartup.de/termine
+CATEGORIES:Pitch & Demo Day
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nürnberger Startup Demo Night 2027 (Prämierung Phase 1 BPW No
+ rdbayern) in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nürnberger Startup Demo Night 2027 (Prämierung Phase 1 BPW No
+ rdbayern) in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:solar-solutions-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+SUMMARY:[B] Solar Solutions International 2027 (Termin geschätzt)
+LOCATION:Expo Greater Amsterdam\, Vijfhuizen\, Niederlande (Nordholland)
+DESCRIPTION:Fachmesse für Solar und Speicher · Solar Solutions\nPrioritä
+ t B (Gesamtscore 3\,1)\nTerminstatus: geschätzt – bitte vor der Planung
+  prüfen\nWarum relevant: Zeigt viele Neuheiten zu Photovoltaik und Montag
+ esystemen für Dächer und gibt Einblick in einen wichtigen Installationsm
+ arkt.\nEmpfohlene Rolle: Besuch\nAnmeldung: Besucherregistrierung über so
+ larsolutions.nl – Termin zu prüfen\nQuelle: https://en.solarsolutions.n
+ l/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://en.solarsolutions.nl/
+CATEGORIES:Messe
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Solar Solutions International 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Solar Solutions International 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:start-summit-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270320
 SUMMARY:[B] START Summit 2027
@@ -754,9 +1040,9 @@ DESCRIPTION:Start-up-Konferenz · START Global (Universität St. Gallen)\nP
  riorität B (Gesamtscore 3\,1)\nTerminstatus: bestätigt\nWarum relevant: 
  Europas große Early-Stage-Konferenz in der Bodenseeregion – breit\, abe
  r gut erreichbar.\nEmpfohlene Rolle: Besuch\nAnmeldung: Tickets online\nQu
- elle: https://dealroom.co/events/start-summit-2027/\nRadar: https://fcypks
- zck7-web.github.io/startup-radar/
-URL:https://dealroom.co/events/start-summit-2027/
+ elle: https://startglobal.org/start-summit/pitching-competition\nRadar: ht
+ tps://fcypkszck7-web.github.io/startup-radar/
+URL:https://startglobal.org/start-summit/pitching-competition
 CATEGORIES:Konferenz & Kongress
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -772,8 +1058,55 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:start-summit-2027-frist@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Frist: START Summit 2027 – Frühbucherpreis für Tickets (First R
+ elease)
+DESCRIPTION:Frühbucherpreis für Tickets (First Release) für START Summit
+  2027. Quelle: https://startglobal.org/start-summit/pitching-competition
+URL:https://startglobal.org/start-summit/pitching-competition
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Frist in 7 Tagen: START Summit 2027
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bausymposium-thd-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:[B] Deggendorfer Bau- und Umweltsymposium 2027 (Termin geschätzt)
+LOCATION:Campus TH Deggendorf\, Bayern (Niederbayern)
+DESCRIPTION:Fachsymposium (vor Ort und online) · Fakultät Bauingenieurwes
+ en und Umwelttechnik der TH Deggendorf\nPriorität B (Gesamtscore 3\,5)\nT
+ erminstatus: geschätzt – bitte vor der Planung prüfen\nWarum relevant:
+  Fachlicher Austausch zu nachhaltigem und digitalem Bauen mit Bezug zu Dac
+ h und Entwässerung sowie Kontakt zur Bau-Fakultät der Hochschule.\nEmpfo
+ hlene Rolle: Besuch\nAnmeldung: 2026 über eveeno – zu prüfen\nQuelle: 
+ https://th-deg.de/de/Presseartikel?id=43004457\nRadar: https://fcypkszck7-
+ web.github.io/startup-radar/
+URL:https://th-deg.de/de/Presseartikel?id=43004457
+CATEGORIES:Sonstiges
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deggendorfer Bau- und Umweltsymposium 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deggendorfer Bau- und Umweltsymposium 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hannover-messe-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
 SUMMARY:[B] Hannover Messe 2027
@@ -803,8 +1136,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:construction-summit-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270416
+SUMMARY:[B] Construction Summit & Proptech Summit 2027
+LOCATION:Schuppen 52\, Hamburg\, Hamburg
+DESCRIPTION:Fachmesse und Konferenz (ConTech) · zu prüfen\nPriorität B (
+ Gesamtscore 3\,5)\nTerminstatus: bestätigt\nWarum relevant: ConTech-Start
+ -ups für digitale Planung\, Baustellenprozesse und Nachhaltigkeit bieten 
+ Ansatzpunkte für Dach- und Solarmontage sowie den Vertrieb.\nEmpfohlene R
+ olle: Besuch\nAnmeldung: Tickets über constructionsummit.de\nQuelle: http
+ s://www.messen.de/de/21753/hamburg/construction-summit/info\nRadar: https:
+ //fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messen.de/de/21753/hamburg/construction-summit/info
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Construction Summit & Proptech Summit 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Construction Summit & Proptech Summit 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:startup-factory-ndb-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270418
 SUMMARY:[C] StartUP Factory Niederbayern 2027 (Termin geschätzt)
@@ -836,7 +1198,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:viennaup-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:[B] ViennaUP 2027 inkl. Connect Day
@@ -866,8 +1228,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:futurebuild-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270514
+SUMMARY:[B] Futurebuild 2027
+LOCATION:ExCeL London\, Vereinigtes Königreich (London)
+DESCRIPTION:Fachmesse und Konferenz für nachhaltiges Bauen · Futurebuild\
+ nPriorität B (Gesamtscore 3\,1)\nTerminstatus: bestätigt\nWarum relevant
+ : Behandelt Dekarbonisierung\, Gebäudehülle und Energie mit Bezug zu Dac
+ h\, Solar und EPD-Nachweisen.\nEmpfohlene Rolle: Besuch\nAnmeldung: Regist
+ rierung für 2027 noch nicht offen\nQuelle: https://www.futurebuild.co.uk/
+ faqs\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.futurebuild.co.uk/faqs
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Futurebuild 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Futurebuild 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:sensor-test-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:[B] SENSOR+TEST 2027
@@ -895,7 +1285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:smart-automation-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:[C] SMART Automation Austria 2027
@@ -923,8 +1313,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:demo-night-muenchen-2027-06@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:[B] Startup Demo Night München 2027 (Prämierung Phase 2 Münchene
+ r BPW)
+LOCATION:Werk1\, München\, Bayern (Oberbayern)
+DESCRIPTION:Demo Night / Pitch · BayStartUP\nPriorität B (Gesamtscore 3\,
+ 6)\nTerminstatus: bestätigt\nWarum relevant: Breiter Querschnitt bayerisc
+ her Start-ups\, darunter Lösungen für Bau\, Energie und Fertigung.\nEmpf
+ ohlene Rolle: Besuch\nAnmeldung: Anmeldung über baystartup.de\nQuelle: ht
+ tps://www.baystartup.de/termine\nRadar: https://fcypkszck7-web.github.io/s
+ tartup-radar/
+URL:https://www.baystartup.de/termine
+CATEGORIES:Pitch & Demo Day
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Startup Demo Night München 2027 (Prämierung Phase 2 Münchene
+ r BPW) in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Startup Demo Night München 2027 (Prämierung Phase 2 Münchene
+ r BPW) in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:intersolar-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270611
 SUMMARY:[A] Intersolar Europe / The smarter E Europe 2027
@@ -953,7 +1374,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intersolar-2027-frist@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Frist: Intersolar Europe / The smarter E Europe 2027 – Call for A
@@ -970,8 +1391,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:entrepreneurship-day-passau-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:[C] Entrepreneurship Day (E'Day) 2027 der Universität Passau (Term
+ in geschätzt)
+LOCATION:Universität Passau\, Bayern (Niederbayern)
+DESCRIPTION:Netzwerk- und Gründungsveranstaltung · Universität Passau\, 
+ Digitalisation Hub (PATEC)\nPriorität C (Gesamtscore 2\,9)\nTerminstatus:
+  geschätzt – bitte vor der Planung prüfen\nWarum relevant: Eignet sich
+  zum Kontaktaufbau mit dem Gründungsumfeld in Passau\, für Dach- und Sol
+ arthemen aber nur am Rand relevant.\nEmpfohlene Rolle: Besuch\nAnmeldung: 
+ über uni-passau.de/e-day – zu prüfen\nQuelle: https://www.uni-passau.d
+ e/en/calendar-of-events/detail/event/entrepreneurship-day-2026\nRadar: htt
+ ps://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.uni-passau.de/en/calendar-of-events/detail/event/entreprene
+ urship-day-2026
+CATEGORIES:Netzwerk
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Entrepreneurship Day (E'Day) 2027 der Universität Passau in 30
+  Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Entrepreneurship Day (E'Day) 2027 der Universität Passau in 7 
+ Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:intergalva-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
 SUMMARY:[B] Intergalva 2027
@@ -1000,7 +1455,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:vivatech-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270620
 SUMMARY:[B] VivaTech 2027
@@ -1028,7 +1483,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hinterland-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
 SUMMARY:[B] Hinterland of Things 2027 (Termin geschätzt)
@@ -1058,7 +1513,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:denk-summit-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 SUMMARY:[B] DENK.summit 2027 (Termin geschätzt)
@@ -1089,21 +1544,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dcw-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270625
-SUMMARY:[C] Digital Construction Week 2027 (Termin geschätzt)
+SUMMARY:[C] Digital Construction Week 2027
 LOCATION:ExCeL London\, Vereinigtes Königreich
 DESCRIPTION:Fachmesse & Konferenz · Diversified Communications\nPriorität
-  C (Gesamtscore 2\,9)\nTerminstatus: geschätzt – bitte vor der Planung 
- prüfen\nWarum relevant: Britische Plattform für Bau-Digitalisierung mit 
- vielen ConTech-Anbietern.\nEmpfohlene Rolle: Besuch\nAnmeldung: Termin lau
- t Messeverzeichnis geplant – zu prüfen\nQuelle: https://www.excel.londo
- n/whats-on/digital-construction-week-2026\nRadar: https://fcypkszck7-web.g
- ithub.io/startup-radar/
-URL:https://www.excel.london/whats-on/digital-construction-week-2026
+  C (Gesamtscore 2\,9)\nTerminstatus: bestätigt\nWarum relevant: Britische
+  Plattform für Bau-Digitalisierung mit vielen ConTech-Anbietern.\nEmpfohl
+ ene Rolle: Besuch\nAnmeldung: Termin laut Messeverzeichnis geplant – zu 
+ prüfen\nQuelle: https://www.digitalconstructionweek.com/\nRadar: https://
+ fcypkszck7-web.github.io/startup-radar/
+URL:https://www.digitalconstructionweek.com/
 CATEGORIES:Messe
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1118,7 +1572,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:innovationskongress-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:[A] 4. Regensburger Innovationskongress
@@ -1150,7 +1604,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tiger-sommer-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:[B] Tiger der TechBase – Sommer-Edition 2027 (Termin geschätzt)
@@ -1181,7 +1635,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b2b-matchday-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 SUMMARY:[A] B2B Matchday 2027 (Mittelstand & Start-ups) (Termin geschätzt)
@@ -1213,23 +1667,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bits-pretzels-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270927
 DTEND;VALUE=DATE:20270930
-SUMMARY:[B] Bits & Pretzels 2027 (Termin geschätzt)
+SUMMARY:[B] Bits & Pretzels 2027
 LOCATION:München\, Bayern (München)
 DESCRIPTION:Start-up-Festival · Bits & Pretzels\nPriorität B (Gesamtscore
-  3\,4)\nTerminstatus: geschätzt – bitte vor der Planung prüfen\nWarum 
- relevant: Größtes Gründerfestival Süddeutschlands\, inklusive Formaten
-  zum Venture Clienting – gut zum Netzwerken\, aber thematisch breit.\nEm
- pfohlene Rolle: Besuch\nAnmeldung: Termin aus Vorjahr geschätzt (28.–30
- .09.2026)\nQuelle: https://www.invest-in-bavaria.com/en/info-centre/events
- /detail/bits-pretzels-founders-festival-2026\nRadar: https://fcypkszck7-we
- b.github.io/startup-radar/
-URL:https://www.invest-in-bavaria.com/en/info-centre/events/detail/bits-pre
- tzels-founders-festival-2026
+  3\,4)\nTerminstatus: bestätigt\nWarum relevant: Größtes Gründerfestiv
+ al Süddeutschlands\, inklusive Formaten zum Venture Clienting – gut zum
+  Netzwerken\, aber thematisch breit.\nEmpfohlene Rolle: Besuch\nAnmeldung:
+  Termin aus Vorjahr geschätzt (28.–30.09.2026)\nQuelle: https://www.bit
+ sandpretzels.com/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bitsandpretzels.com/
 CATEGORIES:Start-up-Festival
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1244,7 +1695,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:by-cz-innovationstag-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20270930
 SUMMARY:[B] Bayerisch-Tschechischer Innovationstag 2027 (Termin geschätzt)
@@ -1274,8 +1725,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:expo-real-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271007
+SUMMARY:[B] EXPO REAL 2027 mit Bereich Transform & Beyond
+LOCATION:Messe München\, Bayern (Oberbayern)
+DESCRIPTION:Immobilienfachmesse mit Innovationsbereich · Messe München\nP
+ riorität B (Gesamtscore 3\,3)\nTerminstatus: bestätigt\nWarum relevant: 
+ Start-ups zu Dekarbonisierung und Energieversorgung von Gebäuden mit Bezu
+ g zu Solar auf dem Dach und CO₂-Nachweisen.\nEmpfohlene Rolle: Besuch\nA
+ nmeldung: Tickets über exporeal.net\nQuelle: https://exporeal.net/en/trad
+ e-fair/press/press-releases/detail/final-report-expo-real-2026.html\nRadar
+ : https://fcypkszck7-web.github.io/startup-radar/
+URL:https://exporeal.net/en/trade-fair/press/press-releases/detail/final-re
+ port-expo-real-2026.html
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EXPO REAL 2027 mit Bereich Transform & Beyond in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:EXPO REAL 2027 mit Bereich Transform & Beyond in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:startup-trifft-handwerk-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271013
 SUMMARY:[A] Startup trifft Handwerk 2027 (Termin geschätzt)
@@ -1306,7 +1787,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aircon-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271014
 SUMMARY:[B] AIR.CON 2027 (Termin geschätzt)
@@ -1340,7 +1821,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-night-nuernberg-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:[B] Startup Demo Night Nürnberg 2027 (Termin geschätzt)
@@ -1368,7 +1849,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:oiw-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271029
 SUMMARY:[C] Oslo Innovation Week 2027 (Termin geschätzt)
@@ -1397,7 +1878,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:blechexpo-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271030
 SUMMARY:[B] Blechexpo / Schweisstec 2027
@@ -1424,12 +1905,46 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gruendernacht-landshut-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:[B] Landshuter Gründernacht 2027 mit Landshuter Gründerpreis (Ter
+ min geschätzt)
+LOCATION:Hochschule Landshut\, Bayern (Niederbayern)
+DESCRIPTION:Pitch-Abend mit Preisverleihung · Gründerzentrum der Hochschu
+ le Landshut\nPriorität B (Gesamtscore 3\,5)\nTerminstatus: geschätzt –
+  bitte vor der Planung prüfen\nWarum relevant: Bietet Zugang zu technisch
+ en Gründungsteams aus dem Hochschulumfeld Landshut für mögliche Koopera
+ tionen in Fertigung und Energie.\nEmpfohlene Rolle: Besuch\nAnmeldung: Anm
+ eldung erforderlich – Termin zu prüfen\nQuelle: https://diesunddas-onli
+ nejournal.de/landshuter-gruendernacht-2026-ein-raum-fuer-innovationen/\nRa
+ dar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://diesunddas-onlinejournal.de/landshuter-gruendernacht-2026-ein-r
+ aum-fuer-innovationen/
+CATEGORIES:Pitch & Demo Day
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Landshuter Gründernacht 2027 mit Landshuter Gründerpreis in 3
+ 0 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Landshuter Gründernacht 2027 mit Landshuter Gründerpreis in 7
+  Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:b2b-demoday-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:[A] Startup meets Mittelstand: B2B-DemoDay 2027 (Termin geschätzt)
-LOCATION:Bayern (Ort zu prüfen)\, Bayern
+LOCATION:Bayern (wechselnde IHK-Standorte)\, Bayern
 DESCRIPTION:Demo Day / Matchmaking · BayStartUP mit IHKs und Bayern Innova
  tiv\nPriorität A (Gesamtscore 4\,1)\nTerminstatus: geschätzt – bitte v
  or der Planung prüfen\nWarum relevant: Wiederkehrendes Format für produz
@@ -1457,7 +1972,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruendungstag-deggendorf-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
 SUMMARY:[B] Deggendorfer Gründungstag mit Gründungspreis 2027 (Termin ges
@@ -1487,7 +2002,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hochschulgruendertag-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
 SUMMARY:[B] Hochschulgründertag 2027 (Termin geschätzt)
@@ -1519,7 +2034,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slush-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271119
 SUMMARY:[B] Slush 2027 (Termin geschätzt)
@@ -1547,7 +2062,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bim-world-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271123
 DTEND;VALUE=DATE:20271125
 SUMMARY:[A] BIM World MUNICH 2027 (Termin geschätzt)
@@ -1574,8 +2089,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:sps-2027@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20271123
+DTEND;VALUE=DATE:20271126
+SUMMARY:[B] SPS – Smart Production Solutions 2027
+LOCATION:NürnbergMesse\, Bayern (Mittelfranken)
+DESCRIPTION:Fachmesse mit Start-up-Bereich · Mesago Messe Frankfurt\nPrior
+ ität B (Gesamtscore 3\,6)\nTerminstatus: bestätigt\nWarum relevant: Bün
+ delt Automatisierungs- und Digitalisierungslösungen für Fertigung\, Blec
+ hbearbeitung und Verzinkung.\nEmpfohlene Rolle: Besuch\nAnmeldung: Besuche
+ rticket über den Veranstalter\nQuelle: https://www.bayern-innovativ.de/fi
+ leadmin/Media/Veranstaltungen/Messe/Messe-2027/Allgemein/2027-messeprogram
+ m-bayern-innovativ.pdf\nRadar: https://fcypkszck7-web.github.io/startup-ra
+ dar/
+URL:https://www.bayern-innovativ.de/fileadmin/Media/Veranstaltungen/Messe/M
+ esse-2027/Allgemein/2027-messeprogramm-bayern-innovativ.pdf
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SPS – Smart Production Solutions 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SPS – Smart Production Solutions 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:startup-factory-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271128
 SUMMARY:[B] StartUP Factory Regensburg 2027 (Termin geschätzt)
@@ -1607,7 +2153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultimate-demo-day-2027@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20271209
 DTEND;VALUE=DATE:20271210
 SUMMARY:[A] Ultimate Demo Day 2027 (Termin geschätzt)
@@ -1635,7 +2181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:swissbau-2028@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280122
 SUMMARY:[B] Swissbau 2028
@@ -1666,7 +2212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:klimahouse-2028@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20280126
 DTEND;VALUE=DATE:20280130
 SUMMARY:[B] Klimahouse 2028 (Termin geschätzt)
@@ -1694,7 +2240,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wsed-2028@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20280301
 DTEND;VALUE=DATE:20280304
 SUMMARY:[B] World Sustainable Energy Days & Energiesparmesse Wels 2028 (Ter
@@ -1726,8 +2272,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:light-building-2028@startup-radar
+DTSTAMP:20261102T060910Z
+DTSTART;VALUE=DATE:20280305
+DTEND;VALUE=DATE:20280311
+SUMMARY:[B] Light + Building 2028
+LOCATION:Messe Frankfurt\, Hessen
+DESCRIPTION:Weltleitmesse (2026 erstmals mit Startup Area) · Messe Frankfu
+ rt\nPriorität B (Gesamtscore 3\,0)\nTerminstatus: bestätigt\nWarum relev
+ ant: Start-ups aus Gebäudeautomation und Energiemanagement bieten Schnitt
+ stellen zu PV-Anlagen auf dem Dach und zum Elektrohandwerk.\nEmpfohlene Ro
+ lle: Besuch\nAnmeldung: Tickets über den Veranstalter\; Startup Area 2028
+  zu prüfen\nQuelle: https://technology.messefrankfurt.com/content/dam/mes
+ sefrankfurt-redaktion/light-building/2028/press/press-releases/lb28-light-
+ expo-london-de.pdf\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://technology.messefrankfurt.com/content/dam/messefrankfurt-redakt
+ ion/light-building/2028/press/press-releases/lb28-light-expo-london-de.pdf
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Light + Building 2028 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Light + Building 2028 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:dach-holz-2028@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20280307
 DTEND;VALUE=DATE:20280311
 SUMMARY:[A] DACH+HOLZ International 2028
@@ -1757,7 +2334,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zukunft-handwerk-2028@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20280308
 DTEND;VALUE=DATE:20280310
 SUMMARY:[A] ZUKUNFT HANDWERK 2028 (Termin geschätzt)
@@ -1786,7 +2363,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:digitalbau-2028@startup-radar
-DTSTAMP:20261028T210213Z
+DTSTAMP:20261102T060910Z
 DTSTART;VALUE=DATE:20280424
 DTEND;VALUE=DATE:20280427
 SUMMARY:[B] digitalBAU 2028

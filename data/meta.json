@@ -1,17 +1,17 @@
 {
  "titel": "Start-up- & Event-Radar",
  "site_url": "https://fcypkszck7-web.github.io/startup-radar/",
- "stand": "2026-10-28",
+ "stand": "2026-11-02",
  "aenderungen": [
-  "Neu: Bereich „Kapital“ mit 34 öffentlich bekannten Finanzierungsrunden, Übernahmen und Fonds sowie 13 Investoren-Profilen – inklusive Grafik, welche Investoren hinter welchen Unternehmen stehen.",
-  "Start-ups erweitert um Deutschland und Europa: jetzt 28 statt 14, jeweils mit öffentlich bekannten Investoren und Finanzierungsrunden.",
-  "Termine unverändert: 59 Veranstaltungen; noch nicht veröffentlichte Daten sind weiterhin als „geschätzt“ markiert."
+  "Monatliche Neurecherche am 02.11.2026: 21 neue Veranstaltungen, davon 7 in der Region (u. a. Bayerischer Materialflusskongress, Regensburger Energiekongress, Prämierung Ideenreich in Passau, Bau- und Umweltsymposium Deggendorf) sowie u. a. SPS Nürnberg, ISH 2027, E-world, Construction Summit Hamburg, BayStartUP-Demo-Nights, SALZ Salzburg und Futurebuild London.",
+  "2 Termine bestätigt (Bits & Pretzels 2027, Digital Construction Week 2027); Startup Demo Night München findet laut BayStartUP im Werk1 statt; neue Frist: Frühbucherpreis Start Summit bis 03.12.2026; abgelaufene Frühbucherfrist PV-Symposium entfernt. Keine Absagen gefunden.",
+  "4 neue Start-ups (Tendos, paXos Solar, Spectral, IFOX Systems) und 10 neue Deals, u. a. Seed-Runde von Tendos (12 Mio. €), neue Runde von 1KOMMA5° (über 70 Mio. €), NavVis Series D, Zusammenschluss Solar Monkey/Eturnity, Übernahme von Homenergy; Fondsangaben von UVC Partners und HTGF aktualisiert."
  ],
  "anzahl": {
-  "events_aktiv": 59,
-  "events_archiv": 0,
-  "startups": 28,
-  "runden": 34,
+  "events_aktiv": 78,
+  "events_archiv": 2,
+  "startups": 32,
+  "runden": 44,
   "investoren": 13
  }
 }

@@ -33,7 +33,7 @@
   "gesamt": 3.9,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false,
+  "archiv": true,
   "geo": [
    48.135,
    11.69
@@ -74,7 +74,7 @@
   "gesamt": 4.1,
   "prioritaet": "A",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false,
+  "archiv": true,
   "geo": [
    49.8988,
    10.9028
@@ -184,7 +184,7 @@
    "Challenge einbringen"
   ],
   "quelle": "https://www.techbase.de/news-termine/events-termine/detail/10/11/2026/pitch-match-2026",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "region",
   "scores": {
    "relevanz": 4,
@@ -198,6 +198,47 @@
   "archiv": false,
   "geo": null,
   "online": true
+ },
+ {
+  "id": "matchmaking-erlangen-2026",
+  "name": "Matchmaking: Mittelstand & Startups",
+  "format": "Matchmaking",
+  "veranstalter": "Bayern Innovativ mit BayStartUP",
+  "ort": "Erlangen",
+  "land": "DE",
+  "region": "Bayern (Mittelfranken)",
+  "rubrik": "de",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "turnus": "zu prüfen",
+  "zeitraum": "November, 14–17 Uhr",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalter – Details zu prüfen",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Mittelständische Unternehmen, Start-ups",
+  "fokus": "Zusammenarbeit von Mittelstand und Start-ups",
+  "begruendung": "Gezieltes Kennenlernen von Start-ups für Pilotprojekte, nah genug für einen Nachmittagstermin.",
+  "rolle": [
+   "Besuch",
+   "Challenge einbringen"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.baystartup.de/termine",
+  "geprueft": "2026-11-02",
+  "geo": [
+   49.5897,
+   11.004
+  ],
+  "gesamt": 3.5,
+  "prioritaet": "B",
+  "kategorie": "Matchmaking",
+  "archiv": false
  },
  {
   "id": "startup-night-weiden-2026",
@@ -222,7 +263,7 @@
    "Besuch"
   ],
   "quelle": "https://www.digitale-oberpfalz.de/news-events/termine/detail/16/11/2026/inspiration-startup-night-2026",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "region",
   "scores": {
    "relevanz": 2,
@@ -344,7 +385,7 @@
    "Besuch"
   ],
   "quelle": "https://www.therecursive.com/slush-2026/",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "scores": {
    "relevanz": 2,
    "zugang": 5,
@@ -383,7 +424,7 @@
    "Besuch"
   ],
   "quelle": "https://www.bim-world.de/",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "de",
   "scores": {
    "relevanz": 4,
@@ -401,11 +442,91 @@
   ]
  },
  {
+  "id": "sps-2026",
+  "name": "SPS – Smart Production Solutions 2026",
+  "format": "Fachmesse mit Start-up-Bereich",
+  "veranstalter": "Mesago Messe Frankfurt",
+  "ort": "NürnbergMesse",
+  "land": "DE",
+  "region": "Bayern (Mittelfranken)",
+  "rubrik": "de",
+  "start": "2026-11-24",
+  "ende": "2026-11-26",
+  "turnus": "jährlich",
+  "zeitraum": "Ende November",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Besucherticket über sps.mesago.com",
+  "kosten": "Besuch kostenpflichtig",
+  "zielgruppe": "Industrie und Fertigung, Automatisierungsanbieter, Start-ups",
+  "fokus": "Industrielle Automatisierung, Industrial AI",
+  "begruendung": "Junge Anbieter für Automatisierung und Industrial AI bieten Ansatzpunkte für Piloten in Umformung, Montage und Verzinkung.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://sps.mesago.com/nuernberg/de/expo/fuer_aussteller/aussteller_werden/start-up-area.html",
+  "geprueft": "2026-11-02",
+  "geo": [
+   49.413,
+   11.117
+  ],
+  "gesamt": 3.7,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "materialflusskongress-2026",
+  "name": "4. Bayerischer Materialflusskongress",
+  "format": "Kongress mit Fachausstellung und Ausstellerpitches",
+  "veranstalter": "Transformationsnetzwerk transform.r des Cluster Mobility & Logistics",
+  "ort": "TechBase Regensburg",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "turnus": "wiederkehrend (2026: 4. Ausgabe)",
+  "zeitraum": "Ende November",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über eveeno, Plätze begrenzt",
+  "kosten": "kostenfrei",
+  "zielgruppe": "Anbieter und Anwender von Intralogistik, Forschung",
+  "fokus": "Robotik in der Intralogistik, Robot Vision, Simulation, digitale Zwillinge",
+  "begruendung": "Zeigt Automatisierung und Robotik für Fertigungs- und Lagerlogistik, etwa bei Kleinteilen für Dach und Solar, mit Kontakten zu Hochschulen und Technologieanbietern.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 5,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.techbase.de/news-termine/events-termine/detail/25/11/2026/4-bayerischer-materialflusskongress",
+  "geprueft": "2026-11-02",
+  "geo": [
+   49.0062,
+   12.1093
+  ],
+  "gesamt": 3.9,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
   "id": "demo-night-muenchen-2026",
   "name": "Startup Demo Night München",
   "format": "Demo Night",
   "veranstalter": "BayStartUP und WERK1",
-  "ort": "TonHalle München",
+  "ort": "Werk1, München",
   "land": "DE",
   "region": "Bayern (München)",
   "start": "2026-11-25",
@@ -422,8 +543,8 @@
   "rolle": [
    "Besuch"
   ],
-  "quelle": "https://www.munich-startup.de/events/startup-demo-night-1026",
-  "geprueft": "2026-10-28",
+  "quelle": "https://www.baystartup.de/termine",
+  "geprueft": "2026-11-02",
   "rubrik": "de",
   "scores": {
    "relevanz": 3,
@@ -481,6 +602,47 @@
   ]
  },
  {
+  "id": "b2b-demoday-augsburg-2026",
+  "name": "B2B-DemoDay 2026 Augsburg",
+  "format": "Demo Day / Matchmaking",
+  "veranstalter": "BayStartUP mit IHK",
+  "ort": "Augsburg",
+  "land": "DE",
+  "region": "Bayern (Schwaben)",
+  "rubrik": "de",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "turnus": "mehrmals jährlich an wechselnden Orten",
+  "zeitraum": "Ende November, 16–19 Uhr",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über baystartup.de",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Mittelstand, B2B-Start-ups",
+  "fokus": "Start-ups stellen B2B-Lösungen für den Mittelstand vor",
+  "begruendung": "Kompaktes Format, um B2B-Start-ups für Fertigung, Vertrieb und Energie kennenzulernen und Kooperationsideen zu prüfen.",
+  "rolle": [
+   "Besuch",
+   "Challenge einbringen"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.baystartup.de/termine",
+  "geprueft": "2026-11-02",
+  "geo": [
+   48.3705,
+   10.8978
+  ],
+  "gesamt": 3.4,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
   "id": "startup-factory-2026",
   "name": "StartUP Factory Regensburg 2026",
   "format": "Gründungswochenende",
@@ -504,7 +666,7 @@
    "Besuch"
   ],
   "quelle": "https://www.digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "region",
   "scores": {
    "relevanz": 3,
@@ -544,7 +706,7 @@
    "Besuch"
   ],
   "quelle": "https://www.munich-startup.de/events/ultimate-demo-day-2026",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "de",
   "scores": {
    "relevanz": 3,
@@ -585,7 +747,7 @@
    "Aussteller"
   ],
   "quelle": "https://bau-muenchen.com/en/trade-fair/program/futurelabandstartups/",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "de",
   "scores": {
    "relevanz": 5,
@@ -683,6 +845,87 @@
   ]
  },
  {
+  "id": "e-world-2027",
+  "name": "E-world energy & water 2027",
+  "format": "Fachmesse mit Start-up-Gemeinschaftsstand",
+  "veranstalter": "E-world energy & water GmbH",
+  "ort": "Messe Essen",
+  "land": "DE",
+  "region": "Nordrhein-Westfalen",
+  "rubrik": "de",
+  "start": "2027-02-16",
+  "ende": "2027-02-18",
+  "turnus": "jährlich",
+  "zeitraum": "Februar",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets über den Veranstalter",
+  "kosten": "Besuch kostenpflichtig",
+  "zielgruppe": "Energiewirtschaft, Stadtwerke, Start-ups, Investoren",
+  "fokus": "Digitalisierung der Energiewende",
+  "begruendung": "Der Innovationsbereich zeigt junge Energieunternehmen mit Schnittstellen zu Photovoltaik auf dem Dach und dezentraler Versorgung.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 2,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://e-world-essen.com/en/neuigkeiten/e-world-2027-on-course-for-record-success-85-percent-of-exhibition-space-already-booked/",
+  "geprueft": "2026-11-02",
+  "geo": [
+   51.4308,
+   7.0055
+  ],
+  "gesamt": 3.3,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "energiekongress-regensburg-2027",
+  "name": "8. Regensburger Energiekongress",
+  "format": "Zweitägiger Fachkongress",
+  "veranstalter": "OTH Regensburg (Regensburg Center of Energy and Resources) mit IHK Regensburg und Bayern Innovativ",
+  "ort": "OTH Regensburg",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2027-02-23",
+  "ende": "2027-02-24",
+  "turnus": "alle zwei Jahre (ungerade Jahre); 8. Ausgabe für 2027 geplant",
+  "zeitraum": "Ende Februar (2025: 25.–26.02.)",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "noch nicht veröffentlicht – zu prüfen",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Industrie, Energieversorger, Kommunen, Forschung",
+  "fokus": "Klimafreundliche Energieversorgung, Dekarbonisierung der Industrie, Flexibilität",
+  "begruendung": "Bringt Industrie und Hochschule zu Eigenversorgung mit Photovoltaik und zur Dekarbonisierung energieintensiver Prozesse wie der Feuerverzinkung zusammen.",
+  "rolle": [
+   "Besuch",
+   "Speaker"
+  ],
+  "scores": {
+   "relevanz": 4,
+   "zugang": 4,
+   "aufwand": 5,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.oth-regensburg.de/news/detailansicht/innovationen-fuer-die-energiewende-erfolgreicher-7-regensburger-energiekongress",
+  "geprueft": "2026-11-02",
+  "geo": [
+   49.003,
+   12.0958
+  ],
+  "gesamt": 4.1,
+  "prioritaet": "A",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "tiger-winter-2027",
   "name": "Tiger der TechBase – Winter-Edition 2027",
   "format": "Pitch-Abend",
@@ -723,6 +966,47 @@
   ]
  },
  {
+  "id": "tag-der-forschung-thd-2027",
+  "name": "14. Tag der Forschung der TH Deggendorf",
+  "format": "Forschungstag mit Postern, Science Slam und Workshops",
+  "veranstalter": "Technische Hochschule Deggendorf",
+  "ort": "Campus TH Deggendorf",
+  "land": "DE",
+  "region": "Bayern (Niederbayern)",
+  "rubrik": "region",
+  "start": "2027-02-25",
+  "ende": "2027-02-25",
+  "turnus": "jährlich",
+  "zeitraum": "Februar",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "über die TH Deggendorf (Details noch offen)",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Forschende, Praxispartner, Förderer",
+  "fokus": "Forschungsprojekte der THD, Austausch Hochschule und Praxis",
+  "begruendung": "Guter Anlass, Forschungsgruppen zu Bau, Gebäudetechnik und Energie für Kooperationen rund um Dach- und Solarsysteme kennenzulernen.",
+  "rolle": [
+   "Besuch",
+   "Challenge einbringen"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.th-deg.de/tdf-2026",
+  "geprueft": "2026-11-02",
+  "geo": [
+   48.84,
+   12.9606
+  ],
+  "gesamt": 3.7,
+  "prioritaet": "B",
+  "kategorie": "Sonstiges",
+  "archiv": false
+ },
+ {
   "rubrik": "eu",
   "id": "4yfn-2027",
   "name": "4YFN 2027 (parallel zum MWC)",
@@ -745,8 +1029,8 @@
   "rolle": [
    "Besuch"
   ],
-  "quelle": "https://www.polyu.edu.hk/kteo/about-kteo/news-and-events/events/2027/03/4fyn-2027/",
-  "geprueft": "2026-10-28",
+  "quelle": "https://event-assets.gsma.com/4YFN/documents/4YFN-Awards-2027-_rules_of_entry_V1.pdf",
+  "geprueft": "2026-11-02",
   "scores": {
    "relevanz": 2,
    "zugang": 4,
@@ -786,7 +1070,7 @@
    "Besuch"
   ],
   "quelle": "https://www.wsed.at/fileadmin/WSED2/2027/Drucksorten2027/WSED-Vorankuendigung-2027.pdf",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "scores": {
    "relevanz": 4,
    "zugang": 2,
@@ -807,7 +1091,7 @@
   "name": "Bauindustrie meets Startups 2027",
   "format": "Pitch-Format",
   "veranstalter": "Bayerischer Bauindustrieverband (BBIV)",
-  "ort": "Bayern (Ort zu prüfen)",
+  "ort": "Bayern (Ort nicht veröffentlicht)",
   "land": "DE",
   "region": "Bayern",
   "start": "2027-03-04",
@@ -825,7 +1109,7 @@
    "Besuch"
   ],
   "quelle": "https://ed.tum.de/en/ppe/home",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "de",
   "scores": {
    "relevanz": 4,
@@ -855,7 +1139,7 @@
   "turnus": "jährlich",
   "zeitraum": "Anfang März",
   "status": "bestätigt",
-  "anmeldeschluss": "2026-10-31",
+  "anmeldeschluss": null,
   "anmeldung": "Tickets online",
   "kosten": "kostenpflichtig",
   "zielgruppe": "PV-Industrie, Forschung, Planer",
@@ -865,7 +1149,7 @@
    "Besuch"
   ],
   "quelle": "https://www.pv-symposium.de/",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "de",
   "scores": {
    "relevanz": 4,
@@ -873,7 +1157,6 @@
    "aufwand": 3,
    "verlaesslichkeit": 5
   },
-  "frist_art": "Günstiges Frühbucher-Ticket",
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
@@ -882,6 +1165,46 @@
    50.1378,
    10.993
   ]
+ },
+ {
+  "id": "ideenreich-2027",
+  "name": "Prämierung Businessplan-Wettbewerb Ideenreich 2027",
+  "format": "Pitch- und Prämierungsabend",
+  "veranstalter": "BayStartUP mit Partnern in Niederbayern",
+  "ort": "Passau",
+  "land": "DE",
+  "region": "Bayern (Niederbayern)",
+  "rubrik": "region",
+  "start": "2027-03-09",
+  "ende": "2027-03-09",
+  "turnus": "jährlich (2025/2026 im Rahmen des Niederbayerischen Gründungstags)",
+  "zeitraum": "März, 18–22 Uhr",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über baystartup.de",
+  "kosten": "kostenlos",
+  "zielgruppe": "Gründende, Start-ups, regionale Unternehmen und Netzwerkpartner",
+  "fokus": "Gründungsprojekte aus Niederbayern, Businessplan-Wettbewerb",
+  "begruendung": "Gibt einen kompakten Überblick über junge Unternehmen aus Niederbayern, darunter mögliche Partner für Fertigung, Handwerk und Energie.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.baystartup.de/termine",
+  "geprueft": "2026-11-02",
+  "geo": [
+   48.5667,
+   13.4319
+  ],
+  "gesamt": 3.6,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
  },
  {
   "rubrik": "eu",
@@ -907,7 +1230,7 @@
    "Besuch"
   ],
   "quelle": "https://www.key-expo.com/en",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "scores": {
    "relevanz": 3,
    "zugang": 3,
@@ -922,6 +1245,47 @@
    44.056,
    12.62
   ]
+ },
+ {
+  "id": "salz-2027",
+  "name": "SALZ – Festival für Innovation und Technologie 2027",
+  "format": "Innovationsfestival mit Start-up-Pitches und Expo",
+  "veranstalter": "Messezentrum Salzburg mit Innovation Salzburg",
+  "ort": "Messezentrum Salzburg",
+  "land": "AT",
+  "region": "Österreich (Salzburg)",
+  "rubrik": "eu",
+  "start": "2027-03-10",
+  "ende": "2027-03-11",
+  "turnus": "jährlich",
+  "zeitraum": "März",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "über salzfestival.at – Termin zu prüfen",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Industrie, KMU, Start-ups, Forschung, Investoren",
+  "fokus": "Industry meets Startups",
+  "begruendung": "Das grenznahe Format bringt Industrie mit Start-ups für Pilotprojekte in Fertigung und Energie zusammen.",
+  "rolle": [
+   "Besuch",
+   "Challenge einbringen"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.innovation-salzburg.at/en/salz-2026/",
+  "geprueft": "2026-11-02",
+  "geo": [
+   47.8095,
+   13.055
+  ],
+  "gesamt": 3.5,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
  },
  {
   "id": "zukunft-handwerk-2027",
@@ -947,7 +1311,7 @@
    "Aussteller"
   ],
   "quelle": "https://www.messen.de/de/21748/muenchen/zukunft-handwerk/info",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "de",
   "scores": {
    "relevanz": 4,
@@ -965,6 +1329,126 @@
   ]
  },
  {
+  "id": "ish-2027",
+  "name": "ISH 2027 mit Startup@ISH",
+  "format": "Weltleitmesse mit Start-up-Bereich",
+  "veranstalter": "Messe Frankfurt",
+  "ort": "Messe Frankfurt",
+  "land": "DE",
+  "region": "Hessen",
+  "rubrik": "de",
+  "start": "2027-03-15",
+  "ende": "2027-03-19",
+  "turnus": "zweijährlich",
+  "zeitraum": "März",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets über den Veranstalter; Start-ups bewerben sich beim VdZ",
+  "kosten": "Besuch kostenpflichtig",
+  "zielgruppe": "Gebäude- und Energietechnik, Sanitär, Handwerk, Start-ups",
+  "fokus": "Gebäudeenergie, Wärmepumpen, Wasser- und Sanitärtechnik",
+  "begruendung": "Start-ups aus Gebäudeenergie und Wassertechnik bieten Schnittstellen zu Solar, Dachentwässerung und Handwerkerlösungen.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 3,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://ish.messefrankfurt.com/content/dam/messefrankfurt-redaktion/ish/2027/documents/en/ish27-offer-startup-en.pdf",
+  "geprueft": "2026-11-02",
+  "geo": [
+   50.1109,
+   8.6821
+  ],
+  "gesamt": 3.5,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "demo-night-nuernberg-2027-03",
+  "name": "Nürnberger Startup Demo Night 2027 (Prämierung Phase 1 BPW Nordbayern)",
+  "format": "Demo Night / Pitch",
+  "veranstalter": "BayStartUP",
+  "ort": "Nürnberg",
+  "land": "DE",
+  "region": "Bayern (Mittelfranken)",
+  "rubrik": "de",
+  "start": "2027-03-16",
+  "ende": "2027-03-16",
+  "turnus": "jährlich",
+  "zeitraum": "März, 18–22 Uhr",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über baystartup.de",
+  "kosten": "kostenlos",
+  "zielgruppe": "Start-ups, Investoren, Unternehmen",
+  "fokus": "Start-up-Ausstellung und Prämierung des Businessplan-Wettbewerbs Nordbayern",
+  "begruendung": "Guter Überblick über junge Unternehmen aus Nordbayern mit überschaubarem Aufwand ab Ostbayern.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.baystartup.de/termine",
+  "geprueft": "2026-11-02",
+  "geo": [
+   49.4521,
+   11.0767
+  ],
+  "gesamt": 3.6,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
+  "id": "solar-solutions-2027",
+  "name": "Solar Solutions International 2027",
+  "format": "Fachmesse für Solar und Speicher",
+  "veranstalter": "Solar Solutions",
+  "ort": "Expo Greater Amsterdam, Vijfhuizen",
+  "land": "NL",
+  "region": "Niederlande (Nordholland)",
+  "rubrik": "eu",
+  "start": "2027-03-16",
+  "ende": "2027-03-18",
+  "turnus": "jährlich",
+  "zeitraum": "März",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Besucherregistrierung über solarsolutions.nl – Termin zu prüfen",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Solarinstallateure, Großhandel, Hersteller",
+  "fokus": "Photovoltaik, Speicher, Montagelösungen",
+  "begruendung": "Zeigt viele Neuheiten zu Photovoltaik und Montagesystemen für Dächer und gibt Einblick in einen wichtigen Installationsmarkt.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 2,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://en.solarsolutions.nl/",
+  "geprueft": "2026-11-02",
+  "geo": [
+   52.3676,
+   4.9041
+  ],
+  "gesamt": 3.1,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "rubrik": "noneu",
   "id": "start-summit-2027",
   "name": "START Summit 2027",
@@ -978,7 +1462,7 @@
   "turnus": "jährlich",
   "zeitraum": "März",
   "status": "bestätigt",
-  "anmeldeschluss": null,
+  "anmeldeschluss": "2026-12-03",
   "anmeldung": "Tickets online",
   "kosten": "kostenpflichtig",
   "zielgruppe": "Early-Stage-Start-ups, Investoren, Unternehmen",
@@ -987,8 +1471,8 @@
   "rolle": [
    "Besuch"
   ],
-  "quelle": "https://dealroom.co/events/start-summit-2027/",
-  "geprueft": "2026-10-28",
+  "quelle": "https://startglobal.org/start-summit/pitching-competition",
+  "geprueft": "2026-11-02",
   "scores": {
    "relevanz": 2,
    "zugang": 4,
@@ -1002,7 +1486,48 @@
   "geo": [
    47.4245,
    9.3767
-  ]
+  ],
+  "frist_art": "Frühbucherpreis für Tickets (First Release)"
+ },
+ {
+  "id": "bausymposium-thd-2027",
+  "name": "Deggendorfer Bau- und Umweltsymposium 2027",
+  "format": "Fachsymposium (vor Ort und online)",
+  "veranstalter": "Fakultät Bauingenieurwesen und Umwelttechnik der TH Deggendorf",
+  "ort": "Campus TH Deggendorf",
+  "land": "DE",
+  "region": "Bayern (Niederbayern)",
+  "rubrik": "region",
+  "start": "2027-03-19",
+  "ende": "2027-03-19",
+  "turnus": "jährlich (2026: 25. Ausgabe am 20.03.)",
+  "zeitraum": "Mitte März, Freitag",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "2026 über eveeno – zu prüfen",
+  "kosten": "2026: 75 € für externe Teilnehmende",
+  "zielgruppe": "Bauwirtschaft, Planende, Behörden, Studierende",
+  "fokus": "Bautechnik, Baurecht, Nachhaltigkeit und Digitalisierung im Bau",
+  "begruendung": "Fachlicher Austausch zu nachhaltigem und digitalem Bauen mit Bezug zu Dach und Entwässerung sowie Kontakt zur Bau-Fakultät der Hochschule.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://th-deg.de/de/Presseartikel?id=43004457",
+  "geprueft": "2026-11-02",
+  "geo": [
+   48.84,
+   12.9606
+  ],
+  "gesamt": 3.5,
+  "prioritaet": "B",
+  "kategorie": "Sonstiges",
+  "archiv": false
  },
  {
   "id": "hannover-messe-2027",
@@ -1043,6 +1568,46 @@
    52.32,
    9.81
   ]
+ },
+ {
+  "id": "construction-summit-2027",
+  "name": "Construction Summit & Proptech Summit 2027",
+  "format": "Fachmesse und Konferenz (ConTech)",
+  "veranstalter": "zu prüfen",
+  "ort": "Schuppen 52, Hamburg",
+  "land": "DE",
+  "region": "Hamburg",
+  "rubrik": "de",
+  "start": "2027-04-14",
+  "ende": "2027-04-15",
+  "turnus": "jährlich",
+  "zeitraum": "April",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets über constructionsummit.de",
+  "kosten": "kostenpflichtig",
+  "zielgruppe": "Bauunternehmen, Auftraggeber, ConTech-Anbieter, Start-ups",
+  "fokus": "Digitalisierung, Nachhaltigkeit und Innovation in der Bauindustrie",
+  "begruendung": "ConTech-Start-ups für digitale Planung, Baustellenprozesse und Nachhaltigkeit bieten Ansatzpunkte für Dach- und Solarmontage sowie den Vertrieb.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 4,
+   "zugang": 4,
+   "aufwand": 2,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.messen.de/de/21753/hamburg/construction-summit/info",
+  "geprueft": "2026-11-02",
+  "geo": [
+   53.5511,
+   9.9937
+  ],
+  "gesamt": 3.5,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "id": "startup-factory-ndb-2027",
@@ -1126,6 +1691,46 @@
   ]
  },
  {
+  "id": "futurebuild-2027",
+  "name": "Futurebuild 2027",
+  "format": "Fachmesse und Konferenz für nachhaltiges Bauen",
+  "veranstalter": "Futurebuild",
+  "ort": "ExCeL London",
+  "land": "GB",
+  "region": "Vereinigtes Königreich (London)",
+  "rubrik": "noneu",
+  "start": "2027-05-11",
+  "ende": "2027-05-13",
+  "turnus": "jährlich",
+  "zeitraum": "Mai",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Registrierung für 2027 noch nicht offen",
+  "kosten": "Besuch kostenlos",
+  "zielgruppe": "Architekten, Planer, Bauunternehmen, Hersteller, Start-ups",
+  "fokus": "Nachhaltiges Bauen, Dekarbonisierung, Baustoffe",
+  "begruendung": "Behandelt Dekarbonisierung, Gebäudehülle und Energie mit Bezug zu Dach, Solar und EPD-Nachweisen.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.futurebuild.co.uk/faqs",
+  "geprueft": "2026-11-02",
+  "geo": [
+   51.508,
+   0.029
+  ],
+  "gesamt": 3.1,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "sensor-test-2027",
   "name": "SENSOR+TEST 2027",
   "format": "Fachmesse",
@@ -1206,6 +1811,46 @@
   ]
  },
  {
+  "id": "demo-night-muenchen-2027-06",
+  "name": "Startup Demo Night München 2027 (Prämierung Phase 2 Münchener BPW)",
+  "format": "Demo Night / Pitch",
+  "veranstalter": "BayStartUP",
+  "ort": "Werk1, München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2027-06-01",
+  "ende": "2027-06-01",
+  "turnus": "halbjährlich",
+  "zeitraum": "Juni, 18–22 Uhr",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über baystartup.de",
+  "kosten": "kostenlos",
+  "zielgruppe": "Start-ups, Investoren, Unternehmen",
+  "fokus": "Start-up-Ausstellung und Prämierung des Münchener Businessplan-Wettbewerbs",
+  "begruendung": "Breiter Querschnitt bayerischer Start-ups, darunter Lösungen für Bau, Energie und Fertigung.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.baystartup.de/termine",
+  "geprueft": "2026-11-02",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 3.6,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
   "id": "intersolar-2027",
   "name": "Intersolar Europe / The smarter E Europe 2027",
   "format": "Leitmesse mit Start-up-Bereich",
@@ -1246,6 +1891,46 @@
    48.135,
    11.69
   ]
+ },
+ {
+  "id": "entrepreneurship-day-passau-2027",
+  "name": "Entrepreneurship Day (E'Day) 2027 der Universität Passau",
+  "format": "Netzwerk- und Gründungsveranstaltung",
+  "veranstalter": "Universität Passau, Digitalisation Hub (PATEC)",
+  "ort": "Universität Passau",
+  "land": "DE",
+  "region": "Bayern (Niederbayern)",
+  "rubrik": "region",
+  "start": "2027-06-10",
+  "ende": "2027-06-10",
+  "turnus": "jährlich im Sommersemester",
+  "zeitraum": "Juni (2026: 11.06.)",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "über uni-passau.de/e-day – zu prüfen",
+  "kosten": "kostenfrei (2026)",
+  "zielgruppe": "Gründungsinteressierte, Start-ups, regionale Unternehmen",
+  "fokus": "Austausch Wissenschaft und Wirtschaft, Gründung",
+  "begruendung": "Eignet sich zum Kontaktaufbau mit dem Gründungsumfeld in Passau, für Dach- und Solarthemen aber nur am Rand relevant.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.uni-passau.de/en/calendar-of-events/detail/event/entrepreneurship-day-2026",
+  "geprueft": "2026-11-02",
+  "geo": [
+   48.5667,
+   13.4319
+  ],
+  "gesamt": 2.9,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
+  "archiv": false
  },
  {
   "rubrik": "eu",
@@ -1420,7 +2105,7 @@
   "ende": "2027-06-24",
   "turnus": "jährlich",
   "zeitraum": "Juni",
-  "status": "geschätzt",
+  "status": "bestätigt",
   "anmeldeschluss": null,
   "anmeldung": "Termin laut Messeverzeichnis geplant – zu prüfen",
   "kosten": "k. A.",
@@ -1430,8 +2115,8 @@
   "rolle": [
    "Besuch"
   ],
-  "quelle": "https://www.excel.london/whats-on/digital-construction-week-2026",
-  "geprueft": "2026-10-28",
+  "quelle": "https://www.digitalconstructionweek.com/",
+  "geprueft": "2026-11-02",
   "scores": {
    "relevanz": 3,
    "zugang": 3,
@@ -1581,7 +2266,7 @@
   "ende": "2027-09-29",
   "turnus": "jährlich",
   "zeitraum": "Ende September (Oktoberfestzeit)",
-  "status": "geschätzt",
+  "status": "bestätigt",
   "anmeldeschluss": null,
   "anmeldung": "Termin aus Vorjahr geschätzt (28.–30.09.2026)",
   "kosten": "kostenpflichtig",
@@ -1591,8 +2276,8 @@
   "rolle": [
    "Besuch"
   ],
-  "quelle": "https://www.invest-in-bavaria.com/en/info-centre/events/detail/bits-pretzels-founders-festival-2026",
-  "geprueft": "2026-10-28",
+  "quelle": "https://www.bitsandpretzels.com/",
+  "geprueft": "2026-11-02",
   "rubrik": "de",
   "scores": {
    "relevanz": 2,
@@ -1648,6 +2333,46 @@
    49.7384,
    13.3736
   ]
+ },
+ {
+  "id": "expo-real-2027",
+  "name": "EXPO REAL 2027 mit Bereich Transform & Beyond",
+  "format": "Immobilienfachmesse mit Innovationsbereich",
+  "veranstalter": "Messe München",
+  "ort": "Messe München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2027-10-04",
+  "ende": "2027-10-06",
+  "turnus": "jährlich",
+  "zeitraum": "Anfang Oktober",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets über exporeal.net",
+  "kosten": "Besuch kostenpflichtig",
+  "zielgruppe": "Immobilienwirtschaft, Projektentwickler, Investoren, PropTech",
+  "fokus": "Dekarbonisierung und Digitalisierung von Gebäuden",
+  "begruendung": "Start-ups zu Dekarbonisierung und Energieversorgung von Gebäuden mit Bezug zu Solar auf dem Dach und CO₂-Nachweisen.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://exporeal.net/en/trade-fair/press/press-releases/detail/final-report-expo-real-2026.html",
+  "geprueft": "2026-11-02",
+  "geo": [
+   48.135,
+   11.69
+  ],
+  "gesamt": 3.3,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "id": "startup-trifft-handwerk-2027",
@@ -1851,11 +2576,51 @@
   ]
  },
  {
+  "id": "gruendernacht-landshut-2027",
+  "name": "Landshuter Gründernacht 2027 mit Landshuter Gründerpreis",
+  "format": "Pitch-Abend mit Preisverleihung",
+  "veranstalter": "Gründerzentrum der Hochschule Landshut",
+  "ort": "Hochschule Landshut",
+  "land": "DE",
+  "region": "Bayern (Niederbayern)",
+  "rubrik": "region",
+  "start": "2027-10-28",
+  "ende": "2027-10-28",
+  "turnus": "jährlich",
+  "zeitraum": "Ende Oktober bis Mitte November",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung erforderlich – Termin zu prüfen",
+  "kosten": "kostenfrei",
+  "zielgruppe": "Start-ups, Gründungsinteressierte, regionale Wirtschaft",
+  "fokus": "Pitches der Finalteams des Gründerpreises, Networking",
+  "begruendung": "Bietet Zugang zu technischen Gründungsteams aus dem Hochschulumfeld Landshut für mögliche Kooperationen in Fertigung und Energie.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://diesunddas-onlinejournal.de/landshuter-gruendernacht-2026-ein-raum-fuer-innovationen/",
+  "geprueft": "2026-11-02",
+  "geo": [
+   48.537,
+   12.1522
+  ],
+  "gesamt": 3.5,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
   "id": "b2b-demoday-2027",
   "name": "Startup meets Mittelstand: B2B-DemoDay 2027",
   "format": "Demo Day / Matchmaking",
   "veranstalter": "BayStartUP mit IHKs und Bayern Innovativ",
-  "ort": "Bayern (Ort zu prüfen)",
+  "ort": "Bayern (wechselnde IHK-Standorte)",
   "land": "DE",
   "region": "Bayern",
   "start": "2027-10-28",
@@ -1874,7 +2639,7 @@
    "Besuch"
   ],
   "quelle": "https://www.bayern-innovativ.de/en/events-dates/detail/start-ups-meets-mittelstand-beim-b2b-demoday",
-  "geprueft": "2026-10-28",
+  "geprueft": "2026-11-02",
   "rubrik": "de",
   "scores": {
    "relevanz": 4,
@@ -2051,6 +2816,46 @@
    48.1374,
    11.5755
   ]
+ },
+ {
+  "id": "sps-2027",
+  "name": "SPS – Smart Production Solutions 2027",
+  "format": "Fachmesse mit Start-up-Bereich",
+  "veranstalter": "Mesago Messe Frankfurt",
+  "ort": "NürnbergMesse",
+  "land": "DE",
+  "region": "Bayern (Mittelfranken)",
+  "rubrik": "de",
+  "start": "2027-11-23",
+  "ende": "2027-11-25",
+  "turnus": "jährlich",
+  "zeitraum": "Ende November",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Besucherticket über den Veranstalter",
+  "kosten": "Besuch kostenpflichtig",
+  "zielgruppe": "Industrie und Fertigung, Automatisierungsanbieter, Start-ups",
+  "fokus": "Industrielle Automatisierung, Digitalisierung der Produktion",
+  "begruendung": "Bündelt Automatisierungs- und Digitalisierungslösungen für Fertigung, Blechbearbeitung und Verzinkung.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/fileadmin/Media/Veranstaltungen/Messe/Messe-2027/Allgemein/2027-messeprogramm-bayern-innovativ.pdf",
+  "geprueft": "2026-11-02",
+  "geo": [
+   49.413,
+   11.117
+  ],
+  "gesamt": 3.6,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "id": "startup-factory-2027",
@@ -2252,6 +3057,46 @@
    48.1575,
    14.0289
   ]
+ },
+ {
+  "id": "light-building-2028",
+  "name": "Light + Building 2028",
+  "format": "Weltleitmesse (2026 erstmals mit Startup Area)",
+  "veranstalter": "Messe Frankfurt",
+  "ort": "Messe Frankfurt",
+  "land": "DE",
+  "region": "Hessen",
+  "rubrik": "de",
+  "start": "2028-03-05",
+  "ende": "2028-03-10",
+  "turnus": "zweijährlich",
+  "zeitraum": "März",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets über den Veranstalter; Startup Area 2028 zu prüfen",
+  "kosten": "Besuch kostenpflichtig",
+  "zielgruppe": "Elektro- und Gebäudetechnik, Planer, Handwerk, Start-ups",
+  "fokus": "Gebäudeautomation, Energiemanagement",
+  "begruendung": "Start-ups aus Gebäudeautomation und Energiemanagement bieten Schnittstellen zu PV-Anlagen auf dem Dach und zum Elektrohandwerk.",
+  "rolle": [
+   "Besuch"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://technology.messefrankfurt.com/content/dam/messefrankfurt-redaktion/light-building/2028/press/press-releases/lb28-light-expo-london-de.pdf",
+  "geprueft": "2026-11-02",
+  "geo": [
+   50.1109,
+   8.6821
+  ],
+  "gesamt": 3.0,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "id": "dach-holz-2028",
