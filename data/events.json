@@ -81,6 +81,46 @@
   ]
  },
  {
+  "id": "groundbreakers-summit-2026",
+  "name": "GROUNDBREAKERS Summit 2026",
+  "format": "Start-up-Gipfel (ConTech) mit Pitches",
+  "veranstalter": "GROUNDBREAKERS (ConTech-Accelerator der Bau- und Immobilienwirtschaft, Stuttgart)",
+  "ort": "Halle 93, Zeppelinstraße 6, Stuttgart",
+  "land": "DE",
+  "region": "Baden-Württemberg (Stuttgart)",
+  "start": "2026-11-05",
+  "ende": "2026-11-05",
+  "turnus": "jährlich",
+  "zeitraum": "Anfang November (13:00–20:00 Uhr)",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets über Eventbrite (verlinkt auf groundbreakers.io/events)",
+  "kosten": "Tickets über Eventbrite, Preise dort",
+  "zielgruppe": "ConTech-Start-ups, Unternehmen der Bau- und Gebäudewirtschaft, Investoren, Hochschulen, Verbände",
+  "fokus": "Grüne und digitale Innovationen für die Bauwirtschaft – Start-ups, Unternehmen und Investoren zu neuen Technologien",
+  "begruendung": "Großer ConTech-Treffpunkt in Süddeutschland mit Start-ups aus Planung, Bau und Betrieb – direkter Zugang für Pilotprojekte rund um Dach, Solar und Bauprodukte.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.groundbreakers.io/events",
+  "geprueft": "2026-11-03",
+  "rubrik": "de",
+  "scores": {
+   "relevanz": 5,
+   "zugang": 5,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "geo": [
+   48.69,
+   9.19
+  ],
+  "gesamt": 4.5,
+  "prioritaet": "A",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
   "rubrik": "eu",
   "id": "web-summit-2026",
   "name": "Web Summit 2026",
@@ -241,6 +281,46 @@
   "archiv": false
  },
  {
+  "id": "innovationstag-bauen-der-zukunft-berlin-2026",
+  "name": "Innovationstag „Bauen der Zukunft“ Berlin 2026",
+  "format": "Fachkonferenz & Ausstellung",
+  "veranstalter": "Bauen der Zukunft BdZ GmbH",
+  "ort": "Vertretung des Landes Niedersachsen beim Bund, In den Ministergärten 10, Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "start": "2026-11-13",
+  "ende": "2026-11-13",
+  "turnus": "mehrmals jährlich an wechselnden Orten",
+  "zeitraum": "Mitte November",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "nur Fachbesucher, Anmeldung beim Veranstalter",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Entscheider aus Bau, Architektur, Brandschutz, Kommunen und Industrie",
+  "fokus": "Holzbau, Beton, Kreislaufwirtschaft, Digitalisierung, Nachhaltigkeit, Brandschutz",
+  "begruendung": "Kuratierter Fachtag zu neuen Bauweisen und Materialien – Überblick über Innovationen für Bauprodukte und Nachhaltigkeit.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.messen.de/de/24368/berlin/innovationstag-bauen-der-zukunft-berlin/info",
+  "geprueft": "2026-11-03",
+  "rubrik": "de",
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 2,
+   "verlaesslichkeit": 3
+  },
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "startup-night-weiden-2026",
   "name": "Inspiration & StartUp Night 2026",
   "format": "Netzwerk / Barcamp",
@@ -360,6 +440,46 @@
    49.003,
    12.0958
   ]
+ },
+ {
+  "id": "klimafestival-bauwende-2026",
+  "name": "Klimafestival für die Bauwende 2026",
+  "format": "Festival mit Start-up-Area und Panels",
+  "veranstalter": "BauNetz / Heinze",
+  "ort": "STATION Berlin, Luckenwalder Str. 4–6, Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "start": "2026-11-18",
+  "ende": "2026-11-19",
+  "turnus": "jährlich",
+  "zeitraum": "Mitte/Ende November",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets online",
+  "kosten": "79 € pro Tag, 99 € für beide Tage; Studierende kostenfrei (Code STUDI100)",
+  "zielgruppe": "Alle Beteiligten am Bau, ausdrücklich auch Studierende",
+  "fokus": "Nachhaltiges Bauen: Rohstoffe, Ressourcenschonung, Sanierung, Kreislaufwirtschaft; Startup Area von GROUNDBREAKERS und BDBau",
+  "begruendung": "Breiter Bauwende-Treff mit eigener Start-up-Area – relevant für Kreislaufwirtschaft, CO₂-Nachweise und nachhaltige Bauprodukte.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://klimafestival.heinze.de/de",
+  "geprueft": "2026-11-03",
+  "rubrik": "de",
+  "scores": {
+   "relevanz": 4,
+   "zugang": 3,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 3.3,
+  "prioritaet": "B",
+  "kategorie": "Start-up-Festival",
+  "archiv": false
  },
  {
   "rubrik": "eu",
@@ -682,6 +802,46 @@
    49.0062,
    12.1093
   ]
+ },
+ {
+  "id": "hi-tech-match-2026-11",
+  "name": "Hi Tech! Match – internationale ConTech-Start-ups",
+  "format": "Pitch-Abend",
+  "veranstalter": "Wirtschaftsförderung Region Stuttgart und GROUNDBREAKERS",
+  "ort": "Das Gutbrod, Friedrichstraße 10, Stuttgart",
+  "land": "DE",
+  "region": "Baden-Württemberg (Stuttgart)",
+  "start": "2026-11-30",
+  "ende": "2026-11-30",
+  "turnus": "mehrmals jährlich (zuletzt 06.07.2026)",
+  "zeitraum": "16:30–20:00 Uhr",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "über die Terminseite der Wirtschaftsförderung Region Stuttgart (zu prüfen)",
+  "kosten": "nicht angegeben (zu prüfen)",
+  "zielgruppe": "ConTech-Unternehmen aus der Region Stuttgart",
+  "fokus": "Neun internationale ConTech-Start-ups pitchen, danach Networking mit den Gründern",
+  "begruendung": "Kompakter Abend mit kuratierten Bau-Start-ups aus dem Ausland – schneller Überblick über neue Lösungen für Planung, Bau und Material.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://it.region-stuttgart.de/termine/hi-tech-match-3-2-2/",
+  "geprueft": "2026-11-03",
+  "rubrik": "de",
+  "scores": {
+   "relevanz": 4,
+   "zugang": 4,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "geo": [
+   48.69,
+   9.19
+  ],
+  "gesamt": 3.7,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
  },
  {
   "id": "ultimate-demo-day-2026",
@@ -2133,6 +2293,47 @@
   ]
  },
  {
+  "id": "groundbreakers-demo-day-2027",
+  "name": "GROUNDBREAKERS Demo Day 2027",
+  "format": "Demo Day",
+  "veranstalter": "GROUNDBREAKERS",
+  "ort": "Stuttgart",
+  "land": "DE",
+  "region": "Baden-Württemberg (Stuttgart)",
+  "start": "2027-06-24",
+  "ende": "2027-06-24",
+  "turnus": "zum Abschluss des Accelerator-Durchgangs (2026: 25.06.)",
+  "zeitraum": "Ende Juni",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "zu prüfen",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Partnerunternehmen, Investoren, Bau- und Immobilienwirtschaft",
+  "fokus": "Pre-Seed-Start-ups aus ConTech und PropTech präsentieren Ergebnisse ihrer Pilotprojekte",
+  "begruendung": "Start-ups zeigen konkrete Pilotprojekte mit Bauunternehmen – guter Einblick, welche Lösungen für Bauprodukte und Montage schon funktionieren.",
+  "rolle": [
+   "Besuch",
+   "Challenge einbringen"
+  ],
+  "quelle": "https://www.groundbreakers.io/en",
+  "geprueft": "2026-11-03",
+  "rubrik": "de",
+  "scores": {
+   "relevanz": 5,
+   "zugang": 4,
+   "aufwand": 3,
+   "verlaesslichkeit": 2
+  },
+  "geo": [
+   48.69,
+   9.19
+  ],
+  "gesamt": 4.0,
+  "prioritaet": "A",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
   "id": "innovationskongress-2027",
   "name": "4. Regensburger Innovationskongress",
   "format": "Innovationskongress",
@@ -2574,6 +2775,46 @@
    48.69,
    9.19
   ]
+ },
+ {
+  "id": "groundbreakers-summit-2027",
+  "name": "GROUNDBREAKERS Summit 2027",
+  "format": "Start-up-Gipfel (ConTech) mit Pitches",
+  "veranstalter": "GROUNDBREAKERS (ConTech-Accelerator, Stuttgart)",
+  "ort": "Stuttgart (Ort folgt)",
+  "land": "DE",
+  "region": "Baden-Württemberg (Stuttgart)",
+  "start": "2027-10-28",
+  "ende": "2027-10-28",
+  "turnus": "jährlich",
+  "zeitraum": "Ende Oktober / Anfang November",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Save the Date – Tickets folgen auf groundbreakers.io",
+  "kosten": "noch nicht veröffentlicht",
+  "zielgruppe": "ConTech-Start-ups, Bau- und Gebäudewirtschaft, Investoren",
+  "fokus": "Innovationen für die Bauwirtschaft, Start-ups trifft Industrie",
+  "begruendung": "Jährlicher Branchentreff der ConTech-Szene – Pflichttermin für Kontakte zu Bau-Start-ups.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.groundbreakers.io/events",
+  "geprueft": "2026-11-03",
+  "rubrik": "de",
+  "scores": {
+   "relevanz": 5,
+   "zugang": 5,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "geo": [
+   48.69,
+   9.19
+  ],
+  "gesamt": 4.5,
+  "prioritaet": "A",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
  },
  {
   "id": "gruendernacht-landshut-2027",
