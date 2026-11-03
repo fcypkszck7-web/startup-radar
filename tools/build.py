@@ -262,6 +262,7 @@ def berechne(events, startups, heute, orte=None):
         s["geo"] = g if isinstance(g, list) else None
         s["prioritaet"] = prioritaet_startup(s["relevanz"], s["aufwand"])
         s["quickwin"] = s["relevanz"] >= 4 and s["aufwand"] <= 2
+        s["fokus"] = s["relevanz"] >= 3
     startups.sort(key=lambda s: (s["prioritaet"], -s["relevanz"], s["aufwand"], s["name"]))
     return neu_archiviert, ohne_geo
 

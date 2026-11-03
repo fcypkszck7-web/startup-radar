@@ -112,8 +112,8 @@
    "verlaesslichkeit": 4
   },
   "geo": [
-   48.69,
-   9.19
+   48.7758,
+   9.1829
   ],
   "gesamt": 4.5,
   "prioritaet": "A",
@@ -281,6 +281,44 @@
   "archiv": false
  },
  {
+  "id": "startup-trifft-mittelstand-bw-2026",
+  "name": "#StartupTrifftMittelstand 2026",
+  "format": "Matchmaking",
+  "veranstalter": "Industrie- und Handelskammern in Baden-Württemberg",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Baden-Württemberg (online)",
+  "rubrik": "de",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "turnus": "jährlich (seit 2022)",
+  "zeitraum": "November",
+  "status": "bestätigt",
+  "anmeldung": "Registrierung auf startup-trifft-mittelstand.de",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Mittelständische Unternehmen und Start-ups",
+  "fokus": "KI-Lösungen für mehr Resilienz; Keynote, Pitches von zwölf ausgewählten Start-ups, Matchmaking und 1:1-Gespräche",
+  "begruendung": "Online und ohne Reiseaufwand: zwölf kuratierte Start-ups für den Mittelstand plus Matching-Plattform für Folgegespräche.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.ihk.de/bodensee-oberschwaben/gruendung-und-foerderung/news/startuptrifftmittelstand-2026-7085890",
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": null,
+  "online": true,
+  "gesamt": 3.8,
+  "prioritaet": "B",
+  "kategorie": "Matchmaking",
+  "archiv": false
+ },
+ {
   "id": "innovationstag-bauen-der-zukunft-berlin-2026",
   "name": "Innovationstag „Bauen der Zukunft“ Berlin 2026",
   "format": "Fachkonferenz & Ausstellung",
@@ -359,6 +397,86 @@
    49.6769,
    12.1561
   ]
+ },
+ {
+  "id": "axel-demo-day-2026-11",
+  "name": "AXEL Energie-Accelerator: Demo Day #17",
+  "format": "Demo Day",
+  "veranstalter": "AXEL – Der Energie-Accelerator",
+  "ort": "Hochschule Karlsruhe",
+  "land": "DE",
+  "region": "Baden-Württemberg (Karlsruhe)",
+  "rubrik": "de",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "turnus": "zum Abschluss jedes Team-Trainings (etwa halbjährlich)",
+  "zeitraum": "Mitte November",
+  "status": "bestätigt",
+  "anmeldung": "über den Veranstaltungskalender von Start-up BW",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Energie-Start-ups, Unternehmen, Investoren",
+  "fokus": "Start-ups mit Lösungen für die Energiewende präsentieren sich nach dem Team-Training",
+  "begruendung": "Kompakter Überblick über junge Energie-Lösungen, darunter PV und Gebäudeenergie – Ansatzpunkte für Solar-Kooperationen.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.startupbw.de/events-wettbewerbe/landesweiter-veranstaltungskalender",
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   49.0069,
+   8.4037
+  ],
+  "gesamt": 3.2,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
+  "id": "formnext-2026",
+  "name": "Formnext 2026",
+  "format": "Fachmesse mit Start-up-Bereich",
+  "veranstalter": "Mesago Messe Frankfurt",
+  "ort": "Messe Frankfurt",
+  "land": "DE",
+  "region": "Hessen (Frankfurt)",
+  "rubrik": "de",
+  "start": "2026-11-17",
+  "ende": "2026-11-20",
+  "turnus": "jährlich",
+  "zeitraum": "Mitte November",
+  "status": "bestätigt",
+  "anmeldung": "Tickets online",
+  "kosten": "kostenpflichtig",
+  "zielgruppe": "Industrie, Fertigung, Konstruktion",
+  "fokus": "Additive Fertigung und industrieller 3D-Druck, auch für Metallbauteile; Start-up-Bereich (zu prüfen)",
+  "begruendung": "Leitmesse für additive Fertigung – Einblick in neue Fertigungsverfahren für Metallteile und Prototypen.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://bulkinside.com/events/formnext-2026/",
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 5
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   50.1109,
+   8.6821
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "id": "gruendungstag-deggendorf-2026",
@@ -835,8 +953,8 @@
    "verlaesslichkeit": 3
   },
   "geo": [
-   48.69,
-   9.19
+   48.7758,
+   9.1829
   ],
   "gesamt": 3.7,
   "prioritaet": "B",
@@ -1851,6 +1969,46 @@
   ]
  },
  {
+  "id": "ecosummit-berlin-2027",
+  "name": "Ecosummit.AI Berlin 2027",
+  "format": "Investoren- und Start-up-Konferenz mit Pitches",
+  "veranstalter": "Ecosummit",
+  "ort": "Flussbad, Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "rubrik": "de",
+  "start": "2027-05-11",
+  "ende": "2027-05-11",
+  "turnus": "jährlich",
+  "zeitraum": "Mai",
+  "status": "bestätigt",
+  "anmeldung": "Tickets online; Start-ups bewerben sich mit Pitch-Deck",
+  "kosten": "Start-up-Ticket 750 € zzgl. MwSt.; weitere Tickets laut Ticketseite",
+  "zielgruppe": "Start-ups und Investoren aus Energie, Klima und Deep Tech (ca. 300 Teilnehmende)",
+  "fokus": "Kuratierte Pitches, Investoren-Matching, Corporate-Partnerschaften und M&A",
+  "begruendung": "Kleine, kuratierte Konferenz mit Energie- und Klima-Start-ups und ihren Investoren – gut für gezielte Kontakte.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://ecosummit.ai/",
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 3.2,
+  "prioritaet": "B",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
   "id": "futurebuild-2027",
   "name": "Futurebuild 2027",
   "format": "Fachmesse und Konferenz für nachhaltiges Bauen",
@@ -1969,6 +2127,46 @@
    48.1575,
    14.0289
   ]
+ },
+ {
+  "id": "berliner-energietage-2027",
+  "name": "Berliner ENERGIETAGE 2027",
+  "format": "Fachkonferenz",
+  "veranstalter": "Berliner ENERGIETAGE mit Bundesministerien, Energie- und Wohnungswirtschaft",
+  "ort": "Ludwig Erhard Haus, Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "rubrik": "de",
+  "start": "2027-05-25",
+  "ende": "2027-05-27",
+  "turnus": "jährlich",
+  "zeitraum": "Frühjahr (meist Mai)",
+  "status": "geschätzt",
+  "anmeldung": "zu prüfen",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Energie- und Wohnungswirtschaft, Politik, Forschung",
+  "fokus": "Energieeffizienz, Gebäudesanierung, erneuerbare Energien, Klimapolitik",
+  "begruendung": "Leitkonferenz der Energiewende mit Gebäudefokus – Trends zu Sanierung und PV im Bestand.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.messen.de/de/15715/berlin/berliner-energietage/info",
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 2.9,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
  },
  {
   "id": "demo-night-muenchen-2027-06",
@@ -2213,6 +2411,46 @@
   ]
  },
  {
+  "id": "tech-in-construction-2027",
+  "name": "Tech in Construction 2027",
+  "format": "Start-up-Messe (ConTech)",
+  "veranstalter": "Tech in Construction (Projektteam), u. a. mit Innovation Summit des Handwerks",
+  "ort": "ringberlin, Ringstraße 66, Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "rubrik": "de",
+  "start": "2027-06-22",
+  "ende": "2027-06-24",
+  "turnus": "jährlich (2026: 23.–25.06.)",
+  "zeitraum": "Juni",
+  "status": "geschätzt",
+  "anmeldung": "zu prüfen",
+  "kosten": "zu prüfen",
+  "zielgruppe": "Bauwirtschaft, Handwerk, ConTech-Start-ups (ca. 50 Aussteller)",
+  "fokus": "Prozesse, digitaler Vertrieb, Energie im Gebäude und smarte Technik am Bau",
+  "begruendung": "Reine ConTech-Start-up-Messe mit rund 50 Ausstellern – viele Lösungen für Handwerk, Vertrieb und Gebäudeenergie an einem Ort.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.messen.de/de/20635/berlin/tech-in-construction-berlin/info",
+  "scores": {
+   "relevanz": 4,
+   "zugang": 4,
+   "aufwand": 2,
+   "verlaesslichkeit": 3
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 3.5,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "denk-summit-2027",
   "name": "DENK.summit 2027",
   "format": "Start-up-Event mit Pitch-Wettbewerb",
@@ -2325,8 +2563,8 @@
    "verlaesslichkeit": 2
   },
   "geo": [
-   48.69,
-   9.19
+   48.7758,
+   9.1829
   ],
   "gesamt": 4.0,
   "prioritaet": "A",
@@ -2772,8 +3010,8 @@
   "kategorie": "Messe",
   "archiv": false,
   "geo": [
-   48.69,
-   9.19
+   48.6936,
+   9.1925
   ]
  },
  {
@@ -2808,8 +3046,8 @@
    "verlaesslichkeit": 4
   },
   "geo": [
-   48.69,
-   9.19
+   48.7758,
+   9.1829
   ],
   "gesamt": 4.5,
   "prioritaet": "A",
@@ -3376,8 +3614,8 @@
   "kategorie": "Messe",
   "archiv": false,
   "geo": [
-   48.69,
-   9.19
+   48.6936,
+   9.1925
   ]
  },
  {
@@ -3421,6 +3659,46 @@
   ]
  },
  {
+  "id": "bauma-2028",
+  "name": "bauma 2028 mit Start-up Area",
+  "format": "Leitmesse mit Start-up-Bereich",
+  "veranstalter": "Messe München",
+  "ort": "Messe München",
+  "land": "DE",
+  "region": "Bayern (München)",
+  "rubrik": "de",
+  "start": "2028-04-03",
+  "ende": "2028-04-09",
+  "turnus": "alle drei Jahre",
+  "zeitraum": "April",
+  "status": "bestätigt",
+  "anmeldung": "Tickets online; Anmeldung für die Start-up Area ab 06.04.2027",
+  "kosten": "kostenpflichtig",
+  "zielgruppe": "Bauwirtschaft, Baumaschinen, Baustoffindustrie (2025: 48 Start-ups in der Start-up Area)",
+  "fokus": "Klimaneutralität, vernetztes und nachhaltiges Bauen; Start-up-Pitches im bauma FORUM",
+  "begruendung": "Weltleitmesse der Bauwirtschaft mit eigener Start-up Area – breiter Blick auf Bau-Innovationen, kurze Anreise.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://bauma.de/en/trade-fair/program/start-up-area",
+  "scores": {
+   "relevanz": 3,
+   "zugang": 4,
+   "aufwand": 4,
+   "verlaesslichkeit": 5
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   48.135,
+   11.69
+  ],
+  "gesamt": 3.7,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "digitalbau-2028",
   "name": "digitalBAU 2028",
   "format": "Fachmesse",
@@ -3459,5 +3737,45 @@
    50.947,
    6.983
   ]
+ },
+ {
+  "id": "paintexpo-2028",
+  "name": "PaintExpo 2028",
+  "format": "Fachmesse",
+  "veranstalter": "PaintExpo (Messe Karlsruhe)",
+  "ort": "Messe Karlsruhe, Rheinstetten",
+  "land": "DE",
+  "region": "Baden-Württemberg (Karlsruhe)",
+  "rubrik": "de",
+  "start": "2028-04-25",
+  "ende": "2028-04-28",
+  "turnus": "alle zwei Jahre",
+  "zeitraum": "Ende April",
+  "status": "bestätigt",
+  "anmeldung": "nur Fachbesucher",
+  "kosten": "kostenpflichtig",
+  "zielgruppe": "Industrielle Lackier- und Beschichtungstechnik (ca. 425 Aussteller)",
+  "fokus": "Industrielle Lackiertechnik von der Vorbehandlung bis zur Prüfung, inkl. Automatisierung",
+  "begruendung": "Weltleitmesse für industrielle Beschichtung – neue Verfahren und Prüftechnik für beschichtete Metallteile.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.messen.de/de/10987/karlsruhe/paintexpo/info",
+  "scores": {
+   "relevanz": 3,
+   "zugang": 2,
+   "aufwand": 3,
+   "verlaesslichkeit": 5
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   49.0069,
+   8.4037
+  ],
+  "gesamt": 2.9,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
  }
 ]

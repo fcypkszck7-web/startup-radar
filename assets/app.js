@@ -17,13 +17,18 @@
   var WTAG_LANG = ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"];
   var FENSTER = [[3, "3 Monate"], [6, "6 Monate"], [12, "12 Monate"], [18, "18 Monate"]];
   var TITEL = { uebersicht: "Übersicht", termine: "Termine", startups: "Start-ups", kapital: "Kapital", archiv: "Archiv", merkliste: "Merkliste" };
-  var SU_REGIONEN = [["", "Alle"], ["Ostbayern", "Ostbayern"], ["Bayern", "Bayern"], ["Deutschland", "Deutschland"], ["Europa", "Europa"]];
+  var SU_REGIONEN = [["", "Alle Regionen"], ["Ostbayern", "Ostbayern"], ["Bayern", "Bayern"], ["Deutschland", "Deutschland"], ["Europa", "Europa"]];
   var SU_TEXT = {
     "": "Start-ups rund um Dach, Solar, Bau und Fertigung – von Ostbayern bis Europa. Je näher, desto geringer meist der Aufwand für eine Zusammenarbeit.",
     Ostbayern: "Regensburg, Oberpfalz und Niederbayern – kurze Wege, schnelle Piloten.",
     Bayern: "Übriges Bayern, vor allem München und Augsburg.",
-    Deutschland: "Start-ups aus dem übrigen Deutschland, deren Lösung besonders gut passt.",
+    Deutschland: "Start-ups aus dem übrigen Deutschland – von Stuttgart und Berlin bis ins Rheinland.",
     Europa: "Europäische Start-ups, vor allem aus Österreich, dem Baltikum, Skandinavien und den Niederlanden."
+  };
+  var UMFANG = [["fokus", "Fokus"], ["alle", "Alle Start-ups"]];
+  var UMFANG_TEXT = {
+    fokus: "Fokus: Start-ups mit direktem Bezug zu Dach, Solar, Entwässerung, Fertigung und Nachhaltigkeit (Relevanz 3 bis 5).",
+    alle: "Alle erfassten Start-ups aus Bau, Energie und Industrie – auch solche mit nur mittelbarem Bezug (Relevanz 1 bis 5)."
   };
   var SU_AKZENT = { "": "alle", Ostbayern: "region", Bayern: "bayern", Deutschland: "de", Europa: "eu" };
   var SUCHFELD_FARBE = {
@@ -76,7 +81,7 @@
     events: [], startups: [], meta: {}, hinweise: [], heute: heuteISO(), route: null, geladen: false,
     fenster: 6, heldPrio: { A: true, B: true, C: true },
     t: neuerFilter("liste"), a: neuerFilter("liste"),
-    s: { feld: "", region: "", q: "", merk: false },
+    s: { feld: "", region: "", q: "", merk: false, umfang: store.get("radar-su-umfang", "fokus") === "alle" ? "alle" : "fokus" },
     runden: [], investoren: [], logos: {}, k: { art: "", thema: "", nurRadar: false },
     liste: [], suListe: [], radare: [], druck: null, panel: null
   };
@@ -870,17 +875,23 @@
   /* ============================================================
      Start-ups
      ============================================================ */
-  function suUmfang(region) {
-    var r = region == null ? S.s.region : region;
-    return S.startups.filter(function (s) { return !r || s.region === r; });
+  function suUmfang(region, umfang) {
+    var r = region == null ? S.s.region : region, u = umfang || S.s.umfang;
+    return S.startups.filter(function (s) { return (!r || s.region === r) && (u === "alle" || s.fokus); });
+  }
+  function regionTabs() {
+    return SU_REGIONEN.map(function (r) {
+      return '<button type="button" role="tab" data-su-region="' + esc(r[0]) + '" aria-selected="' + (S.s.region === r[0]) + '">' + esc(r[1]) + "<span>" + suUmfang(r[0]).length + "</span></button>";
+    }).join("");
   }
   function zeigeStartups() {
     var sf = S.s;
     var felder = uniq(S.startups.map(function (s) { return s.suchfeld; })).sort();
     var h = kopfband({ akzent: SU_AKZENT[sf.region], titel: "Start-ups", textId: "su-text", text: SU_TEXT[sf.region],
-      reiter: '<div class="reiter" role="tablist" aria-label="Region">' + SU_REGIONEN.map(function (r) {
-        return '<button type="button" role="tab" data-su-region="' + esc(r[0]) + '" aria-selected="' + (sf.region === r[0]) + '">' + esc(r[1]) + "<span>" + suUmfang(r[0]).length + "</span></button>";
-      }).join("") + "</div>",
+      reiter: '<div class="umfang-wahl"><div class="segment" role="radiogroup" aria-label="Umfang der Liste">' + UMFANG.map(function (u) {
+        return '<button type="button" role="radio" data-su-umfang="' + u[0] + '" aria-checked="' + (sf.umfang === u[0]) + '">' + esc(u[1]) + '<span class="u-zahl">' + suUmfang("", u[0]).length + "</span></button>";
+      }).join("") + '</div><p class="umfang-text" id="umfang-text">' + esc(UMFANG_TEXT[sf.umfang]) + "</p></div>" +
+        '<div class="reiter" role="tablist" aria-label="Region" id="su-reiter">' + regionTabs() + "</div>",
       unten: '<p class="kb-link"><a href="#kapital">Finanzierungen und Investoren ansehen</a></p>',
       rechts: '<div class="kb-radar"><div class="radar" id="radar-kopf"></div></div>' });
     h += '<div class="filterleiste" role="search"><div class="breite">' +
@@ -899,6 +910,24 @@
     $("#s-q").addEventListener("input", function () { var v = this.value; clearTimeout(tq); tq = setTimeout(function () { S.s.q = v; aktualisiereStartups(true); }, 120); });
     $("#s-feld").addEventListener("change", function () { S.s.feld = this.value; aktualisiereStartups(true); });
     $("#s-merk").addEventListener("change", function () { S.s.merk = this.checked; aktualisiereStartups(true); });
+    $$("[data-su-umfang]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var u = b.getAttribute("data-su-umfang");
+        if (u === S.s.umfang) return;
+        S.s.umfang = u;
+        store.set("radar-su-umfang", u);
+        $$("[data-su-umfang]").forEach(function (x) { x.setAttribute("aria-checked", x === b); });
+        $("#umfang-text").textContent = UMFANG_TEXT[u];
+        $("#su-reiter").innerHTML = regionTabs();
+        bindeRegionTabs();
+        kopfRadar(suUmfang().filter(function (s) { return s.geo; }), true);
+        aktualisiereStartups(true);
+      });
+    });
+    bindeRegionTabs();
+    aktualisiereStartups(false, true);
+  }
+  function bindeRegionTabs() {
     $$("[data-su-region]").forEach(function (b) {
       b.addEventListener("click", function () {
         var r = b.getAttribute("data-su-region");
@@ -911,7 +940,6 @@
         aktualisiereStartups(true);
       });
     });
-    aktualisiereStartups(false, true);
   }
   function filtereStartups() {
     var sf = S.s, q = sf.q.trim().toLowerCase(), w = q ? q.split(/\s+/) : [];
@@ -928,7 +956,7 @@
   function aktualisiereStartups(animiert, erst) {
     var l = filtereStartups();
     S.suListe = l;
-    S.druck = { art: "startups", liste: l, titel: "Start-ups" + (S.s.region ? " – " + S.s.region : "") };
+    S.druck = { art: "startups", liste: l, titel: "Start-ups" + (S.s.umfang === "alle" ? " (alle)" : " (Fokus)") + (S.s.region ? " – " + S.s.region : "") };
     var basis = suUmfang();
     $("#s-anzahl").innerHTML = plural(l.length, "Start-up", "Start-ups") + (l.length !== basis.length ? "<small>von " + basis.length + "</small>" : "");
     var ids = {}; l.forEach(function (s) { ids[s.id] = true; });

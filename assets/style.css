@@ -710,6 +710,15 @@ kbd { font: 500 13px/1 var(--schrift); padding: 3px 6px; border: 1px solid var(-
 .kb-stats dt { font-size: 13px; color: var(--schiefer-text-2); }
 .kb-stats dd { margin: 4px 0 0; font: 600 26px/1 var(--schmal); color: #fff; }
 .kopfband .reiter { margin-top: 22px; }
+.umfang-wahl { margin-top: 22px; display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; }
+.umfang-wahl + .reiter { margin-top: 14px; }
+.umfang-text { margin: 0; font-size: 14px; color: var(--schiefer-text-2); max-width: 52ch; }
+.kopfband .segment { background: #17222d; border-color: #33465a; }
+.kopfband .segment button { color: var(--schiefer-text-2); font-weight: 600; }
+.kopfband .segment button:hover { color: #fff; }
+.kopfband .segment button[aria-checked="true"] { background: var(--ak); color: var(--schiefer); box-shadow: none; }
+.kopfband[data-akzent="alle"] .segment button[aria-checked="true"] { background: #e8edf1; }
+.segment .u-zahl { margin-left: 7px; font-weight: 500; opacity: .75; }
 .kopfband .reiter button { background: rgba(255,255,255,.04); border-color: #3a4e63; color: var(--schiefer-text); }
 .kopfband .reiter button span { color: var(--schiefer-text-2); }
 .kopfband .reiter button:hover { border-color: var(--ak); color: #fff; }

@@ -35,7 +35,8 @@
   "geo": [
    48.1374,
    11.5755
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "reonic",
@@ -75,7 +76,8 @@
   "geo": [
    48.3705,
    10.8978
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "envitron",
@@ -105,7 +107,8 @@
   "geo": [
    48.1047,
    11.4253
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "tendos",
@@ -144,7 +147,8 @@
    "datum": "2026-10-29",
    "runde": "Seed",
    "betrag": "12 Mio. €"
-  }
+  },
+  "fokus": true
  },
  {
   "id": "building-radar",
@@ -190,7 +194,8 @@
   "geo": [
    48.1374,
    11.5755
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "airteam",
@@ -220,7 +225,8 @@
   "geo": [
    52.52,
    13.405
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "atrocore",
@@ -250,7 +256,8 @@
   "geo": [
    49.0134,
    12.1016
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "digicust",
@@ -290,7 +297,8 @@
   "geo": [
    48.2082,
    16.3738
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "one-click-lca",
@@ -329,7 +337,8 @@
   "geo": [
    61.5,
    25.0
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "telusio",
@@ -359,7 +368,8 @@
   "geo": [
    48.1374,
    11.5755
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "ecoplanet",
@@ -398,7 +408,39 @@
   "geo": [
    48.1374,
    11.5755
-  ]
+  ],
+  "fokus": true
+ },
+ {
+  "id": "roofsec",
+  "name": "roofSec",
+  "sitz": "Alberndorf (bei Linz)",
+  "region": "Europa",
+  "land": "AT",
+  "gruendung": "k. A.",
+  "loesung": "Monitoring-System für Flachdächer: Sensorkabel im Dachaufbau melden Feuchte und Leckagen über eine Cloud.",
+  "suchfeld": "Smarte Dach- und Entwässerungssysteme",
+  "mehrwert": "Smarte Überwachung der Dachabdichtung – passt zu Dachsystemen und Entwässerung.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Keine Finanzierungsangaben gefunden.",
+  "anbindung": "keine",
+  "kooperation": "Austausch zu Sensorik am Dach, gemeinsame Pilotdächer",
+  "relevanz": 4,
+  "aufwand": 2,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.roofsec.com/de/blog/leckageueberwachung-flachdach/",
+  "geprueft": "2026-11-03",
+  "geo": [
+   48.3069,
+   14.2858
+  ],
+  "prioritaet": "A",
+  "quickwin": true,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": true
  },
  {
   "id": "traide",
@@ -438,7 +480,8 @@
   "geo": [
    52.52,
    13.405
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "1komma5",
@@ -485,7 +528,8 @@
   "geo": [
    53.5511,
    9.9937
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "consolinno",
@@ -515,7 +559,53 @@
   "geo": [
    49.0134,
    12.1016
-  ]
+  ],
+  "fokus": true
+ },
+ {
+  "id": "enpal",
+  "name": "Enpal",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "2017",
+  "loesung": "Komplettangebot für Privathaushalte: PV-Anlagen, Speicher, Wallboxen, Energiemanagement und Wärmepumpen – Kauf oder Miete.",
+  "suchfeld": "Dach-Solar-Integration",
+  "mehrwert": "Einer der größten PV-Installateure in Europa – sehr großer Bedarf an Montagesystemen für Ziegeldächer.",
+  "reifegrad": "Series A+",
+  "finanzierung": "Rund 700 Mio. € Finanzierungszusagen im Okt. 2025 (M&G sowie Kreditlinie von Citi, Barclays, Crédit Agricole CIB und Bank of America).",
+  "anbindung": "keine",
+  "kooperation": "Gespräch mit Einkauf und Technik über Dachhaken und Montagesysteme",
+  "relevanz": 4,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [
+   "M&G"
+  ],
+  "quelle": "https://www.trendingtopics.eu/enpal-sichert-sich-700-millionen-euro-fuer-ausbau-erneuerbarer-energien-in-privathaushalten/",
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "A",
+  "quickwin": false,
+  "investoren_alle": [
+   "M&G",
+   "Citi",
+   "Barclays",
+   "Crédit Agricole CIB",
+   "Bank of America"
+  ],
+  "runden_ids": [
+   "enpal-finanzierung-2025-10"
+  ],
+  "letzte_runde": {
+   "datum": "2025-10-21",
+   "runde": "Finanzierungsrunde",
+   "betrag": "ca. 700 Mio. € (Finanzierungszusagen, überwiegend Kreditlinie)"
+  },
+  "fokus": true
  },
  {
   "id": "helioq",
@@ -545,7 +635,8 @@
   "geo": [
    48.537,
    12.1522
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "maddox-ai",
@@ -583,7 +674,39 @@
   "geo": [
    48.5216,
    9.0576
-  ]
+  ],
+  "fokus": true
+ },
+ {
+  "id": "neurologiq",
+  "name": "NEUROLOGIQ",
+  "sitz": "Siegen",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "k. A.",
+  "loesung": "KI-Spezialist für industrielle Prozesse; entwickelte mit EMG Automation eine Echtzeit-Regelung der Zinkauflage an einer Feuerbeschichtungsanlage.",
+  "suchfeld": "Fertigung, Qualität und Energie",
+  "mehrwert": "Direkter Bezug zur Verzinkung: modellbasierte Vorhersage der Schichtdicke statt teurer Heißmessung.",
+  "reifegrad": "am Markt (Stand zu prüfen)",
+  "finanzierung": "Keine Finanzierungsangaben gefunden.",
+  "anbindung": "keine",
+  "kooperation": "Pilot zur KI-gestützten Prozessführung in der Verzinkerei",
+  "relevanz": 4,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://neurologiq.com/de/case-studies/prozessoptimierung-in-der-feuerverzinkung/",
+  "geprueft": "2026-11-03",
+  "geo": [
+   50.8748,
+   8.0243
+  ],
+  "prioritaet": "A",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": true
  },
  {
   "id": "plancraft",
@@ -625,7 +748,8 @@
   "geo": [
    53.5511,
    9.9937
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "roofit-solar",
@@ -665,7 +789,8 @@
   "geo": [
    58.85,
    25.3
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "solar-monkey",
@@ -706,7 +831,8 @@
   "geo": [
    52.0116,
    4.3571
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "tanso",
@@ -747,7 +873,8 @@
   "geo": [
    48.1374,
    11.5755
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "carbmee",
@@ -786,7 +913,8 @@
   "geo": [
    52.52,
    13.405
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "paxos-solar",
@@ -817,7 +945,8 @@
    "NRW.BANK"
   ],
   "runden_ids": [],
-  "letzte_runde": null
+  "letzte_runde": null,
+  "fokus": true
  },
  {
   "id": "baugpt",
@@ -855,7 +984,50 @@
   "geo": [
    48.1374,
    11.5755
-  ]
+  ],
+  "fokus": true
+ },
+ {
+  "id": "comstruct",
+  "name": "Comstruct",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "gruendung": "2022",
+  "loesung": "Software, die die Bestellung von Baustoffen digitalisiert und Lieferantendaten aus EDI, E-Mail und Kundenportalen per Machine Learning zusammenführt.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Digitale Bestellwege zwischen Bauunternehmen, Händlern und Herstellern – relevant für den Vertrieb über den Fachhandel.",
+  "reifegrad": "Series A+",
+  "finanzierung": "12,5 Mio. € im Februar 2025 (Lead: GV und 20VC, mit Booom und Puzzle Ventures); zuvor 1,2 Mio. € Pre-Seed 2023.",
+  "anbindung": "keine",
+  "kooperation": "Austausch zu Produktdaten und Bestellschnittstellen",
+  "relevanz": 3,
+  "aufwand": 2,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://bebeez.eu/2025/02/10/german-proptech-comstruct-secures-a-12-5-million-euros-round-from-gv-20vc-and-its-current-investors/",
+  "geprueft": "2026-11-03",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "fokus": true,
+  "investoren_alle": [
+   "GV",
+   "20VC",
+   "Booom",
+   "Puzzle Ventures"
+  ],
+  "runden_ids": [
+   "comstruct-runde-2025-02"
+  ],
+  "letzte_runde": {
+   "datum": "2025-02-10",
+   "runde": "Series A",
+   "betrag": "12,5 Mio. €"
+  }
  },
  {
   "id": "ifox-systems",
@@ -885,7 +1057,39 @@
   "quickwin": false,
   "investoren_alle": [],
   "runden_ids": [],
-  "letzte_runde": null
+  "letzte_runde": null,
+  "fokus": true
+ },
+ {
+  "id": "vestigas",
+  "name": "VESTIGAS",
+  "sitz": "München / Aachen",
+  "region": "Bayern",
+  "land": "DE",
+  "gruendung": "ab 2020 (lt. ConTech-Report)",
+  "loesung": "Plattform für die digitale Lieferkette von Schütt- und Baustoffen, u. a. digitale Lieferscheine.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Digitale Lieferscheine und Lieferkettendaten für Baustoffe – passt zu Vertrieb über Fachhandel und Baustellenbelieferung.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Keine Finanzierungsangaben in der Quelle; in den Cemex Ventures Top 50 Contech Startups 2026 gelistet.",
+  "anbindung": "Top-Start-up im ConTech-Report 2026, Cemex Ventures Top 50",
+  "kooperation": "Pilot zu digitalen Lieferscheinen mit einem Händler",
+  "relevanz": 3,
+  "aufwand": 2,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+  "geprueft": "2026-11-03",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": true
  },
  {
   "id": "mycistern",
@@ -915,7 +1119,47 @@
   "geo": [
    48.537,
    12.1522
-  ]
+  ],
+  "fokus": true
+ },
+ {
+  "id": "cloover",
+  "name": "Cloover",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "2023",
+  "loesung": "Plattform für unabhängige PV-Installateure: Finanzierung, Software und Energieprodukte für Eigenheime; Installateure behalten ihre Marke.",
+  "suchfeld": "Dach-Solar-Integration",
+  "mehrwert": "Rund 500 Partnerbetriebe mit etwa 20.000 Installationen pro Jahr – großer Kanal zu Solarteuren.",
+  "reifegrad": "Series A+",
+  "finanzierung": "Finanzierungsrahmen von über 1,3 Mrd. US-$ (Stand Sept. 2026), u. a. mit Garantie des Europäischen Investitionsfonds; nach eigenen Angaben profitabel.",
+  "anbindung": "keine",
+  "kooperation": "Gespräch über Montagesysteme im Partnernetz der Installateure",
+  "relevanz": 3,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.pv-magazine.de/2026/09/01/cloover-meldet-profitablen-betrieb-neue-kreditlinie-und-aufbau-eines-virtuellen-kraftwerks-fuer-lokale-solarteure/",
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "investoren_alle": [
+   "Europäischer Investitionsfonds"
+  ],
+  "runden_ids": [
+   "cloover-kreditrahmen-2026-09"
+  ],
+  "letzte_runde": {
+   "datum": "2026-09-01",
+   "runde": "Finanzierungsrunde",
+   "betrag": "100 Mio. US-$ zusätzlicher Finanzierungsrahmen (gesamt über 1,3 Mrd. US-$)"
+  },
+  "fokus": true
  },
  {
   "id": "concular",
@@ -955,9 +1199,41 @@
    "betrag": "2,5 Mio. €"
   },
   "geo": [
-   48.69,
-   9.19
-  ]
+   48.7758,
+   9.1829
+  ],
+  "fokus": true
+ },
+ {
+  "id": "enter",
+  "name": "Enter",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "ab 2020 (lt. ConTech-Report)",
+  "loesung": "Plattform für die energetische Sanierung von Bestandsgebäuden: Sanierungsfahrplan aus der Ferne, Übergabe an Handwerksbetriebe.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Möglicher Kanal zu Eigentümern und Handwerk bei Dach- und PV-Sanierungen.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Keine Finanzierungsangaben in der Quelle.",
+  "anbindung": "im ConTech-Start-up-Report 2026 unter den Top-Start-ups",
+  "kooperation": "Gespräch über Produktdaten für Dach und PV in den Sanierungsfahrplänen",
+  "relevanz": 3,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": true
  },
  {
   "id": "krafthub",
@@ -987,7 +1263,8 @@
   "geo": [
    48.0458,
    11.9686
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "planradar",
@@ -1033,7 +1310,8 @@
   "geo": [
    48.2082,
    16.3738
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "prewave",
@@ -1076,7 +1354,8 @@
   "geo": [
    48.2082,
    16.3738
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "robco",
@@ -1119,7 +1398,8 @@
   "geo": [
    48.1374,
    11.5755
-  ]
+  ],
+  "fokus": true
  },
  {
   "id": "ttxtech",
@@ -1149,7 +1429,39 @@
   "geo": [
    48.7,
    12.7
-  ]
+  ],
+  "fokus": true
+ },
+ {
+  "id": "resoniks",
+  "name": "Resoniks",
+  "sitz": "Niederlande / Finnland",
+  "region": "Europa",
+  "land": "NL",
+  "gruendung": "2022",
+  "loesung": "Akustische Prüfung von Metallteilen: Anklopfen, Klang aufnehmen, KI erkennt Risse, Poren und Dellen – in Sekunden statt CT-Minuten.",
+  "suchfeld": "Fertigung, Qualität und Energie",
+  "mehrwert": "Schnelle Qualitätsprüfung von Metallbauteilen direkt an der Linie.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Finanzierungsrunde laut Bericht in Vorbereitung; keine Beträge veröffentlicht.",
+  "anbindung": "keine",
+  "kooperation": "Test an typischen Stanz- und Biegeteilen",
+  "relevanz": 3,
+  "aufwand": 4,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.produktion.de/events-deutscher-maschinenbau-gipfel/so-will-ein-startup-die-qualitaetssicherung-revolutionieren/2145006",
+  "geprueft": "2026-11-03",
+  "geo": [
+   61.5,
+   25.0
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": true
  },
  {
   "id": "spectral",
@@ -1177,6 +1489,365 @@
   ],
   "prioritaet": "B",
   "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": true
+ },
+ {
+  "id": "talpa-inspection",
+  "name": "TALPA-Inspection",
+  "sitz": "Zürich",
+  "region": "Europa",
+  "land": "CH",
+  "gruendung": "2025",
+  "loesung": "Patentierte, roboterunabhängige Sensoren erfassen Korrosion berührungslos; digitaler Zwilling aus Korrosions-, Bild- und Bauwerksdaten.",
+  "suchfeld": "Fertigung, Qualität und Energie",
+  "mehrwert": "Korrosionsmessung an Stahlbauten – Bezug zu Korrosionsschutz und Verzinkung.",
+  "reifegrad": "Pre-Seed",
+  "finanzierung": "Förderung durch Venture Kick (Startkapital bis 150.000 CHF); Details nicht öffentlich.",
+  "anbindung": "GROUNDBREAKERS-Alumni, ETH-Zürich-Ausgründung",
+  "kooperation": "Austausch zu Korrosionsdaten verzinkter Bauteile",
+  "relevanz": 3,
+  "aufwand": 4,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.startup.ch/talpainspection",
+  "geprueft": "2026-11-03",
+  "geo": [
+   47.3769,
+   8.5417
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": true
+ },
+ {
+  "id": "oculai",
+  "name": "Oculai",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "gruendung": "ab 2020 (lt. ConTech-Report)",
+  "loesung": "KI-Kamerasysteme an Kränen, die den Baufortschritt mit dem Bauzeitenplan abgleichen.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Baufortschritts-Daten – nur mittelbarer Bezug zu Bauprodukten.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Keine Finanzierungsangaben in der Quelle.",
+  "anbindung": "im ConTech-Start-up-Report 2026 unter den Top-Start-ups",
+  "kooperation": "Beobachten",
+  "relevanz": 2,
+  "aufwand": 2,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+  "geprueft": "2026-11-03",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": false
+ },
+ {
+  "id": "otter-energy-trading",
+  "name": "Otter Energy Trading",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "gruendung": "k. A.",
+  "loesung": "Automatisierte Handelsplattform für Strom aus PV-Anlagen: verkauft an Mieter, Nachbarbetriebe oder die Börse, optimiert im 15-Minuten-Takt.",
+  "suchfeld": "Dach-Solar-Integration",
+  "mehrwert": "Macht PV auf Gewerbedächern wirtschaftlicher – mittelbar mehr Nachfrage nach Dach-PV.",
+  "reifegrad": "Pre-Seed",
+  "finanzierung": "Pre-Seed-Runde im Juli 2025 (Betrag nicht veröffentlicht) mit GF Bryck Ventures über den Ruhr Founder Fund und Business Angels.",
+  "anbindung": "GROUNDBREAKERS-Alumni, TUM-Umfeld",
+  "kooperation": "Beobachten",
+  "relevanz": 2,
+  "aufwand": 2,
+  "website": "https://otter-energy-trading.com/",
+  "investoren_weitere": [],
+  "quelle": "https://www.munich-startup.de/en/news/pre-seed-investment-for-otter-energy-trading",
+  "geprueft": "2026-11-03",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "investoren_alle": [
+   "GF Bryck Ventures",
+   "Business Angels"
+  ],
+  "runden_ids": [
+   "otter-energy-trading-preseed-2025"
+  ],
+  "letzte_runde": {
+   "datum": "2025-07-09",
+   "runde": "Pre-Seed",
+   "betrag": "nicht veröffentlicht"
+  },
+  "fokus": false
+ },
+ {
+  "id": "kalz",
+  "name": "Kalz",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "k. A.",
+  "loesung": "Wandelt CO₂ dauerhaft in mineralische Baustoffe um (zementähnliche Materialien aus CO₂ und Industrierückständen).",
+  "suchfeld": "Nachhaltigkeit und Material",
+  "mehrwert": "CO₂-arme Baustoffe – Bezug zu Nachhaltigkeitsthemen der Bauprodukte.",
+  "reifegrad": "früh (Stand zu prüfen)",
+  "finanzierung": "Pre-Seed-Investment von IBB Ventures (Juli 2026, Betrag nicht veröffentlicht); zuvor 1,3 Mio. € öffentliche Förderung (VIP+).",
+  "anbindung": "GROUNDBREAKERS-Alumni",
+  "kooperation": "Beobachten",
+  "relevanz": 2,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.ibbventures.de/en/news/berlin-climate-tech-startup-kalz-scales-up-co2-storage-and-use-in-cement-backed-by-ibb-ventures",
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "investoren_alle": [
+   "IBB Ventures"
+  ],
+  "runden_ids": [
+   "kalz-preseed-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-07-24",
+   "runde": "Pre-Seed",
+   "betrag": "nicht veröffentlicht"
+  },
+  "fokus": false
+ },
+ {
+  "id": "koppla",
+  "name": "Koppla",
+  "sitz": "Potsdam",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "ab 2020 (lt. ConTech-Report)",
+  "loesung": "Software für die Echtzeit-Taktung der Gewerke auf großen Baustellen (Lean-Bauablauf).",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Einblick, wie Bauabläufe digital getaktet werden – mittelbarer Bezug zu Lieferzeitpunkten von Bauprodukten.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Keine Finanzierungsangaben in der Quelle.",
+  "anbindung": "im ConTech-Start-up-Report 2026 unter den Top-Start-ups",
+  "kooperation": "Austausch zu Lieferterminen und Baustellenlogistik",
+  "relevanz": 2,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.3906,
+   13.0645
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": false
+ },
+ {
+  "id": "smalt",
+  "name": "Smalt",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "ab 2020 (lt. ConTech-Report)",
+  "loesung": "Umschulung von Quereinsteigern per EdTech plus Personaldienstleistung für Installationsbetriebe.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Fachkräfte für Installation und Handwerk – mittelbar für Montagepartner relevant.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Keine Finanzierungsangaben in der Quelle.",
+  "anbindung": "im ConTech-Start-up-Report 2026 unter den Top-Start-ups",
+  "kooperation": "Beobachten",
+  "relevanz": 2,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": false
+ },
+ {
+  "id": "specter-automation",
+  "name": "Specter Automation",
+  "sitz": "Köln",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "ab 2020 (lt. ConTech-Report)",
+  "loesung": "Wandelt BIM-Modelle in Aufgaben für Bauleiter um – verknüpft mit Zeit, Kosten und Materialbestellung.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Materialbestellung direkt aus dem Modell – interessant für Produktdaten im BIM-Format.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Keine Finanzierungsangaben in der Quelle.",
+  "anbindung": "im ConTech-Start-up-Report 2026 unter den Top-Start-ups",
+  "kooperation": "Austausch zu BIM-Produktdaten",
+  "relevanz": 2,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+  "geprueft": "2026-11-03",
+  "geo": [
+   50.947,
+   6.983
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": false
+ },
+ {
+  "id": "varm",
+  "name": "Varm",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "ab 2020 (lt. ConTech-Report)",
+  "loesung": "Plattform und Franchise-Modell für die Einblasdämmung im Bestand.",
+  "suchfeld": "Nachhaltigkeit und Material",
+  "mehrwert": "Sanierungsmarkt im Bestand, ohne direkten Bezug zu Dachzubehör.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Keine Finanzierungsangaben in der Quelle.",
+  "anbindung": "im ConTech-Start-up-Report 2026 unter den Top-Start-ups",
+  "kooperation": "Beobachten",
+  "relevanz": 2,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+  "geprueft": "2026-11-03",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": false
+ },
+ {
+  "id": "bimeto",
+  "name": "bimeto",
+  "sitz": "Freiburg (Ausgründung des Fraunhofer IPM)",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "k. A.",
+  "loesung": "Erstellt automatisch Bestandsmodelle (As-built) aus 3D-Punktwolken.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Digitale Bestandsaufnahme – mittelbar für Sanierungs- und Dachprojekte.",
+  "reifegrad": "früh (Stand zu prüfen)",
+  "finanzierung": "Keine Finanzierungsangaben gefunden.",
+  "anbindung": "GROUNDBREAKERS-Alumni",
+  "kooperation": "Beobachten",
+  "relevanz": 2,
+  "aufwand": 3,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://www.groundbreakers.io/en",
+  "geprueft": "2026-11-03",
+  "geo": [
+   47.999,
+   7.8421
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": false
+ },
+ {
+  "id": "hydrop-systems",
+  "name": "hydrop systems",
+  "sitz": "Stuttgart",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "k. A. (Markteintritt Aug. 2025)",
+  "loesung": "Optischer Aufsatz für bestehende Wasserzähler mit App: Verbrauch in Echtzeit und frühe Leckage-Erkennung.",
+  "suchfeld": "Smarte Dach- und Entwässerungssysteme",
+  "mehrwert": "Wassermonitoring und Leckage-Warnung in Gebäuden – angrenzend an Entwässerung und Gebäudesensorik.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Crowdinvesting über FunderNation (Ziel bis 600.000 €, Stand Juni 2026).",
+  "anbindung": "GROUNDBREAKERS-Alumni, Ausgründung aus der Universität Stuttgart",
+  "kooperation": "Austausch zu Sensorik im Gebäude",
+  "relevanz": 2,
+  "aufwand": 3,
+  "website": "https://hydrop-systems.com",
+  "investoren_weitere": [],
+  "quelle": "https://startupvalley.news/de/hydrop-systems-hydropmeter-wasserverbrauch/",
+  "geprueft": "2026-11-03",
+  "geo": [
+   48.7758,
+   9.1829
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null,
+  "fokus": false
+ },
+ {
+  "id": "benetics",
+  "name": "Benetics",
+  "sitz": "Zürich",
+  "region": "Europa",
+  "land": "CH",
+  "gruendung": "2022",
+  "loesung": "App zur Koordination von Bauprojekten mit Sprachassistent: Bauberichte, Protokolle und Aufmaße per Spracheingabe in über 30 Sprachen.",
+  "suchfeld": "Digitale Planung und Vertrieb",
+  "mehrwert": "Dokumentation auf der Baustelle per Sprache – mittelbarer Bezug zu Montage und Handwerk.",
+  "reifegrad": "am Markt",
+  "finanzierung": "Keine Finanzierungsangaben in der Quelle.",
+  "anbindung": "Pitch bei der Founders Fight Night der BAU 2025",
+  "kooperation": "Beobachten",
+  "relevanz": 2,
+  "aufwand": 4,
+  "website": null,
+  "investoren_weitere": [],
+  "quelle": "https://immo-invest.ch/en/digitaler-sprachassistent-revolutioniert-dokumentation-fuer-bauprojekte",
+  "geprueft": "2026-11-03",
+  "geo": [
+   47.3769,
+   8.5417
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
   "investoren_alle": [],
   "runden_ids": [],
   "letzte_runde": null

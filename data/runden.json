@@ -175,6 +175,26 @@
   "geprueft": "2026-10-28"
  },
  {
+  "id": "cloover-kreditrahmen-2026-09",
+  "datum": "2026-09-01",
+  "art": "Finanzierungsrunde",
+  "runde": "Finanzierungsrunde",
+  "unternehmen": "Cloover",
+  "startup_id": "cloover",
+  "sitz": "Berlin",
+  "land": "DE",
+  "thema": "Dach-Solar-Integration",
+  "betrag": "100 Mio. US-$ zusätzlicher Finanzierungsrahmen (gesamt über 1,3 Mrd. US-$)",
+  "betrag_mio_eur": null,
+  "lead": [],
+  "investoren": [
+   "Europäischer Investitionsfonds"
+  ],
+  "kurz": "Zusätzlicher Finanzierungsrahmen für PV-Finanzierungen über Installateure; EIF-Garantie über 350 Mio. US-$.",
+  "quelle": "https://www.pv-magazine.de/2026/09/01/cloover-meldet-profitablen-betrieb-neue-kreditlinie-und-aufbau-eines-virtuellen-kraftwerks-fuer-lokale-solarteure/",
+  "geprueft": "2026-11-03"
+ },
+ {
   "id": "htgf-v-2026",
   "datum": "2026-09",
   "art": "Fonds",
@@ -267,6 +287,28 @@
   "quelle": "https://thesaasnews.com/news/conmeet-raises-6m-seed",
   "startup_id": null,
   "geprueft": "2026-10-28"
+ },
+ {
+  "id": "kalz-preseed-2026",
+  "datum": "2026-07-24",
+  "art": "Finanzierungsrunde",
+  "runde": "Pre-Seed",
+  "unternehmen": "Kalz",
+  "startup_id": "kalz",
+  "sitz": "Berlin",
+  "land": "DE",
+  "thema": "Nachhaltigkeit und Material",
+  "betrag": "nicht veröffentlicht",
+  "betrag_mio_eur": null,
+  "lead": [
+   "IBB Ventures"
+  ],
+  "investoren": [
+   "IBB Ventures"
+  ],
+  "kurz": "Pre-Seed aus dem B#-Fonds von IBB Ventures für CO₂-mineralisierte Baustoffe.",
+  "quelle": "https://www.ibbventures.de/en/news/berlin-climate-tech-startup-kalz-scales-up-co2-storage-and-use-in-cement-backed-by-ibb-ventures",
+  "geprueft": "2026-11-03"
  },
  {
   "id": "sodex-2026",
@@ -505,6 +547,32 @@
   "geprueft": "2026-10-28"
  },
  {
+  "id": "enpal-finanzierung-2025-10",
+  "datum": "2025-10-21",
+  "art": "Finanzierungsrunde",
+  "runde": "Finanzierungsrunde",
+  "unternehmen": "Enpal",
+  "startup_id": "enpal",
+  "sitz": "Berlin",
+  "land": "DE",
+  "thema": "Dach-Solar-Integration",
+  "betrag": "ca. 700 Mio. € (Finanzierungszusagen, überwiegend Kreditlinie)",
+  "betrag_mio_eur": null,
+  "lead": [
+   "M&G"
+  ],
+  "investoren": [
+   "M&G",
+   "Citi",
+   "Barclays",
+   "Crédit Agricole CIB",
+   "Bank of America"
+  ],
+  "kurz": "Finanzierungszusagen für Solaranlagen, Speicher und Wärmepumpen privater Haushalte.",
+  "quelle": "https://www.trendingtopics.eu/enpal-sichert-sich-700-millionen-euro-fuer-ausbau-erneuerbarer-energien-in-privathaushalten/",
+  "geprueft": "2026-11-03"
+ },
+ {
   "id": "plancraft-b-2025",
   "datum": "2025-08-13",
   "art": "Finanzierungsrunde",
@@ -556,6 +624,29 @@
   "geprueft": "2026-10-28"
  },
  {
+  "id": "otter-energy-trading-preseed-2025",
+  "datum": "2025-07-09",
+  "art": "Finanzierungsrunde",
+  "runde": "Pre-Seed",
+  "unternehmen": "Otter Energy Trading",
+  "startup_id": "otter-energy-trading",
+  "sitz": "München",
+  "land": "DE",
+  "thema": "Dach-Solar-Integration",
+  "betrag": "nicht veröffentlicht",
+  "betrag_mio_eur": null,
+  "lead": [
+   "GF Bryck Ventures"
+  ],
+  "investoren": [
+   "GF Bryck Ventures",
+   "Business Angels"
+  ],
+  "kurz": "Pre-Seed für die automatisierte Vermarktung von PV-Strom über den Ruhr Founder Fund.",
+  "quelle": "https://www.munich-startup.de/en/news/pre-seed-investment-for-otter-energy-trading",
+  "geprueft": "2026-11-03"
+ },
+ {
   "id": "realyze-fonds-2025",
   "datum": "2025-06-17",
   "art": "Fonds",
@@ -578,6 +669,32 @@
   "lead": [],
   "startup_id": null,
   "geprueft": "2026-10-28"
+ },
+ {
+  "id": "comstruct-runde-2025-02",
+  "datum": "2025-02-10",
+  "art": "Finanzierungsrunde",
+  "runde": "Series A",
+  "unternehmen": "Comstruct",
+  "startup_id": "comstruct",
+  "sitz": "München",
+  "land": "DE",
+  "thema": "Digitale Planung und Vertrieb",
+  "betrag": "12,5 Mio. €",
+  "betrag_mio_eur": 12.5,
+  "lead": [
+   "GV",
+   "20VC"
+  ],
+  "investoren": [
+   "GV",
+   "20VC",
+   "Booom",
+   "Puzzle Ventures"
+  ],
+  "kurz": "Neue Runde für die digitale Baustoffbeschaffung, nach 1,2 Mio. € Pre-Seed 2023.",
+  "quelle": "https://bebeez.eu/2025/02/10/german-proptech-comstruct-secures-a-12-5-million-euros-round-from-gv-20vc-and-its-current-investors/",
+  "geprueft": "2026-11-03"
  },
  {
   "id": "ecoplanet-a-2025",
