@@ -121,6 +121,46 @@
   "archiv": false
  },
  {
+  "id": "startup-nights-2026",
+  "name": "Startup Nights 2026",
+  "format": "Start-up-Festival mit Pitches und Matchmaking",
+  "veranstalter": "Startup Nights (u. a. mit Swissmem als Partner)",
+  "ort": "Winterthur",
+  "land": "CH",
+  "region": "Schweiz (Zürich)",
+  "rubrik": "noneu",
+  "start": "2026-11-05",
+  "ende": "2026-11-06",
+  "turnus": "jährlich (2026: 10. Ausgabe)",
+  "zeitraum": "Anfang November",
+  "status": "bestätigt",
+  "anmeldung": "Tickets über startup-nights.ch",
+  "kosten": "kostenpflichtig (Rabatt für Swissmem-Mitglieder)",
+  "zielgruppe": "Start-ups, Industrie, Investoren aus der Schweiz",
+  "fokus": "Größtes Start-up-Event der Schweiz: Keynotes, Workshops, Pitch-Wettbewerbe, Matchmaking-Plattform und „Startup World“",
+  "begruendung": "Breiter Zugang zur Schweizer Start-up-Szene inklusive Industrie-Start-ups – passend für den Alpenraum und Metall-/Industriethemen.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.swissmem.ch/de/wissen/startup-nights-2026-zugang-zum-schweizer-start-up-oekosystem.html",
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   47.4988,
+   8.7237
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
   "rubrik": "eu",
   "id": "web-summit-2026",
   "name": "Web Summit 2026",
@@ -2814,6 +2854,46 @@
   "archiv": false
  },
  {
+  "id": "solid-konferenz-2027",
+  "name": "12. Internationale SOLID Konferenz 2027",
+  "format": "Fachkonferenz",
+  "veranstalter": "FM FORUM Industriemedien GmbH",
+  "ort": "Wolke 19, Ares Tower, Wien",
+  "land": "AT",
+  "region": "Österreich (Wien)",
+  "rubrik": "eu",
+  "start": "2027-10-05",
+  "ende": "2027-10-05",
+  "turnus": "jährlich",
+  "zeitraum": "Anfang Oktober",
+  "status": "bestätigt",
+  "anmeldung": "Tickets folgen",
+  "kosten": "2026: 390–590 € zzgl. MwSt.",
+  "zielgruppe": "Führungskräfte der österreichischen Bauindustrie, Planer, Investoren, Politik",
+  "fokus": "„Bauen im Umbruch“: Bestand digitalisieren, Neubau neu denken – KI, Nachhaltigkeit und Digitalisierung als Treiber neuer Geschäftsmodelle",
+  "begruendung": "Leittreffen der österreichischen Bauindustrie mit Innovationsfokus – Kontakte und Trends im Markt Österreich.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://solidkonferenz.at/",
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "gesamt": 3.1,
+  "prioritaet": "B",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "startup-trifft-handwerk-2027",
   "name": "Startup trifft Handwerk 2027",
   "format": "Corporate-meets-Start-up",
@@ -2852,6 +2932,46 @@
    48.1374,
    11.5755
   ]
+ },
+ {
+  "id": "austrian-innovation-forum-2027",
+  "name": "17. Austrian Innovation Forum",
+  "format": "Innovationskonferenz",
+  "veranstalter": "SUCCUS",
+  "ort": "Erste Campus, Wien",
+  "land": "AT",
+  "region": "Österreich (Wien)",
+  "rubrik": "eu",
+  "start": "2027-10-13",
+  "ende": "2027-10-14",
+  "turnus": "jährlich",
+  "zeitraum": "Mitte Oktober",
+  "status": "bestätigt",
+  "anmeldung": "Anmeldung beim Veranstalter",
+  "kosten": "780 € (2026)",
+  "zielgruppe": "Innovations-, F&E- und Strategieverantwortliche (über 200 Teilnehmende)",
+  "fokus": "„Beyond Optimization“: neue Wege in der Innovationsarbeit, Schlüsseltechnologien, Design Thinking",
+  "begruendung": "Austausch mit Innovationsverantwortlichen aus Industrie und Mittelstand – Methodik für die eigene Innovationsarbeit.",
+  "rolle": [
+   "Besuch"
+  ],
+  "quelle": "https://www.austrian-innovation-forum.at/",
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "anmeldeschluss": null,
+  "geprueft": "2026-11-03",
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
  },
  {
   "id": "aircon-2027",
