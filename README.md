@@ -1,6 +1,6 @@
 # Start-up- & Event-Radar
 
-Statische Webseite mit Start-up- und Netzwerkveranstaltungen sowie passenden Start-ups rund um Dach, Solar, Bau, Handwerk und Fertigung. Läuft auf GitHub Pages – ohne Server, ohne Login, ohne Cookies und ohne Tracking.
+Statische Webseite mit Start-up- und Netzwerkveranstaltungen sowie passenden Start-ups rund um Dach, Solar, Bau, Handwerk und Fertigung. Läuft auf GitHub Pages – ohne Server, ohne Konto, ohne Cookies und ohne Tracking. Nur der Bereich „Intern“ ist mit einem Passwort geschützt.
 
 **Seite:** https://fcypkszck7-web.github.io/startup-radar/
 
@@ -23,6 +23,8 @@ Statische Webseite mit Start-up- und Netzwerkveranstaltungen sowie passenden Sta
 | `feed.xml` | RSS-Feed der Wochenhinweise für die E-Mail-Benachrichtigung (wird erzeugt) |
 | `tools/build.py` | Prüft die Daten, berechnet Scores, Prioritäten und Koordinaten, erzeugt `events.ics` und `feed.xml` |
 | `tools/orte.json` | Koordinaten der Veranstaltungsorte für das Radar – neue Orte hier ergänzen |
+| `data/intern.json` | Geschützter Bereich „Intern“ – verschlüsselt (AES-256-GCM, Schlüssel per PBKDF2 aus dem Passwort); wird erst im Browser nach Eingabe des Passworts entschlüsselt |
+| `tools/intern.mjs` | Verschlüsselt den Bereich „Intern“; Schlüssel nur über die Umgebungsvariable `INTERN_SCHLUESSEL`, Klartext nie im Repository |
 
 Bei Aktualisierungen ändern sich nur die Dateien in `data/` sowie `events.ics` und `feed.xml`.
 

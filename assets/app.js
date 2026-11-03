@@ -16,7 +16,7 @@
   var WTAG = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
   var WTAG_LANG = ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"];
   var FENSTER = [[3, "3 Monate"], [6, "6 Monate"], [12, "12 Monate"], [18, "18 Monate"]];
-  var TITEL = { uebersicht: "Übersicht", termine: "Termine", startups: "Start-ups", kapital: "Kapital", archiv: "Archiv", merkliste: "Merkliste" };
+  var TITEL = { uebersicht: "Übersicht", termine: "Termine", startups: "Start-ups", kapital: "Kapital", archiv: "Archiv", merkliste: "Merkliste", intern: "Intern" };
   var SU_REGIONEN = [["", "Alle Regionen"], ["Ostbayern", "Ostbayern"], ["Bayern", "Bayern"], ["Deutschland", "Deutschland"], ["Europa", "Europa"]];
   var SU_TEXT = {
     "": "Start-ups rund um Dach, Solar, Bau und Fertigung – von Ostbayern bis Europa. Je näher, desto geringer meist der Aufwand für eine Zusammenarbeit.",
@@ -68,6 +68,7 @@
     ziel: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1" class="fill"/></svg>',
     info: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5"/><circle cx="12" cy="7.8" r=".6"/></svg>',
     rakete: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3c3 2 4.5 5.5 4.5 9l-2 4h-5l-2-4C7.5 8.5 9 5 12 3z"/><path d="M9.5 16l-2 4M14.5 16l2 4"/><circle cx="12" cy="10" r="1.6"/></svg>',
+    schloss: '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="10.5" width="14" height="10" rx="2"/><path d="M8.5 10.5V7.5a3.5 3.5 0 0 1 7 0v3"/><circle cx="12" cy="15.5" r="1.2"/></svg>',
     welt: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17M12 3.5c2.5 2.6 3.6 5.5 3.6 8.5S14.5 17.9 12 20.5M12 3.5C9.5 6.1 8.4 9 8.4 12s1.1 5.9 3.6 8.5"/></svg>'
   };
 
@@ -221,7 +222,7 @@
     document.title = TITEL[z.r] + " – Start-up- & Event-Radar";
     var zeichne = function () {
       aufraeumen();
-      ({ uebersicht: zeigeUebersicht, termine: zeigeTermine, startups: zeigeStartups, kapital: zeigeKapital, archiv: zeigeArchiv, merkliste: zeigeMerkliste })[z.r]();
+      ({ uebersicht: zeigeUebersicht, termine: zeigeTermine, startups: zeigeStartups, kapital: zeigeKapital, archiv: zeigeArchiv, merkliste: zeigeMerkliste, intern: zeigeIntern })[z.r]();
       if (wechsel) window.scrollTo(0, 0);
     };
     if (wechsel && document.startViewTransition && !reduziert.matches && S.schonGezeichnet) {
@@ -1160,6 +1161,253 @@
   }
 
   /* ============================================================
+     Intern: geschützter Bereich (verschlüsselt, Entschlüsselung nur im Browser)
+     ============================================================ */
+  var IKEY = "radar-intern";
+  var TON = ["warn", "signal", "ok", "info", "leise"];
+  function iPassLesen() {
+    try { var s = window.sessionStorage.getItem(IKEY); if (s) return s; } catch (e) { /* ohne Speicher */ }
+    try { return window.localStorage.getItem(IKEY) || ""; } catch (e) { return ""; }
+  }
+  function iPassMerken(pass, dauerhaft) {
+    try { window.sessionStorage.setItem(IKEY, pass); } catch (e) { /* ohne Speicher */ }
+    try { if (dauerhaft) window.localStorage.setItem(IKEY, pass); else window.localStorage.removeItem(IKEY); } catch (e) { /* ohne Speicher */ }
+  }
+  function iPassVergessen() {
+    try { window.sessionStorage.removeItem(IKEY); } catch (e) { /* ohne Speicher */ }
+    try { window.localStorage.removeItem(IKEY); } catch (e) { /* ohne Speicher */ }
+  }
+  function b64u8(s) { var b = atob(s), u = new Uint8Array(b.length); for (var i = 0; i < b.length; i++) u[i] = b.charCodeAt(i); return u; }
+  function iEntschluesseln(datei, pass) {
+    var c = window.crypto && window.crypto.subtle;
+    if (!c || !window.TextEncoder) return Promise.reject(new Error("browser"));
+    return c.importKey("raw", new TextEncoder().encode(pass), "PBKDF2", false, ["deriveKey"])
+      .then(function (roh) { return c.deriveKey({ name: "PBKDF2", hash: "SHA-256", salt: b64u8(datei.salt), iterations: datei.iter }, roh, { name: "AES-GCM", length: 256 }, false, ["decrypt"]); })
+      .then(function (key) { return c.decrypt({ name: "AES-GCM", iv: b64u8(datei.iv) }, key, b64u8(datei.ct)); })
+      .then(function (buf) {
+        if (datei.z !== "gzip") return new TextDecoder().decode(buf);
+        if (!window.DecompressionStream) throw new Error("browser");
+        return new Response(new Blob([buf]).stream().pipeThrough(new DecompressionStream("gzip"))).text();
+      }, function () { throw new Error("passwort"); })
+      .then(function (t) { return JSON.parse(t); });
+  }
+  function iOeffnen(pass, dauerhaft) {
+    return (S.iDatei ? Promise.resolve(S.iDatei) : lade("data/intern.json").then(function (d) { S.iDatei = d; return d; }))
+      .then(function (d) { return iEntschluesseln(d, pass); })
+      .then(function (inhalt) {
+        S.iDaten = inhalt;
+        var gemerkt = store.get("radar-intern-sammlung", "");
+        S.i = { sammlung: inhalt.sammlungen.some(function (x) { return x.id === gemerkt; }) ? gemerkt : inhalt.sammlungen[0].id, q: "", f: {} };
+        iPassMerken(pass, dauerhaft);
+      });
+  }
+  function iSammlung() { var d = S.iDaten; return d.sammlungen.filter(function (x) { return x.id === S.i.sammlung; })[0] || d.sammlungen[0]; }
+  function iFeld(s, x) { var v = x[s]; return v == null ? "" : v; }
+  function iZahl(d, k) {
+    var s = d.sammlungen.filter(function (x) { return x.id === k.sammlung; })[0];
+    if (!s) return 0;
+    return s.liste.filter(function (x) {
+      if (k.min != null) return +x[k.feld] >= k.min;
+      if (k.in) return k.in.indexOf(x[k.feld]) >= 0;
+      return true;
+    }).length;
+  }
+  function iMarke(m, x) {
+    var v = x[m.feld]; if (v == null || v === "") return "";
+    var ton = (m.toene && m.toene[v]) || "leise";
+    return '<span class="i-marke ton-' + (TON.indexOf(ton) >= 0 ? ton : "leise") + '">' + esc((m.praefix || "") + ((m.labels && m.labels[v]) || v)) + "</span>";
+  }
+  function iWert(w, x) {
+    var v = +x[w.feld] || 0, max = w.max || 5;
+    var h = '<span class="mini" title="' + esc(w.label + " " + v + " von " + max) + '">' + esc(w.label) + "<i>";
+    for (var i = 1; i <= max; i++) h += "<em" + (i <= v ? ' class="v"' : "") + "></em>";
+    return h + "</i></span>";
+  }
+  function iSortiere(s, l) {
+    var regeln = s.sort || [];
+    return l.slice().sort(function (a, b) {
+      for (var i = 0; i < regeln.length; i++) {
+        var r = regeln[i], va = a[r.feld], vb = b[r.feld], d = 0;
+        if (r.reihenfolge) { var ia = r.reihenfolge.indexOf(va), ib = r.reihenfolge.indexOf(vb); d = (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib); }
+        else if (typeof va === "number" || typeof vb === "number") d = (+va || 0) - (+vb || 0);
+        else d = String(va || "").localeCompare(String(vb || ""), "de");
+        if (r.ab && !r.reihenfolge) d = -d;
+        if (d) return d;
+      }
+      return String(a[s.titelFeld] || "").localeCompare(String(b[s.titelFeld] || ""), "de");
+    });
+  }
+  function iText(x) {
+    return Object.keys(x).map(function (k) {
+      var v = x[k];
+      if (Array.isArray(v)) return v.map(function (q) { return q && q.label ? q.label : ""; }).join(" ");
+      return typeof v === "string" && !/^https?:/.test(v) ? v : typeof v === "number" ? String(v) : "";
+    }).join(" ").toLowerCase();
+  }
+  function iGefiltert() {
+    var s = iSammlung(), q = S.i.q.trim().toLowerCase(), w = q ? q.split(/\s+/) : [];
+    return iSortiere(s, s.liste.filter(function (x) {
+      var ok = (s.filter || []).every(function (f) {
+        var v = S.i.f[f.feld];
+        if (v == null || v === "") return true;
+        return f.min ? (+x[f.feld] || 0) >= +v : String(x[f.feld]) === v;
+      });
+      if (!ok) return false;
+      if (w.length) { var t = iText(x); if (w.some(function (y) { return t.indexOf(y) < 0; })) return false; }
+      return true;
+    }));
+  }
+
+  function zeigeIntern() {
+    if (S.iDaten) return iAnsicht();
+    var gespeichert = iPassLesen();
+    iSchloss(gespeichert ? "pruefe" : "");
+    if (gespeichert) {
+      iOeffnen(gespeichert, (function () { try { return !!window.localStorage.getItem(IKEY); } catch (e) { return false; } })())
+        .then(function () { if (S.route === "intern") iAnsicht(); })
+        .catch(function () { iPassVergessen(); if (S.route === "intern") iSchloss(""); });
+    }
+  }
+  function iSchloss(zustand) {
+    var h = kopfband({ akzent: "intern", titel: "Intern", text: "Geschützter Bereich. Die Inhalte liegen verschlüsselt vor und werden erst in deinem Browser mit dem Passwort entschlüsselt – ohne Server, ohne Konto." });
+    h += '<div class="breite"><form class="i-schloss" id="i-form" autocomplete="on">' +
+      '<span class="i-schloss-icon" aria-hidden="true">' + I.schloss + "</span>" +
+      '<h2>Passwort eingeben</h2><p>Das Passwort bekommst du von der Person, die dir diesen Bereich freigegeben hat.</p>' +
+      '<input type="text" name="username" value="Intern" autocomplete="username" hidden>' +
+      '<label class="i-feld"><span class="vh">Passwort</span><input class="feld" type="password" id="i-pass" name="password" autocomplete="current-password" placeholder="Passwort" required' + (zustand === "pruefe" ? " disabled" : "") + "></label>" +
+      '<label class="schalter"><input type="checkbox" id="i-merken"> Auf diesem Gerät merken</label>' +
+      '<button type="submit" class="knopf signal" id="i-los"' + (zustand === "pruefe" ? " disabled" : "") + ">" + I.schloss + (zustand === "pruefe" ? "Wird entschlüsselt …" : "Entsperren") + "</button>" +
+      '<p class="i-fehler" id="i-fehler" role="alert"></p></form></div>';
+    $("#ansicht").innerHTML = h;
+    S.druck = { art: "intern-leer", liste: [], titel: "Intern" };
+    var form = $("#i-form"), feld = $("#i-pass"), fehler = $("#i-fehler"), los = $("#i-los");
+    if (zustand !== "pruefe") setTimeout(function () { feld.focus(); }, 30);
+    form.addEventListener("submit", function (ev) {
+      ev.preventDefault();
+      var pass = feld.value;
+      if (!pass) return;
+      fehler.textContent = "";
+      los.disabled = true; feld.disabled = true;
+      los.innerHTML = I.schloss + "Wird entschlüsselt …";
+      iOeffnen(pass, $("#i-merken").checked).then(function () { if (S.route === "intern") iAnsicht(); }).catch(function (err) {
+        los.disabled = false; feld.disabled = false;
+        los.innerHTML = I.schloss + "Entsperren";
+        fehler.textContent = err && err.message === "passwort" ? "Das Passwort stimmt nicht." : err && err.message === "browser" ? "Dieser Browser kann den Bereich nicht entschlüsseln. Bitte einen aktuellen Browser verwenden." : "Der Bereich konnte nicht geladen werden. Bitte später noch einmal versuchen.";
+        feld.select(); feld.focus();
+      });
+    });
+  }
+  function iReiter(d) {
+    return d.sammlungen.map(function (x) {
+      return '<button type="button" role="tab" data-i-sammlung="' + esc(x.id) + '" aria-selected="' + (S.i.sammlung === x.id) + '">' + esc(x.titel) + "<span>" + x.liste.length + "</span></button>";
+    }).join("");
+  }
+  function iAnsicht() {
+    var d = S.iDaten, s = iSammlung();
+    var rechts = (d.kennzahlen || []).length ? '<dl class="kb-stats">' + d.kennzahlen.map(function (k) { return "<div><dt>" + esc(k.label) + "</dt><dd>" + iZahl(d, k) + "</dd></div>"; }).join("") + "</dl>" : "";
+    var h = kopfband({ akzent: "intern", titel: d.titel || "Intern", text: d.text || "",
+      reiter: '<div class="reiter" role="tablist" aria-label="Liste" id="i-reiter">' + iReiter(d) + '</div><p class="umfang-text i-text" id="i-text">' + esc(s.text || "") + "</p>",
+      unten: '<p class="kb-link i-stand">' + (d.stand ? "Stand " + esc(de(d.stand)) : "") + (d.hinweis ? " · " + esc(d.hinweis) : "") +
+        ' <button type="button" class="linkknopf i-sperren" id="i-sperren">' + I.schloss + "Sperren</button></p>",
+      rechts: rechts });
+    h += '<div class="filterleiste" role="search"><div class="breite" id="i-filter"></div></div>';
+    h += '<div class="breite"><div class="ergebnis-kopf"><span class="anzahl" id="i-anzahl"></span>' + downloadsHtml("intern", false) + "</div>" +
+      '<ul class="zeilen" id="i-liste"></ul>';
+    if ((d.abschnitte || []).length || d.arbeitsseite) {
+      h += '<section class="abschnitt i-info"><div class="i-info-raster">' + (d.abschnitte || []).map(function (a) {
+        return "<div><h3>" + esc(a.titel) + "</h3>" + (a.absaetze || []).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("") +
+          ((a.links || []).length ? '<p class="i-links">' + a.links.map(function (l) { return '<a href="' + esc(l.url) + '" target="_blank" rel="noopener noreferrer">' + esc(l.label) + "</a>"; }).join("") + "</p>" : "") + "</div>";
+      }).join("") + "</div>" +
+        (d.arbeitsseite ? '<p class="klein i-arbeit">' + esc(d.arbeitsseite_text || "") + ' <a href="' + esc(d.arbeitsseite) + '" target="_blank" rel="noopener noreferrer">Arbeitsseite öffnen</a></p>' : "") + "</section>";
+    }
+    h += "</div>";
+    $("#ansicht").innerHTML = h;
+    iFilterleiste();
+    $$("[data-i-sammlung]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var id = b.getAttribute("data-i-sammlung");
+        if (id === S.i.sammlung) return;
+        S.i = { sammlung: id, q: "", f: {} };
+        store.set("radar-intern-sammlung", id);
+        $$("[data-i-sammlung]").forEach(function (x) { x.setAttribute("aria-selected", x === b); });
+        $("#i-text").textContent = iSammlung().text || "";
+        iFilterleiste();
+        iAktualisiere(true);
+      });
+    });
+    $("#i-sperren").addEventListener("click", function () {
+      iPassVergessen(); S.iDaten = null; S.i = null;
+      toast("Bereich gesperrt");
+      iSchloss("");
+    });
+    iAktualisiere(false);
+  }
+  function iFilterleiste() {
+    var s = iSammlung();
+    var h = '<label class="suchfeld">' + I.suche + '<span class="vh">Durchsuchen</span><input class="feld" type="search" id="i-q" placeholder="' + esc(s.suche || "Suchen") + '" value="' + esc(S.i.q) + '"></label>';
+    (s.filter || []).forEach(function (f) {
+      var werte = f.werte || uniq(s.liste.map(function (x) { return x[f.feld]; }).filter(function (v) { return v != null && v !== ""; })).sort().map(function (v) { return [v, v]; });
+      var akt = S.i.f[f.feld] == null ? "" : String(S.i.f[f.feld]);
+      h += '<label><span class="vh">' + esc(f.alle) + '</span><select class="feld" data-i-filter="' + esc(f.feld) + '"><option value="">' + esc(f.alle) + "</option>" +
+        werte.map(function (w) { return '<option value="' + esc(w[0]) + '"' + (String(w[0]) === akt ? " selected" : "") + ">" + esc(w[1]) + "</option>"; }).join("") + "</select></label>";
+    });
+    $("#i-filter").innerHTML = h;
+    var tq;
+    $("#i-q").addEventListener("input", function () { var v = this.value; clearTimeout(tq); tq = setTimeout(function () { S.i.q = v; iAktualisiere(true); }, 120); });
+    $$("[data-i-filter]").forEach(function (sel) {
+      sel.addEventListener("change", function () { S.i.f[sel.getAttribute("data-i-filter")] = sel.value; iAktualisiere(true); });
+    });
+  }
+  function iAktualisiere(animiert) {
+    var s = iSammlung(), l = iGefiltert();
+    S.iListe = l;
+    S.druck = { art: "intern", liste: l, titel: s.titel };
+    $("#i-anzahl").innerHTML = plural(l.length, s.einzahl || "Eintrag", s.mehrzahl || "Einträge") + (l.length !== s.liste.length ? "<small>von " + s.liste.length + "</small>" : "");
+    var zeichne = function () { $("#i-liste").innerHTML = l.length ? l.map(function (x) { return iZeile(s, x); }).join("") : '<li class="leer" style="border:0">Kein Eintrag passt zu den Filtern.</li>'; };
+    if (animiert) flip($("#i-liste"), zeichne); else zeichne();
+  }
+  function iZeile(s, x) {
+    var m0 = (s.marken || [])[0], ton = m0 && m0.toene ? m0.toene[x[m0.feld]] || "leise" : "leise";
+    return '<li class="zeile i-zeile ton-' + esc(ton) + '" data-id="' + esc(x._id) + '"><button type="button" class="zeile-knopf" data-oeffne-intern="' + esc(x._id) + '">' +
+      '<span class="z-haupt"><span class="z-titel">' + esc(iFeld(s.titelFeld, x)) + "</span>" +
+      '<span class="z-meta">' + (s.meta || []).map(function (m) { var v = x[m.feld]; return v ? "<span>" + (m.icon && I[m.icon] ? I[m.icon] : "") + esc(v) + "</span>" : ""; }).join("") + "</span>" +
+      (s.textFeld && x[s.textFeld] ? '<span class="z-grund">' + esc(x[s.textFeld]) + "</span>" : "") + "</span>" +
+      '<span class="z-rechts">' + (s.marken || []).map(function (m) { return iMarke(m, x); }).join("") + (s.wert ? '<span class="werte">' + iWert(s.wert, x) + "</span>" : "") + "</span>" +
+      "</button></li>";
+  }
+  function findeIntern(id) { if (!S.iDaten) return null; return iSammlung().liste.filter(function (x) { return x._id === id; })[0] || null; }
+  function iWertText(typ, v, x) {
+    if (typ === "datum") return v ? de(v) : "";
+    if (typ === "quellen") return (v || []).map(function (q) { return q.label + " (" + q.url + ")"; }).join(", ");
+    return v == null ? "" : String(v);
+  }
+  function panelIntern(x) {
+    var s = iSammlung();
+    if (!x) return panelKopf(s.einzahl || "Eintrag") + '<div class="p-inhalt"><p>Eintrag nicht gefunden.</p></div>';
+    var h = panelKopf(s.titel) + '<div class="p-inhalt">';
+    h += '<div class="i-marken">' + (s.marken || []).map(function (m) { return iMarke(m, x); }).join("") + (s.wert ? iWert(s.wert, x) : "") + "</div>";
+    h += '<h2 id="panel-titel">' + esc(iFeld(s.titelFeld, x)) + "</h2>";
+    var fk = (s.fakten || []).filter(function (f) { return x[f.feld]; });
+    if (fk.length) h += '<div class="p-fakten">' + fk.map(function (f) { return fakt(I[f.icon] || I.info, esc((f.praefix || "") + x[f.feld])); }).join("") + "</div>";
+    if (s.textFeld && x[s.textFeld]) h += '<p class="deal-kurz">' + esc(x[s.textFeld]) + "</p>";
+    var link = s.link && x[s.link.feld];
+    if (link) h += '<div class="p-aktionen"><a class="knopf" href="' + esc(link) + '" target="_blank" rel="noopener noreferrer">' + I.link + esc(s.link.label || "Öffnen") + "</a></div>";
+    var qu = s.quellenFeld ? (x[s.quellenFeld] || []) : [];
+    if (qu.length) h += '<section class="p-abschnitt"><h3>Quellen</h3><ul class="i-quellen">' + qu.map(function (q) { return '<li><a href="' + esc(q.url) + '" target="_blank" rel="noopener noreferrer">' + I.link + esc(q.label || kurzUrl(q.url)) + "</a></li>"; }).join("") + "</ul></section>";
+    h += '<section class="p-abschnitt"><h3>Angaben</h3><dl class="angaben">' + (s.details || []).filter(function (d) { return d[2] !== "quellen"; }).map(function (d) {
+      var v = x[d[1]];
+      if (d[2] === "url") return v ? "<dt>" + esc(d[0]) + '</dt><dd><a href="' + esc(v) + '" target="_blank" rel="noopener noreferrer">' + esc(kurzUrl(v)) + "</a></dd>" : "";
+      return zeile(d[0], iWertText(d[2], v, x));
+    }).join("") + "</dl></section></div>";
+    return h;
+  }
+  function iSpalten(s) {
+    return (s.details || []).map(function (d) {
+      return [d[0], function (x) { var v = x[d[1]]; return d[2] === "datum" && v && /^\d{4}-\d{2}-\d{2}$/.test(v) ? { date: v } : iWertText(d[2], v, x); }];
+    });
+  }
+
+  /* ============================================================
      Merkliste
      ============================================================ */
   function zeigeMerkliste() {
@@ -1218,7 +1466,7 @@
     if (idx < 0) { S.panel.kontext = [id]; idx = 0; }
     S.panel.idx = idx;
     var inhalt = typ === "event" ? panelEvent(findeEvent(id)) : typ === "su" ? panelStartup(findeStartup(id))
-      : typ === "deal" ? panelDeal(findeDeal(id)) : typ === "inv" ? panelInvestor(findeInvestor(id)) : panelHilfe();
+      : typ === "deal" ? panelDeal(findeDeal(id)) : typ === "inv" ? panelInvestor(findeInvestor(id)) : typ === "intern" ? panelIntern(findeIntern(id)) : panelHilfe();
     if (panel.classList.contains("schliesst")) { schliessToken++; panel.classList.remove("schliesst"); }
     var k = S.panel.kontext.length;
     var fuss = (typ !== "hilfe" && k > 1) ? '<div class="p-fuss"><button type="button" class="knopf leise" data-blaettern="-1"' + (idx === 0 ? " disabled" : "") + ">" + I.links + "Vorheriger</button><span>" + (idx + 1) + " von " + k + '</span><button type="button" class="knopf leise" data-blaettern="1"' + (idx === k - 1 ? " disabled" : "") + ">Nächster" + I.rechts + "</button></div>" : "";
@@ -1512,7 +1760,7 @@
      Allgemeine Klicks (Delegation)
      ============================================================ */
   document.addEventListener("click", function (ev) {
-    var t = ev.target.closest("[data-stern],[data-ics],[data-oeffne],[data-oeffne-su],[data-oeffne-deal],[data-oeffne-inv],[data-dl],[data-hilfe],[data-panel-zu],[data-blaettern]");
+    var t = ev.target.closest("[data-stern],[data-ics],[data-oeffne],[data-oeffne-su],[data-oeffne-deal],[data-oeffne-inv],[data-oeffne-intern],[data-dl],[data-hilfe],[data-panel-zu],[data-blaettern]");
     if (!t) return;
     if (t.closest(".zs-scroll.zieht")) { ev.preventDefault(); return; }
     if (t.hasAttribute("data-stern")) return umschalteMerk(t.getAttribute("data-stern"), t);
@@ -1537,6 +1785,7 @@
       var dk = S.route === "kapital" && S.dealListe ? S.dealListe : S.runden;
       return oeffnePanel("deal", t.getAttribute("data-oeffne-deal"), dk.map(function (x) { return x.id; }));
     }
+    if (t.hasAttribute("data-oeffne-intern")) return oeffnePanel("intern", t.getAttribute("data-oeffne-intern"), (S.iListe || []).map(function (x) { return x._id; }));
     if (t.hasAttribute("data-oeffne-inv")) return oeffnePanel("inv", t.getAttribute("data-oeffne-inv"), S.investoren.map(function (x) { return x.id; }));
     if (t.hasAttribute("data-dl")) return herunterladen(t.getAttribute("data-dl"), t.getAttribute("data-quelle"));
     if (t.hasAttribute("data-hilfe")) return oeffnePanel("hilfe", "hilfe");
@@ -1556,6 +1805,16 @@
      Herunterladen & Drucken
      ============================================================ */
   function herunterladen(art, quelle) {
+    if (quelle === "intern") {
+      if (!S.iDaten) return;
+      var is = iSammlung(), il = S.iListe || [];
+      if (art === "druck") { S.druck = { art: "intern", liste: il, titel: is.titel }; return setTimeout(function () { window.print(); }, 30); }
+      if (!il.length) return toast("Die Auswahl ist leer – erst Filter anpassen.");
+      var nmI = "intern-" + is.titel.replace(/&/g, "und");
+      if (art === "csv") X.download(X.buildCSV(il, iSpalten(is)), dateiname(nmI, "csv"), "text/csv;charset=utf-8");
+      if (art === "xlsx") X.download(X.buildXLSX(il, iSpalten(is), is.titel.replace(/[^A-Za-zÄÖÜäöüß0-9 ]+/g, " ").replace(/\s+/g, " ").trim().slice(0, 31) || "Intern"), dateiname(nmI, "xlsx"), "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet");
+      return toast((art === "xlsx" ? "Excel-Datei" : "CSV-Datei") + " mit " + plural(il.length, is.einzahl || "Eintrag", is.mehrzahl || "Einträgen") + " geladen");
+    }
     if (quelle === "deals" || quelle === "investoren") {
       var kl = quelle === "deals" ? (S.dealListe || S.runden) : S.investoren;
       var cols = quelle === "deals" ? X.RUNDEN_COLS : X.INVESTOR_COLS, nm = quelle === "deals" ? "kapital-deals" : "kapital-investoren";
@@ -1609,12 +1868,19 @@
       return '<div class="d-ev"><div class="d-datum">' + esc(x.typ) + "<br>" + esc(x.sitz) + "</div><div><h2>" + esc(x.name) + "</h2><p>" + esc(x.kurz) + "</p>" +
         dl([["Phasen", x.phasen], ["Ticket", x.ticket], ["Volumen", x.volumen], ["Themen", (x.themen || []).join(", ")], ["Beteiligungen im Radar", (x.portfolio || []).map(function (p) { return p.unternehmen; }).join(", ")], ["Website", x.website], ["Quelle", x.quelle]]) + "</div></div>";
     };
-    if (d.art === "runden") h += d.liste.map(dealHtml).join("");
+    var internHtml = function (x) {
+      var s = iSammlung();
+      return '<div class="d-ev"><div class="d-datum">' + esc(x[(s.meta || [{}])[0].feld] || "") + "</div><div><h2>" + esc(x[s.titelFeld] || "") + "</h2>" + (s.textFeld && x[s.textFeld] ? "<p>" + esc(x[s.textFeld]) + "</p>" : "") +
+        dl((s.details || []).map(function (dd) { return [dd[0], iWertText(dd[2], x[dd[1]], x)]; })) + "</div></div>";
+    };
+    if (d.art === "intern-leer") h = "<h1>Intern</h1><p>Geschützter Bereich – Inhalte nur nach Entsperren.</p>";
+    else if (d.art === "intern") h = "<h1>" + esc(d.titel) + '</h1><p class="d-meta">Interner Bereich, Stand ' + esc(de(S.iDaten && S.iDaten.stand)) + ", gedruckt am " + esc(de(S.heute)) + ".</p>" + (S.iDaten ? d.liste.map(internHtml).join("") : "");
+    else if (d.art === "runden") h += d.liste.map(dealHtml).join("");
     else if (d.art === "investoren") h += d.liste.map(invHtml).join("");
     else if (d.art === "startups") h += d.liste.map(suHtml).join("");
     else if (d.art === "beide") h += d.liste.map(evHtml).join("") + (d.su.length ? "<h1 style=\"margin-top:8mm\">Start-ups</h1>" + d.su.map(suHtml).join("") : "");
     else h += d.liste.map(evHtml).join("");
-    if (!d.liste.length && !(d.su && d.su.length)) h += "<p>Die Auswahl ist leer.</p>";
+    if (d.art !== "intern-leer" && !d.liste.length && !(d.su && d.su.length)) h += "<p>Die Auswahl ist leer.</p>";
     $("#druck").innerHTML = h;
   });
   window.addEventListener("afterprint", function () { $("#druck").innerHTML = ""; });
