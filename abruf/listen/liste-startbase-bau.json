@@ -1,0 +1,57 @@
+{
+ "quelle": "liste-startbase-bau",
+ "name": "Startbase – Start-ups Bau und Immobilien",
+ "url": "https://www.startbase.de/startups/?branche=bau-immobilien",
+ "abgerufen": "2026-11-04",
+ "koepfe": [
+  "Login erforderlich"
+ ],
+ "links": [
+  {
+   "text": "Google Chrome",
+   "url": "https://chrome.google.com",
+   "extern": true
+  },
+  {
+   "text": "Safari",
+   "url": "https://support.apple.com/en_GB/downloads/safari",
+   "extern": true
+  },
+  {
+   "text": "Microsoft Edge",
+   "url": "https://www.microsoft.com/en-gb/windows/microsoft-edge",
+   "extern": true
+  },
+  {
+   "text": "Startbase.de",
+   "url": "https://www.startbase.de/",
+   "extern": false
+  },
+  {
+   "text": "Startups",
+   "url": "https://www.startbase.de/startups/",
+   "extern": false
+  },
+  {
+   "text": "Go to English edition",
+   "url": "https://www.startbase.com/startups/",
+   "extern": true
+  },
+  {
+   "text": "Deutsche Edition öffnen",
+   "url": "https://www.startbase.de/startups/",
+   "extern": false
+  },
+  {
+   "text": "Login",
+   "url": "https://www.startbase.de/login/",
+   "extern": false
+  },
+  {
+   "text": "Anmelden",
+   "url": "https://www.startbase.de/register/",
+   "extern": false
+  }
+ ],
+ "eintraege": []
+}

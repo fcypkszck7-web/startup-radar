@@ -1,0 +1,1350 @@
+{
+ "abgerufen": "2026-11-04 07:31 UTC",
+ "quellen_gesamt": 105,
+ "quellen_ok": 55,
+ "kandidaten": 122,
+ "neu": 110,
+ "quellen": [
+  {
+   "id": "auma-bau",
+   "name": "AUMA Messedatenbank – Bau",
+   "art": "events",
+   "url": "https://www.auma.de/de/messedatenbank/messen-und-ausstellungen/branche/bauwesen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.5,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "austrianstartups",
+   "name": "AustrianStartups – Events",
+   "art": "events",
+   "url": "https://austrianstartups.com/events/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 1.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "bauindustrie-bayern",
+   "name": "Bayerischer Bauindustrieverband – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.bauindustrie-bayern.de/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.3,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "bauindustrie-de",
+   "name": "Hauptverband der Deutschen Bauindustrie – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.bauindustrie.de/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "bayern-innovativ",
+   "name": "Bayern Innovativ – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.bayern-innovativ.de/de/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "bayika",
+   "name": "Bayerische Ingenieurekammer-Bau – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.bayika.de/de/veranstaltungen/",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 28,
+   "sekunden": 3.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "baystartup",
+   "name": "BayStartUP – Events",
+   "art": "events",
+   "url": "https://www.baystartup.de/events",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.8,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "bdew",
+   "name": "BDEW – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.bdew.de/service/veranstaltungen/",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 2,
+   "sekunden": 2.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "bitkom",
+   "name": "Bitkom – Events",
+   "art": "events",
+   "url": "https://www.bitkom.org/Events",
+   "ok": true,
+   "methoden": [
+    "detailseiten:1"
+   ],
+   "anzahl": 1,
+   "fehler": "",
+   "sekunden": 5.4,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "bsw-solar",
+   "name": "BSW-Solar – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.solarwirtschaft.de/veranstaltungen/",
+   "ok": true,
+   "methoden": [
+    "detailseiten:2"
+   ],
+   "anzahl": 2,
+   "fehler": "",
+   "sekunden": 6.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "buildingsmart",
+   "name": "buildingSMART Deutschland – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.buildingsmart.de/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "business-upper-austria",
+   "name": "Business Upper Austria – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.biz-up.at/veranstaltungen/",
+   "ok": true,
+   "methoden": [
+    "detailseiten:9"
+   ],
+   "anzahl": 9,
+   "fehler": "",
+   "sekunden": 25.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "bwp",
+   "name": "Bundesverband Wärmepumpe – Termine",
+   "art": "events",
+   "url": "https://www.waermepumpe.de/termine/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.5,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "contech-events-blackprint",
+   "name": "Built Environment Events (international)",
+   "art": "events",
+   "url": "https://www.eventbrite.com/d/europe/construction-technology/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 405",
+   "sekunden": 1.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "dena",
+   "name": "dena – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.dena.de/newsroom/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.1,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "dgnb",
+   "name": "DGNB – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.dgnb.de/de/veranstaltungen",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 8.8,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "dgo-termine",
+   "name": "Digitale Gründerinitiative Oberpfalz – Termine",
+   "art": "events",
+   "url": "https://www.digitale-oberpfalz.de/news-events/termine",
+   "ok": true,
+   "methoden": [
+    "detailseiten:9"
+   ],
+   "anzahl": 9,
+   "fehler": "",
+   "sekunden": 17.8,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "digital-hub-mobility",
+   "name": "Gründerzentrum Augsburg (Digitales Zentrum Schwaben) – Events",
+   "art": "events",
+   "url": "https://www.dzsw.de/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.9,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "ecoplus-cluster",
+   "name": "ecoplus Cluster Niederösterreich – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.ecoplus.at/veranstaltungen/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "energieagentur-regensburg",
+   "name": "Energieagentur Regensburg – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.energieagentur-regensburg.de/veranstaltungen/",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 2,
+   "sekunden": 3.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eu-startups-events",
+   "name": "EU-Startups – Events",
+   "art": "events",
+   "url": "https://www.eu-startups.com/events/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 4.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventbrite-contech",
+   "name": "Eventbrite – ConTech Deutschland",
+   "art": "events",
+   "url": "https://www.eventbrite.de/d/germany/contech/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 405",
+   "sekunden": 4.0,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "eventbrite-handwerk",
+   "name": "Eventbrite – Handwerk Deutschland",
+   "art": "events",
+   "url": "https://www.eventbrite.de/d/germany/handwerk/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 405",
+   "sekunden": 6.7,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "eventbrite-muenchen-startup",
+   "name": "Eventbrite – Start-up-Events München",
+   "art": "events",
+   "url": "https://www.eventbrite.de/d/germany--m%C3%BCnchen/startup/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 405",
+   "sekunden": 2.3,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "eventbrite-nuernberg",
+   "name": "Eventbrite – Business-Events Nürnberg",
+   "art": "events",
+   "url": "https://www.eventbrite.de/d/germany--n%C3%BCrnberg/business--events/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 405",
+   "sekunden": 2.9,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "eventbrite-photovoltaik",
+   "name": "Eventbrite – Photovoltaik Deutschland",
+   "art": "events",
+   "url": "https://www.eventbrite.de/d/germany/photovoltaik/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 405",
+   "sekunden": 6.3,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "eventbrite-proptech",
+   "name": "Eventbrite – PropTech Deutschland",
+   "art": "events",
+   "url": "https://www.eventbrite.de/d/germany/proptech/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 405",
+   "sekunden": 5.0,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "eventbrite-regensburg",
+   "name": "Eventbrite – Business-Events Regensburg",
+   "art": "events",
+   "url": "https://www.eventbrite.de/d/germany--regensburg/business--events/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 405",
+   "sekunden": 1.3,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "eventbrite-wien-startup",
+   "name": "Eventbrite – Start-up-Events Wien",
+   "art": "events",
+   "url": "https://www.eventbrite.at/d/austria--wien/startup/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 405",
+   "sekunden": 1.5,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "feuerverzinken",
+   "name": "Industrieverband Feuerverzinken – Termine",
+   "art": "events",
+   "url": "https://www.feuerverzinken.com/termine",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 1.9,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "geb-energieberater",
+   "name": "GIH Energieberater – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.gih.de/veranstaltungen/",
+   "ok": true,
+   "methoden": [
+    "json-ld"
+   ],
+   "anzahl": 10,
+   "fehler": "",
+   "sekunden": 5.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "groundbreakers",
+   "name": "GROUNDBREAKERS – Events",
+   "art": "events",
+   "url": "https://groundbreakers.io/events",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 7,
+   "sekunden": 2.4,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "gruenderland-bayern",
+   "name": "Gründerland Bayern – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.gruenderland.bayern/veranstaltungen/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "gzdn",
+   "name": "Gründerzentrum Digitalisierung Niederbayern – Events",
+   "art": "events",
+   "url": "https://gzdn.de/events/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 4.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "hannover-messe-deutsche-messe",
+   "name": "Deutsche Messe Hannover – Messekalender",
+   "art": "events",
+   "url": "https://www.messe.de/de/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 1.7,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "heinze-events",
+   "name": "Heinze – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.heinze.de/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.0,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "hm-sce",
+   "name": "Strascheg Center for Entrepreneurship (HM) – Events",
+   "art": "events",
+   "url": "https://www.sce.de/events/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "hs-landshut",
+   "name": "Hochschule Landshut – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.haw-landshut.de/aktuelles/veranstaltungen.html",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 4.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "hwk-muenchen",
+   "name": "Handwerkskammer für München und Oberbayern – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.hwk-muenchen.de/veranstaltungen",
+   "ok": true,
+   "methoden": [
+    "detailseiten:5"
+   ],
+   "anzahl": 5,
+   "fehler": "",
+   "sekunden": 13.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "hwkno",
+   "name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.hwkno.de/veranstaltungen",
+   "ok": true,
+   "methoden": [
+    "detailseiten:16"
+   ],
+   "anzahl": 15,
+   "fehler": "",
+   "sekunden": 36.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "ihk-muenchen",
+   "name": "IHK München und Oberbayern – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.ihk-muenchen.de/de/Veranstaltungen/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 2.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "ihk-niederbayern",
+   "name": "IHK Niederbayern – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.ihk-niederbayern.de/veranstaltungen",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "ihk-nuernberg",
+   "name": "IHK Nürnberg für Mittelfranken – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.ihk-nuernberg.de/de/Veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.9,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "ihk-regensburg",
+   "name": "IHK Regensburg für Oberpfalz/Kelheim – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.ihk.de/regensburg/veranstaltungen",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 4.1,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "ihk-schwaben",
+   "name": "IHK Schwaben – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.ihk.de/schwaben/veranstaltungen",
+   "ok": true,
+   "methoden": [
+    "detailseiten:2"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 11.8,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "innkubator",
+   "name": "INN.KUBATOR Passau",
+   "art": "events",
+   "url": "https://innkubator.de/events/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 6.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "itc-deggendorf",
+   "name": "ITC Deggendorf – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.itc-deggendorf.de/veranstaltungen/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.1,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "koelnmesse",
+   "name": "Koelnmesse – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.koelnmesse.de/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.0,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "link-landshut",
+   "name": "LINK Landshut – Gründerzentrum",
+   "art": "events",
+   "url": "https://www.link-landshut.de/",
+   "ok": true,
+   "methoden": [
+    "tribe-api-fehler:HTTPError"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 8.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "liste-axel",
+   "name": "AXEL Energie-Accelerator – Start-ups",
+   "art": "liste",
+   "url": "https://axel-accelerator.de/startups/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "URLError: <urlopen error [Errno -2] Name or service not known>",
+   "sekunden": 1.6,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "liste-bayern-kapital",
+   "name": "Bayern Kapital – Portfolio",
+   "art": "liste",
+   "url": "https://www.bayernkapital.de/portfolio/",
+   "ok": true,
+   "methoden": [
+    "liste"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "liste-climate-kic",
+   "name": "EIT InnoEnergy – Portfolio",
+   "art": "liste",
+   "url": "https://www.innoenergy.com/discover-innovative-solutions/",
+   "ok": true,
+   "methoden": [
+    "liste"
+   ],
+   "anzahl": 2,
+   "fehler": "",
+   "sekunden": 6.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "liste-eu-startups-energy",
+   "name": "EU-Startups Verzeichnis – Energie",
+   "art": "liste",
+   "url": "https://www.eu-startups.com/directory/wpbdp_category/energy-cleantech/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.7,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "liste-eu-startups-proptech",
+   "name": "EU-Startups Verzeichnis – PropTech/ConTech",
+   "art": "liste",
+   "url": "https://www.eu-startups.com/directory/wpbdp_category/real-estate/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 4.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "liste-groundbreakers",
+   "name": "GROUNDBREAKERS – Start-ups",
+   "art": "liste",
+   "url": "https://groundbreakers.io/en",
+   "ok": true,
+   "methoden": [
+    "liste"
+   ],
+   "anzahl": 152,
+   "fehler": "",
+   "sekunden": 0.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "liste-gzdn",
+   "name": "GZDN – Start-ups",
+   "art": "liste",
+   "url": "https://gzdn.de/startups/",
+   "ok": true,
+   "methoden": [
+    "liste"
+   ],
+   "anzahl": 5,
+   "fehler": "",
+   "sekunden": 1.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "liste-htgf",
+   "name": "High-Tech Gründerfonds – Portfolio",
+   "art": "liste",
+   "url": "https://www.htgf.de/de/portfolio/",
+   "ok": true,
+   "methoden": [
+    "liste"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "liste-munich-urban-colab",
+   "name": "Munich Urban Colab – Start-ups",
+   "art": "liste",
+   "url": "https://www.munich-urban-colab.de/startups",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 0.5,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "liste-startbase-bau",
+   "name": "Startbase – Start-ups Bau und Immobilien",
+   "art": "liste",
+   "url": "https://www.startbase.de/startups/?branche=bau-immobilien",
+   "ok": true,
+   "methoden": [
+    "liste"
+   ],
+   "anzahl": 4,
+   "fehler": "",
+   "sekunden": 2.0,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "liste-tech2b",
+   "name": "tech2b – Start-ups",
+   "art": "liste",
+   "url": "https://www.tech2b.at/startups/",
+   "ok": true,
+   "methoden": [
+    "liste"
+   ],
+   "anzahl": 1,
+   "fehler": "",
+   "sekunden": 4.4,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "liste-techbase",
+   "name": "TechBase Regensburg – Start-ups",
+   "art": "liste",
+   "url": "https://www.techbase.de/start-ups/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 0.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "liste-unternehmertum-xpreneurs",
+   "name": "UnternehmerTUM XPRENEURS – Start-ups",
+   "art": "liste",
+   "url": "https://www.unternehmertum.de/startups",
+   "ok": true,
+   "methoden": [
+    "liste"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 2.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "liste-zollhof",
+   "name": "ZOLLHOF – Start-ups",
+   "art": "liste",
+   "url": "https://zollhof.de/startups/",
+   "ok": true,
+   "methoden": [
+    "liste"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 0.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "mch-messe-basel",
+   "name": "MCH Group – Messen Basel/Zürich",
+   "art": "events",
+   "url": "https://www.mch-group.com/de/events",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 403",
+   "sekunden": 1.7,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-augsburg",
+   "name": "Messe Augsburg – Messen und Events",
+   "art": "events",
+   "url": "https://www.messeaugsburg.de/de/messen-events/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.8,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-berlin",
+   "name": "Messe Berlin – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.messe-berlin.de/messen-events/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.6,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-duesseldorf",
+   "name": "Messe Düsseldorf – Messekalender",
+   "art": "events",
+   "url": "https://www.messe-duesseldorf.de/messen-events",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.3,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-essen",
+   "name": "Messe Essen – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.messe-essen.de/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.5,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-frankfurt",
+   "name": "Messe Frankfurt – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.messefrankfurt.com/frankfurt/de/messen-events.html",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 4.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-muenchen",
+   "name": "Messe München – Messekalender",
+   "art": "events",
+   "url": "https://messe-muenchen.de/de/veranstaltungen/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 2.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-stuttgart",
+   "name": "Messe Stuttgart – Messekalender",
+   "art": "events",
+   "url": "https://www.messe-stuttgart.de/messen-events/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.7,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-wels",
+   "name": "Messe Wels – Messekalender",
+   "art": "events",
+   "url": "https://www.messe-wels.at/messen/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 2.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "munich-startup",
+   "name": "Munich Startup – Eventkalender",
+   "art": "events",
+   "url": "https://www.munich-startup.de/events/",
+   "ok": true,
+   "methoden": [
+    "detailseiten:1",
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 90,
+   "sekunden": 5.8,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "munich-urban-colab",
+   "name": "Munich Urban Colab – Events",
+   "art": "events",
+   "url": "https://www.munich-urban-colab.de/events",
+   "ok": true,
+   "methoden": [
+    "detailseiten:1"
+   ],
+   "anzahl": 1,
+   "fehler": "",
+   "sekunden": 4.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "nuernbergmesse",
+   "name": "NürnbergMesse – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.nuernbergmesse.de/de/messen-und-events",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.7,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "oth-aw",
+   "name": "OTH Amberg-Weiden – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.oth-aw.de/aktuelles/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.1,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "oth-regensburg",
+   "name": "OTH Regensburg – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.oth-regensburg.de/veranstaltungen",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "planen-bauen-40",
+   "name": "planen-bauen 4.0 – Termine",
+   "art": "events",
+   "url": "https://planen-bauen40.de/termine/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.8,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "pv-austria",
+   "name": "PV Austria – Veranstaltungen",
+   "art": "events",
+   "url": "https://pvaustria.at/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "RemoteDisconnected: Remote end closed connection without response",
+   "sekunden": 3.1,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "regensburg-wirtschaft",
+   "name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+   "art": "events",
+   "url": "https://www.regensburg.de/wirtschaft/veranstaltungen",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 2.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "schall-messen",
+   "name": "P. E. Schall – Messen (Blechexpo, Fakuma u. a.)",
+   "art": "events",
+   "url": "https://www.schall-messen.de/messen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 9.0,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "sensorik-cluster",
+   "name": "Strategische Partnerschaft Sensorik – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.sensorik-bayern.de/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "startup-factory",
+   "name": "StartUP Factory",
+   "art": "events",
+   "url": "https://startup-factory.rocks/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.1,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "startup-region-stuttgart",
+   "name": "Start-up-Region Stuttgart – Termine",
+   "art": "events",
+   "url": "https://www.startup-region-stuttgart.de/termine",
+   "ok": true,
+   "methoden": [
+    "detailseiten:17"
+   ],
+   "anzahl": 17,
+   "fehler": "",
+   "sekunden": 34.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "startup-salzburg",
+   "name": "Startup Salzburg – Events",
+   "art": "events",
+   "url": "https://www.startup-salzburg.at/events/",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 1,
+   "sekunden": 8.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "startupbw",
+   "name": "Start-up BW – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.startupbw.de/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "startupticker",
+   "name": "Startupticker.ch – Events",
+   "art": "events",
+   "url": "https://www.startupticker.ch/en/events",
+   "ok": true,
+   "methoden": [
+    "detailseiten:50"
+   ],
+   "anzahl": 25,
+   "fehler": "",
+   "sekunden": 47.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "startupverband",
+   "name": "Startup-Verband – Events",
+   "art": "events",
+   "url": "https://startupverband.de/events/",
+   "ok": true,
+   "methoden": [
+    "detailseiten:60"
+   ],
+   "anzahl": 3,
+   "fehler": "",
+   "sekunden": 47.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "tech2b",
+   "name": "tech2b Linz – Events",
+   "art": "events",
+   "url": "https://www.tech2b.at/events/",
+   "ok": true,
+   "methoden": [
+    "tribe-api-fehler:HTTPError",
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 17,
+   "sekunden": 14.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "techbase-events",
+   "name": "TechBase Regensburg – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.techbase.de/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.2,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "thd-events",
+   "name": "TH Deggendorf – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.th-deg.de/de/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.6,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "tum-venture-labs",
+   "name": "TUM Venture Labs – Events",
+   "art": "events",
+   "url": "https://www.tum-venture-labs.de/events/",
+   "ok": true,
+   "methoden": [
+    "detailseiten:79"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 46.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "uni-passau",
+   "name": "Universität Passau – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.uni-passau.de/veranstaltungen",
+   "ok": true,
+   "methoden": [
+    "detailseiten:6"
+   ],
+   "anzahl": 6,
+   "fehler": "",
+   "sekunden": 15.8,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "uni-regensburg",
+   "name": "Universität Regensburg – Veranstaltungskalender",
+   "art": "events",
+   "url": "https://www.uni-regensburg.de/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.0,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "unternehmertum",
+   "name": "UnternehmerTUM – Events",
+   "art": "events",
+   "url": "https://www.unternehmertum.de/events",
+   "ok": true,
+   "methoden": [
+    "detailseiten:5"
+   ],
+   "anzahl": 5,
+   "fehler": "",
+   "sekunden": 21.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "vdma",
+   "name": "VDMA – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.vdma.eu/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.7,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "werk1",
+   "name": "WERK1 München – Events",
+   "art": "events",
+   "url": "https://www.werk1.com/events",
+   "ok": true,
+   "methoden": [
+    "tribe-api",
+    "detailseiten:8"
+   ],
+   "anzahl": 8,
+   "fehler": "",
+   "sekunden": 11.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "wirtschaftsagentur-wien",
+   "name": "Wirtschaftsagentur Wien – Veranstaltungen",
+   "art": "events",
+   "url": "https://wirtschaftsagentur.at/veranstaltungen/",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 62,
+   "sekunden": 8.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "wko-veranstaltungen",
+   "name": "WKO – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.wko.at/veranstaltungen",
+   "ok": true,
+   "methoden": [
+    "detailseiten:6"
+   ],
+   "anzahl": 6,
+   "fehler": "",
+   "sekunden": 19.8,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "wvm",
+   "name": "Wirtschaftsverband Stahl- und Metallverarbeitung – Termine",
+   "art": "events",
+   "url": "https://www.wsm-net.de/termine/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.8,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "zdb",
+   "name": "Zentralverband Deutsches Baugewerbe – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.zdb.de/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.2,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "zdh",
+   "name": "Zentralverband des Deutschen Handwerks – Termine",
+   "art": "events",
+   "url": "https://www.zdh.de/termine/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "zollhof",
+   "name": "ZOLLHOF Nürnberg – Events",
+   "art": "events",
+   "url": "https://zollhof.de/events/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.0,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "zvdh",
+   "name": "Zentralverband des Deutschen Dachdeckerhandwerks – Termine",
+   "art": "events",
+   "url": "https://www.dachdecker.de/termine",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "robots.txt verbietet den Abruf",
+   "sekunden": 0.7,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "zvo",
+   "name": "Zentralverband Oberflächentechnik – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.zvo.org/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 4.0,
+   "zuletzt_ok": ""
+  }
+ ]
+}
