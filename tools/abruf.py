@@ -850,7 +850,15 @@ def main():
         st = {"id": q["id"], "name": q.get("name", q["id"]), "art": q.get("art", "events"), "url": q["url"],
               "ok": False, "methoden": [], "anzahl": 0, "fehler": ""}
         try:
-            if q.get("art") == "liste":
+            if q.get("art") == "firmen":
+                r = {"koepfe": [], "links": [], "eintraege": [],
+                     "firmen": [firmenprofil(u, cache) for u in dict.fromkeys(q.get("urls", []))]}
+                (aus / "abruf" / "listen" / f"{q['id']}.json").write_text(json.dumps({
+                    "quelle": q["id"], "name": q.get("name"), "url": q["url"], "abgerufen": HEUTE.isoformat(), **r},
+                    ensure_ascii=False, indent=1), encoding="utf-8")
+                st["anzahl"] = len([f for f in r["firmen"] if not f.get("fehler")])
+                st["methoden"] = ["firmenprofile"]
+            elif q.get("art") == "liste":
                 r = verarbeite_liste(q, cache, a.max_detail)
                 (aus / "abruf" / "listen" / f"{q['id']}.json").write_text(json.dumps({
                     "quelle": q["id"], "name": q.get("name"), "url": q["url"], "abgerufen": HEUTE.isoformat(), **r},

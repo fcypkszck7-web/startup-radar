@@ -1208,6 +1208,43 @@
    "region": "Schweiz",
    "typ": "Medien",
    "url": "https://startupticker.ch/en/news/ten-startups-proceed-to-the-finals-of-the-contech-award"
+  },
+  {
+   "id": "firmen-nachrecherche",
+   "name": "Nachrecherche: Unternehmensangaben einzelner Start-ups",
+   "art": "firmen",
+   "region": "Deutschland",
+   "typ": "Nachrecherche",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+   "urls": [
+    "http://conxai.com/",
+    "https://crafthunt.app/",
+    "https://www.sparkefuels.com/",
+    "https://www.elviorobotics.com/",
+    "https://www.atlasmetrics.io/",
+    "https://www.getsunhat.com/de",
+    "https://fides.technology/de",
+    "https://www.briink.com/",
+    "https://voltfang.de/",
+    "https://www.phelas.com/de",
+    "https://www.entrixenergy.com/de",
+    "https://www.suena.energy/",
+    "https://reverion.com/",
+    "https://www.cylib.de/de",
+    "https://www.greenlyte.tech/",
+    "https://tenderwalls.de/",
+    "http://www.abstract.build",
+    "http://www.aestico.ch",
+    "http://www.de-solutions.info",
+    "http://www.ped4bim.com",
+    "http://www.capmo.de",
+    "http://www.fenx.ch",
+    "https://www.themobbot.com/",
+    "http://www.voliro.ch",
+    "https://www.kodex-ai.com/",
+    "https://kertos.io/"
+   ],
+   "notiz": "Websites aus Listen und Berichten, deren Sitz und Kurzbeschreibung automatisch aus Website und Impressum gelesen werden."
   }
  ]
 }
