@@ -8,8 +8,36 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:bim-weeks-bayern-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+SUMMARY:[B] BIM Weeks Bayern 2026
+LOCATION:Online\, Online
+DESCRIPTION:Veranstaltungsreihe · bayika\nPriorität B (Gesamtscore 3\,2)\
+ nTerminstatus: bestätigt\nBranchen: Bau & Immobilien\, Software\, KI & Da
+ ten\nWarum relevant: BIM\, Digitalisierung und neue Prozesse im Planen und
+  Bauen\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstal
+ terseite\nQuelle: https://www.bayika.de/de/veranstaltungen/\nRadar: https:
+ //fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bayika.de/de/veranstaltungen/
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BIM Weeks Bayern 2026 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BIM Weeks Bayern 2026 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:bic-wissenonline-moebelproduktion-im-wandel-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:[C] BIC WissenOnline - Möbelproduktion im Wandel
@@ -38,9 +66,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:it-mittelstandstag-an-der-hochschule-esslingen-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:[C] IT-Mittelstandstag an der Hochschule Esslingen
+LOCATION:Hochschule Esslingen\, Baden-Württemberg
+DESCRIPTION:Konferenz · Wirtschaftsförderung Region Stuttgart – Termine
+ \nPriorität C (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Sof
+ tware\, KI & Daten\, Gründung & Innovation\nWarum relevant: IT-Mittelstan
+ dstag: Digitalisierung und IT im Mittelstand\nEmpfohlene Rolle: Besuch\nAn
+ meldung: Anmeldung über die Veranstalterseite\nQuelle: https://wrs.region
+ -stuttgart.de/termine/it-mittelstandstag-an-der-hochschule-esslingen-2/\nR
+ adar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://wrs.region-stuttgart.de/termine/it-mittelstandstag-an-der-hochs
+ chule-esslingen-2/
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IT-Mittelstandstag an der Hochschule Esslingen in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IT-Mittelstandstag an der Hochschule Esslingen in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:kooperationsveranstaltung-serielle-waermeloesungen-fuer-den-2026@startu
  p-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:[C] Kooperationsveranstaltung: Serielle Wärmelösungen für den Ge
@@ -74,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:online-fortbildung-geg-ade-welcome-gmodg-was-energieberatend-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:[C] Online-Fortbildung „GEG ade – Welcome GModG: Was Energieber
@@ -113,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:so-profitieren-sie-als-handwerksbetrieb-von-der-forschungszu-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:[C] So profitieren Sie als Handwerksbetrieb von der Forschungszulag
@@ -146,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:start-up-basics-preisfindung-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:[C] Start-Up Basics – Preisfindung
@@ -175,7 +233,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zollseminar-fuer-einsteiger-und-auffrischer-teil-1-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:[C] Zollseminar für Einsteiger und Auffrischer - Teil 1
@@ -206,7 +264,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:digit-r-geklickt-gehackt-wie-sicher-sind-wir-im-netz-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:[C] digit-R – Geklickt. Gehackt? Wie sicher sind wir im Netz?
@@ -238,7 +296,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:abend-der-begegnung-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[C] Abend der Begegnung
@@ -266,8 +324,35 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:community-after-work-beer-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:[C] Community After Work Beer
+LOCATION:factory300\, Linz\, Österreich (Oberösterreich)
+DESCRIPTION:Netzwerktreffen · tech2b\nPriorität C (Gesamtscore 2\,7)\nTer
+ minstatus: bestätigt\nBranchen: Gründung & Innovation\nWarum relevant: O
+ ffenes Start-up-Netzwerktreffen\nEmpfohlene Rolle: Besuch\nAnmeldung: Anme
+ ldung über die Veranstalterseite\nQuelle: https://www.tech2b.at/events/\n
+ Radar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.tech2b.at/events/
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Community After Work Beer in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Community After Work Beer in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:denkmal-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261108
 SUMMARY:[C] Denkmal
@@ -296,7 +381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:einsatz-von-eu-subunternehmen-risiko-oder-rueckenwind-2026@startup-rada
  r
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[C] Einsatz von EU-Subunternehmen: Risiko oder Rückenwind?
@@ -327,8 +412,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eroeffnung-der-erweiterungsflaeche-des-ai-xpress-wrs-future-2026@startu
+ p-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:[C] Eröffnung der Erweiterungsfläche des AI xpress – WRS Future
+  Industry xpress
+LOCATION:AI xpress\, Böblingen\, Baden-Württemberg
+DESCRIPTION:Eröffnung mit Vorträgen · IT Region Stuttgart\nPriorität C 
+ (Gesamtscore 2\,4)\nTerminstatus: bestätigt\nBranchen: Software\, KI & Da
+ ten\, Industrie & Fertigung\nWarum relevant: Erweiterung des KI-Innovation
+ szentrums für die Industrie\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldu
+ ng über die Veranstalterseite\nQuelle: https://it.region-stuttgart.de/ter
+ mine/eroeffnung-der-erweiterungsflaeche-des-ai-xpress-wrs-future-industry-
+ xpress/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://it.region-stuttgart.de/termine/eroeffnung-der-erweiterungsflaec
+ he-des-ai-xpress-wrs-future-industry-xpress/
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Eröffnung der Erweiterungsfläche des AI xpress – WRS Future
+  Industry xpress in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Eröffnung der Erweiterungsfläche des AI xpress – WRS Future
+  Industry xpress in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:groundbreakers-summit-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[A] GROUNDBREAKERS Summit 2026
@@ -360,7 +479,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:grundlagen-brandschutz-mit-knauf-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[C] Grundlagen Brandschutz mit Knauf
@@ -388,7 +507,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:informationsveranstaltungen-zur-beg-reform-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[C] Informationsveranstaltungen zur BEG-Reform 2026
@@ -418,7 +537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:joint-forces-57-hosted-by-uni-wien-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[C] Joint Forces #57 - hosted by Uni Wien
@@ -447,8 +566,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:live-hacking-wenn-die-ki-zum-komplizen-wird-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:[C] Live-Hacking – wenn die KI zum Komplizen wird
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Wirtschaftsförderung Region Stuttgart – Termine\n
+ Priorität C (Gesamtscore 2\,8)\nTerminstatus: bestätigt\nBranchen: Softw
+ are\, KI & Daten\nWarum relevant: Live-Hacking: Wenn KI zum Werkzeug von A
+ ngreifern wird\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die V
+ eranstalterseite\nQuelle: https://wrs.region-stuttgart.de/termine/live-hac
+ king-wenn-die-ki-zum-komplizen-wird/\nRadar: https://fcypkszck7-web.github
+ .io/startup-radar/
+URL:https://wrs.region-stuttgart.de/termine/live-hacking-wenn-die-ki-zum-ko
+ mplizen-wird/
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Live-Hacking – wenn die KI zum Komplizen wird in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Live-Hacking – wenn die KI zum Komplizen wird in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:lunch-learn-inbound-lead-generation-via-seo-geo-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[C] Lunch&Learn: Inbound Lead Generation via SEO/GEO
@@ -478,7 +627,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:opportunity-hunters-talks-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[C] Opportunity Hunters Talks
@@ -506,7 +655,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:physical-ai-meetup-zurich-edition-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[C] Physical AI Meetup - Zurich Edition
@@ -535,7 +684,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-nights-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:[C] Startup Nights 2026
@@ -568,7 +717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:contact-denkmal-internationale-geschaeftskontaktboerse-auf-d-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:[B] CONTACT "denkmal" - Internationale Geschäftskontaktbörse auf 
@@ -602,7 +751,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:industrial-edge-workshop-for-startups-and-smes-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:[C] Industrial Edge Workshop for Startups and SMEs
@@ -633,7 +782,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lehrgang-zur-lnb-expert-in-befaehigung-zur-zertifizierung-vo-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:[C] Lehrgang zur LNB-Expert:in  Befähigung zur Zertifizierung vo
@@ -667,8 +816,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pioneers-pancakes-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:[C] Pioneers & Pancakes 2026
+LOCATION:Eulachhallen\, Winterthur\, Schweiz (Zürich)
+DESCRIPTION:Netzwerktreffen · Startupticker.ch – Events\nPriorität C (G
+ esamtscore 2\,5)\nTerminstatus: bestätigt\nBranchen: Gründung & Innovati
+ on\nWarum relevant: Start-up-Frühstück und Networking\nEmpfohlene Rolle:
+  Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuelle: https:/
+ /www.startupticker.ch/index.php/en/events/pioneers-pancakes-2026\nRadar: h
+ ttps://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.startupticker.ch/index.php/en/events/pioneers-pancakes-2026
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pioneers & Pancakes 2026 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pioneers & Pancakes 2026 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:werksfruehstueck-community-breakfast-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:[C] WERKSFRÜHSTÜCK – Community Breakfast
@@ -695,9 +872,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:barcamp-stuttgart-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[C] Barcamp Stuttgart 2026
+LOCATION:Stuttgart\, Baden-Württemberg
+DESCRIPTION:Barcamp · IT Region Stuttgart\nPriorität C (Gesamtscore 2\,4)
+ \nTerminstatus: bestätigt\nBranchen: Software\, KI & Daten\, Gründung & 
+ Innovation\nWarum relevant: Offenes Barcamp zu Digitalisierung und Technik
+ \nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstaltersei
+ te\nQuelle: https://it.region-stuttgart.de/termine/barcamp-stuttgart-2025-
+ 2/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://it.region-stuttgart.de/termine/barcamp-stuttgart-2025-2/
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Barcamp Stuttgart 2026 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Barcamp Stuttgart 2026 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:female-founders-edition-in-zurich-women-ai-how-to-lead-chang-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:[C] Female Founders Edition in Zurich: Women & AI: How to Lead Chan
@@ -731,7 +936,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:female-founders-night-drei-gruenderinnen-drei-geschichten-be-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:[C] Female Founders Night: Drei Gründerinnen\, drei Geschichten be
@@ -764,7 +969,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Web Summit 2026
@@ -794,7 +999,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kuwi-webinar-power-pitch-praesentationen-so-verkaufst-du-dei-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:[C] kuwi.webinar "Power-Pitch-Präsentationen - So verkaufst Du Dei
@@ -826,8 +1031,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pv-magazine-webinar-mit-pvcase-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:[C] pv magazine Webinar mit PVcase
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · pv-magazine-webinare\nPriorität C (Gesamtscore 2\,8
+ )\nTerminstatus: bestätigt\nBranchen: Energie & Solar\, Software\, KI & D
+ aten\nWarum relevant: Planungssoftware für Photovoltaik-Projekte\nEmpfohl
+ ene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuell
+ e: https://www.pv-magazine.de/events/webinare/\nRadar: https://fcypkszck7-
+ web.github.io/startup-radar/
+URL:https://www.pv-magazine.de/events/webinare/
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:pv magazine Webinar mit PVcase in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:pv magazine Webinar mit PVcase in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:10-jahre-tz-puls-gemeinsam-zukunft-produzieren-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[B] 10 Jahre TZ PULS – Gemeinsam Zukunft Produzieren
@@ -855,8 +1088,35 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:16-maschinenbau-gipfel-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261112
+SUMMARY:[C] 16. Maschinenbau-Gipfel
+LOCATION:Berlin\, Berlin
+DESCRIPTION:Kongress · vdma\nPriorität C (Gesamtscore 2\,6)\nTerminstatus
+ : bestätigt\nBranchen: Industrie & Fertigung\nWarum relevant: Jahrestreff
+ en der Maschinenbaubranche\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung
+  über die Veranstalterseite\nQuelle: https://www.vdma.eu/kalender\nRadar:
+  https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.vdma.eu/kalender
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:16. Maschinenbau-Gipfel in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:16. Maschinenbau-Gipfel in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:antragstraining-foerderprogramm-kmu-innovativ-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[C] Antragstraining Förderprogramm KMU-Innovativ
@@ -886,7 +1146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:enlit-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Enlit Europe 2026
@@ -916,7 +1176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:inspiration-talk-was-olympia-fuer-muenchen-in-gang-setzen-ka-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[C] Inspiration & Talk Was Olympia für München in Gang setzen kan
@@ -947,7 +1207,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pitch-match-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[A] Pitch & Match 2026
@@ -980,9 +1240,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-heizen-mit-der-sonne-solarthermie-pv-und-pvt-im-verg-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:[C] Webinar: Heizen mit der Sonne: Solarthermie\, PV und PVT im Ver
+ gleich
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Gentner Events\nPriorität C (Gesamtscore 2\,8)\nTer
+ minstatus: bestätigt\nBranchen: Energie & Solar\, Gebäudetechnik\nWarum 
+ relevant: Heizen mit der Sonne: Solarthermie\, PV und PVT im Vergleich\nEm
+ pfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\n
+ Quelle: https://events.gentner.de/de/webinar-heizen-mit-der-sonne-solarthe
+ rmie-pv-und-pvt-im-vergleich\nRadar: https://fcypkszck7-web.github.io/star
+ tup-radar/
+URL:https://events.gentner.de/de/webinar-heizen-mit-der-sonne-solarthermie-
+ pv-und-pvt-im-vergleich
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Heizen mit der Sonne: Solarthermie\, PV und PVT im Ver
+ gleich in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Heizen mit der Sonne: Solarthermie\, PV und PVT im Ver
+ gleich in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:krisenvorsorge-beim-stromausfall-alles-ueber-notstromaggrega-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Krisenvorsorge beim Stromausfall - Alles über Notstromaggregat
@@ -1015,7 +1309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:matchmaking-erlangen-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[B] Matchmaking: Mittelstand & Startups
@@ -1045,7 +1339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:praktische-anwendung-der-neuen-din-en-1090-schweissen-im-sta-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[B] Praktische Anwendung der neuen DIN EN 1090 (Schweißen im Stahl
@@ -1079,7 +1373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:softwarepark-impulse-neue-rollen-neue-regeln-softwareentwick-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Softwarepark Impulse – Neue Rollen\, neue Regeln: Softwareent
@@ -1112,7 +1406,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-im-handwerk-frag-uns-einfach-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Startup im Handwerk – frag uns einfach!
@@ -1141,8 +1435,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:vortrag-bau-einfach-gemeinsam-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:[C] Vortrag „bau einfach – gemeinsam“
+LOCATION:Hochschule München\, Bayern (Oberbayern)
+DESCRIPTION:Vortrag · bayika\nPriorität C (Gesamtscore 2\,6)\nTerminstatu
+ s: bestätigt\nBranchen: Bau & Immobilien\nWarum relevant: Einfacher bauen
+  – Veranstaltung des Berufsverbands freischaffender Architekten und Baui
+ ngenieure\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Verans
+ talterseite\nQuelle: https://www.bayika.de/de/veranstaltungen/\nRadar: htt
+ ps://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bayika.de/de/veranstaltungen/
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vortrag „bau einfach – gemeinsam“ in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vortrag „bau einfach – gemeinsam“ in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:startup-trifft-mittelstand-bw-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[B] #StartupTrifftMittelstand 2026
@@ -1173,9 +1495,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:activate-pitch-fruehstueck-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:[C] ACTIVATE Pitch Frühstück
+LOCATION:Grand Garage\, Linz\, Österreich (Oberösterreich)
+DESCRIPTION:Pitch-Frühstück · tech2b\nPriorität C (Gesamtscore 2\,4)\nT
+ erminstatus: bestätigt\nBranchen: Gründung & Innovation\nWarum relevant:
+  Start-ups pitchen beim Frühstück\nEmpfohlene Rolle: Besuch\nAnmeldung: 
+ Anmeldung über die Veranstalterseite\nQuelle: https://www.tech2b.at/event
+ s/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.tech2b.at/events/
+CATEGORIES:Pitch & Demo Day
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACTIVATE Pitch Frühstück in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACTIVATE Pitch Frühstück in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:handwerk-trifft-forschung-universitaet-der-bundeswehr-2026@startup-rada
  r
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Handwerk trifft Forschung: Universität der Bundeswehr
@@ -1208,7 +1557,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:opportunity-hunters-talks-2026-1112@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Opportunity Hunters Talks
@@ -1235,8 +1584,70 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:sensorik-vor-ort-fraunhofer-emft-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:[C] Sensorik vor Ort: Fraunhofer EMFT
+LOCATION:München\, Bayern (Oberbayern)
+DESCRIPTION:Laborbesuch · sensorik-cluster\nPriorität C (Gesamtscore 2\,6
+ )\nTerminstatus: bestätigt\nBranchen: Industrie & Fertigung\, Software\, 
+ KI & Daten\nWarum relevant: Sub-THz-Sensing\, Gas- und pH-Sensoren\, Ultra
+ schall\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstal
+ terseite\nQuelle: https://www.sensorik-bayern.de/seminare\nRadar: https://
+ fcypkszck7-web.github.io/startup-radar/
+URL:https://www.sensorik-bayern.de/seminare
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sensorik vor Ort: Fraunhofer EMFT in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sensorik vor Ort: Fraunhofer EMFT in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-energieberatung-im-baudenkmal-fachwissen-foerderung-2026@startu
+ p-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:[C] Webinar: Energieberatung im Baudenkmal - Fachwissen\, Förderun
+ g und Rezertifizierung
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Gentner Events\nPriorität C (Gesamtscore 2\,8)\nTer
+ minstatus: bestätigt\nBranchen: Energie & Solar\, Bau & Immobilien\nWarum
+  relevant: Energieberatung im Baudenkmal: Fachwissen und Förderung\nEmpfo
+ hlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQue
+ lle: https://events.gentner.de/de/webinar-energieberatung-im-baudenkmal-fa
+ chwissen-foerderung-und-rezertifizierung\nRadar: https://fcypkszck7-web.gi
+ thub.io/startup-radar/
+URL:https://events.gentner.de/de/webinar-energieberatung-im-baudenkmal-fach
+ wissen-foerderung-und-rezertifizierung
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Energieberatung im Baudenkmal - Fachwissen\, Förderun
+ g und Rezertifizierung in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Energieberatung im Baudenkmal - Fachwissen\, Förderun
+ g und Rezertifizierung in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:innovationstag-bauen-der-zukunft-berlin-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] Innovationstag „Bauen der Zukunft“ Berlin 2026
@@ -1268,9 +1679,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-am-freitag-carbon-management-strategien-fuer-eine-kl-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[C] Webinar am Freitag - Carbon Management: Strategien für eine kl
+ imaneutrale Industrie
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Bayern Innovativ – Veranstaltungen\nPriorität C (
+ Gesamtscore 2\,8)\nTerminstatus: bestätigt\nBranchen: Material & Kreislau
+ f\, Industrie & Fertigung\nWarum relevant: Carbon Management: Strategien f
+ ür eine klimaneutrale Produktion\nEmpfohlene Rolle: Besuch\nAnmeldung: An
+ meldung über die Veranstalterseite\nQuelle: https://www.bayern-innovativ.
+ de/events-termine/energie-bau/detail/webinar-am-freitag-energie-q4-4/\nRad
+ ar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bayern-innovativ.de/events-termine/energie-bau/detail/webin
+ ar-am-freitag-energie-q4-4/
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar am Freitag - Carbon Management: Strategien für eine kl
+ imaneutrale Industrie in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar am Freitag - Carbon Management: Strategien für eine kl
+ imaneutrale Industrie in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:alfinah-anwendungsworkshop-regionaler-co2-zertifikatehandel-2026@startu
  p-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[C] AlFinaH Anwendungsworkshop: Regionaler CO2-Zertifikatehandel zw
@@ -1305,8 +1750,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:innovation-coffee-hochschule-fuer-angewandte-wissenschaften-2026@startu
+ p-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[C] Innovation Coffee Hochschule für angewandte Wissenschaften Cob
+ urg
+LOCATION:Coburg\, Bayern (Oberfranken)
+DESCRIPTION:Netzwerktreffen · Bayern Innovativ – Veranstaltungen\nPriori
+ tät C (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Material & 
+ Kreislauf\, Gründung & Innovation\nWarum relevant: Innovation Coffee an d
+ er Hochschule Coburg (Werkstoffe)\nEmpfohlene Rolle: Besuch\nAnmeldung: An
+ meldung über die Veranstalterseite\nQuelle: https://www.bayern-innovativ.
+ de/events-termine/material/detail/innovation-coffee-hochschule-fuer-angewa
+ ndte-wissenschaften-coburg/\nRadar: https://fcypkszck7-web.github.io/start
+ up-radar/
+URL:https://www.bayern-innovativ.de/events-termine/material/detail/innovati
+ on-coffee-hochschule-fuer-angewandte-wissenschaften-coburg/
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Innovation Coffee Hochschule für angewandte Wissenschaften Cob
+ urg in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Innovation Coffee Hochschule für angewandte Wissenschaften Cob
+ urg in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:startup-night-weiden-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[C] Inspiration & StartUp Night 2026
@@ -1338,7 +1818,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:leg-reiner-wasserstoff-aus-guelle-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[C] LEG: Reiner Wasserstoff aus Gülle
@@ -1367,7 +1847,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e4s-translating-research-into-a-business-model-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] #E4s - Translating Research Into A Business Model
@@ -1397,7 +1877,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:axel-demo-day-2026-11@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[B] AXEL Energie-Accelerator: Demo Day #17
@@ -1427,8 +1907,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:bayerisch-schwaben-vernetzt-sich-neues-energieeffizienz-netz-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:[C] Bayerisch-Schwaben vernetzt sich – Neues Energieeffizienz-Net
+ zwerk in Gründung
+LOCATION:Augsburg\, Bayern (Schwaben)
+DESCRIPTION:Netzwerktreffen · Bayern Innovativ – Veranstaltungen\nPriori
+ tät C (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Energie & S
+ olar\, Industrie & Fertigung\nWarum relevant: Gründung eines Energieeffiz
+ ienz-Netzwerks in Bayerisch-Schwaben\nEmpfohlene Rolle: Besuch\nAnmeldung:
+  Anmeldung über die Veranstalterseite\nQuelle: https://www.bayern-innovat
+ iv.de/events-termine/energie-bau/detail/bayerisch-schwaben-vernetzt-sich-n
+ eues-energieeffizienz-netzwerk-in-gruendung/\nRadar: https://fcypkszck7-we
+ b.github.io/startup-radar/
+URL:https://www.bayern-innovativ.de/events-termine/energie-bau/detail/bayer
+ isch-schwaben-vernetzt-sich-neues-energieeffizienz-netzwerk-in-gruendung/
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bayerisch-Schwaben vernetzt sich – Neues Energieeffizienz-Net
+ zwerk in Gründung in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bayerisch-Schwaben vernetzt sich – Neues Energieeffizienz-Net
+ zwerk in Gründung in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:formnext-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
 SUMMARY:[C] Formnext 2026
@@ -1458,7 +1973,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:it-sicherheit-im-handwerk-grundlagen-und-nuetzliche-tipps-2026@startup-
  radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] IT-Sicherheit im Handwerk: Grundlagen und nützliche Tipps
@@ -1489,8 +2004,66 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:power-transmission-distribution-technology-expo-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+SUMMARY:[C] Power Transmission & Distribution Technology Expo
+LOCATION:Köln\, Nordrhein-Westfalen
+DESCRIPTION:Fachmesse · koelnmesse\nPriorität C (Gesamtscore 2\,5)\nTermi
+ nstatus: bestätigt\nBranchen: Energie & Solar\, Industrie & Fertigung\nWa
+ rum relevant: Technologien für Stromübertragung und -verteilung\nEmpfohl
+ ene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuell
+ e: https://www.koelnmesse.de/aktuelle-termine/alle-messen/\nRadar: https:/
+ /fcypkszck7-web.github.io/startup-radar/
+URL:https://www.koelnmesse.de/aktuelle-termine/alle-messen/
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Power Transmission & Distribution Technology Expo in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Power Transmission & Distribution Technology Expo in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-energieberatung-moeglichst-rechtssicher-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:[C] Webinar: Energieberatung – möglichst rechtssicher
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Gentner Events\nPriorität C (Gesamtscore 2\,8)\nTer
+ minstatus: bestätigt\nBranchen: Energie & Solar\, Bau & Immobilien\nWarum
+  relevant: Rechtssichere Energieberatung\nEmpfohlene Rolle: Besuch\nAnmeld
+ ung: Anmeldung über die Veranstalterseite\nQuelle: https://events.gentner
+ .de/de/webinar-energieberatung-moeglichst-rechtssicher\nRadar: https://fcy
+ pkszck7-web.github.io/startup-radar/
+URL:https://events.gentner.de/de/webinar-energieberatung-moeglichst-rechtss
+ icher
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Energieberatung – möglichst rechtssicher in 30 Tage
+ n
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Energieberatung – möglichst rechtssicher in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:workshop-fallstricke-im-steuerrecht-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] Workshop: Fallstricke im Steuerrecht
@@ -1519,8 +2092,35 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pv-magazine-webinar-mit-prolux-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:[C] pv magazine Webinar mit Prolux
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · pv-magazine-webinare\nPriorität C (Gesamtscore 2\,8
+ )\nTerminstatus: bestätigt\nBranchen: Energie & Solar\nWarum relevant: He
+ rstellerwebinar zu Photovoltaik\nEmpfohlene Rolle: Besuch\nAnmeldung: Anme
+ ldung über die Veranstalterseite\nQuelle: https://www.pv-magazine.de/even
+ ts/webinare/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.pv-magazine.de/events/webinare/
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:pv magazine Webinar mit Prolux in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:pv magazine Webinar mit Prolux in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:businessplan-so-gehst-du-richtig-vor-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Businessplan - So gehst du richtig vor
@@ -1550,7 +2150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruendungstag-deggendorf-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[B] Deggendorfer Gründungstag mit Gründungspreis 2026
@@ -1580,7 +2180,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hochschulgruendertag-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[B] Hochschulgründertag 2026
@@ -1612,7 +2212,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:klimafestival-bauwende-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:[B] Klimafestival für die Bauwende 2026
@@ -1640,8 +2240,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:prozesse-2-0-wie-ki-dein-team-upgradet-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:[C] Prozesse 2.0: Wie KI dein Team upgradet
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Startup-Verband – Events\nPriorität C (Gesamtscor
+ e 2\,8)\nTerminstatus: bestätigt\nBranchen: Software\, KI & Daten\, Grün
+ dung & Innovation\nWarum relevant: Prozesse mit KI im Team verbessern\nEmp
+ fohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQ
+ uelle: https://startupverband.de/events/prozesse2.0wiekideinteamupgradet-1
+ 8-11-2026\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://startupverband.de/events/prozesse2.0wiekideinteamupgradet-18-11
+ -2026
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Prozesse 2.0: Wie KI dein Team upgradet in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Prozesse 2.0: Wie KI dein Team upgradet in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:slush-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:[B] Slush 2026
@@ -1669,8 +2298,42 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-das-all-in-one-system-huawei-luterra-s2-kompakt-inte-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:[C] Webinar: Das All-in-One-System Huawei Luterra S2 – kompakt\, 
+ intelligent und einfach installiert
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Gentner Events\nPriorität C (Gesamtscore 2\,8)\nTer
+ minstatus: bestätigt\nBranchen: Energie & Solar\nWarum relevant: Kompakte
+ s All-in-One-Speichersystem für PV-Anlagen\nEmpfohlene Rolle: Besuch\nAnm
+ eldung: Anmeldung über die Veranstalterseite\nQuelle: https://events.gent
+ ner.de/de/webinar-das-all-one-system-huawei-luterra-s2-kompakt-intelligent
+ -und-einfach-installiert\nRadar: https://fcypkszck7-web.github.io/startup-
+ radar/
+URL:https://events.gentner.de/de/webinar-das-all-one-system-huawei-luterra-
+ s2-kompakt-intelligent-und-einfach-installiert
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Das All-in-One-System Huawei Luterra S2 – kompakt\, 
+ intelligent und einfach installiert in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Das All-in-One-System Huawei Luterra S2 – kompakt\, 
+ intelligent und einfach installiert in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:zollseminar-fuer-einsteiger-und-auffrischer-teil-2-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Zollseminar für Einsteiger und Auffrischer - Teil 2
@@ -1700,9 +2363,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:get-nord-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+SUMMARY:[C] GET Nord 2026
+LOCATION:Hamburg\, Hamburg
+DESCRIPTION:Fachmesse · messen-de-energiewirtschaft\nPriorität C (Gesamts
+ core 2\,3)\nTerminstatus: bestätigt\nBranchen: Gebäudetechnik\, Energie 
+ & Solar\, Handwerk\nWarum relevant: Elektro\, Sanitär\, Heizung\, Klima\n
+ Empfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite
+ \nQuelle: https://www.messen.de/de/1416/branche/bau-und-heimwerkerbedarf\n
+ Radar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messen.de/de/1416/branche/bau-und-heimwerkerbedarf
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GET Nord 2026 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GET Nord 2026 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:it-sicherheit-im-handwerk-grundlagen-und-nuetzliche-tipps-2026-1119@sta
  rtup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[C] IT-Sicherheit im Handwerk: Grundlagen und nützliche Tipps
@@ -1733,9 +2424,72 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:textiltreff-oberfranken-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:[C] TextilTreff Oberfranken
+LOCATION:Hof\, Bayern (Oberfranken)
+DESCRIPTION:Netzwerktreffen · Bayern Innovativ – Veranstaltungen\nPriori
+ tät C (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Material & 
+ Kreislauf\, Industrie & Fertigung\nWarum relevant: Textil- und Materialbra
+ nche in Oberfranken\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über 
+ die Veranstalterseite\nQuelle: https://www.bayern-innovativ.de/events-term
+ ine/material/detail/textiltreff-oberfranken/\nRadar: https://fcypkszck7-we
+ b.github.io/startup-radar/
+URL:https://www.bayern-innovativ.de/events-termine/material/detail/textiltr
+ eff-oberfranken/
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TextilTreff Oberfranken in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TextilTreff Oberfranken in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aerospace-materials-round-table-fuer-start-ups-und-mehr-2026@startup-ra
+ dar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[C] Aerospace Materials Round Table für Start-ups und mehr
+LOCATION:Taufkirchen\, Bayern (Oberbayern)
+DESCRIPTION:Round Table · Bayern Innovativ – Veranstaltungen\nPriorität
+  C (Gesamtscore 2\,6)\nTerminstatus: bestätigt\nBranchen: Material & Krei
+ slauf\, Gründung & Innovation\nWarum relevant: Werkstoffe für die Luft- 
+ und Raumfahrt mit Start-ups\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldun
+ g über die Veranstalterseite\nQuelle: https://www.bayern-innovativ.de/eve
+ nts-termine/material/detail/aerospace-materials-round-table-fuer-start-ups
+ -und-mehr/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bayern-innovativ.de/events-termine/material/detail/aerospac
+ e-materials-round-table-fuer-start-ups-und-mehr/
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aerospace Materials Round Table für Start-ups und mehr in 30 T
+ agen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aerospace Materials Round Table für Start-ups und mehr in 7 Ta
+ gen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:kanada-besucht-die-techbase-innovations-und-kooperationspote-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[B] Kanada besucht die TechBase: Innovations- und Kooperationspoten
@@ -1768,8 +2522,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:tagung-kommunale-klimaanpassung-impulse-aus-der-praxis-2026@startup-rad
+ ar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[C] Tagung Kommunale Klimaanpassung – Impulse aus der Praxis
+LOCATION:Bamberg\, Bayern (Oberpfalz)
+DESCRIPTION:Tagung · bayika\nPriorität C (Gesamtscore 2\,6)\nTerminstatus
+ : bestätigt\nBranchen: Bau & Immobilien\, Material & Kreislauf\nWarum rel
+ evant: Klimaanpassung in Kommunen\, Umweltinitiative Stadt.Klima.Natur\nEm
+ pfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\n
+ Quelle: https://www.bayika.de/de/veranstaltungen/\nRadar: https://fcypkszc
+ k7-web.github.io/startup-radar/
+URL:https://www.bayika.de/de/veranstaltungen/
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tagung Kommunale Klimaanpassung – Impulse aus der Praxis in 3
+ 0 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tagung Kommunale Klimaanpassung – Impulse aus der Praxis in 7
+  Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:23-partnercircle-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[C] 23. PartnerCircle
@@ -1799,7 +2584,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bim-world-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261126
 SUMMARY:[A] BIM World MUNICH 2026
@@ -1829,8 +2614,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:hochhaeuser-vor-der-unbequemen-zukunftsfrage-was-ist-moeglic-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:[C] Hochhäuser vor der unbequemen Zukunftsfrage: Was ist möglich 
+ im Hinblick auf Bestandserhalt\, Klimaanpassung und Nachhaltigkeit?
+LOCATION:Deutsches Architekturmuseum\, Frankfurt\, Hessen
+DESCRIPTION:Podiumsdiskussion · DGNB GmbH\nPriorität C (Gesamtscore 2\,4)
+ \nTerminstatus: bestätigt\nBranchen: Bau & Immobilien\, Material & Kreisl
+ auf\nWarum relevant: Zukunft von Hochhäusern: Umbau\, Nachhaltigkeit\, Nu
+ tzung\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalt
+ erseite\nQuelle: https://www.dgnb.de/de/events-und-termine/aktuelle-verans
+ taltungen/hochhaeuser-vor-der-unbequemen-zukunftsfrage\nRadar: https://fcy
+ pkszck7-web.github.io/startup-radar/
+URL:https://www.dgnb.de/de/events-und-termine/aktuelle-veranstaltungen/hoch
+ haeuser-vor-der-unbequemen-zukunftsfrage
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hochhäuser vor der unbequemen Zukunftsfrage: Was ist möglich 
+ im Hinblick auf Bestandserhalt\, Klimaanpassung und Nachhaltigkeit? in 30 
+ Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hochhäuser vor der unbequemen Zukunftsfrage: Was ist möglich 
+ im Hinblick auf Bestandserhalt\, Klimaanpassung und Nachhaltigkeit? in 7 T
+ agen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:sps-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] SPS – Smart Production Solutions 2026
@@ -1862,7 +2683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:unternehmerreise-im-bereich-denkmalpflege-und-denkmalgerecht-2026@start
  up-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] Unternehmerreise im Bereich Denkmalpflege und denkmalgerechte S
@@ -1895,8 +2716,35 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:wanna-be-a-startup-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:[C] Wanna be a Startup
+LOCATION:Linz\, Österreich (Oberösterreich)
+DESCRIPTION:Workshop · tech2b\nPriorität C (Gesamtscore 2\,0)\nTerminstat
+ us: bestätigt\nBranchen: Gründung & Innovation\nWarum relevant: Einstieg
+  in die Gründung\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über di
+ e Veranstalterseite\nQuelle: https://www.tech2b.at/events/\nRadar: https:/
+ /fcypkszck7-web.github.io/startup-radar/
+URL:https://www.tech2b.at/events/
+CATEGORIES:Workshop & Seminar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wanna be a Startup in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wanna be a Startup in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:materialflusskongress-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[B] 4. Bayerischer Materialflusskongress
@@ -1929,7 +2777,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-night-muenchen-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[B] Startup Demo Night München
@@ -1957,7 +2805,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-schritt-fuer-schritt-zur-gruendung-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[C] Webinar: Schritt für Schritt zur Gründung
@@ -1987,7 +2835,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pv-fachtagung-at-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] Österreichische Fachtagung für Photovoltaik & Stromspeicherun
@@ -2021,7 +2869,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b2b-demoday-augsburg-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] B2B-DemoDay 2026 Augsburg
@@ -2049,8 +2897,39 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:innovation-coffee-mit-neue-materialien-bayreuth-gmbh-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[C] Innovation Coffee mit Neue Materialien Bayreuth GmbH
+LOCATION:Bayreuth\, Bayern (Oberfranken)
+DESCRIPTION:Netzwerktreffen · Bayern Innovativ – Veranstaltungen\nPriori
+ tät C (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Material & 
+ Kreislauf\, Gründung & Innovation\nWarum relevant: Innovation Coffee bei 
+ Neue Materialien Bayreuth\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung 
+ über die Veranstalterseite\nQuelle: https://www.bayern-innovativ.de/event
+ s-termine/material/detail/innovation-coffee-mit-neue-materialien-bayreuth-
+ gmbh/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bayern-innovativ.de/events-termine/material/detail/innovati
+ on-coffee-mit-neue-materialien-bayreuth-gmbh/
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Innovation Coffee mit Neue Materialien Bayreuth GmbH in 30 Tage
+ n
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Innovation Coffee mit Neue Materialien Bayreuth GmbH in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:startup-factory-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261129
 SUMMARY:[B] StartUP Factory Regensburg 2026
@@ -2081,8 +2960,70 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:webinar-bodengleiche-duschen-in-neubau-und-sanierung-normger-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[C] Webinar: Bodengleiche Duschen in Neubau und Sanierung – normg
+ erecht\, sicher und zeitsparend einbauen
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Gentner Events\nPriorität C (Gesamtscore 2\,8)\nTer
+ minstatus: bestätigt\nBranchen: Gebäudetechnik\, Handwerk\nWarum relevan
+ t: Bodengleiche Duschen in Neubau und Sanierung – Normen und Praxis\nEmp
+ fohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQ
+ uelle: https://events.gentner.de/de/webinar-bodengleiche-duschen-neubau-un
+ d-sanierung-normgerecht-sicher-und-zeitsparend-einbauen\nRadar: https://fc
+ ypkszck7-web.github.io/startup-radar/
+URL:https://events.gentner.de/de/webinar-bodengleiche-duschen-neubau-und-sa
+ nierung-normgerecht-sicher-und-zeitsparend-einbauen
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Bodengleiche Duschen in Neubau und Sanierung – normg
+ erecht\, sicher und zeitsparend einbauen in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Bodengleiche Duschen in Neubau und Sanierung – normg
+ erecht\, sicher und zeitsparend einbauen in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pv-magazine-webinar-mit-schweizer-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[B] pv magazine Webinar mit Schweizer
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · pv-magazine-webinare\nPriorität B (Gesamtscore 3\,2
+ )\nTerminstatus: bestätigt\nBranchen: Energie & Solar\, Dach & Gebäudeh
+ ülle\nWarum relevant: Herstellerwebinar zu Photovoltaik-Montagesystemen\n
+ Empfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite
+ \nQuelle: https://www.pv-magazine.de/events/webinare/\nRadar: https://fcyp
+ kszck7-web.github.io/startup-radar/
+URL:https://www.pv-magazine.de/events/webinare/
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:pv magazine Webinar mit Schweizer in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:pv magazine Webinar mit Schweizer in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hi-tech-match-2026-11@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[B] Hi Tech! Match – internationale ConTech-Start-ups
@@ -2113,8 +3054,68 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:trinationaler-erfahrungsaustausch-die-zukunft-des-einfamilie-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261202
+SUMMARY:[C] Trinationaler Erfahrungsaustausch: Die Zukunft des Einfamilienh
+ auses
+LOCATION:Wien\, Österreich (Wien)
+DESCRIPTION:Fachtagung · bayika\nPriorität C (Gesamtscore 2\,4)\nTerminst
+ atus: bestätigt\nBranchen: Bau & Immobilien\nWarum relevant: Ingenieur- u
+ nd Architektenkammern aus Deutschland\, Österreich und der Schweiz\nEmpfo
+ hlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQue
+ lle: https://www.bayika.de/de/veranstaltungen/\nRadar: https://fcypkszck7-
+ web.github.io/startup-radar/
+URL:https://www.bayika.de/de/veranstaltungen/
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Trinationaler Erfahrungsaustausch: Die Zukunft des Einfamilienh
+ auses in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Trinationaler Erfahrungsaustausch: Die Zukunft des Einfamilienh
+ auses in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fish-founders-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[C] FISH & FOUNDERS 2026
+LOCATION:Digital Hub Logistics\, Hamburg\, Hamburg
+DESCRIPTION:Netzwerktreffen · Startup-Verband – Events\nPriorität C (Ge
+ samtscore 2\,3)\nTerminstatus: bestätigt\nBranchen: Gründung & Innovatio
+ n\, Logistik & Handel\nWarum relevant: Gründende und Logistik-Start-ups i
+ m Austausch\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Vera
+ nstalterseite\nQuelle: https://startupverband.de/events/fish&founders2026-
+ 01-12-2026\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://startupverband.de/events/fish&founders2026-01-12-2026
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FISH & FOUNDERS 2026 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FISH & FOUNDERS 2026 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:gluehwerk-gluehwein-meets-gruenderaustausch-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[C] GLÜHWERK –  Glühwein meets Gründeraustausch
@@ -2142,8 +3143,72 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:kamingespraech-transformation-im-dialog-energie-nachhaltigke-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[C] Kamingespräch Transformation. Im Dialog. Energie & Nachhaltigk
+ eit
+LOCATION:München\, Bayern (Oberbayern)
+DESCRIPTION:Kamingespräch · Bayern Innovativ – Veranstaltungen\nPriorit
+ ät C (Gesamtscore 2\,6)\nTerminstatus: bestätigt\nBranchen: Energie & So
+ lar\, Material & Kreislauf\nWarum relevant: Transformation: Energie und Na
+ chhaltigkeit im Dialog\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung üb
+ er die Veranstalterseite\nQuelle: https://www.bayern-innovativ.de/events-t
+ ermine/energie-bau/detail/transformation-im-dialog-energie-nachhaltigkeit-
+ praesenz/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bayern-innovativ.de/events-termine/energie-bau/detail/trans
+ formation-im-dialog-energie-nachhaltigkeit-praesenz/
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kamingespräch Transformation. Im Dialog. Energie & Nachhaltigk
+ eit in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kamingespräch Transformation. Im Dialog. Energie & Nachhaltigk
+ eit in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:konferenz-artenschutz-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[C] Konferenz Artenschutz 2026
+LOCATION:Berlin\, Berlin
+DESCRIPTION:Konferenz · Hauptverband der Deutschen Bauindustrie – Verans
+ taltungen\nPriorität C (Gesamtscore 2\,5)\nTerminstatus: bestätigt\nBran
+ chen: Bau & Immobilien\, Material & Kreislauf\nWarum relevant: Artenschutz
+  am Bau – Konferenz der Bauindustrie\nEmpfohlene Rolle: Besuch\nAnmeldun
+ g: Anmeldung über die Veranstalterseite\nQuelle: https://www.bauindustrie
+ .de/termine/termine-detail/konferenz-artenschutz-2026\nRadar: https://fcyp
+ kszck7-web.github.io/startup-radar/
+URL:https://www.bauindustrie.de/termine/termine-detail/konferenz-artenschut
+ z-2026
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Konferenz Artenschutz 2026 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Konferenz Artenschutz 2026 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:valve-world-expo-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] VALVE WORLD EXPO
@@ -2171,9 +3236,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:cash-frage-geklaert-bootstrappen-oder-venture-capital-2026@startup-rada
+ r
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[C] Cash-Frage geklärt: Bootstrappen oder Venture Capital
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Startup-Verband – Events\nPriorität C (Gesamtscor
+ e 2\,8)\nTerminstatus: bestätigt\nBranchen: Gründung & Innovation\nWarum
+  relevant: Bootstrapping oder Venture Capital?\nEmpfohlene Rolle: Besuch\n
+ Anmeldung: Anmeldung über die Veranstalterseite\nQuelle: https://startupv
+ erband.de/events/cashfragegeklaertbootstrappenoderventurecapital-02-12-202
+ 6\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://startupverband.de/events/cashfragegeklaertbootstrappenoderventu
+ recapital-02-12-2026
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cash-Frage geklärt: Bootstrappen oder Venture Capital in 30 Ta
+ gen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cash-Frage geklärt: Bootstrappen oder Venture Capital in 7 Tag
+ en
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:gemeinsames-forschungskolloquium-der-fakultaeten-emi-und-mb-2026@startu
  p-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:[C] Gemeinsames Forschungskolloquium der Fakultäten EMI und MB/UT
@@ -2205,8 +3302,67 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:kooperationsforum-bordnetze-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[C] Kooperationsforum Bordnetze 2026
+LOCATION:Ingolstadt\, Bayern (Oberbayern)
+DESCRIPTION:Kooperationsforum · Bayern Innovativ – Veranstaltungen\nPrio
+ rität C (Gesamtscore 2\,6)\nTerminstatus: bestätigt\nBranchen: Industrie
+  & Fertigung\nWarum relevant: Bordnetze und elektrische Verbindungstechnik
+ \nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstaltersei
+ te\nQuelle: https://www.bayern-innovativ.de/events-termine/mobilitaet/deta
+ il/bordnetze-2026/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bayern-innovativ.de/events-termine/mobilitaet/detail/bordne
+ tze-2026/
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kooperationsforum Bordnetze 2026 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kooperationsforum Bordnetze 2026 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:materials-next-2-dezember-2026-nuernberg-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[B] materials.next 2. Dezember 2026 Nürnberg
+LOCATION:Nürnberg\, Bayern (Mittelfranken)
+DESCRIPTION:Konferenz · Bayern Innovativ – Veranstaltungen\nPriorität B
+  (Gesamtscore 3\,3)\nTerminstatus: bestätigt\nBranchen: Material & Kreisl
+ auf\, Industrie & Fertigung\nWarum relevant: materials.next: technologisch
+ e Souveränität im Materialbereich\nEmpfohlene Rolle: Besuch\nAnmeldung: 
+ Anmeldung über die Veranstalterseite\nQuelle: https://www.bayern-innovati
+ v.de/events-termine/material/detail/materials-next-2026/\nRadar: https://f
+ cypkszck7-web.github.io/startup-radar/
+URL:https://www.bayern-innovativ.de/events-termine/material/detail/material
+ s-next-2026/
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:materials.next 2. Dezember 2026 Nürnberg in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:materials.next 2. Dezember 2026 Nürnberg in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:sustainable-solutions-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] sustainable solutions
@@ -2235,8 +3391,99 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:tk-praesenz-tutorial-wie-gehe-ich-waehrend-meines-pitches-so-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:[C] TK Präsenz-Tutorial: Wie gehe ich während meines Pitches souv
+ erän mit Druck um?
+LOCATION:BayStartUP\, München\, Bayern (Oberbayern)
+DESCRIPTION:Workshop · BayStartUP\nPriorität C (Gesamtscore 2\,6)\nTermin
+ status: bestätigt\nBranchen: Gründung & Innovation\nWarum relevant: Souv
+ erän pitchen unter Druck\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung 
+ über die Veranstalterseite\nQuelle: https://www.baystartup.de/termine/det
+ ailview/event-185e567ef82f4a0b8a9c2e6a8fd4ea31?no_cache=1\nRadar: https://
+ fcypkszck7-web.github.io/startup-radar/
+URL:https://www.baystartup.de/termine/detailview/event-185e567ef82f4a0b8a9c
+ 2e6a8fd4ea31?no_cache=1
+CATEGORIES:Workshop & Seminar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TK Präsenz-Tutorial: Wie gehe ich während meines Pitches souv
+ erän mit Druck um? in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:TK Präsenz-Tutorial: Wie gehe ich während meines Pitches souv
+ erän mit Druck um? in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-kommunale-waermeplanung-und-dann-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:[C] Webinar: Kommunale Wärmeplanung … und dann?
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · energieagentur-regensburg\nPriorität C (Gesamtscore
+  2\,8)\nTerminstatus: bestätigt\nBranchen: Energie & Solar\, Gebäudetech
+ nik\nWarum relevant: Umsetzung der kommunalen Wärmeplanung\nEmpfohlene Ro
+ lle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuelle: htt
+ ps://www.energieagentur-regensburg.de/veranstaltungen/\nRadar: https://fcy
+ pkszck7-web.github.io/startup-radar/
+URL:https://www.energieagentur-regensburg.de/veranstaltungen/
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Kommunale Wärmeplanung … und dann? in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Kommunale Wärmeplanung … und dann? in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gruenderwettbewerb-nordhessen-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[C] Gründerwettbewerb Nordhessen
+LOCATION:Kassel\, Hessen
+DESCRIPTION:Pitch-Abend · Startbase – Start-up-Events Deutschland\nPrior
+ ität C (Gesamtscore 2\,8)\nTerminstatus: bestätigt\nBranchen: Gründung 
+ & Innovation\nWarum relevant: Finale des Gründerwettbewerbs Nordhessen\nE
+ mpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\
+ nQuelle: https://www.startbase.de/events/gruenderwettbewerb-nordhessen-202
+ 6-12-s-finanz-campus/\nRadar: https://fcypkszck7-web.github.io/startup-rad
+ ar/
+URL:https://www.startbase.de/events/gruenderwettbewerb-nordhessen-2026-12-s
+ -finanz-campus/
+CATEGORIES:Pitch & Demo Day
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gründerwettbewerb Nordhessen in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gründerwettbewerb Nordhessen in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:werksfruehstueck-community-breakfast-2026-1204@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[C] WERKSFRÜHSTÜCK – Community Breakfast
@@ -2263,8 +3510,76 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:helden-der-transformation-unternehmen-zeigen-wie-wandel-geli-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:[C] Helden der Transformation – Unternehmen zeigen\, wie Wandel g
+ elingt
+LOCATION:Nürnberg\, Bayern (Mittelfranken)
+DESCRIPTION:Konferenz · Bayern Innovativ – Veranstaltungen\nPriorität C
+  (Gesamtscore 2\,9)\nTerminstatus: bestätigt\nBranchen: Industrie & Ferti
+ gung\, Gründung & Innovation\nWarum relevant: Unternehmen zeigen\, wie Tr
+ ansformation gelingt\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über
+  die Veranstalterseite\nQuelle: https://www.bayern-innovativ.de/events-ter
+ mine/mobilitaet/detail/helden-der-transformation-unternehmen-zeigen-wie-wa
+ ndel-gelingt/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bayern-innovativ.de/events-termine/mobilitaet/detail/helden
+ -der-transformation-unternehmen-zeigen-wie-wandel-gelingt/
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Helden der Transformation – Unternehmen zeigen\, wie Wandel g
+ elingt in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Helden der Transformation – Unternehmen zeigen\, wie Wandel g
+ elingt in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:webinar-effizient-foerdern-richtig-beraten-die-neue-beg-im-u-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:[C] Webinar: Effizient fördern\, richtig beraten: Die neue BEG im 
+ Überblick
+LOCATION:Online\, Online
+DESCRIPTION:Webinar · Gentner Events\nPriorität C (Gesamtscore 2\,8)\nTer
+ minstatus: bestätigt\nBranchen: Energie & Solar\, Bau & Immobilien\nWarum
+  relevant: Die neue Bundesförderung für effiziente Gebäude in der Berat
+ ung\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalter
+ seite\nQuelle: https://events.gentner.de/de/webinar-effizient-foerdern-ric
+ htig-beraten-die-neue-beg-im-ueberblick\nRadar: https://fcypkszck7-web.git
+ hub.io/startup-radar/
+URL:https://events.gentner.de/de/webinar-effizient-foerdern-richtig-beraten
+ -die-neue-beg-im-ueberblick
+CATEGORIES:Vortrag & Webinar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Effizient fördern\, richtig beraten: Die neue BEG im 
+ Überblick in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Webinar: Effizient fördern\, richtig beraten: Die neue BEG im 
+ Überblick in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:sv-on-tour-hannover-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:[C] SV on Tour: Hannover
@@ -2291,8 +3606,35 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:startup-xmas-meets-community-punsch-2026@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:[C] Startup Xmas meets Community Punsch
+LOCATION:Linz\, Österreich (Oberösterreich)
+DESCRIPTION:Netzwerktreffen · tech2b\nPriorität C (Gesamtscore 2\,7)\nTer
+ minstatus: bestätigt\nBranchen: Gründung & Innovation\nWarum relevant: W
+ eihnachtliches Treffen der Start-up-Community\nEmpfohlene Rolle: Besuch\nA
+ nmeldung: Anmeldung über die Veranstalterseite\nQuelle: https://www.tech2
+ b.at/events/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.tech2b.at/events/
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Startup Xmas meets Community Punsch in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Startup Xmas meets Community Punsch in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ideenpitch-region-nuernberg-x-mas-edition-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[B] IdeenPitch Region Nürnberg: X-Mas Edition!
@@ -2320,8 +3662,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:sensorik-vor-ort-gefasoft-laserschweissen-und-inline-oberfla-2026@start
+ up-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:[B] Sensorik vor Ort: GEFASOFT – Laserschweißen und Inline-Oberf
+ lächenkontrolle
+LOCATION:Regensburg\, Bayern (Oberpfalz)
+DESCRIPTION:Unternehmensbesuch mit Workshop · sensorik-cluster\nPriorität
+  B (Gesamtscore 3\,2)\nTerminstatus: bestätigt\nBranchen: Industrie & Fer
+ tigung\, Metall & Oberflächen\, Software\, KI & Daten\nWarum relevant: La
+ serschweißen\, Inline-Oberflächenkontrolle\, Workshop Bildverarbeitung\n
+ Empfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite
+ \nQuelle: https://www.sensorik-bayern.de/seminare\nRadar: https://fcypkszc
+ k7-web.github.io/startup-radar/
+URL:https://www.sensorik-bayern.de/seminare
+CATEGORIES:Workshop & Seminar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sensorik vor Ort: GEFASOFT – Laserschweißen und Inline-Oberf
+ lächenkontrolle in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sensorik vor Ort: GEFASOFT – Laserschweißen und Inline-Oberf
+ lächenkontrolle in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ultimate-demo-day-2026@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[A] Ultimate Demo Day 2026
@@ -2349,8 +3724,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:businessplan-wettbewerb-2027-q-a-session-phase-1-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:[C] Businessplan Wettbewerb 2027 – Q&A-Session Phase 1
+LOCATION:Online\, Online
+DESCRIPTION:Online-Sprechstunde · BayStartUP\nPriorität C (Gesamtscore 2\
+ ,8)\nTerminstatus: bestätigt\nBranchen: Gründung & Innovation\nWarum rel
+ evant: Fragen und Antworten zum Businessplan-Wettbewerb 2027\nEmpfohlene R
+ olle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuelle: ht
+ tps://www.baystartup.de/termine/detailview/event-3e1d8d271b2a4571888218601
+ 7d60443?no_cache=1\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.baystartup.de/termine/detailview/event-3e1d8d271b2a45718882
+ 186017d60443?no_cache=1
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Businessplan Wettbewerb 2027 – Q&A-Session Phase 1 in 30 Tage
+ n
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Businessplan Wettbewerb 2027 – Q&A-Session Phase 1 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:bau-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
 SUMMARY:[A] BAU 2027 – inkl. Future Lab & Start-up Area
@@ -2382,7 +3787,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dld-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270117
 SUMMARY:[C] DLD Munich 2027
@@ -2410,8 +3815,64 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:sensorik-vor-ort-recendt-laser-ultraschall-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:[B] Sensorik vor Ort: RECENDT – Laser-Ultraschall
+LOCATION:TechBase\, Regensburg\, Bayern (Oberpfalz)
+DESCRIPTION:Unternehmensbesuch · sensorik-cluster\nPriorität B (Gesamtsco
+ re 3\,2)\nTerminstatus: bestätigt\nBranchen: Industrie & Fertigung\, Soft
+ ware\, KI & Daten\nWarum relevant: Laser-Ultraschall für die zerstörungs
+ freie Prüfung\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die V
+ eranstalterseite\nQuelle: https://www.sensorik-bayern.de/seminare\nRadar: 
+ https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.sensorik-bayern.de/seminare
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sensorik vor Ort: RECENDT – Laser-Ultraschall in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sensorik vor Ort: RECENDT – Laser-Ultraschall in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winterfest-der-niederbayerischen-gruenderzentren-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:[B] Winterfest der niederbayerischen Gründerzentren
+LOCATION:LINK\, Landshut\, Bayern (Niederbayern)
+DESCRIPTION:Netzwerktreffen · innkubator\nPriorität B (Gesamtscore 3\,3)\
+ nTerminstatus: bestätigt\nBranchen: Gründung & Innovation\nWarum relevan
+ t: Jahresausklang der Gründerzentren in Niederbayern\nEmpfohlene Rolle: B
+ esuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuelle: https://i
+ nnkubator.spaces.nexudus.com/events\nRadar: https://fcypkszck7-web.github.
+ io/startup-radar/
+URL:https://innkubator.spaces.nexudus.com/events
+CATEGORIES:Netzwerk
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winterfest der niederbayerischen Gründerzentren in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winterfest der niederbayerischen Gründerzentren in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:klimahouse-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270131
 SUMMARY:[B] Klimahouse 2027 inkl. Future Hub
@@ -2440,8 +3901,35 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:35-bayerischer-ingenieuretag-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:[B] 35. Bayerischer Ingenieuretag
+LOCATION:Alte Kongresshalle\, München\, Bayern (Oberbayern)
+DESCRIPTION:Branchentreff · bayika\nPriorität B (Gesamtscore 3\,0)\nTermi
+ nstatus: bestätigt\nBranchen: Bau & Immobilien\nWarum relevant: Größter
+  Branchentreff der Ingenieure in Bayern\nEmpfohlene Rolle: Besuch\nAnmeldu
+ ng: Anmeldung über die Veranstalterseite\nQuelle: https://www.bayika.de/d
+ e/veranstaltungen/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bayika.de/de/veranstaltungen/
+CATEGORIES:Sonstiges
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:35. Bayerischer Ingenieuretag in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:35. Bayerischer Ingenieuretag in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:e-world-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270219
 SUMMARY:[B] E-world energy & water 2027
@@ -2472,8 +3960,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:angel-akademie-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:[C] Angel-Akademie 2027
+LOCATION:Kloster Holzen\, Allmannshofen\, Bayern (Oberfranken)
+DESCRIPTION:Seminar · BayStartUP\nPriorität C (Gesamtscore 2\,4)\nTermins
+ tatus: bestätigt\nBranchen: Gründung & Innovation\nWarum relevant: Ausbi
+ ldung für Business Angels: in Start-ups investieren\nEmpfohlene Rolle: Be
+ such\nAnmeldung: Anmeldung über die Veranstalterseite\nQuelle: https://ww
+ w.baystartup.de/termine/detailview/event-b5e88c4b47f043e1aac1b43849892a78?
+ no_cache=1\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.baystartup.de/termine/detailview/event-b5e88c4b47f043e1aac1
+ b43849892a78?no_cache=1
+CATEGORIES:Workshop & Seminar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Angel-Akademie 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Angel-Akademie 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:energiekongress-regensburg-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270225
 SUMMARY:[A] 8. Regensburger Energiekongress (Termin geschätzt)
@@ -2507,7 +4024,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tiger-winter-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:[B] Tiger der TechBase – Winter-Edition 2027 (Termin geschätzt)
@@ -2539,7 +4056,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tag-der-forschung-thd-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:[B] 14. Tag der Forschung der TH Deggendorf
@@ -2568,8 +4085,65 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:geotherm-expo-congress-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270227
+SUMMARY:[C] GeoTHERM expo & congress 2027
+LOCATION:Offenburg\, Baden-Württemberg
+DESCRIPTION:Fachmesse und Kongress · messen-de-erneuerbare-energien\nPrior
+ ität C (Gesamtscore 1\,8)\nTerminstatus: bestätigt\nBranchen: Energie & 
+ Solar\nWarum relevant: Geothermie\nEmpfohlene Rolle: Besuch\nAnmeldung: An
+ meldung über die Veranstalterseite\nQuelle: https://www.messen.de/de/1230
+ /branche/erneuerbare-energien\nRadar: https://fcypkszck7-web.github.io/sta
+ rtup-radar/
+URL:https://www.messen.de/de/1230/branche/erneuerbare-energien
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GeoTHERM expo & congress 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GeoTHERM expo & congress 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:getec-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+SUMMARY:[C] GETEC 2027
+LOCATION:Freiburg\, Baden-Württemberg
+DESCRIPTION:Messe · messen-de-erneuerbare-energien\nPriorität C (Gesamtsc
+ ore 2\,5)\nTerminstatus: bestätigt\nBranchen: Energie & Solar\, Gebäudet
+ echnik\, Bau & Immobilien\nWarum relevant: Energieeffizienz\, erneuerbare 
+ Energien und Nachhaltigkeit im Südwesten\nEmpfohlene Rolle: Besuch\nAnmel
+ dung: Anmeldung über die Veranstalterseite\nQuelle: https://www.messen.de
+ /de/1230/branche/erneuerbare-energien\nRadar: https://fcypkszck7-web.githu
+ b.io/startup-radar/
+URL:https://www.messen.de/de/1230/branche/erneuerbare-energien
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GETEC 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GETEC 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:4yfn-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] 4YFN 2027 (parallel zum MWC)
@@ -2598,8 +4172,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:energy-systems-expo-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+SUMMARY:[C] Energy Systems Expo 2027
+LOCATION:Messe Stuttgart\, Baden-Württemberg
+DESCRIPTION:Fachmesse · messen-de-energiewirtschaft\nPriorität C (Gesamts
+ core 2\,7)\nTerminstatus: bestätigt\nBranchen: Energie & Solar\nWarum rel
+ evant: Produkte\, Services und Lösungen für Energiesysteme\nEmpfohlene R
+ olle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuelle: ht
+ tps://www.messen.de/de/1048/branche/energiewirtschaft\nRadar: https://fcyp
+ kszck7-web.github.io/startup-radar/
+URL:https://www.messen.de/de/1048/branche/energiewirtschaft
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Energy Systems Expo 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Energy Systems Expo 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:wsed-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270306
 SUMMARY:[B] World Sustainable Energy Days & Energiesparmesse Wels 2027
@@ -2632,8 +4234,93 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:eltefa-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+SUMMARY:[C] eltefa 2027
+LOCATION:Messe Stuttgart\, Baden-Württemberg
+DESCRIPTION:Fachmesse · messen-de-energiewirtschaft\nPriorität C (Gesamts
+ core 2\,7)\nTerminstatus: bestätigt\nBranchen: Gebäudetechnik\, Energie 
+ & Solar\, Handwerk\nWarum relevant: Elektro\, Energie\, Gebäude und Indus
+ trie\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalte
+ rseite\nQuelle: https://www.messen.de/de/1048/branche/energiewirtschaft\nR
+ adar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messen.de/de/1048/branche/energiewirtschaft
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:eltefa 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:eltefa 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:energiesparmesse-wels-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270308
+SUMMARY:[B] Energiesparmesse Wels 2027
+LOCATION:Messe Wels\, Österreich (Oberösterreich)
+DESCRIPTION:Fachmesse mit Publikumstagen · messen-de-erneuerbare-energien\
+ nPriorität B (Gesamtscore 3\,2)\nTerminstatus: bestätigt\nBranchen: Ener
+ gie & Solar\, Bau & Immobilien\, Gebäudetechnik\, Dach & Gebäudehülle\n
+ Warum relevant: Bauen\, Energie und Sanitär\; Fachtage für Installateure
+  und Handwerk\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Ve
+ ranstalterseite\nQuelle: https://www.messen.de/de/1230/branche/erneuerbare
+ -energien\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messen.de/de/1230/branche/erneuerbare-energien
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Energiesparmesse Wels 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Energiesparmesse Wels 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hy-fcell-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+SUMMARY:[C] hy-fcell 2027
+LOCATION:Messe Stuttgart\, Baden-Württemberg
+DESCRIPTION:Fachmesse und Konferenz · messen-de-energiewirtschaft\nPriorit
+ ät C (Gesamtscore 2\,4)\nTerminstatus: bestätigt\nBranchen: Energie & So
+ lar\, Industrie & Fertigung\nWarum relevant: Wasserstoff und Brennstoffzel
+ len\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalter
+ seite\nQuelle: https://www.messen.de/de/1048/branche/energiewirtschaft\nRa
+ dar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messen.de/de/1048/branche/energiewirtschaft
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:hy-fcell 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:hy-fcell 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:32-leipziger-fachseminar-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] 32. Leipziger Fachseminar
@@ -2662,7 +4349,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bauindustrie-meets-startups-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:[B] Bauindustrie meets Startups 2027 (Termin geschätzt)
@@ -2692,8 +4379,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:digital-real-estate-summit-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:[C] Digital Real Estate Summit 2027
+LOCATION:Trafo\, Baden (Aargau)\, Schweiz (Aargau)
+DESCRIPTION:Konferenz · Startupticker.ch – Events\nPriorität C (Gesamts
+ core 2\,5)\nTerminstatus: bestätigt\nBranchen: Bau & Immobilien\, Softwar
+ e\, KI & Daten\nWarum relevant: Digitalisierung der Immobilienwirtschaft\n
+ Empfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite
+ \nQuelle: https://www.startupticker.ch/en/events/digital-real-estate-summi
+ t-2027\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.startupticker.ch/en/events/digital-real-estate-summit-2027
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Digital Real Estate Summit 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Digital Real Estate Summit 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pv-symposium-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270312
 SUMMARY:[B] 42. PV-Symposium
@@ -2721,7 +4436,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ideenreich-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:[B] Prämierung Businessplan-Wettbewerb Ideenreich 2027
@@ -2750,7 +4465,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:key-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270313
 SUMMARY:[B] KEY – The Energy Transition Expo 2027
@@ -2779,7 +4494,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:salz-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270312
 SUMMARY:[B] SALZ – Festival für Innovation und Technologie 2027 (Termin 
@@ -2813,7 +4528,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zukunft-handwerk-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270312
 SUMMARY:[A] ZUKUNFT HANDWERK 2027 (parallel zur IHM)
@@ -2843,7 +4558,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ish-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:[B] ISH 2027 mit Startup@ISH
@@ -2875,7 +4590,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-night-nuernberg-2027-03@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:[B] Nürnberger Startup Demo Night 2027 (Prämierung Phase 1 BPW No
@@ -2906,7 +4621,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:seminar-von-der-idee-zum-produkt-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:[C] Seminar: Von der Idee zum Produkt
@@ -2936,7 +4651,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solar-solutions-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270319
 SUMMARY:[B] Solar Solutions International 2027 (Termin geschätzt)
@@ -2966,7 +4681,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xponential-europe-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270319
 SUMMARY:[C] XPONENTIAL Europe
@@ -2995,8 +4710,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:coiltech-deutschland-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:[C] Coiltech Deutschland 2027
+LOCATION:Messe Augsburg\, Bayern (Schwaben)
+DESCRIPTION:Fachmesse · Messe Augsburg – Messen und Events\nPriorität C
+  (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Industrie & Ferti
+ gung\nWarum relevant: Spulen- und Wickeltechnik für Elektromotoren und Tr
+ ansformatoren\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Ve
+ ranstalterseite\nQuelle: https://www.messeaugsburg.de/de/coiltech-deutschl
+ and-2027/e121\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messeaugsburg.de/de/coiltech-deutschland-2027/e121
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coiltech Deutschland 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coiltech Deutschland 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:start-summit-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270320
 SUMMARY:[B] START Summit 2027
@@ -3025,7 +4768,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:start-summit-2027-frist@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Frist: START Summit 2027 – Frühbucherpreis für Tickets (First R
@@ -3042,7 +4785,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bausymposium-thd-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:[B] Deggendorfer Bau- und Umweltsymposium 2027 (Termin geschätzt)
@@ -3072,8 +4815,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:internationale-passivhaustagung-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270404
+SUMMARY:[C] Internationale Passivhaustagung 2027
+LOCATION:Universität Innsbruck\, Österreich (Tirol)
+DESCRIPTION:Tagung mit Fachausstellung · messen-de-ausbau\nPriorität C (G
+ esamtscore 2\,8)\nTerminstatus: bestätigt\nBranchen: Bau & Immobilien\, E
+ nergie & Solar\, Dach & Gebäudehülle\nWarum relevant: Passivhaus\, energ
+ ieeffizientes Bauen und Gebäudehülle\nEmpfohlene Rolle: Besuch\nAnmeldun
+ g: Anmeldung über die Veranstalterseite\nQuelle: https://www.messen.de/de
+ /1424/branche/ausbau\nRadar: https://fcypkszck7-web.github.io/startup-rada
+ r/
+URL:https://www.messen.de/de/1424/branche/ausbau
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Internationale Passivhaustagung 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Internationale Passivhaustagung 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hannover-messe-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
 SUMMARY:[B] Hannover Messe 2027
@@ -3105,7 +4877,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:construction-summit-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270416
 SUMMARY:[B] Construction Summit & Proptech Summit 2027
@@ -3135,7 +4907,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-factory-ndb-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270418
 SUMMARY:[C] StartUP Factory Niederbayern 2027 (Termin geschätzt)
@@ -3167,7 +4939,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urban-steel-expo-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270424
 SUMMARY:[B] Urban Steel Expo
@@ -3197,7 +4969,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:viennaup-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:[B] ViennaUP 2027 inkl. Connect Day
@@ -3229,7 +5001,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:38-control-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270515
 SUMMARY:[B] 38. Control
@@ -3257,7 +5029,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ecosummit-berlin-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:[B] Ecosummit.AI Berlin 2027
@@ -3287,7 +5059,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:futurebuild-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:[B] Futurebuild 2027
@@ -3316,7 +5088,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sensor-test-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:[B] SENSOR+TEST 2027
@@ -3345,7 +5117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:smart-automation-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:[C] SMART Automation Austria 2027
@@ -3373,8 +5145,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:interzum-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270515
+SUMMARY:[C] interzum 2027
+LOCATION:Köln\, Nordrhein-Westfalen
+DESCRIPTION:Fachmesse · koelnmesse\nPriorität C (Gesamtscore 2\,5)\nTermi
+ nstatus: bestätigt\nBranchen: Industrie & Fertigung\, Material & Kreislau
+ f\nWarum relevant: Möbelfertigung und Innenausbau\, Zulieferindustrie\nEm
+ pfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\n
+ Quelle: https://www.koelnmesse.de/aktuelle-termine/alle-messen/\nRadar: ht
+ tps://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.koelnmesse.de/aktuelle-termine/alle-messen/
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:interzum 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:interzum 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:berliner-energietage-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270528
 SUMMARY:[C] Berliner ENERGIETAGE 2027 (Termin geschätzt)
@@ -3404,7 +5204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-night-muenchen-2027-06@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 SUMMARY:[B] Startup Demo Night München 2027 (Prämierung Phase 2 Münchene
@@ -3435,7 +5235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intersolar-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270611
 SUMMARY:[A] Intersolar Europe / The smarter E Europe 2027
@@ -3465,14 +5265,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intersolar-2027-frist@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:Frist: Intersolar Europe / The smarter E Europe 2027 – Call for A
- bstracts der Konferenz (für eine Speaker-Rolle)
-DESCRIPTION:Call for Abstracts der Konferenz (für eine Speaker-Rolle) für
-  Intersolar Europe / The smarter E Europe 2027. Quelle: https://www.inters
- olar.de/en/about
+SUMMARY:Frist: Intersolar Europe / The smarter E Europe 2027 – Vortragsei
+ nreichung (Call for Papers) für die The smarter E Europe Conference
+DESCRIPTION:Vortragseinreichung (Call for Papers) für die The smarter E Eu
+ rope Conference für Intersolar Europe / The smarter E Europe 2027. Quelle
+ : https://www.intersolar.de/en/about
 URL:https://www.intersolar.de/en/about
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -3483,7 +5283,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:entrepreneurship-day-passau-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
 SUMMARY:[C] Entrepreneurship Day (E'Day) 2027 der Universität Passau (Term
@@ -3518,7 +5318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intergalva-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
 SUMMARY:[B] Intergalva 2027
@@ -3547,7 +5347,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:vivatech-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270620
 SUMMARY:[B] VivaTech 2027
@@ -3576,7 +5376,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hinterland-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
 SUMMARY:[B] Hinterland of Things 2027 (Termin geschätzt)
@@ -3606,7 +5406,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gifa-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270626
 SUMMARY:[C] GIFA
@@ -3635,7 +5435,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tech-in-construction-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270625
 SUMMARY:[B] Tech in Construction 2027 (Termin geschätzt)
@@ -3665,8 +5465,35 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:bdew-kongress-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270625
+SUMMARY:[C] BDEW Kongress 2027
+LOCATION:Berlin\, Berlin
+DESCRIPTION:Kongress · bdew\nPriorität C (Gesamtscore 2\,2)\nTerminstatus
+ : bestätigt\nBranchen: Energie & Solar\nWarum relevant: Energiewirtschaft
+  und Energiewende\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über di
+ e Veranstalterseite\nQuelle: https://www.bdew.de/service/veranstaltungen/\
+ nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.bdew.de/service/veranstaltungen/
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDEW Kongress 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:BDEW Kongress 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:denk-summit-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 SUMMARY:[B] DENK.summit 2027 (Termin geschätzt)
@@ -3697,7 +5524,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dcw-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270625
 SUMMARY:[C] Digital Construction Week 2027
@@ -3725,8 +5552,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:fiec-conference-general-assembly-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:[C] FIEC Conference & General Assembly 2027
+LOCATION:Prag\, Tschechien
+DESCRIPTION:Konferenz · Hauptverband der Deutschen Bauindustrie – Verans
+ taltungen\nPriorität C (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBran
+ chen: Bau & Immobilien\nWarum relevant: Jahreskonferenz des europäischen 
+ Bauindustrieverbands FIEC\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung 
+ über die Veranstalterseite\nQuelle: https://www.bauindustrie.de/termine/t
+ ermine-detail/fiec-conference-general-assembly-2027\nRadar: https://fcypks
+ zck7-web.github.io/startup-radar/
+URL:https://www.bauindustrie.de/termine/termine-detail/fiec-conference-gene
+ ral-assembly-2027
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FIEC Conference & General Assembly 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FIEC Conference & General Assembly 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:groundbreakers-demo-day-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
 SUMMARY:[A] GROUNDBREAKERS Demo Day 2027 (Termin geschätzt)
@@ -3755,7 +5612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:innovationskongress-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:[A] 4. Regensburger Innovationskongress
@@ -3788,7 +5645,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tiger-sommer-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:[B] Tiger der TechBase – Sommer-Edition 2027 (Termin geschätzt)
@@ -3819,7 +5676,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b2b-matchday-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 SUMMARY:[A] B2B Matchday 2027 (Mittelstand & Start-ups) (Termin geschätzt)
@@ -3850,8 +5707,68 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:zvo-oberflaechentage-2027-berlin-hotel-moa-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:[C] ZVO-Oberflächentage 2027\, Berlin (Hotel MOA) (Termin geschät
+ zt)
+LOCATION:Hotel MOA\, Berlin\, Berlin
+DESCRIPTION:Fachkongress · Zentralverband Oberflächentechnik e.V.\nPriori
+ tät C (Gesamtscore 2\,6)\nTerminstatus: geschätzt – bitte vor der Plan
+ ung prüfen\nBranchen: Metall & Oberflächen\nWarum relevant: Branchentref
+ f der Galvano- und Oberflächentechnik\nEmpfohlene Rolle: Besuch\nAnmeldun
+ g: Termin laut ZVO-Veranstaltungsseite\; genaue Dauer beim Veranstalter pr
+ üfen\nQuelle: https://www.zvo.org/events/termine/detailansicht/zvo-oberfl
+ aechentage-2026-karlsruhe\nRadar: https://fcypkszck7-web.github.io/startup
+ -radar/
+URL:https://www.zvo.org/events/termine/detailansicht/zvo-oberflaechentage-2
+ 026-karlsruhe
+CATEGORIES:Konferenz & Kongress
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ZVO-Oberflächentage 2027\, Berlin (Hotel MOA) in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ZVO-Oberflächentage 2027\, Berlin (Hotel MOA) in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efa-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270924
+SUMMARY:[C] efa 2027
+LOCATION:Leipzig\, Sachsen
+DESCRIPTION:Fachmesse · messen-de-energiewirtschaft\nPriorität C (Gesamts
+ core 2\,7)\nTerminstatus: bestätigt\nBranchen: Gebäudetechnik\, Energie 
+ & Solar\, Handwerk\nWarum relevant: Elektro-\, Gebäude- und Lichttechnik\
+ nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseit
+ e\nQuelle: https://www.messen.de/de/1048/branche/energiewirtschaft\nRadar:
+  https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messen.de/de/1048/branche/energiewirtschaft
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:efa 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:efa 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:bits-pretzels-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270927
 DTEND;VALUE=DATE:20270930
 SUMMARY:[B] Bits & Pretzels 2027
@@ -3880,7 +5797,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:by-cz-innovationstag-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20270930
 SUMMARY:[B] Bayerisch-Tschechischer Innovationstag 2027 (Termin geschätzt)
@@ -3912,7 +5829,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:expo-real-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271007
 SUMMARY:[B] EXPO REAL 2027 mit Bereich Transform & Beyond
@@ -3944,7 +5861,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solid-konferenz-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271005
 DTEND;VALUE=DATE:20271006
 SUMMARY:[B] 12. Internationale SOLID Konferenz 2027
@@ -3972,8 +5889,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:smart-country-convention-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:[C] Smart Country Convention
+LOCATION:Messe Berlin\, Berlin
+DESCRIPTION:Kongress · Messe Berlin – Veranstaltungen\nPriorität C (Ges
+ amtscore 2\,2)\nTerminstatus: bestätigt\nBranchen: Software\, KI & Daten\
+ nWarum relevant: Digitalisierung von Verwaltung und Kommunen\nEmpfohlene R
+ olle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuelle: ht
+ tps://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/smart-
+ country-convention-2027\nRadar: https://fcypkszck7-web.github.io/startup-r
+ adar/
+URL:https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/s
+ mart-country-convention-2027
+CATEGORIES:Konferenz & Kongress
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Smart Country Convention in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Smart Country Convention in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:31-fakuma-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271016
 SUMMARY:[C] 31. Fakuma
@@ -4001,7 +5948,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-trifft-handwerk-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271013
 SUMMARY:[A] Startup trifft Handwerk 2027 (Termin geschätzt)
@@ -4033,7 +5980,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:austrian-innovation-forum-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271015
 SUMMARY:[C] 17. Austrian Innovation Forum
@@ -4061,7 +6008,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aircon-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271014
 SUMMARY:[B] AIR.CON 2027 (Termin geschätzt)
@@ -4095,7 +6042,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a-a-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271019
 DTEND;VALUE=DATE:20271023
 SUMMARY:[C] A+A
@@ -4125,7 +6072,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-night-nuernberg-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:[B] Startup Demo Night Nürnberg 2027 (Termin geschätzt)
@@ -4154,7 +6101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:oiw-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271029
 SUMMARY:[C] Oslo Innovation Week 2027 (Termin geschätzt)
@@ -4183,7 +6130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:blechexpo-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271030
 SUMMARY:[B] Blechexpo / Schweisstec 2027
@@ -4211,8 +6158,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:off-grid-expo-conference-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:[C] OFF-GRID Expo + Conference 2027
+LOCATION:Messe Augsburg\, Bayern (Schwaben)
+DESCRIPTION:Fachmesse · Messe Augsburg – Messen und Events\nPriorität C
+  (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Energie & Solar\n
+ Warum relevant: Autarke Energieversorgung\, Speicher und Off-Grid-Lösunge
+ n\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterse
+ ite\nQuelle: https://www.messeaugsburg.de/de/off-grid-expo-conference-2027
+ /e191\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messeaugsburg.de/de/off-grid-expo-conference-2027/e191
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OFF-GRID Expo + Conference 2027 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OFF-GRID Expo + Conference 2027 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:groundbreakers-summit-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:[A] GROUNDBREAKERS Summit 2027
@@ -4242,7 +6217,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruendernacht-landshut-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:[B] Landshuter Gründernacht 2027 mit Landshuter Gründerpreis (Ter
@@ -4277,7 +6252,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b2b-demoday-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:[A] Startup meets Mittelstand: B2B-DemoDay 2027 (Termin geschätzt)
@@ -4309,8 +6284,37 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:modular-build-2027@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:[C] Modular Build
+LOCATION:Messe Berlin\, Berlin
+DESCRIPTION:Fachmesse · Messe Berlin – Veranstaltungen\nPriorität C (Ge
+ samtscore 2\,9)\nTerminstatus: bestätigt\nBranchen: Bau & Immobilien\, Ma
+ terial & Kreislauf\nWarum relevant: Modulares und serielles Bauen\nEmpfohl
+ ene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuell
+ e: https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/m
+ odular-build-2027\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/m
+ odular-build-2027
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Modular Build in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Modular Build in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:gruendungstag-deggendorf-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
 SUMMARY:[B] Deggendorfer Gründungstag mit Gründungspreis 2027 (Termin ges
@@ -4340,7 +6344,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hochschulgruendertag-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
 SUMMARY:[B] Hochschulgründertag 2027 (Termin geschätzt)
@@ -4372,7 +6376,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slush-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271119
 SUMMARY:[B] Slush 2027 (Termin geschätzt)
@@ -4401,7 +6405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bim-world-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271123
 DTEND;VALUE=DATE:20271125
 SUMMARY:[A] BIM World MUNICH 2027 (Termin geschätzt)
@@ -4431,7 +6435,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sps-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271123
 DTEND;VALUE=DATE:20271126
 SUMMARY:[B] SPS – Smart Production Solutions 2027
@@ -4463,7 +6467,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-factory-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271128
 SUMMARY:[B] StartUP Factory Regensburg 2027 (Termin geschätzt)
@@ -4495,7 +6499,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultimate-demo-day-2027@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20271209
 DTEND;VALUE=DATE:20271210
 SUMMARY:[A] Ultimate Demo Day 2027 (Termin geschätzt)
@@ -4524,7 +6528,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:swissbau-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280122
 SUMMARY:[B] Swissbau 2028
@@ -4556,7 +6560,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:klimahouse-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280126
 DTEND;VALUE=DATE:20280130
 SUMMARY:[B] Klimahouse 2028 (Termin geschätzt)
@@ -4585,7 +6589,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wsed-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280301
 DTEND;VALUE=DATE:20280304
 SUMMARY:[B] World Sustainable Energy Days & Energiesparmesse Wels 2028 (Ter
@@ -4619,7 +6623,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:light-building-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280305
 DTEND;VALUE=DATE:20280311
 SUMMARY:[B] Light + Building 2028
@@ -4651,7 +6655,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dach-holz-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280307
 DTEND;VALUE=DATE:20280311
 SUMMARY:[A] DACH+HOLZ International 2028
@@ -4682,8 +6686,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:internationale-eisenwarenmesse-2028@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20280307
+DTEND;VALUE=DATE:20280311
+SUMMARY:[C] Internationale Eisenwarenmesse 2028
+LOCATION:Köln\, Nordrhein-Westfalen
+DESCRIPTION:Fachmesse · koelnmesse\nPriorität C (Gesamtscore 2\,9)\nTermi
+ nstatus: bestätigt\nBranchen: Logistik & Handel\, Handwerk\, Metall & Obe
+ rflächen\nWarum relevant: Werkzeuge\, Beschläge\, Befestigungstechnik\, 
+ Bau- und Heimwerkerbedarf\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung 
+ über die Veranstalterseite\nQuelle: https://www.koelnmesse.de/aktuelle-te
+ rmine/alle-messen/\nRadar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.koelnmesse.de/aktuelle-termine/alle-messen/
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Internationale Eisenwarenmesse 2028 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Internationale Eisenwarenmesse 2028 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:zukunft-handwerk-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280308
 DTEND;VALUE=DATE:20280310
 SUMMARY:[A] ZUKUNFT HANDWERK 2028 (Termin geschätzt)
@@ -4712,8 +6744,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:shk-essen-2028@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20280321
+DTEND;VALUE=DATE:20280325
+SUMMARY:[C] SHK Essen 2028
+LOCATION:Messe Essen\, Nordrhein-Westfalen
+DESCRIPTION:Fachmesse · messen-de-solarenergie\nPriorität C (Gesamtscore 
+ 2\,5)\nTerminstatus: bestätigt\nBranchen: Gebäudetechnik\, Energie & Sol
+ ar\, Handwerk\nWarum relevant: Sanitär\, Heizung\, Klima und Elektro\nEmp
+ fohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQ
+ uelle: https://www.messen.de/de/1249/branche/solarenergie\nRadar: https://
+ fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messen.de/de/1249/branche/solarenergie
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SHK Essen 2028 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SHK Essen 2028 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:tube-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280403
 DTEND;VALUE=DATE:20280408
 SUMMARY:[C] Tube
@@ -4743,7 +6803,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bauma-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280403
 DTEND;VALUE=DATE:20280410
 SUMMARY:[B] bauma 2028 mit Start-up Area
@@ -4773,7 +6833,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:digitalbau-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280424
 DTEND;VALUE=DATE:20280427
 SUMMARY:[B] digitalBAU 2028
@@ -4802,8 +6862,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ifh-intherm-2028@startup-radar
+DTSTAMP:20261104T075346Z
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280429
+SUMMARY:[B] IFH/Intherm 2028
+LOCATION:Nürnberg\, Bayern (Mittelfranken)
+DESCRIPTION:Fachmesse · messen-de-solarenergie\nPriorität B (Gesamtscore 
+ 3\,3)\nTerminstatus: bestätigt\nBranchen: Gebäudetechnik\, Energie & Sol
+ ar\, Handwerk\nWarum relevant: Sanitär\, Heizung\, Klima und erneuerbare 
+ Energien\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranst
+ alterseite\nQuelle: https://www.messen.de/de/1249/branche/solarenergie\nRa
+ dar: https://fcypkszck7-web.github.io/startup-radar/
+URL:https://www.messen.de/de/1249/branche/solarenergie
+CATEGORIES:Messe
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IFH/Intherm 2028 in 30 Tagen
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IFH/Intherm 2028 in 7 Tagen
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:paintexpo-2028@startup-radar
-DTSTAMP:20261104T074442Z
+DTSTAMP:20261104T075346Z
 DTSTART;VALUE=DATE:20280425
 DTEND;VALUE=DATE:20280429
 SUMMARY:[C] PaintExpo 2028
