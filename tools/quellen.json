@@ -1288,6 +1288,339 @@
     "https://themobbot.com/"
    ],
    "notiz": "Websites aus der failory-Rangliste Bayern, Munich-Startup-Themenseiten und Berichten; Sitz und Kurzbeschreibung werden automatisch aus Website und Impressum gelesen."
+  },
+  {
+   "id": "messe-fiera-milano",
+   "name": "Fiera Milano – Messekalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.fieramilano.it/en/calendar.html",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-bolognafiere",
+   "name": "BolognaFiere – Messekalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.bolognafiere.it/en/calendar/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-ieg-rimini",
+   "name": "Italian Exhibition Group (Rimini) – Kalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.iegexpo.it/en/calendar",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-ifema",
+   "name": "IFEMA Madrid – Messekalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.ifema.es/en/calendar",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-fira-barcelona",
+   "name": "Fira Barcelona – Kalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.firabarcelona.com/en/calendar/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-viparis",
+   "name": "Viparis Paris (Porte de Versailles, Paris Nord Villepinte) – Agenda",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.viparis.com/en/agenda",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-eurexpo-lyon",
+   "name": "Eurexpo Lyon – Kalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.eurexpo.com/en/calendar",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-rai",
+   "name": "RAI Amsterdam – Agenda",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.rai.nl/en/agenda",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-jaarbeurs",
+   "name": "Jaarbeurs Utrecht – Agenda",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.jaarbeurs.nl/en/agenda",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-brussels-expo",
+   "name": "Brussels Expo – Agenda",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.brussels-expo.com/en/agenda",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-bvv-brno",
+   "name": "BVV Brno – Messekalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.bvv.cz/en/trade-fairs-calendar/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-pva-prag",
+   "name": "PVA Expo Praha – Kalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.pvaexpo.cz/en/calendar",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-mtp-poznan",
+   "name": "MTP Poznań – Kalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.mtp.pl/en/calendar/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-ptak-warsaw",
+   "name": "Ptak Warsaw Expo – Kalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://warsawexpo.eu/en/calendar/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-excel-london",
+   "name": "ExCeL London – What's on",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.excel.london/whats-on",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-nec",
+   "name": "NEC Birmingham – What's on",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.thenec.co.uk/whats-on/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-stockholmsmassan",
+   "name": "Stockholmsmässan – Kalender",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.stockholmsmassan.se/en/calendar/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-bella-center",
+   "name": "Bella Center Copenhagen – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://www.bellacentercopenhagen.dk/en/events",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-messukeskus",
+   "name": "Messukeskus Helsinki – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messegelände",
+   "url": "https://messukeskus.com/en/events/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-wien",
+   "name": "Messe Wien – Veranstaltungskalender",
+   "art": "events",
+   "region": "Österreich",
+   "typ": "Messegelände",
+   "url": "https://www.messe.at/en/calendar/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-salzburg",
+   "name": "Messezentrum Salzburg – Kalender",
+   "art": "events",
+   "region": "Österreich",
+   "typ": "Messegelände",
+   "url": "https://www.messezentrum-salzburg.at/de/veranstaltungen",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-bernexpo",
+   "name": "BERNEXPO – Veranstaltungen",
+   "art": "events",
+   "region": "Schweiz",
+   "typ": "Messegelände",
+   "url": "https://www.bernexpo.ch/de/veranstaltungen",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "messe-zuerich",
+   "name": "Messe Zürich – Veranstaltungen",
+   "art": "events",
+   "region": "Schweiz",
+   "typ": "Messegelände",
+   "url": "https://www.messe.ch/de/veranstaltungen/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "build-up-eu",
+   "name": "BUILD UP (EU-Portal Energieeffizienz von Gebäuden) – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "EU-Portal",
+   "url": "https://build-up.ec.europa.eu/en/events",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "een-events",
+   "name": "Enterprise Europe Network – Events und Partnerbörsen",
+   "art": "events",
+   "region": "Europa",
+   "typ": "EU-Netzwerk",
+   "url": "https://een.ec.europa.eu/events",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "fiec-events",
+   "name": "FIEC (Europäischer Bauindustrieverband) – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Verband",
+   "url": "https://www.fiec.eu/events",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "ectp-events",
+   "name": "ECTP (European Construction, built environment and energy efficient building Technology Platform) – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Verband",
+   "url": "https://www.ectp.org/events",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "egga-events",
+   "name": "EGGA (Europäischer Verband der Feuerverzinker) – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Verband",
+   "url": "https://www.egga.com/events/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "solarpower-europe-events",
+   "name": "SolarPower Europe – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Verband",
+   "url": "https://www.solarpowereurope.org/events",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "solarplaza-events",
+   "name": "Solarplaza – Konferenzen",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Veranstalter",
+   "url": "https://www.solarplaza.com/events/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "innoenergy-events",
+   "name": "EIT InnoEnergy – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "EU-Programm",
+   "url": "https://www.innoenergy.com/events/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "climate-kic-events",
+   "name": "EIT Climate-KIC – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "EU-Programm",
+   "url": "https://www.climate-kic.org/events/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "eit-manufacturing-events",
+   "name": "EIT Manufacturing – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "EU-Programm",
+   "url": "https://www.eitmanufacturing.eu/events/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "hydrogen-europe-events",
+   "name": "Hydrogen Europe – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Verband",
+   "url": "https://hydrogeneurope.eu/events/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "buildingsmart-events",
+   "name": "buildingSMART International – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Verband",
+   "url": "https://www.buildingsmart.org/events/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "sifted-events",
+   "name": "Sifted – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Medien",
+   "url": "https://sifted.eu/events",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "startup-europe-events",
+   "name": "Startup Europe (EU-Kommission) – Events",
+   "art": "events",
+   "region": "Europa",
+   "typ": "EU-Portal",
+   "url": "https://digital-strategy.ec.europa.eu/en/events",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   }
  ]
 }
