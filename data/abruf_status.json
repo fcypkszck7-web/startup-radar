@@ -1,7 +1,7 @@
 {
- "abgerufen": "2026-11-04 07:56 UTC",
- "quellen_gesamt": 112,
- "quellen_ok": 109,
+ "abgerufen": "2026-11-04 08:02 UTC",
+ "quellen_gesamt": 113,
+ "quellen_ok": 110,
  "kandidaten": 451,
  "neu": 30,
  "quellen": [
@@ -226,6 +226,16 @@
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "firmen-bayern-listen",
+   "ok": true,
+   "anzahl": 25,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "firmenprofile"
+   ],
    "fehler": ""
   },
   {
