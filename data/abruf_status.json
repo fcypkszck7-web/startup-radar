@@ -1,17 +1,19 @@
 {
- "abgerufen": "2026-11-04 07:31 UTC",
- "quellen_gesamt": 105,
- "quellen_ok": 55,
- "kandidaten": 122,
- "neu": 110,
+ "abgerufen": "2026-11-04 07:37 UTC",
+ "quellen_gesamt": 101,
+ "quellen_ok": 98,
+ "kandidaten": 274,
+ "neu": 244,
  "quellen": [
   {
    "id": "auma-bau",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 14,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:25"
+   ],
+   "fehler": ""
   },
   {
    "id": "austrianstartups",
@@ -23,27 +25,40 @@
   },
   {
    "id": "bauindustrie-bayern",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "bauindustrie-de",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 4,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:4"
+   ],
+   "fehler": ""
   },
   {
    "id": "bayern-innovativ",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:11",
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "bayern-international",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "bayika",
@@ -57,11 +72,13 @@
   },
   {
    "id": "baystartup",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 7,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:69"
+   ],
+   "fehler": ""
   },
   {
    "id": "bdew",
@@ -84,6 +101,14 @@
    "fehler": ""
   },
   {
+   "id": "brutkasten-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 403"
+  },
+  {
    "id": "bsw-solar",
    "ok": true,
    "anzahl": 2,
@@ -95,11 +120,13 @@
   },
   {
    "id": "buildingsmart",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:1"
+   ],
+   "fehler": ""
   },
   {
    "id": "business-upper-austria",
@@ -113,34 +140,48 @@
   },
   {
    "id": "bwp",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
-  },
-  {
-   "id": "contech-events-blackprint",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 405"
+   "fehler": ""
   },
   {
    "id": "dena",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
+  },
+  {
+   "id": "dev-events-at",
+   "ok": true,
+   "anzahl": 2,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "json-ld"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "dev-events-de",
+   "ok": true,
+   "anzahl": 2,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "json-ld"
+   ],
+   "fehler": ""
   },
   {
    "id": "dgnb",
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
@@ -152,14 +193,6 @@
     "detailseiten:9"
    ],
    "fehler": ""
-  },
-  {
-   "id": "digital-hub-mobility",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
   },
   {
    "id": "ecoplus-cluster",
@@ -188,76 +221,22 @@
    "fehler": ""
   },
   {
-   "id": "eventbrite-contech",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 405"
-  },
-  {
-   "id": "eventbrite-handwerk",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 405"
-  },
-  {
-   "id": "eventbrite-muenchen-startup",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 405"
-  },
-  {
-   "id": "eventbrite-nuernberg",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 405"
-  },
-  {
-   "id": "eventbrite-photovoltaik",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 405"
-  },
-  {
-   "id": "eventbrite-proptech",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 405"
-  },
-  {
-   "id": "eventbrite-regensburg",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 405"
-  },
-  {
-   "id": "eventbrite-wien-startup",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 405"
-  },
-  {
    "id": "feuerverzinken",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
+  },
+  {
+   "id": "fuer-gruender-events",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "geb-energieberater",
@@ -270,7 +249,27 @@
    "fehler": ""
   },
   {
+   "id": "gentner-events",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
    "id": "groundbreakers",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "gruenderkueche-termine",
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
@@ -288,7 +287,15 @@
    "fehler": ""
   },
   {
-   "id": "gzdn",
+   "id": "handwerk-digital",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "hannover-messe-deutsche-messe",
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
@@ -296,20 +303,14 @@
    "fehler": ""
   },
   {
-   "id": "hannover-messe-deutsche-messe",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
-  },
-  {
    "id": "heinze-events",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "hm-sce",
@@ -322,9 +323,11 @@
   {
    "id": "hs-landshut",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 18,
    "zuletzt_ok": "2026-11-04",
-   "methoden": [],
+   "methoden": [
+    "detailseiten:20"
+   ],
    "fehler": ""
   },
   {
@@ -348,6 +351,16 @@
    "fehler": ""
   },
   {
+   "id": "i2c-tuwien",
+   "ok": true,
+   "anzahl": 3,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "ical"
+   ],
+   "fehler": ""
+  },
+  {
    "id": "ihk-muenchen",
    "ok": true,
    "anzahl": 0,
@@ -365,11 +378,11 @@
   },
   {
    "id": "ihk-nuernberg",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "ihk-regensburg",
@@ -394,7 +407,19 @@
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "intersolar-events",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
@@ -407,11 +432,13 @@
   },
   {
    "id": "koelnmesse",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "link-landshut",
@@ -422,14 +449,6 @@
     "tribe-api-fehler:HTTPError"
    ],
    "fehler": ""
-  },
-  {
-   "id": "liste-axel",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   {
    "id": "liste-bayern-kapital",
@@ -450,22 +469,6 @@
     "liste"
    ],
    "fehler": ""
-  },
-  {
-   "id": "liste-eu-startups-energy",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
-  },
-  {
-   "id": "liste-eu-startups-proptech",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
   },
   {
    "id": "liste-groundbreakers",
@@ -498,14 +501,6 @@
    "fehler": ""
   },
   {
-   "id": "liste-munich-urban-colab",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
-  },
-  {
    "id": "liste-startbase-bau",
    "ok": true,
    "anzahl": 4,
@@ -526,24 +521,6 @@
    "fehler": ""
   },
   {
-   "id": "liste-techbase",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
-  },
-  {
-   "id": "liste-unternehmertum-xpreneurs",
-   "ok": true,
-   "anzahl": 0,
-   "zuletzt_ok": "2026-11-04",
-   "methoden": [
-    "liste"
-   ],
-   "fehler": ""
-  },
-  {
    "id": "liste-zollhof",
    "ok": true,
    "anzahl": 0,
@@ -554,52 +531,44 @@
    "fehler": ""
   },
   {
-   "id": "mch-messe-basel",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 403"
-  },
-  {
    "id": "messe-augsburg",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "messe-berlin",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 24,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:64"
+   ],
+   "fehler": ""
   },
   {
    "id": "messe-duesseldorf",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 29,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "json-ld"
+   ],
+   "fehler": ""
   },
   {
    "id": "messe-essen",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
-  },
-  {
-   "id": "messe-frankfurt",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "messe-muenchen",
@@ -610,19 +579,63 @@
    "fehler": ""
   },
   {
-   "id": "messe-stuttgart",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
-  },
-  {
    "id": "messe-wels",
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messen-de-ausbau",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messen-de-bau-und-heimwerkerbedarf",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messen-de-energiewirtschaft",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messen-de-erneuerbare-energien",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messen-de-solarenergie",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
@@ -648,19 +661,21 @@
   },
   {
    "id": "nuernbergmesse",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "oth-aw",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 4,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:5"
+   ],
+   "fehler": ""
   },
   {
    "id": "oth-regensburg",
@@ -687,28 +702,54 @@
    "fehler": "RemoteDisconnected: Remote end closed connection without response"
   },
   {
+   "id": "pv-magazine-webinare",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:2",
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
    "id": "regensburg-wirtschaft",
+   "ok": true,
+   "anzahl": 2,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:10"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "schall-messen",
+   "ok": true,
+   "anzahl": 8,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "json-ld"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "sensorik-cluster",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:1",
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "sfg-steiermark",
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [],
    "fehler": ""
-  },
-  {
-   "id": "schall-messen",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
-  },
-  {
-   "id": "sensorik-cluster",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
   },
   {
    "id": "startup-factory",
@@ -740,16 +781,16 @@
   },
   {
    "id": "startupbw",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "startupticker",
    "ok": true,
-   "anzahl": 25,
+   "anzahl": 50,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:50"
@@ -779,19 +820,23 @@
   },
   {
    "id": "techbase-events",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 8,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:9"
+   ],
+   "fehler": ""
   },
   {
    "id": "thd-events",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "tum-venture-labs",
@@ -815,11 +860,13 @@
   },
   {
    "id": "uni-regensburg",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 6,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:21"
+   ],
+   "fehler": ""
   },
   {
    "id": "unternehmertum",
@@ -833,11 +880,13 @@
   },
   {
    "id": "vdma",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "werk1",
@@ -872,27 +921,33 @@
   },
   {
    "id": "wvm",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "zdb",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 2,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:2"
+   ],
+   "fehler": ""
   },
   {
    "id": "zdh",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 4,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:11"
+   ],
+   "fehler": ""
   },
   {
    "id": "zollhof",
@@ -903,20 +958,14 @@
    "fehler": ""
   },
   {
-   "id": "zvdh",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "robots.txt verbietet den Abruf"
-  },
-  {
    "id": "zvo",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 5,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:6"
+   ],
+   "fehler": ""
   }
  ]
 }
