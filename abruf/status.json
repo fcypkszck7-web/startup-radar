@@ -1,7 +1,7 @@
 {
- "abgerufen": "2026-11-04 08:33 UTC",
- "quellen_gesamt": 150,
- "quellen_ok": 130,
+ "abgerufen": "2026-11-04 08:36 UTC",
+ "quellen_gesamt": 168,
+ "quellen_ok": 148,
  "kandidaten": 707,
  "neu": 240,
  "quellen": [
@@ -402,6 +402,276 @@
    "anzahl": 0,
    "fehler": "",
    "sekunden": 2.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-adhesion-paints-coating-technologies",
+   "name": "eventseye – Fachmessen Europa: Lacke, Beschichtung",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_adhesion-paints-coating-technologies.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 21,
+   "sekunden": 57.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-advanced-materials",
+   "name": "eventseye – Fachmessen Europa: Werkstoffe",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_advanced-materials.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 54,
+   "sekunden": 57.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-biofuels-hydrogen",
+   "name": "eventseye – Fachmessen Europa: Wasserstoff, Biokraftstoffe",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_biofuels-hydrogen.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 35,
+   "sekunden": 81.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-building-construction",
+   "name": "eventseye – Fachmessen Europa: Bau",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_building-construction.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 129,
+   "sekunden": 71.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-clean-energies-renewable-energies",
+   "name": "eventseye – Fachmessen Europa: Erneuerbare Energien",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_clean-energies-renewable-energies.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 127,
+   "sekunden": 78.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-energy-production-transportation",
+   "name": "eventseye – Fachmessen Europa: Energieerzeugung und -netze",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_energy-production-transportation.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 91,
+   "sekunden": 80.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-heating-air-conditioning",
+   "name": "eventseye – Fachmessen Europa: Heizung, Klima",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_heating-air-conditioning.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 137,
+   "sekunden": 74.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-industrial-building",
+   "name": "eventseye – Fachmessen Europa: Industriebau",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_industrial-building.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 37,
+   "sekunden": 76.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-logistics-transportation-engineering-han",
+   "name": "eventseye – Fachmessen Europa: Logistik",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_logistics-transportation-engineering-handling-operations-storage.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 161,
+   "sekunden": 57.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-machines-tools-tools",
+   "name": "eventseye – Fachmessen Europa: Werkzeugmaschinen",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_machines-tools-tools.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 100,
+   "sekunden": 57.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-metal-working-industries",
+   "name": "eventseye – Fachmessen Europa: Metallbearbeitung",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_metal-working-industries.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 85,
+   "sekunden": 83.0,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-renewal-renovations",
+   "name": "eventseye – Fachmessen Europa: Sanierung",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_renewal-renovations.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 125,
+   "sekunden": 73.1,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-robotics",
+   "name": "eventseye – Fachmessen Europa: Robotik",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_robotics.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 45,
+   "sekunden": 57.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-software-tools-for-building",
+   "name": "eventseye – Fachmessen Europa: Bau-Software",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_software-tools-for-building.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 4,
+   "sekunden": 77.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-subcontracting-suppliers-partners",
+   "name": "eventseye – Fachmessen Europa: Zulieferung",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_subcontracting-suppliers-partners.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 125,
+   "sekunden": 57.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-surface-treatment-technologies-coatings",
+   "name": "eventseye – Fachmessen Europa: Oberflächentechnik",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_surface-treatment-technologies-coatings.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 24,
+   "sekunden": 84.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-waste-management-recycling",
+   "name": "eventseye – Fachmessen Europa: Recycling, Kreislauf",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_waste-management-recycling.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 53,
+   "sekunden": 57.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eventseye-welding",
+   "name": "eventseye – Fachmessen Europa: Schweißen",
+   "art": "events",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_welding.html",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 21,
+   "sekunden": 57.2,
    "zuletzt_ok": "2026-11-04"
   },
   {
