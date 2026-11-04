@@ -15,7 +15,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Gründerzentrum",
-   "url": "https://www.techbase.de/veranstaltungen/"
+   "url": "https://www.techbase.de/news-termine/events-termine",
+   "folge": "/events-termine/detail/"
   },
   {
    "id": "startup-factory",
@@ -39,7 +40,7 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Kammer",
-   "url": "https://www.ihk-niederbayern.de/veranstaltungen"
+   "url": "https://www.ihk-niederbayern.de/veranstaltungen/"
   },
   {
    "id": "hwkno",
@@ -55,7 +56,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Hochschule",
-   "url": "https://www.oth-regensburg.de/veranstaltungen"
+   "url": "https://www.oth-regensburg.de/termine",
+   "folge": "/termine/detailansicht/"
   },
   {
    "id": "uni-regensburg",
@@ -63,7 +65,7 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Hochschule",
-   "url": "https://www.uni-regensburg.de/veranstaltungen/"
+   "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender"
   },
   {
    "id": "thd-events",
@@ -71,7 +73,7 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Hochschule",
-   "url": "https://www.th-deg.de/de/veranstaltungen"
+   "url": "https://www.th-deg.de/veranstaltungen"
   },
   {
    "id": "oth-aw",
@@ -79,7 +81,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Hochschule",
-   "url": "https://www.oth-aw.de/aktuelles/veranstaltungen/"
+   "url": "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/",
+   "folge": "/veranstaltungsliste/[a-z0-9-]{6,}"
   },
   {
    "id": "uni-passau",
@@ -95,7 +98,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Hochschule",
-   "url": "https://www.haw-landshut.de/aktuelles/veranstaltungen.html"
+   "url": "https://www.haw-landshut.de/veranstaltungen",
+   "folge": "tx_calendarize"
   },
   {
    "id": "link-landshut",
@@ -111,7 +115,9 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Gründerzentrum",
-   "url": "https://gzdn.de/events/"
+   "url": "https://gzdn.de/events/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "innkubator",
@@ -119,7 +125,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Gründerzentrum",
-   "url": "https://innkubator.de/events/"
+   "url": "https://innkubator.spaces.nexudus.com/events",
+   "folge": "/events/\\d+"
   },
   {
    "id": "itc-deggendorf",
@@ -127,7 +134,7 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Gründerzentrum",
-   "url": "https://www.itc-deggendorf.de/veranstaltungen/"
+   "url": "https://www.itc-deggendorf.de/veranstaltungen"
   },
   {
    "id": "sensorik-cluster",
@@ -135,7 +142,7 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Cluster",
-   "url": "https://www.sensorik-bayern.de/veranstaltungen/"
+   "url": "https://www.sensorik-bayern.de/seminare"
   },
   {
    "id": "energieagentur-regensburg",
@@ -151,7 +158,7 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Wirtschaftsförderung",
-   "url": "https://www.regensburg.de/wirtschaft/veranstaltungen"
+   "url": "https://www.regensburg.de/veranstaltungen"
   },
   {
    "id": "bayern-innovativ",
@@ -159,7 +166,7 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Cluster",
-   "url": "https://www.bayern-innovativ.de/de/veranstaltungen"
+   "url": "https://www.bayern-innovativ.de/events-termine/"
   },
   {
    "id": "baystartup",
@@ -167,7 +174,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Gründernetzwerk",
-   "url": "https://www.baystartup.de/events"
+   "url": "https://www.baystartup.de/termine",
+   "folge": "/termine/detailview/"
   },
   {
    "id": "munich-startup",
@@ -199,7 +207,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Plattform",
-   "url": "https://www.gruenderland.bayern/veranstaltungen/"
+   "url": "https://www.gruenderland.bayern/veranstaltungen/",
+   "folge": "/veranstaltungen/event/"
   },
   {
    "id": "werk1",
@@ -223,7 +232,7 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Verband",
-   "url": "https://www.bauindustrie-bayern.de/veranstaltungen"
+   "url": "https://www.bauindustrie-bayern.de/verband/veranstaltungen"
   },
   {
    "id": "bayika",
@@ -239,7 +248,7 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Kammer",
-   "url": "https://www.ihk-muenchen.de/de/Veranstaltungen/"
+   "url": "https://www.ihk-muenchen.de/service-beratung/veranstaltungen/"
   },
   {
    "id": "ihk-nuernberg",
@@ -247,7 +256,7 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Kammer",
-   "url": "https://www.ihk-nuernberg.de/de/Veranstaltungen/"
+   "url": "https://www.ihk-nuernberg.de/ihk-themen/internationale-wirtschaft/veranstaltungen-international"
   },
   {
    "id": "ihk-schwaben",
@@ -279,7 +288,7 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Messe",
-   "url": "https://www.nuernbergmesse.de/de/messen-und-events"
+   "url": "https://www.nuernbergmesse.de/de-de/veranstaltungen/veranstaltungskalender"
   },
   {
    "id": "messe-augsburg",
@@ -287,7 +296,7 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Messe",
-   "url": "https://www.messeaugsburg.de/de/messen-events/"
+   "url": "https://www.messeaugsburg.de/de/terminkalender"
   },
   {
    "id": "tum-venture-labs",
@@ -303,7 +312,7 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Hochschule",
-   "url": "https://www.sce.de/events/"
+   "url": "https://www.sce.de/angebote/start-up-programme/events-community.html"
   },
   {
    "id": "digital-hub-mobility",
@@ -311,7 +320,9 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Gründerzentrum",
-   "url": "https://www.dzsw.de/veranstaltungen/"
+   "url": "https://www.dzsw.de/veranstaltungen/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "groundbreakers",
@@ -335,7 +346,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Plattform",
-   "url": "https://www.startupbw.de/veranstaltungen"
+   "url": "https://www.startupbw.de/events-wettbewerbe/landesweiter-veranstaltungskalender",
+   "folge": "/veranstaltung/"
   },
   {
    "id": "startupverband",
@@ -351,7 +363,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.dgnb.de/de/veranstaltungen"
+   "url": "https://www.dgnb.de/de/events-und-termine/aktuelle-veranstaltungen"
   },
   {
    "id": "bsw-solar",
@@ -367,7 +379,9 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.dachdecker.de/termine"
+   "url": "https://www.dachdecker.de/termine",
+   "aktiv": false,
+   "notiz": "robots.txt untersagt den automatischen Abruf – per Websuche prüfen"
   },
   {
    "id": "vdma",
@@ -375,7 +389,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.vdma.eu/veranstaltungen"
+   "url": "https://www.vdma.eu/kalender",
+   "folge": "/kalender/-/event/view/"
   },
   {
    "id": "dena",
@@ -383,7 +398,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Agentur",
-   "url": "https://www.dena.de/newsroom/veranstaltungen/"
+   "url": "https://www.dena.de/infocenter/alle-veranstaltungen/"
   },
   {
    "id": "bitkom",
@@ -399,7 +414,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.bauindustrie.de/veranstaltungen"
+   "url": "https://www.bauindustrie.de/termine"
   },
   {
    "id": "zdb",
@@ -407,7 +422,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.zdb.de/veranstaltungen"
+   "url": "https://www.zdb.de/presse/termine",
+   "folge": "/presse/termine/[a-z0-9-]{6,}"
   },
   {
    "id": "zdh",
@@ -415,7 +431,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.zdh.de/termine/"
+   "url": "https://www.zdh.de/presse/veranstaltungen/",
+   "folge": "/presse/veranstaltungen/[a-z0-9-]{6,}"
   },
   {
    "id": "buildingsmart",
@@ -423,7 +440,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.buildingsmart.de/veranstaltungen"
+   "url": "https://www.buildingsmart.de/bim-knowhow/buildingsmart-veranstaltungen",
+   "folge": "/termine/"
   },
   {
    "id": "planen-bauen-40",
@@ -439,7 +457,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Medien",
-   "url": "https://www.heinze.de/veranstaltungen/"
+   "url": "https://www.heinze.de/events/"
   },
   {
    "id": "feuerverzinken",
@@ -447,7 +465,10 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.feuerverzinken.com/termine"
+   "url": "https://www.feuerverzinken.com/termine-und-veranstaltungen",
+   "weitere_urls": [
+    "https://www.feuerverzinken.com/praxiswissen/webinare"
+   ]
   },
   {
    "id": "zvo",
@@ -455,7 +476,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.zvo.org/veranstaltungen"
+   "url": "https://www.zvo.org/events/termine"
   },
   {
    "id": "wvm",
@@ -463,7 +484,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.wsm-net.de/termine/"
+   "url": "https://www.wsm-net.de/aktuelles/termine-/-veranstaltungen"
   },
   {
    "id": "bdew",
@@ -479,7 +500,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.waermepumpe.de/termine/"
+   "url": "https://www.waermepumpe.de/verband/veranstaltungen/"
   },
   {
    "id": "geb-energieberater",
@@ -495,7 +516,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.messe.de/de/veranstaltungen/"
+   "url": "https://www.messe.de/de/messen/"
   },
   {
    "id": "messe-stuttgart",
@@ -503,7 +524,9 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.messe-stuttgart.de/messen-events/"
+   "url": "https://www.messe-stuttgart.de/messen-events/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "messe-frankfurt",
@@ -511,7 +534,9 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.messefrankfurt.com/frankfurt/de/messen-events.html"
+   "url": "https://www.messefrankfurt.com/frankfurt/de/messen-events.html",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "messe-duesseldorf",
@@ -519,7 +544,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.messe-duesseldorf.de/messen-events"
+   "url": "https://www.messe-duesseldorf.de/de/messen_und_events/messen_national_und_international"
   },
   {
    "id": "koelnmesse",
@@ -527,7 +552,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.koelnmesse.de/veranstaltungen/"
+   "url": "https://www.koelnmesse.de/aktuelle-termine/alle-messen/"
   },
   {
    "id": "messe-berlin",
@@ -535,7 +560,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.messe-berlin.de/messen-events/"
+   "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/"
   },
   {
    "id": "messe-essen",
@@ -543,7 +568,7 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.messe-essen.de/veranstaltungen/"
+   "url": "https://www.messe-essen.de/event-kalender"
   },
   {
    "id": "schall-messen",
@@ -551,15 +576,16 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.schall-messen.de/messen/"
+   "url": "https://schall-messen.de/"
   },
   {
    "id": "auma-bau",
-   "name": "AUMA Messedatenbank – Bau",
+   "name": "AUMA Messedatenbank – Messen finden",
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.auma.de/de/messedatenbank/messen-und-ausstellungen/branche/bauwesen"
+   "url": "https://www.auma.de/messen-finden/",
+   "folge": "messen-finden/details"
   },
   {
    "id": "eventbrite-regensburg",
@@ -567,7 +593,9 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Plattform",
-   "url": "https://www.eventbrite.de/d/germany--regensburg/business--events/"
+   "url": "https://www.eventbrite.de/d/germany--regensburg/business--events/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "eventbrite-muenchen-startup",
@@ -575,7 +603,9 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Plattform",
-   "url": "https://www.eventbrite.de/d/germany--m%C3%BCnchen/startup/"
+   "url": "https://www.eventbrite.de/d/germany--m%C3%BCnchen/startup/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "eventbrite-nuernberg",
@@ -583,7 +613,9 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Plattform",
-   "url": "https://www.eventbrite.de/d/germany--n%C3%BCrnberg/business--events/"
+   "url": "https://www.eventbrite.de/d/germany--n%C3%BCrnberg/business--events/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "eventbrite-contech",
@@ -591,7 +623,9 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Plattform",
-   "url": "https://www.eventbrite.de/d/germany/contech/"
+   "url": "https://www.eventbrite.de/d/germany/contech/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "eventbrite-proptech",
@@ -599,7 +633,9 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Plattform",
-   "url": "https://www.eventbrite.de/d/germany/proptech/"
+   "url": "https://www.eventbrite.de/d/germany/proptech/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "eventbrite-photovoltaik",
@@ -607,7 +643,9 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Plattform",
-   "url": "https://www.eventbrite.de/d/germany/photovoltaik/"
+   "url": "https://www.eventbrite.de/d/germany/photovoltaik/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "eventbrite-handwerk",
@@ -615,7 +653,9 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Plattform",
-   "url": "https://www.eventbrite.de/d/germany/handwerk/"
+   "url": "https://www.eventbrite.de/d/germany/handwerk/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "eventbrite-wien-startup",
@@ -623,7 +663,9 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Plattform",
-   "url": "https://www.eventbrite.at/d/austria--wien/startup/"
+   "url": "https://www.eventbrite.at/d/austria--wien/startup/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "wko-veranstaltungen",
@@ -639,7 +681,7 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Plattform",
-   "url": "https://austrianstartups.com/events/"
+   "url": "https://austrianstartups.com/events"
   },
   {
    "id": "wirtschaftsagentur-wien",
@@ -679,7 +721,8 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Cluster",
-   "url": "https://www.ecoplus.at/veranstaltungen/"
+   "url": "https://www.ecoplus.at/veranstaltungen/",
+   "folge": "/newsroom/"
   },
   {
    "id": "pv-austria",
@@ -695,7 +738,7 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Messe",
-   "url": "https://www.messe-wels.at/messen/"
+   "url": "https://messe-wels.at/ne13/?pn=1&ly=7&sn=5000&nav=messekalender"
   },
   {
    "id": "startupticker",
@@ -711,7 +754,9 @@
    "art": "events",
    "region": "Schweiz",
    "typ": "Messe",
-   "url": "https://www.mch-group.com/de/events"
+   "url": "https://www.mch-group.com/de/events",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "eu-startups-events",
@@ -727,7 +772,9 @@
    "art": "events",
    "region": "Europa",
    "typ": "Plattform",
-   "url": "https://www.eventbrite.com/d/europe/construction-technology/"
+   "url": "https://www.eventbrite.com/d/europe/construction-technology/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "liste-groundbreakers",
@@ -751,7 +798,9 @@
    "art": "liste",
    "region": "Ostbayern",
    "typ": "Gründerzentrum",
-   "url": "https://www.techbase.de/start-ups/"
+   "url": "https://www.techbase.de/start-ups/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "liste-zollhof",
@@ -767,7 +816,8 @@
    "art": "liste",
    "region": "Bayern",
    "typ": "Investor",
-   "url": "https://www.bayernkapital.de/portfolio/"
+   "url": "https://bayernkapital.de/portfolio/",
+   "folge": "/portfolio/portfolio-ueberblick/"
   },
   {
    "id": "liste-htgf",
@@ -775,7 +825,8 @@
    "art": "liste",
    "region": "Deutschland",
    "typ": "Investor",
-   "url": "https://www.htgf.de/de/portfolio/"
+   "url": "https://www.htgf.de/portfolio/",
+   "folge": "/portfolio/htgffamily/"
   },
   {
    "id": "liste-munich-urban-colab",
@@ -783,7 +834,9 @@
    "art": "liste",
    "region": "Bayern",
    "typ": "Gründerzentrum",
-   "url": "https://www.munich-urban-colab.de/startups"
+   "url": "https://www.munich-urban-colab.de/startups",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "liste-axel",
@@ -791,7 +844,9 @@
    "art": "liste",
    "region": "Deutschland",
    "typ": "Accelerator",
-   "url": "https://axel-accelerator.de/startups/"
+   "url": "https://axel-accelerator.de/startups/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "liste-eu-startups-energy",
@@ -799,7 +854,9 @@
    "art": "liste",
    "region": "Europa",
    "typ": "Medien",
-   "url": "https://www.eu-startups.com/directory/wpbdp_category/energy-cleantech/"
+   "url": "https://www.eu-startups.com/directory/wpbdp_category/energy-cleantech/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "liste-eu-startups-proptech",
@@ -807,7 +864,9 @@
    "art": "liste",
    "region": "Europa",
    "typ": "Medien",
-   "url": "https://www.eu-startups.com/directory/wpbdp_category/real-estate/"
+   "url": "https://www.eu-startups.com/directory/wpbdp_category/real-estate/",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "liste-startbase-bau",
@@ -823,7 +882,9 @@
    "art": "liste",
    "region": "Bayern",
    "typ": "Accelerator",
-   "url": "https://www.unternehmertum.de/startups"
+   "url": "https://www.unternehmertum.de/startups",
+   "aktiv": false,
+   "notiz": "automatischer Abruf nicht möglich (Seite blockiert oder Adresse unbekannt) – per Websuche prüfen"
   },
   {
    "id": "liste-tech2b",

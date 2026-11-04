@@ -436,11 +436,14 @@ def detail_kandidat(url, text):
     """Detailseite ohne JSON-LD: Titel + erstes künftiges Datum im Text."""
     z = zerlege(text)
     titel = next((t for h, t in z.koepfe if h == "h1"), "") or z.meta.get("og:title") or z.titel
+    if re.search(r"^(alle )?(events?|termine|veranstaltungen|kalender|übersicht)\b|kategorie|terminübersicht|"
+                 r"verbandstermine|branchentermine|^veranstaltungen (in|zum)", titel.strip(), re.I):
+        return None  # Übersichts- oder Kategorieseite, kein einzelner Termin
     zeilen = sichtbarer_text(z)
     for zl in zeilen[:400]:
         for m in DATUM_RE.finditer(zl):
             d = datum_aus_treffer(m)
-            if d and im_zeitraum(d):
+            if d and im_zeitraum(d) and d != HEUTE.isoformat():
                 return {"titel": " ".join(titel.split())[:250], "start": d, "ende": d, "ort": "", "land": "",
                         "online": bool(re.search(r"\bonline\b|webinar|zoom|teams", " ".join(zeilen[:200]), re.I)),
                         "url": url, "veranstalter": z.meta.get("og:site_name", ""),
