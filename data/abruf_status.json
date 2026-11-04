@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-04 07:41 UTC",
- "quellen_gesamt": 101,
- "quellen_ok": 98,
- "kandidaten": 274,
- "neu": 244,
+ "abgerufen": "2026-11-04 07:50 UTC",
+ "quellen_gesamt": 111,
+ "quellen_ok": 108,
+ "kandidaten": 451,
+ "neu": 237,
  "quellen": [
   {
    "id": "auma-bau",
@@ -44,11 +44,10 @@
   {
    "id": "bayern-innovativ",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 45,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
-    "detailseiten:11",
-    "datumszeilen"
+    "detailseiten:99"
    ],
    "fehler": ""
   },
@@ -73,7 +72,7 @@
   {
    "id": "baystartup",
    "ok": true,
-   "anzahl": 7,
+   "anzahl": 10,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:69"
@@ -93,10 +92,11 @@
   {
    "id": "bitkom",
    "ok": true,
-   "anzahl": 1,
+   "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
-    "detailseiten:1"
+    "detailseiten:1",
+    "datumszeilen"
    ],
    "fehler": ""
   },
@@ -111,7 +111,7 @@
   {
    "id": "bsw-solar",
    "ok": true,
-   "anzahl": 2,
+   "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:2"
@@ -131,7 +131,7 @@
   {
    "id": "business-upper-austria",
    "ok": true,
-   "anzahl": 9,
+   "anzahl": 5,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:9"
@@ -177,17 +177,17 @@
   {
    "id": "dgnb",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 3,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
-    "datumszeilen"
+    "detailseiten:5"
    ],
    "fehler": ""
   },
   {
    "id": "dgo-termine",
    "ok": true,
-   "anzahl": 9,
+   "anzahl": 8,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:9"
@@ -251,10 +251,10 @@
   {
    "id": "gentner-events",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 44,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
-    "datumszeilen"
+    "detailseiten:48"
    ],
    "fehler": ""
   },
@@ -343,7 +343,7 @@
   {
    "id": "hwkno",
    "ok": true,
-   "anzahl": 15,
+   "anzahl": 14,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:16"
@@ -415,10 +415,20 @@
   {
    "id": "intersolar-events",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 1,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
-    "datumszeilen"
+    "detailseiten:1"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "it-region-stuttgart",
+   "ok": true,
+   "anzahl": 11,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:15"
    ],
    "fehler": ""
   },
@@ -451,6 +461,16 @@
    "fehler": ""
   },
   {
+   "id": "liste-bau-futurelab",
+   "ok": true,
+   "anzahl": 1,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
    "id": "liste-bayern-kapital",
    "ok": true,
    "anzahl": 0,
@@ -464,6 +484,36 @@
    "id": "liste-climate-kic",
    "ok": true,
    "anzahl": 2,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-contech-award-ch",
+   "ok": true,
+   "anzahl": 27,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-contech-report",
+   "ok": true,
+   "anzahl": 51,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-energy-launchpad",
+   "ok": true,
+   "anzahl": 1,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "liste"
@@ -494,6 +544,36 @@
    "id": "liste-htgf",
    "ok": true,
    "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-ingenieur-100-bau",
+   "ok": true,
+   "anzahl": 23,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-smarter-e-award",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-startbase-axel",
+   "ok": true,
+   "anzahl": 4,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "liste"
@@ -533,17 +613,17 @@
   {
    "id": "messe-augsburg",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 35,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
-    "datumszeilen"
+    "detailseiten:46"
    ],
    "fehler": ""
   },
   {
    "id": "messe-berlin",
    "ok": true,
-   "anzahl": 24,
+   "anzahl": 58,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:64"
@@ -644,7 +724,6 @@
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
-    "detailseiten:1",
     "datumszeilen"
    ],
    "fehler": ""
@@ -707,7 +786,6 @@
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
-    "detailseiten:2",
     "datumszeilen"
    ],
    "fehler": ""
@@ -752,6 +830,16 @@
    "fehler": ""
   },
   {
+   "id": "startbase-events",
+   "ok": true,
+   "anzahl": 9,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:9"
+   ],
+   "fehler": ""
+  },
+  {
    "id": "startup-factory",
    "ok": true,
    "anzahl": 0,
@@ -762,7 +850,7 @@
   {
    "id": "startup-region-stuttgart",
    "ok": true,
-   "anzahl": 17,
+   "anzahl": 10,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:17"
@@ -800,7 +888,7 @@
   {
    "id": "startupverband",
    "ok": true,
-   "anzahl": 3,
+   "anzahl": 8,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:60"
@@ -912,10 +1000,20 @@
   {
    "id": "wko-veranstaltungen",
    "ok": true,
-   "anzahl": 6,
+   "anzahl": 1,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "detailseiten:6"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "wrs-termine",
+   "ok": true,
+   "anzahl": 8,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:20"
    ],
    "fehler": ""
   },
