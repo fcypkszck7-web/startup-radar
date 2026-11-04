@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-04 08:02 UTC",
- "quellen_gesamt": 113,
- "quellen_ok": 110,
- "kandidaten": 451,
- "neu": 30,
+ "abgerufen": "2026-11-04 08:33 UTC",
+ "quellen_gesamt": 150,
+ "quellen_ok": 130,
+ "kandidaten": 707,
+ "neu": 240,
  "quellen": [
   {
    "id": "auma-bau",
@@ -170,6 +170,18 @@
    "zuletzt_ok": "2026-11-04"
   },
   {
+   "id": "build-up-eu",
+   "name": "BUILD UP (EU-Portal Energieeffizienz von Gebäuden) – Events",
+   "art": "events",
+   "url": "https://build-up.ec.europa.eu/en/events",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 4.8,
+   "zuletzt_ok": ""
+  },
+  {
    "id": "buildingsmart",
    "name": "buildingSMART Deutschland – Veranstaltungen",
    "art": "events",
@@ -182,6 +194,18 @@
    "fehler": "",
    "sekunden": 3.8,
    "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "buildingsmart-events",
+   "name": "buildingSMART International – Events",
+   "art": "events",
+   "url": "https://www.buildingsmart.org/events/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 403",
+   "sekunden": 1.4,
+   "zuletzt_ok": ""
   },
   {
    "id": "business-upper-austria",
@@ -207,6 +231,20 @@
    "anzahl": 0,
    "fehler": "",
    "sekunden": 3.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "climate-kic-events",
+   "name": "EIT Climate-KIC – Events",
+   "art": "events",
+   "url": "https://www.climate-kic.org/events/",
+   "ok": true,
+   "methoden": [
+    "detailseiten:2"
+   ],
+   "anzahl": 2,
+   "fehler": "",
+   "sekunden": 6.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -290,6 +328,56 @@
    "zuletzt_ok": "2026-11-04"
   },
   {
+   "id": "ectp-events",
+   "name": "ECTP (European Construction, built environment and energy efficient building Technology Platform) – Events",
+   "art": "events",
+   "url": "https://www.ectp.org/events",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 5.3,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "een-events",
+   "name": "Enterprise Europe Network – Events und Partnerbörsen",
+   "art": "events",
+   "url": "https://een.ec.europa.eu/events",
+   "ok": true,
+   "methoden": [
+    "detailseiten:10"
+   ],
+   "anzahl": 9,
+   "fehler": "",
+   "sekunden": 16.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "egga-events",
+   "name": "EGGA (Europäischer Verband der Feuerverzinker) – Events",
+   "art": "events",
+   "url": "https://www.egga.com/events/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "eit-manufacturing-events",
+   "name": "EIT Manufacturing – Events",
+   "art": "events",
+   "url": "https://www.eitmanufacturing.eu/events/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 530",
+   "sekunden": 1.4,
+   "zuletzt_ok": ""
+  },
+  {
    "id": "energieagentur-regensburg",
    "name": "Energieagentur Regensburg – Veranstaltungen",
    "art": "events",
@@ -327,6 +415,18 @@
    "fehler": "",
    "sekunden": 3.0,
    "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "fiec-events",
+   "name": "FIEC (Europäischer Bauindustrieverband) – Events",
+   "art": "events",
+   "url": "https://www.fiec.eu/events",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.5,
+   "zuletzt_ok": ""
   },
   {
    "id": "firmen-bayern-listen",
@@ -533,6 +633,18 @@
    "zuletzt_ok": "2026-11-04"
   },
   {
+   "id": "hydrogen-europe-events",
+   "name": "Hydrogen Europe – Events",
+   "art": "events",
+   "url": "https://hydrogeneurope.eu/events/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
    "id": "i2c-tuwien",
    "name": "TU Wien Innovation Incubation Center – Events",
    "art": "events",
@@ -622,6 +734,18 @@
    "zeilen": 4,
    "sekunden": 3.1,
    "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "innoenergy-events",
+   "name": "EIT InnoEnergy – Events",
+   "art": "events",
+   "url": "https://www.innoenergy.com/events/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 4.6,
+   "zuletzt_ok": ""
   },
   {
    "id": "intersolar-events",
@@ -917,6 +1041,18 @@
    "zuletzt_ok": "2026-11-04"
   },
   {
+   "id": "messe-bella-center",
+   "name": "Bella Center Copenhagen – Events",
+   "art": "events",
+   "url": "https://www.bellacentercopenhagen.dk/en/events",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "URLError: <urlopen error [Errno -5] No address associated with hostname>",
+   "sekunden": 1.5,
+   "zuletzt_ok": ""
+  },
+  {
    "id": "messe-berlin",
    "name": "Messe Berlin – Veranstaltungen",
    "art": "events",
@@ -929,6 +1065,56 @@
    "fehler": "",
    "sekunden": 119.2,
    "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-bernexpo",
+   "name": "BERNEXPO – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.bernexpo.ch/de/veranstaltungen",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 3.4,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-bolognafiere",
+   "name": "BolognaFiere – Messekalender",
+   "art": "events",
+   "url": "https://www.bolognafiere.it/en/calendar/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 4.7,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-brussels-expo",
+   "name": "Brussels Expo – Agenda",
+   "art": "events",
+   "url": "https://www.brussels-expo.com/en/agenda",
+   "ok": true,
+   "methoden": [
+    "detailseiten:14"
+   ],
+   "anzahl": 4,
+   "fehler": "",
+   "sekunden": 29.3,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-bvv-brno",
+   "name": "BVV Brno – Messekalender",
+   "art": "events",
+   "url": "https://www.bvv.cz/en/trade-fairs-calendar/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.1,
+   "zuletzt_ok": ""
   },
   {
    "id": "messe-duesseldorf",
@@ -960,6 +1146,125 @@
    "zuletzt_ok": "2026-11-04"
   },
   {
+   "id": "messe-eurexpo-lyon",
+   "name": "Eurexpo Lyon – Kalender",
+   "art": "events",
+   "url": "https://www.eurexpo.com/en/calendar",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 2.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-excel-london",
+   "name": "ExCeL London – What's on",
+   "art": "events",
+   "url": "https://www.excel.london/whats-on",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 162,
+   "sekunden": 2.4,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-fiera-milano",
+   "name": "Fiera Milano – Messekalender",
+   "art": "events",
+   "url": "https://www.fieramilano.it/en/calendar.html",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 1.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-fira-barcelona",
+   "name": "Fira Barcelona – Kalender",
+   "art": "events",
+   "url": "https://www.firabarcelona.com/en/calendar/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 2.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-ieg-rimini",
+   "name": "Italian Exhibition Group (Rimini) – Kalender",
+   "art": "events",
+   "url": "https://www.iegexpo.it/en/calendar",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.3,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-ifema",
+   "name": "IFEMA Madrid – Messekalender",
+   "art": "events",
+   "url": "https://www.ifema.es/en/calendar",
+   "ok": true,
+   "methoden": [
+    "json-ld"
+   ],
+   "anzahl": 43,
+   "fehler": "",
+   "sekunden": 2.1,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-jaarbeurs",
+   "name": "Jaarbeurs Utrecht – Agenda",
+   "art": "events",
+   "url": "https://www.jaarbeurs.nl/en/agenda",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 50,
+   "sekunden": 10.9,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-messukeskus",
+   "name": "Messukeskus Helsinki – Events",
+   "art": "events",
+   "url": "https://messukeskus.com/en/events/",
+   "ok": true,
+   "methoden": [
+    "datumszeilen"
+   ],
+   "anzahl": 0,
+   "fehler": "",
+   "zeilen": 108,
+   "sekunden": 3.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-mtp-poznan",
+   "name": "MTP Poznań – Kalender",
+   "art": "events",
+   "url": "https://www.mtp.pl/en/calendar/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 5.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
    "id": "messe-muenchen",
    "name": "Messe München – Messekalender",
    "art": "events",
@@ -970,6 +1275,94 @@
    "fehler": "",
    "sekunden": 2.7,
    "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-nec",
+   "name": "NEC Birmingham – What's on",
+   "art": "events",
+   "url": "https://www.thenec.co.uk/whats-on/",
+   "ok": true,
+   "methoden": [
+    "detailseiten:70"
+   ],
+   "anzahl": 154,
+   "fehler": "",
+   "sekunden": 60.1,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-ptak-warsaw",
+   "name": "Ptak Warsaw Expo – Kalender",
+   "art": "events",
+   "url": "https://warsawexpo.eu/en/calendar/",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 8.4,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-pva-prag",
+   "name": "PVA Expo Praha – Kalender",
+   "art": "events",
+   "url": "https://www.pvaexpo.cz/en/calendar",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.3,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-rai",
+   "name": "RAI Amsterdam – Agenda",
+   "art": "events",
+   "url": "https://www.rai.nl/en/agenda",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.8,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-salzburg",
+   "name": "Messezentrum Salzburg – Kalender",
+   "art": "events",
+   "url": "https://www.messezentrum-salzburg.at/de/veranstaltungen",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.9,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-stockholmsmassan",
+   "name": "Stockholmsmässan – Kalender",
+   "art": "events",
+   "url": "https://www.stockholmsmassan.se/en/calendar/",
+   "ok": true,
+   "methoden": [
+    "json-ld"
+   ],
+   "anzahl": 27,
+   "fehler": "",
+   "sekunden": 6.7,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-viparis",
+   "name": "Viparis Paris (Porte de Versailles, Paris Nord Villepinte) – Agenda",
+   "art": "events",
+   "url": "https://www.viparis.com/en/agenda",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 2.1,
+   "zuletzt_ok": ""
   },
   {
    "id": "messe-wels",
@@ -985,6 +1378,30 @@
    "zeilen": 54,
    "sekunden": 3.6,
    "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "messe-wien",
+   "name": "Messe Wien – Veranstaltungskalender",
+   "art": "events",
+   "url": "https://www.messe.at/en/calendar/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 4.4,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "messe-zuerich",
+   "name": "Messe Zürich – Veranstaltungen",
+   "art": "events",
+   "url": "https://www.messe.ch/de/veranstaltungen/",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.8,
+   "zuletzt_ok": ""
   },
   {
    "id": "messen-de-ausbau",
@@ -1224,6 +1641,46 @@
    "zuletzt_ok": "2026-11-04"
   },
   {
+   "id": "sifted-events",
+   "name": "Sifted – Events",
+   "art": "events",
+   "url": "https://sifted.eu/events",
+   "ok": false,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "HTTP 404",
+   "sekunden": 3.2,
+   "zuletzt_ok": ""
+  },
+  {
+   "id": "solarplaza-events",
+   "name": "Solarplaza – Konferenzen",
+   "art": "events",
+   "url": "https://www.solarplaza.com/events/",
+   "ok": true,
+   "methoden": [
+    "detailseiten:19"
+   ],
+   "anzahl": 14,
+   "fehler": "",
+   "sekunden": 41.5,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "solarpower-europe-events",
+   "name": "SolarPower Europe – Events",
+   "art": "events",
+   "url": "https://www.solarpowereurope.org/events",
+   "ok": true,
+   "methoden": [
+    "detailseiten:12"
+   ],
+   "anzahl": 6,
+   "fehler": "",
+   "sekunden": 26.2,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
    "id": "startbase-events",
    "name": "Startbase – Start-up-Events Deutschland",
    "art": "events",
@@ -1235,6 +1692,18 @@
    "anzahl": 9,
    "fehler": "",
    "sekunden": 14.6,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "startup-europe-events",
+   "name": "Startup Europe (EU-Kommission) – Events",
+   "art": "events",
+   "url": "https://digital-strategy.ec.europa.eu/en/events",
+   "ok": true,
+   "methoden": [],
+   "anzahl": 0,
+   "fehler": "",
+   "sekunden": 1.7,
    "zuletzt_ok": "2026-11-04"
   },
   {
