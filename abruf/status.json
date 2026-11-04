@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-04 08:39 UTC",
+ "abgerufen": "2026-11-04 08:42 UTC",
  "quellen_gesamt": 170,
  "quellen_ok": 163,
  "kandidaten": 794,
- "neu": 292,
+ "neu": 263,
  "quellen": [
   {
    "id": "auma-bau",
@@ -419,8 +419,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 21,
-   "sekunden": 57.9,
+   "zeilen": 23,
+   "sekunden": 62.3,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -434,8 +434,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 54,
-   "sekunden": 57.5,
+   "zeilen": 56,
+   "sekunden": 57.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -449,8 +449,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 35,
-   "sekunden": 81.6,
+   "zeilen": 36,
+   "sekunden": 79.2,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -464,8 +464,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 129,
-   "sekunden": 71.5,
+   "zeilen": 158,
+   "sekunden": 56.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -479,8 +479,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 127,
-   "sekunden": 78.9,
+   "zeilen": 142,
+   "sekunden": 76.4,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -494,8 +494,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 91,
-   "sekunden": 80.3,
+   "zeilen": 100,
+   "sekunden": 77.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -509,8 +509,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 137,
-   "sekunden": 74.7,
+   "zeilen": 156,
+   "sekunden": 72.3,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -524,8 +524,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 37,
-   "sekunden": 76.2,
+   "zeilen": 39,
+   "sekunden": 73.7,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -539,8 +539,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 161,
-   "sekunden": 57.5,
+   "zeilen": 182,
+   "sekunden": 57.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -554,8 +554,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 100,
-   "sekunden": 57.5,
+   "zeilen": 123,
+   "sekunden": 57.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -569,8 +569,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 85,
-   "sekunden": 83.0,
+   "zeilen": 116,
+   "sekunden": 80.5,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -584,8 +584,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 125,
-   "sekunden": 73.1,
+   "zeilen": 135,
+   "sekunden": 94.3,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -599,8 +599,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 45,
-   "sekunden": 57.2,
+   "zeilen": 56,
+   "sekunden": 57.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -615,7 +615,7 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 4,
-   "sekunden": 77.6,
+   "sekunden": 75.0,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -629,8 +629,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 125,
-   "sekunden": 57.7,
+   "zeilen": 151,
+   "sekunden": 59.2,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -644,8 +644,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 24,
-   "sekunden": 84.3,
+   "zeilen": 28,
+   "sekunden": 69.5,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -659,8 +659,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 53,
-   "sekunden": 57.2,
+   "zeilen": 56,
+   "sekunden": 57.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -674,8 +674,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 21,
-   "sekunden": 57.2,
+   "zeilen": 22,
+   "sekunden": 57.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
