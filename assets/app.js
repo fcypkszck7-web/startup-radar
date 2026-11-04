@@ -16,7 +16,7 @@
   var WTAG = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
   var WTAG_LANG = ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"];
   var FENSTER = [[3, "3 Monate"], [6, "6 Monate"], [12, "12 Monate"], [18, "18 Monate"]];
-  var TITEL = { uebersicht: "Übersicht", termine: "Termine", startups: "Start-ups", kapital: "Kapital", archiv: "Archiv", merkliste: "Merkliste", intern: "Intern" };
+  var TITEL = { uebersicht: "Übersicht", termine: "Termine", startups: "Start-ups", kapital: "Kapital", archiv: "Archiv", merkliste: "Merkliste", intern: "Intern", quellen: "Quellen" };
   var SU_REGIONEN = [["", "Alle Regionen"], ["Ostbayern", "Ostbayern"], ["Bayern", "Bayern"], ["Deutschland", "Deutschland"], ["Europa", "Europa"]];
   var SU_TEXT = {
     "": "Start-ups rund um Dach, Solar, Bau und Fertigung – von Ostbayern bis Europa. Je näher, desto geringer meist der Aufwand für eine Zusammenarbeit.",
@@ -224,7 +224,7 @@
     document.title = TITEL[z.r] + " – Start-up- & Event-Radar";
     var zeichne = function () {
       aufraeumen();
-      ({ uebersicht: zeigeUebersicht, termine: zeigeTermine, startups: zeigeStartups, kapital: zeigeKapital, archiv: zeigeArchiv, merkliste: zeigeMerkliste, intern: zeigeIntern })[z.r]();
+      ({ uebersicht: zeigeUebersicht, termine: zeigeTermine, startups: zeigeStartups, kapital: zeigeKapital, archiv: zeigeArchiv, merkliste: zeigeMerkliste, intern: zeigeIntern, quellen: zeigeQuellen })[z.r]();
       if (wechsel) window.scrollTo(0, 0);
     };
     if (wechsel && document.startViewTransition && !reduziert.matches && S.schonGezeichnet) {
@@ -670,7 +670,7 @@
         reiter: '<div class="reiter" role="tablist" aria-label="Rubrik">' + REITER.map(function (r) {
           return '<button type="button" role="tab" data-rubrik="' + r[0] + '" aria-selected="' + (f.rubrik === r[0]) + '">' + esc(r[1]) + "<span>" + umfang("termine", r[0]).length + "</span></button>";
         }).join("") + "</div>",
-        unten: '<p class="kb-link"><a href="#archiv">Archiv vergangener Termine</a></p>',
+        unten: '<p class="kb-link"><a href="#archiv">Archiv vergangener Termine</a> · <a href="#quellen">Quellen der Recherche</a></p>',
         rechts: '<div class="kb-radar"><div class="radar" id="radar-kopf"></div></div>' });
     }
 
@@ -1426,6 +1426,50 @@
   function iSpalten(s) {
     return (s.details || []).map(function (d) {
       return [d[0], function (x) { var v = x[d[1]]; return d[2] === "datum" && v && /^\d{4}-\d{2}-\d{2}$/.test(v) ? { date: v } : iWertText(d[2], v, x); }];
+    });
+  }
+
+  /* ============================================================
+     Quellen: Register der automatisch abgerufenen Kalender und Listen
+     ============================================================ */
+  var Q_REGIONEN = ["Ostbayern", "Bayern", "Deutschland", "Österreich", "Schweiz", "Europa"];
+  function zeigeQuellen() {
+    $("#ansicht").innerHTML = '<div class="lade" role="status"><span class="lade-radar" aria-hidden="true"></span>Quellen werden geladen …</div>';
+    Promise.all([lade("tools/quellen.json"), lade("data/abruf_status.json").catch(leer({}))]).then(function (r) {
+      if (S.route !== "quellen") return;
+      var qs = (r[0].quellen || []).filter(function (q) { return q.aktiv !== false; }), st = r[1] || {}, idx = {};
+      (st.quellen || []).forEach(function (x) { idx[x.id] = x; });
+      S.q = S.q || { art: "", region: "" };
+      var ok = qs.filter(function (q) { return idx[q.id] && idx[q.id].ok; }).length;
+      var rechts = '<dl class="kb-stats"><div><dt>Quellen im Register</dt><dd>' + qs.length + "</dd></div>" +
+        "<div><dt>Beim letzten Abruf erreichbar</dt><dd>" + (st.abgerufen ? ok : "–") + "</dd></div>" +
+        "<div><dt>Gefundene Termine</dt><dd>" + (st.kandidaten != null ? st.kandidaten : "–") + "</dd></div>" +
+        "<div><dt>Davon noch zu prüfen</dt><dd>" + (st.neu != null ? st.neu : "–") + "</dd></div></dl>";
+      var h = kopfband({ akzent: "archiv", titel: "Quellen", text: "Diese Kalender, Kammern, Verbände, Cluster, Hochschulen, Messen und Start-up-Listen liest der Radar jeden Tag automatisch aus. Neue Termine und Start-ups werden geprüft und eingeordnet; dazu kommt die Websuche in der wöchentlichen und monatlichen Recherche. Fehlt eine Quelle? Einfach melden.",
+        unten: '<p class="kb-link">' + (st.abgerufen ? "Letzter Abruf: " + esc(st.abgerufen) : "Der erste automatische Abruf läuft gerade.") + "</p>", rechts: rechts });
+      h += '<div class="filterleiste" role="search"><div class="breite"><div class="segment" role="radiogroup" aria-label="Art">' +
+        [["", "Alle"], ["events", "Termine"], ["liste", "Start-up-Listen"]].map(function (a) { return '<button type="button" role="radio" data-q-art="' + a[0] + '" aria-checked="' + (S.q.art === a[0]) + '">' + a[1] + "</button>"; }).join("") +
+        '</div><label><span class="vh">Region</span><select class="feld" id="q-region"><option value="">Alle Regionen</option>' + Q_REGIONEN.map(function (x) { return "<option" + (x === S.q.region ? " selected" : "") + ">" + x + "</option>"; }).join("") + "</select></label></div></div>";
+      h += '<div class="breite" id="q-liste"></div>';
+      $("#ansicht").innerHTML = h;
+      var zeichne = function () {
+        var l = qs.filter(function (q) { return (!S.q.art || (q.art || "events") === S.q.art) && (!S.q.region || q.region === S.q.region); });
+        var html = '<div class="ergebnis-kopf"><span class="anzahl">' + plural(l.length, "Quelle", "Quellen") + "</span></div>";
+        Q_REGIONEN.forEach(function (reg) {
+          var g = l.filter(function (q) { return q.region === reg; });
+          if (!g.length) return;
+          html += '<h3 class="monat-kopf">' + esc(reg) + "<span>" + plural(g.length, "Quelle", "Quellen") + '</span></h3><ul class="zeilen q-zeilen">' + g.map(function (q) {
+            var x = idx[q.id], zustand = !x ? ["offen", "noch nicht abgerufen"] : x.ok ? ["ok", (q.art === "liste" ? x.anzahl + " Einträge" : x.anzahl + " Termine") + (x.methoden && x.methoden.length ? " · " + x.methoden.join(", ").replace(/detailseiten:\d+/, "Detailseiten") : "")] : ["fehler", "nicht erreichbar" + (x.fehler ? " (" + x.fehler + ")" : "")];
+            return '<li class="zeile q-zeile"><a class="zeile-knopf" href="' + esc(q.url) + '" target="_blank" rel="noopener noreferrer"><span class="z-haupt"><span class="z-titel">' + esc(q.name) + '</span><span class="z-meta"><span>' + esc(q.typ || "") + "</span><span>" + (q.art === "liste" ? "Start-up-Liste" : "Termine") + "</span><span>" + esc(kurzUrl(q.url)) + '</span></span></span><span class="z-rechts"><span class="q-status ' + zustand[0] + '">' + esc(zustand[1]) + "</span>" + (x && x.zuletzt_ok ? '<span class="z-wann">zuletzt erreichbar ' + esc(de(x.zuletzt_ok)) + "</span>" : "") + "</span></a></li>";
+          }).join("") + "</ul>";
+        });
+        $("#q-liste").innerHTML = html;
+      };
+      $$("[data-q-art]").forEach(function (b) { b.addEventListener("click", function () { S.q.art = b.getAttribute("data-q-art"); $$("[data-q-art]").forEach(function (x) { x.setAttribute("aria-checked", x === b); }); zeichne(); }); });
+      $("#q-region").addEventListener("change", function () { S.q.region = this.value; zeichne(); });
+      zeichne();
+    }).catch(function (err) {
+      $("#ansicht").innerHTML = '<div class="fehler"><h1>Die Quellen konnten nicht geladen werden.</h1><p class="klein">' + esc(err.message) + "</p></div>";
     });
   }
 

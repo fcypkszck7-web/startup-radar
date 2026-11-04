@@ -449,8 +449,47 @@ def detail_kandidat(url, text):
     return None
 
 
-def verarbeite_seite(q, cache, max_detail):
-    url = q["url"]
+def datumszeilen(zeilen):
+    treffer = []
+    for i, zl in enumerate(zeilen):
+        ds = [datum_aus_treffer(m) for m in DATUM_RE.finditer(zl)]
+        if any(d and im_zeitraum(d) for d in ds):
+            treffer.append(" | ".join(zeilen[max(0, i - 1): i + 2])[:400])
+    return list(dict.fromkeys(treffer))
+
+
+def verarbeite_zeilenquelle(q, url, cache, max_detail):
+    """Artikel-/Übersichtsseiten (z. B. Wochen-Terminübersichten): Datumszeilen aus Seite und verlinkten Beiträgen."""
+    final, text, _ = hole(url)
+    z = zerlege(text)
+    zeilen = datumszeilen(sichtbarer_text(z))
+    folge = re.compile(q["folge"], re.I) if q.get("folge") else None
+    host = urllib.parse.urlsplit(final).netloc
+    if folge:
+        ziele = []
+        for l in z.links:
+            u = urllib.parse.urljoin(final, l["href"]).split("#")[0]
+            if urllib.parse.urlsplit(u).netloc == host and folge.search(u) and u not in ziele and u.rstrip("/") != final.rstrip("/"):
+                ziele.append(u)
+        for u in ziele[:max_detail]:
+            c = cache.get(u)
+            if c and c.get("geholt", "") >= (HEUTE - dt.timedelta(days=14)).isoformat() and "zeilen" in c:
+                zeilen += c["zeilen"]
+                continue
+            try:
+                _, t2, _ = hole(u)
+                zz = datumszeilen(sichtbarer_text(zerlege(t2)))
+                cache[u] = {"geholt": HEUTE.isoformat(), "zeilen": zz}
+                zeilen += [f"[{u}] " + x for x in zz]
+            except Exception:  # noqa: BLE001
+                continue
+    return {"events": [], "methoden": ["datumszeilen"], "zeilen": list(dict.fromkeys(zeilen))[:600], "links": []}
+
+
+def verarbeite_seite(q, cache, max_detail, url=None):
+    url = url or q["url"]
+    if q.get("modus") == "zeilen":
+        return verarbeite_zeilenquelle(q, url, cache, max_detail)
     final, text, ctype = hole(url)
     ergebnis = {"events": [], "methoden": [], "zeilen": [], "links": []}
     low = text[:2000].lower()
@@ -540,15 +579,8 @@ def verarbeite_seite(q, cache, max_detail):
         ergebnis["methoden"].append(f"detailseiten:{len(details)}")
     # Datumszeilen als Rückfall
     if not ergebnis["events"]:
-        zeilen = sichtbarer_text(z)
-        treffer = []
-        for i, zl in enumerate(zeilen):
-            ds = [datum_aus_treffer(m) for m in DATUM_RE.finditer(zl)]
-            if any(d and im_zeitraum(d) for d in ds):
-                block = " | ".join(zeilen[max(0, i - 1): i + 2])
-                treffer.append(block[:400])
-        ergebnis["zeilen"] = list(dict.fromkeys(treffer))[:300]
-        if treffer:
+        ergebnis["zeilen"] = datumszeilen(sichtbarer_text(z))[:300]
+        if ergebnis["zeilen"]:
             ergebnis["methoden"].append("datumszeilen")
     return ergebnis
 
@@ -595,6 +627,44 @@ def verarbeite_liste(q, cache, max_detail):
             "links": links[:800], "eintraege": eintraege}
 
 
+# ---------------------------------------------------------------- Entdecken
+ENTDECK_RE = re.compile(r"veranstaltung|termin|event|kalender|calendar|agenda|messe|seminar|webinar|weiterbildung|"
+                        r"akademie|vortr|kongress|tagung|portfolio|startups?|gr(ü|ue)nd", re.I)
+
+
+def entdecke(q):
+    """Sucht auf Startseite und Quellseite nach Links zu Kalendern, Feeds und Listen."""
+    p = urllib.parse.urlsplit(q["url"])
+    starts = [f"{p.scheme}://{p.netloc}/"]
+    eltern = q["url"].rsplit("/", 2)[0] + "/"
+    if eltern not in starts and eltern.startswith("http"):
+        starts.append(eltern)
+    funde, feeds, fehler = [], [], []
+    for u in starts:
+        try:
+            final, text, _ = hole(u)
+        except Exception as ex:  # noqa: BLE001
+            fehler.append(f"{u}: {type(ex).__name__} {getattr(ex, 'code', '')}")
+            continue
+        z = zerlege(text)
+        for l in z.links:
+            ziel = urllib.parse.urljoin(final, l["href"]).split("#")[0]
+            if not ziel.startswith("http"):
+                continue
+            if ENTDECK_RE.search(l["text"]) or ENTDECK_RE.search(urllib.parse.urlsplit(ziel).path):
+                funde.append({"text": l["text"][:80], "url": ziel})
+            if re.search(r"\.ics(\?|$)|ical|webcal|/feed/?$|rss", ziel, re.I):
+                feeds.append(ziel)
+        feeds += [urllib.parse.urljoin(final, h) for _, h in z.feeds if h]
+        for m in re.findall(r"https?://[^\s\"']+(?:wp-json|/api/)[^\s\"']*", text)[:10]:
+            feeds.append(m)
+    sauber = []
+    for f in funde:
+        if f["url"] not in [x["url"] for x in sauber]:
+            sauber.append(f)
+    return {"start": starts, "links": sauber[:60], "feeds": list(dict.fromkeys(feeds))[:20], "fehler": fehler}
+
+
 # ---------------------------------------------------------------- Abgleich
 def norm_url(u):
     p = urllib.parse.urlsplit((u or "").strip().lower())
@@ -637,6 +707,7 @@ def main():
     ap.add_argument("--nur", default="")
     ap.add_argument("--max-detail", type=int, default=25)
     ap.add_argument("--parallel", type=int, default=10)
+    ap.add_argument("--entdecken", action="store_true", help="Nur Links zu Kalendern/Listen auf den Websites suchen")
     a = ap.parse_args()
 
     repo, aus = Path(a.repo), Path(a.aus)
@@ -647,6 +718,14 @@ def main():
         ids = set(a.nur.split(","))
         quellen = [q for q in quellen if q["id"] in ids]
     quellen = [q for q in quellen if q.get("aktiv", True) and q.get("url")]
+    if a.entdecken:
+        erg = {}
+        with cf.ThreadPoolExecutor(max_workers=a.parallel) as ex:
+            for q, r in zip(quellen, ex.map(entdecke, quellen)):
+                erg[q["id"]] = r
+                print(q["id"], len(r["links"]), len(r["feeds"]), r["fehler"][:1], flush=True)
+        (aus / "abruf" / "entdecken.json").write_text(json.dumps(erg, ensure_ascii=False, indent=1), encoding="utf-8")
+        return
     cache_p = aus / "abruf" / "cache.json"
     cache = json.loads(cache_p.read_text(encoding="utf-8")) if cache_p.exists() else {}
     verlauf_p = aus / "abruf" / "verlauf.json"
@@ -673,7 +752,20 @@ def main():
                 st["anzahl"] = len(r["eintraege"]) or len([l for l in r["links"] if l["extern"]])
                 st["methoden"] = ["liste"] + (["detailseiten"] if r["eintraege"] else [])
             else:
-                r = verarbeite_seite(q, cache, a.max_detail)
+                r = {"events": [], "methoden": [], "zeilen": []}
+                fehler_teil = []
+                for u in [q["url"]] + list(q.get("weitere_urls", [])):
+                    try:
+                        t = verarbeite_seite(q, cache, a.max_detail, u)
+                        r["events"] += t["events"]
+                        r["zeilen"] += t["zeilen"]
+                        r["methoden"] += [m for m in t["methoden"] if m not in r["methoden"]]
+                    except Exception as ex:  # noqa: BLE001
+                        if u == q["url"] and not q.get("weitere_urls"):
+                            raise
+                        fehler_teil.append(f"{type(ex).__name__}")
+                if fehler_teil and not r["events"] and not r["zeilen"]:
+                    raise RuntimeError("alle Seiten fehlgeschlagen: " + ", ".join(fehler_teil))
                 st["methoden"] = r["methoden"]
                 gut = []
                 for e in r["events"]:

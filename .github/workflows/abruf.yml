@@ -12,6 +12,10 @@ on:
         description: "Höchstens so viele neue Detailseiten je Quelle"
         required: false
         default: "25"
+      entdecken:
+        description: "Nur Kalender- und Listenlinks auf den Websites suchen (ja/nein)"
+        required: false
+        default: "nein"
 permissions:
   contents: write
 concurrency:
@@ -36,7 +40,8 @@ jobs:
       - name: Abruf
         run: |
           python3 main/tools/abruf.py --quellen main/tools/quellen.json --repo main --aus daten \
-            --nur "${{ inputs.nur }}" --max-detail "${{ inputs.max_detail || '25' }}"
+            --nur "${{ inputs.nur }}" --max-detail "${{ inputs.max_detail || '25' }}" \
+            $( [ "${{ inputs.entdecken }}" = "ja" ] && echo --entdecken )
       - name: Speichern
         if: always()
         working-directory: daten
@@ -47,7 +52,7 @@ jobs:
           git commit -m "Abruf $(date -u +%Y-%m-%d)" || exit 0
           for i in 1 2 3; do git pull --rebase origin abruf-daten && git push origin HEAD:abruf-daten && break; sleep 5; done
       - name: Status für die Seite
-        if: always()
+        if: ${{ always() && inputs.entdecken != 'ja' }}
         working-directory: main
         run: |
           [ -f ../daten/abruf/status.json ] || exit 0

@@ -956,6 +956,14 @@ kbd { font: 500 13px/1 var(--schrift); padding: 3px 6px; border: 1px solid var(-
   .branchen-chips::-webkit-scrollbar { display: none; }
 }
 
+/* ---------- Quellen ---------- */
+.q-zeile .zeile-knopf { grid-template-columns: minmax(0, 1fr) auto; text-decoration: none; color: inherit; }
+.q-zeile .z-titel { font-size: 18px; }
+.q-status { font-size: 13px; padding: 2px 9px; border-radius: 10px; border: 1px solid var(--linie); color: var(--text-3); white-space: nowrap; max-width: 320px; overflow: hidden; text-overflow: ellipsis; }
+.q-status.ok { color: var(--ok); border-color: color-mix(in srgb, var(--ok) 40%, transparent); background: color-mix(in srgb, var(--ok) 8%, transparent); }
+.q-status.fehler { color: var(--t-warn-text); border-color: color-mix(in srgb, var(--t-warn) 40%, transparent); background: color-mix(in srgb, var(--t-warn) 8%, transparent); }
+@media (max-width: 860px) { .q-zeile .zeile-knopf { grid-template-columns: minmax(0, 1fr); } .q-zeile .z-rechts { grid-column: 1; } .q-status { max-width: 100%; } }
+
 /* ---------- Intern (geschützter Bereich) ---------- */
 :root { --ak-intern: #ff9b8a; --akd-intern: #b2453a; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --akd-intern: #ff9b8a; } }
