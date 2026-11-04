@@ -1,7 +1,7 @@
 {
- "abgerufen": "2026-11-04 07:56 UTC",
- "quellen_gesamt": 112,
- "quellen_ok": 109,
+ "abgerufen": "2026-11-04 08:02 UTC",
+ "quellen_gesamt": 113,
+ "quellen_ok": 110,
  "kandidaten": 451,
  "neu": 30,
  "quellen": [
@@ -326,6 +326,20 @@
    "anzahl": 0,
    "fehler": "",
    "sekunden": 3.0,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "firmen-bayern-listen",
+   "name": "Nachrecherche: Bayerische Start-ups aus Ranglisten und Startup-Portalen",
+   "art": "firmen",
+   "url": "https://www.failory.com/startups/bayern",
+   "ok": true,
+   "methoden": [
+    "firmenprofile"
+   ],
+   "anzahl": 25,
+   "fehler": "",
+   "sekunden": 190.1,
    "zuletzt_ok": "2026-11-04"
   },
   {
