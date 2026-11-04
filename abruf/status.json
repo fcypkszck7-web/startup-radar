@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-04 07:50 UTC",
- "quellen_gesamt": 111,
- "quellen_ok": 108,
+ "abgerufen": "2026-11-04 07:56 UTC",
+ "quellen_gesamt": 112,
+ "quellen_ok": 109,
  "kandidaten": 451,
- "neu": 237,
+ "neu": 30,
  "quellen": [
   {
    "id": "auma-bau",
@@ -326,6 +326,20 @@
    "anzahl": 0,
    "fehler": "",
    "sekunden": 3.0,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "firmen-nachrecherche",
+   "name": "Nachrecherche: Unternehmensangaben einzelner Start-ups",
+   "art": "firmen",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+   "ok": true,
+   "methoden": [
+    "firmenprofile"
+   ],
+   "anzahl": 24,
+   "fehler": "",
+   "sekunden": 100.0,
    "zuletzt_ok": "2026-11-04"
   },
   {

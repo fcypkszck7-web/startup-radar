@@ -1,0 +1,193 @@
+{
+ "quelle": "firmen-nachrecherche",
+ "name": "Nachrecherche: Unternehmensangaben einzelner Start-ups",
+ "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
+ "abgerufen": "2026-11-04",
+ "koepfe": [],
+ "links": [],
+ "eintraege": [],
+ "firmen": [
+  {
+   "website": "https://www.conxai.com/",
+   "name": "CONXAI - AI That Understands Construction",
+   "kurz": "Automate the high-stakes, knowledge-intensive workflows currently trapped in fragmented tools, siloed data, undocumented and tacit knowledge.",
+   "impressum": "https://www.conxai.com/imprint"
+  },
+  {
+   "website": "https://baugpt.com/",
+   "name": "BauGPT",
+   "kurz": "BauGPT beantwortet Deine Fragen, erstellt Vorlagen und erledigt Aufgaben in Sekunden – auf der Baustelle und im Büro."
+  },
+  {
+   "website": "https://www.sparkefuels.com/",
+   "name": "Spark e-Fuels | Reimagining how aviation is fueled",
+   "kurz": "We build technologies for affordable, scalable and sustainable e-fuels production, to enable net-zero aviation today.",
+   "impressum": "https://www.sparkefuels.com/privacy-legal-notice"
+  },
+  {
+   "website": "https://www.elviorobotics.com/",
+   "name": "Elvio",
+   "kurz": "Autonome Roboter für Krankenhäuser, schlüsselfertig im Miet- und Service-Modell. Die Miete beginnt erst, wenn das System zuverlässig läuft.",
+   "sitz": "München",
+   "land": "DE",
+   "gruendung": "2023"
+  },
+  {
+   "website": "https://www.atlasmetrics.io/",
+   "name": "Atlas Metrics | The infrastructure for non-financial data",
+   "kurz": "Atlas Metrics transforms non-financial data into decision-grade intelligence, empowering financial institutions to manage risk and accelerate growth.",
+   "impressum": "https://www.atlasmetrics.io/imprint",
+   "sitz": "Berlin",
+   "plz": "10117",
+   "land": "DE"
+  },
+  {
+   "website": "https://www.getsunhat.com/de",
+   "name": "Sunhat | The Proof Company für Nachhaltigkeit & Compliance",
+   "kurz": "Sunhat ist die Proof Company. Unsere Proof Platform vereint Software, KI und Fachleute und macht aus Ihren Nachweisen audit-fähigen Proof.",
+   "sitz": "",
+   "land": "DE",
+   "gruendung": "2022",
+   "impressum": "https://www.getsunhat.com/de/impressum"
+  },
+  {
+   "website": "https://fides.technology/de",
+   "name": "Fides Technology | Home",
+   "kurz": "Entdecken Sie innovative und sichere KI-gesteuerte Lösungen für Entity Mangement und Corporate Gonvernance mit Fides Technology. Unsere Expertise in den Bereichen Gesellschaftsrecht hilft Unternehmen, im digitalen Zeitalter auf dem Laufenden zu bleiben. Entdecken Sie noch heute, wie Sie Ihre Corpora",
+   "impressum": "https://fides.technology/impressum",
+   "sitz": "München",
+   "plz": "80333",
+   "land": "DE"
+  },
+  {
+   "website": "https://www.briink.com/",
+   "name": "AI for ESG Data | Extract, Pre-fill & Verify | Briink",
+   "kurz": "AI that understands ESG data. Extract, pre-fill, and verify answers from documents to automate reporting and disclosure workflows and reduce manual work.",
+   "impressum": "https://www.briink.com/impressum"
+  },
+  {
+   "website": "https://voltfang.de/",
+   "name": "Voltfang",
+   "kurz": "Senken Sie Ihre Betriebskosten sofort: Startklare Energielösungen mit Batteriespeichern & Trading. Von Planung bis Netzanschluss alles aus einer Hand. Jetzt Erträge maximieren!\"",
+   "sitz": "Aachen",
+   "land": "DE",
+   "gruendung": "2020",
+   "impressum": "https://voltfang.de/datenschutz/"
+  },
+  {
+   "website": "https://www.phelas.com/de",
+   "name": "BESS-Modellierungssoftware | Catalyst by phelas",
+   "kurz": "Speziell entwickelte BESS-Software. Revenue Stacking, Co-located Storage und Szenarioanalysen für Wind-, Solar- und Standalone-Projekte in Europa.",
+   "impressum": "https://www.phelas.com/de/legal/imprint",
+   "sitz": "Putzbrunn",
+   "plz": "85640",
+   "land": "DE"
+  },
+  {
+   "website": "https://www.entrixenergy.com/de",
+   "name": "Entrix Multimarktoptimierung für Batteriespeicher in DE",
+   "kurz": "Entrix ist führender Anbieter für die automatisierte Vermarktung von Batteriespeichern in allen Energiemärkten - KI-basiert, flexibel, ganzheitlich.",
+   "impressum": "https://www.entrixenergy.com/de/impressum",
+   "sitz": "München",
+   "plz": "80802",
+   "land": "DE"
+  },
+  {
+   "website": "https://www.suena.energy/",
+   "name": "Suena",
+   "kurz": "suena energy ist der KI-basierte Anbieter für die Energievermarktung von Batteriespeichern und erneuerbaren Energien – für höhere Erlöse und geringeres Risiko.",
+   "impressum": "https://www.suena.energy/imprint",
+   "sitz": "Hamburg",
+   "plz": "20457",
+   "land": "DE"
+  },
+  {
+   "website": "https://reverion.com/",
+   "name": "Reverion",
+   "kurz": "Reversible Kraftwerke von Reverion erreichen bis zu 80 % Wirkungsgrad – doppelt so effizient wie herkömmliche Systeme.",
+   "impressum": "https://reverion.com/reverion-impressum/",
+   "sitz": "Eresing",
+   "plz": "86922",
+   "land": "DE"
+  },
+  {
+   "website": "https://www.cylib.de/de",
+   "name": "cylib | Next generation battery recycling",
+   "kurz": "Das cylib-Verfahren verwandelt Abfälle aus Altbatterien oder Produktionsschrott in marktfähige Produkte. cylib deckt alle Schritte von der Entladung der Batterien bis zur hydrometallurgischen Extraktion ab. Da der gesamte Prozess in einer Hand liegt, ist auch die Verarbeitung von Produktionsschrotte",
+   "impressum": "https://www.cylib.de/de/imprint",
+   "sitz": "Aachen",
+   "plz": "52068",
+   "land": "DE"
+  },
+  {
+   "website": "https://www.greenlyte.tech/",
+   "name": "LiquidSolar™ | Greenlyte's carbon & hydrogen for e-fuel production",
+   "kurz": "Greenlyte's LiquidSolar™ platform produces 99% pure carbon and hydrogen for e-SAF, e-methanol, and synthetic fuels. Scalable, modular, fossil-free and independent production using only sun, air and water to revolutionize the energy transition."
+  },
+  {
+   "website": "https://tenderwalls.de/",
+   "name": "TenderWalls",
+   "kurz": "Entdecke hochwertige Design-Tapeten für dein Zuhause. Von zeitlosen Uni-Tapeten bis zu ausdrucksstarken Mustern – bestelle Muster bequem nach Hause und finde deinen Lieblingslook.",
+   "impressum": "https://tenderwalls.de/policies/legal-notice"
+  },
+  {
+   "website": "https://abstract.build/de",
+   "name": "abstract",
+   "kurz": "Abstract verbindet BIM, Anforderungen, Reviews und Workflows - von bereinigten Daten bis zur Umsetzung.",
+   "sitz": "Basel",
+   "land": "CH"
+  },
+  {
+   "website": "https://www.aestico.ch/",
+   "name": "ÆSTICO",
+   "kurz": "Die Schweizer App für digitales Ausmass und Offertenerstellung ohne Anpassung der IT-Infrastruktur. Die effiziente Software für Bau-, Maler- und Gipserbetriebe.",
+   "impressum": "https://www.aestico.ch/impressum",
+   "sitz": "Zürich",
+   "plz": "8037",
+   "land": "CH"
+  },
+  {
+   "website": "https://de-solutions.info/",
+   "name": "Digital Engineering Solutions",
+   "kurz": ""
+  },
+  {
+   "website": "http://www.ped4bim.com",
+   "fehler": "URLError"
+  },
+  {
+   "website": "https://www.capmo.com//",
+   "name": "Capmo  | Nr. 1 Bauprojektmanagement-Software für D-A-CH",
+   "kurz": "Capmo kennt alle Projektunterlagen und relevanten Normen, erledigt Aufgaben mit KI in Sekunden und gibt Ihnen den vollen Überblick über Ihre Bauprojekte.",
+   "impressum": "https://www.capmo.com/impressum"
+  },
+  {
+   "website": "https://www.fenx.ch/",
+   "name": "FenX",
+   "kurz": "",
+   "impressum": "https://www.fenx.ch/impressum"
+  },
+  {
+   "website": "https://www.themobbot.com/",
+   "fehler": "HTTPError"
+  },
+  {
+   "website": "https://voliro.com/",
+   "name": "Voliro",
+   "kurz": "Elevate your Non-Destructive Testing by making inspections faster, safer and more cost-effective, just with Voliro."
+  },
+  {
+   "website": "https://www.cube.global/",
+   "name": "CUBE",
+   "kurz": "Turn regulatory change into confident action. CUBE combines AI-native technology with global regulatory data and proprietary network data to enable customers to gather deep intelligence and automate compliance and risk processes."
+  },
+  {
+   "website": "https://www.kertos.io/",
+   "name": "Compliance-Automatisierungs-Software für DSGVO, ISO 27001 & NIS2G2 - Business Software Reviews",
+   "kurz": "Kertos automatisiert DSGVO, ISO 27001, ISO 42001, TISAX®, SOC 2, EU AI Act, C5 und NIS2, mit zertifizierten Expert*innen an Ihrer Seite. 300+ Integrationen, rund 80 % weniger Aufwand.",
+   "sitz": "München",
+   "land": "DE",
+   "impressum": "https://www.kertos.io/impressum"
+  }
+ ]
+}
