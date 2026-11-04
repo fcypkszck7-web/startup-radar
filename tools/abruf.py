@@ -632,7 +632,10 @@ def sitz_aus_zeilen(zeilen, profil):
         if re.search(r"©|copyright|\(c\)", zl, re.I):
             continue
         m = PLZ_RE.search(zl)
-        if not m or (len(m.group(2)) == 4 and 1990 <= int(m.group(2)) <= 2035 and not m.group(1)):
+        if not m:
+            continue
+        vier = len(m.group(2)) == 4 and not m.group(1)
+        if vier and (1990 <= int(m.group(2)) <= 2035 or not re.search(r"schweiz|switzerland|österreich|austria", ctx)):
             continue
         profil["sitz"] = m.group(3).strip()
         pre = m.group(1) or ""

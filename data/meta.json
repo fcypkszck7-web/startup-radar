@@ -1,16 +1,17 @@
 {
  "titel": "Start-up- & Event-Radar",
  "site_url": "https://fcypkszck7-web.github.io/startup-radar/",
- "stand": "2026-11-03",
+ "stand": "2026-11-04",
  "aenderungen": [
-  "Ergänzung am 03.11.2026: 17 weitere Termine, u. a. GROUNDBREAKERS Summit (05.11., Stuttgart), Startup Nights Winterthur, Hi Tech! Match, Klimafestival für die Bauwende, AXEL Demo Day, #StartupTrifftMittelstand, Tech in Construction 2027, SOLID Konferenz Wien 2027, bauma 2028 und PaintExpo 2028.",
-  "Start-ups jetzt mit zwei Reitern: „Fokus“ zeigt die besonders passenden, „Alle Start-ups“ auch solche mit mittelbarem Bezug. 22 neue Start-ups von Ostbayern bis Österreich, u. a. roofSec, NEUROLOGIQ, Enpal, Cloover, Comstruct, VESTIGAS, Sonnenschmiede und amaiko.",
-  "Kapital: 5 weitere Finanzierungen (Comstruct, Enpal, Cloover, Kalz, Otter Energy Trading)."
+  "Neu am 04.11.2026: Termine und Start-ups lassen sich nach Branche filtern (Bau, Dach, Energie, Gebäudetechnik, Industrie, Metall, Material, Handwerk, Software, Logistik, Gründung). Die Bewertung dient nur noch zum Sortieren – aufgenommen wird alles mit Bezug zu einer dieser Branchen, auch Vorträge, Webinare, Workshops und Fachtagungen.",
+  "Automatischer Kalenderabruf: Jede Nacht werden über 100 Veranstalter-, Verbands- und Hochschulkalender sowie Start-up-Listen ausgewertet. Die neue Seite „Quellen“ zeigt, welche Quellen erfasst sind und wann sie zuletzt abgerufen wurden.",
+  "Aufholrecherche: 151 zusätzliche Termine, u. a. transport logistic 2027, Intersolar 2027 (Call for Papers bis 07.12.), ZVO-Fachtagungen sowie zahlreiche Webinare und Workshops von Bayern Innovativ, IHKs und Clustern.",
+  "48 zusätzliche Start-ups aus Bau, Energie, Industrie und Logistik, u. a. Entrix, phelas, Reverion, NavVis, Orcan Energy, Homenergy, CONXAI und die Alumni von GROUNDBREAKERS – Sitz jeweils aus Impressum oder Startup-Portal geprüft."
  ],
  "anzahl": {
-  "events_aktiv": 225,
+  "events_aktiv": 245,
   "events_archiv": 3,
-  "startups": 80,
+  "startups": 102,
   "runden": 49,
   "investoren": 13
  }

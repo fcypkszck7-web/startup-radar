@@ -574,6 +574,50 @@
   "archiv": false
  },
  {
+  "id": "aktuelles-zu-foerderinstrumenten-bundesfoerderung-industrie-2026",
+  "name": "Aktuelles zu Förderinstrumenten: Bundesförderung Industrie und Klimaschutz (BIK) und CO2-Differenzverträge im Fokus",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-05",
+  "ende": "2026-11-05",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Förderinstrumente BIK und CO2-Differenzverträge für die industrielle Transformation",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Energie & Solar",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/energie-bau/detail/aktuelles-zu-foerderinstrumenten-bundesfoerderung/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "community-after-work-beer-2026",
   "name": "Community After Work Beer",
   "format": "Netzwerktreffen",
@@ -840,6 +884,50 @@
   "archiv": false
  },
  {
+  "id": "helbling-mvp-bootcamp-2026",
+  "name": "Helbling MVP Bootcamp",
+  "format": "Workshop",
+  "veranstalter": "Startupticker.ch – Events",
+  "ort": "Wil, St Gallen",
+  "land": "CH",
+  "region": "Schweiz (St. Gallen)",
+  "rubrik": "noneu",
+  "start": "2026-11-05",
+  "ende": "2026-11-05",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Bootcamp: vom Prototyp zum Minimum Viable Product",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/helbling-mvp-bootcamp-%281%29",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.4615,
+   9.0455
+  ],
+  "gesamt": 2.2,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "informationsveranstaltungen-zur-beg-reform-2026",
   "name": "Informationsveranstaltungen zur BEG-Reform 2026",
   "format": "Webinar",
@@ -1101,6 +1189,50 @@
   "gesamt": 2.2,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
+  "id": "pitch-training-2026",
+  "name": "Pitch Training",
+  "format": "Workshop",
+  "veranstalter": "Startupticker.ch – Events",
+  "ort": "startup space Schlieren",
+  "land": "CH",
+  "region": "Schweiz (Zürich)",
+  "rubrik": "noneu",
+  "start": "2026-11-05",
+  "ende": "2026-11-05",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Pitch-Training für Gründerteams",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/pitch-training-%284%29",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.3967,
+   8.4476
+  ],
+  "gesamt": 2.2,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
   "archiv": false
  },
  {
@@ -1415,6 +1547,50 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
+  "id": "dslam-night-shift-stuttgart-2026",
+  "name": "DSLAM Night Shift Stuttgart",
+  "format": "Vortragsabend",
+  "veranstalter": "IT Region Stuttgart",
+  "ort": "Renitenztheater, Stuttgart",
+  "land": "DE",
+  "region": "Baden-Württemberg",
+  "rubrik": "de",
+  "start": "2026-11-09",
+  "ende": "2026-11-09",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "DSLAM: Kurzvorträge zu IT und Digitalisierung im Slam-Format",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://it.region-stuttgart.de/termine/dslam-night-shift-stuttgart/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:it-region-stuttgart",
+  "geo": [
+   48.7758,
+   9.1829
+  ],
+  "gesamt": 2.4,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
  {
@@ -3220,6 +3396,51 @@
   ]
  },
  {
+  "id": "grundlagen-zur-anwendung-der-neuen-maschinenverordnung-eu-20-2026",
+  "name": "Grundlagen zur Anwendung der neuen Maschinenverordnung (EU) 2023/1230",
+  "format": "Workshop",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Bayern Innovativ, Nürnberg",
+  "land": "DE",
+  "region": "Bayern (Mittelfranken)",
+  "rubrik": "de",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "490 € netto",
+  "zielgruppe": "",
+  "fokus": "Praxisworkshop zur neuen EU-Maschinenverordnung (gilt ab 20.01.2027)",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Metall & Oberflächen"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/produktion/detail/grundlagen-zur-anwendung-der-neuen-maschinenverordnung-november-2026/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": [
+   49.4521,
+   11.0767
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "hochschulgruendertag-2026",
   "name": "Hochschulgründertag 2026",
   "format": "Pitch-Wettbewerb",
@@ -4414,6 +4635,92 @@
   "archiv": false
  },
  {
+  "id": "b-impuls-produktionsskalierung-2026",
+  "name": "B³ Impuls - Produktionsskalierung",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "B³ Impuls: Produktionsskalierung im Batterie-Ökosystem",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/energie-bau/detail/b3-impuls-produktionsskalierung/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "stillgelegt-und-dann-neue-chancen-fuer-kraftwerksstandorte-u-2026",
+  "name": "Stillgelegt – und dann? Neue Chancen für Kraftwerksstandorte und Energieinfrastruktur",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Nachnutzung stillgelegter Kraftwerksstandorte und Energieinfrastruktur",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Bau & Immobilien"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/energie-bau/detail/neue-chancen-fuer-kraftwerksstandorte-und-energieinfrastruktur/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "hi-tech-match-2026-11",
   "name": "Hi Tech! Match – internationale ConTech-Start-ups",
   "format": "Pitch-Abend",
@@ -4458,6 +4765,49 @@
   ]
  },
  {
+  "id": "tiefengeothermie-technologie-und-anwendung-in-der-praxis-2026",
+  "name": "Tiefengeothermie - Technologie und Anwendung in der Praxis",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-30",
+  "ende": "2026-11-30",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Tiefengeothermie: Technologie und Anwendung in der Praxis",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Gebäudetechnik"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/energie-bau/detail/tiefengeothermie-technologie-und-anwendung-in-der-praxis/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "trinationaler-erfahrungsaustausch-die-zukunft-des-einfamilie-2026",
   "name": "Trinationaler Erfahrungsaustausch: Die Zukunft des Einfamilienhauses",
   "format": "Fachtagung",
@@ -4499,6 +4849,50 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "co-transportinfrastrukturbedarf-in-bayern-vom-zielbild-zur-u-2026",
+  "name": "CO₂-Transportinfrastrukturbedarf in Bayern: Vom Zielbild zur Umsetzung",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "CO₂-Transportinfrastruktur in Bayern",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung",
+   "Material & Kreislauf"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/energie-bau/detail/co2-transportinfrastrukturbedarf-in-bayern/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
  {
@@ -4944,6 +5338,92 @@
   "archiv": false
  },
  {
+  "id": "from-data-strategy-to-adoption-building-trusted-foundations-2026",
+  "name": "From Data Strategy to Adoption: Building Trusted Foundations for Governance and AI",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Datenstrategie, Governance und KI-Einführung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/digitalisierung/detail/default-481b7e7f988a53e2ea7fa4bbd953afe8/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "innovation-coffee-sandler-ag-in-kooperation-mit-phoenix-non-2026",
+  "name": "Innovation Coffee Sandler AG in Kooperation mit Phoenix Non Woven GmbH",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Innovation Coffee: Isolationsleistung auf kleinstem Raum (Vliesstoffe)",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Material & Kreislauf",
+   "Dach & Gebäudehülle",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/material/detail/innovation-coffee-sandler-ag-in-kooperation-mit-phoenix-non-woven-gmbh/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "tk-praesenz-tutorial-wie-gehe-ich-waehrend-meines-pitches-so-2026",
   "name": "TK Präsenz-Tutorial: Wie gehe ich während meines Pitches souverän mit Druck um?",
   "format": "Workshop",
@@ -5207,6 +5687,49 @@
   "archiv": false
  },
  {
+  "id": "ki-meets-kmu-von-der-idee-zur-anwendung-mehrwert-durch-ki-in-2026",
+  "name": "KI meets KMU - Von der Idee zur Anwendung - Mehrwert durch KI in der Produktion schaffen",
+  "format": "Workshop",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-09",
+  "ende": "2026-12-09",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "KI meets KMU: KI-Anwendungen in der Produktion",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/produktion/detail/ki-meets-kmu-dez2026/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "sv-on-tour-hannover-2026",
   "name": "SV on Tour: Hannover",
   "format": "Netzwerktreffen",
@@ -5292,6 +5815,50 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
+  "id": "holzfeuerung-im-wandel-was-schornsteinfeger-jetzt-wissen-mue-2026",
+  "name": "Holzfeuerung im Wandel – was Schornsteinfeger jetzt wissen müssen",
+  "format": "Webinar",
+  "veranstalter": "Gentner Events",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "DIN EN 16510 und neue Emissionsvorgaben für Feuerstätten",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Handwerk",
+   "Gebäudetechnik",
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://events.gentner.de/de/holzfeuerung-im-wandel-was-schornsteinfeger-jetzt-wissen-muessen",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:gentner-events",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
  {
@@ -5427,6 +5994,50 @@
    "Gründung & Innovation",
    "Industrie & Fertigung"
   ]
+ },
+ {
+  "id": "b-impuls-spezial-batteriepass-teil-1-2026",
+  "name": "B³ Impuls Spezial – Batteriepass Teil 1",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-11",
+  "ende": "2026-12-11",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "B³ Impuls Spezial: Batteriepass, Teil 1",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Material & Kreislauf",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/energie-bau/detail/b3-impuls-spezial-batteriepass-teil-1/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
  },
  {
   "id": "businessplan-wettbewerb-2027-q-a-session-phase-1-2027",
@@ -5648,6 +6259,95 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
+  "id": "grundlagen-zur-anwendung-der-neuen-maschinenverordnung-eu-20-2027",
+  "name": "Grundlagen zur Anwendung der neuen Maschinenverordnung (EU) 2023/1230",
+  "format": "Workshop",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Bayern Innovativ, Nürnberg",
+  "land": "DE",
+  "region": "Bayern (Mittelfranken)",
+  "rubrik": "de",
+  "start": "2027-01-21",
+  "ende": "2027-01-21",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "490 € netto",
+  "zielgruppe": "",
+  "fokus": "Praxisworkshop zur neuen EU-Maschinenverordnung (gilt ab 20.01.2027)",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Metall & Oberflächen"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/produktion/detail/grundlagen-zur-anwendung-der-neuen-maschinenverordnung-januar-2027/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": [
+   49.4521,
+   11.0767
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
+  "id": "b-impuls-spezial-batteriepass-teil-2-2027",
+  "name": "B³ Impuls Spezial – Batteriepass Teil 2",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ – Veranstaltungen",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2027-01-22",
+  "ende": "2027-01-22",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "B³ Impuls Spezial: Batteriepass, Teil 2",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Material & Kreislauf",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/energie-bau/detail/b3-impuls-spezial-batteriepass-teil-2/",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
  {
@@ -7129,6 +7829,50 @@
   ]
  },
  {
+  "id": "zvo-seminar-grundlagen-der-galvano-und-oberflaechentechnik-2027",
+  "name": "ZVO-Seminar: Grundlagen der Galvano- und Oberflächentechnik",
+  "format": "Seminar",
+  "veranstalter": "ZVO – Zentralverband Oberflächentechnik",
+  "ort": "QUBUS GmbH, Schwäbisch Gmünd",
+  "land": "DE",
+  "region": "Baden-Württemberg",
+  "rubrik": "de",
+  "start": "2027-04-13",
+  "ende": "2027-04-15",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Grundlagenseminar Galvano- und Oberflächentechnik",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Metall & Oberflächen"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.zvo.org/events/termine/detailansicht/zvo-seminar-grundlagen-der-galvano-und-oberflaechentechnik-2027-1",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:zvo",
+  "geo": [
+   48.7996,
+   9.7982
+  ],
+  "gesamt": 2.4,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "construction-summit-2027",
   "name": "Construction Summit & Proptech Summit 2027",
   "format": "Fachmesse und Konferenz (ConTech)",
@@ -7261,6 +8005,96 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "transport-logistic-2027",
+  "name": "transport logistic 2027",
+  "format": "Fachmesse",
+  "veranstalter": "Messe München",
+  "ort": "Messe München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2027-04-26",
+  "ende": "2027-04-29",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Weltleitmesse für Logistik, Mobilität, IT und Supply Chain Management",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Logistik & Handel",
+   "Software, KI & Daten",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://messe-muenchen.de/en/events/transport-logistic-2027.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:dgo-termine",
+  "geo": [
+   48.135,
+   11.69
+  ],
+  "gesamt": 2.9,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "24-norddeutscher-galvanotag-2027",
+  "name": "24. Norddeutscher Galvanotag",
+  "format": "Fachtagung",
+  "veranstalter": "ZVO – Zentralverband Oberflächentechnik",
+  "ort": "MEDIAN Hotel, Hannover-Lehrte",
+  "land": "DE",
+  "region": "Niedersachsen",
+  "rubrik": "de",
+  "start": "2027-04-29",
+  "ende": "2027-04-29",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Branchentreffen der Galvano- und Oberflächentechnik in Norddeutschland",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Metall & Oberflächen"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.zvo.org/events/termine/detailansicht/24-norddeutscher-galvanotag",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:zvo",
+  "geo": [
+   52.3725,
+   9.9769
+  ],
+  "gesamt": 2.2,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
   "archiv": false
  },
  {
@@ -7574,6 +8408,51 @@
   "gesamt": 2.5,
   "prioritaet": "C",
   "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "48-ulmer-gespraech-2027",
+  "name": "48. Ulmer Gespräch",
+  "format": "Fachtagung",
+  "veranstalter": "ZVO – Zentralverband Oberflächentechnik",
+  "ort": "Stadthaus Ulm",
+  "land": "DE",
+  "region": "Baden-Württemberg",
+  "rubrik": "de",
+  "start": "2027-05-12",
+  "ende": "2027-05-13",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Fachtagung der Oberflächentechnik",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Metall & Oberflächen",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.zvo.org/events/termine/detailansicht/48-ulmer-gespraech-am-12-13-mai-2027",
+  "geprueft": "2026-11-04",
+  "herkunft": "abruf:zvo",
+  "geo": [
+   48.4011,
+   9.9876
+  ],
+  "gesamt": 2.4,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
   "archiv": false
  },
  {
