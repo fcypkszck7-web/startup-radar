@@ -1,7 +1,7 @@
 {
- "abgerufen": "2026-11-04 08:33 UTC",
- "quellen_gesamt": 150,
- "quellen_ok": 130,
+ "abgerufen": "2026-11-04 08:36 UTC",
+ "quellen_gesamt": 168,
+ "quellen_ok": 148,
  "kandidaten": 707,
  "neu": 240,
  "quellen": [
@@ -278,6 +278,186 @@
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-adhesion-paints-coating-technologies",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-advanced-materials",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-biofuels-hydrogen",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-building-construction",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-clean-energies-renewable-energies",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-energy-production-transportation",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-heating-air-conditioning",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-industrial-building",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-logistics-transportation-engineering-han",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-machines-tools-tools",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-metal-working-industries",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-renewal-renovations",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-robotics",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-software-tools-for-building",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-subcontracting-suppliers-partners",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-surface-treatment-technologies-coatings",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-waste-management-recycling",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eventseye-welding",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
