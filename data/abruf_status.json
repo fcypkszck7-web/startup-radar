@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-04 08:02 UTC",
- "quellen_gesamt": 113,
- "quellen_ok": 110,
- "kandidaten": 451,
- "neu": 30,
+ "abgerufen": "2026-11-04 08:33 UTC",
+ "quellen_gesamt": 150,
+ "quellen_ok": 130,
+ "kandidaten": 707,
+ "neu": 240,
  "quellen": [
   {
    "id": "auma-bau",
@@ -119,6 +119,14 @@
    "fehler": ""
   },
   {
+   "id": "build-up-eu",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
    "id": "buildingsmart",
    "ok": true,
    "anzahl": 0,
@@ -127,6 +135,14 @@
     "detailseiten:1"
    ],
    "fehler": ""
+  },
+  {
+   "id": "buildingsmart-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 403"
   },
   {
    "id": "business-upper-austria",
@@ -144,6 +160,16 @@
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "climate-kic-events",
+   "ok": true,
+   "anzahl": 2,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:2"
+   ],
    "fehler": ""
   },
   {
@@ -203,6 +229,40 @@
    "fehler": ""
   },
   {
+   "id": "ectp-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "een-events",
+   "ok": true,
+   "anzahl": 9,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:10"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "egga-events",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "eit-manufacturing-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 530"
+  },
+  {
    "id": "energieagentur-regensburg",
    "ok": true,
    "anzahl": 0,
@@ -227,6 +287,14 @@
    "zuletzt_ok": "2026-11-04",
    "methoden": [],
    "fehler": ""
+  },
+  {
+   "id": "fiec-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
   },
   {
    "id": "firmen-bayern-listen",
@@ -371,6 +439,14 @@
    "fehler": ""
   },
   {
+   "id": "hydrogen-europe-events",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
    "id": "i2c-tuwien",
    "ok": true,
    "anzahl": 3,
@@ -431,6 +507,14 @@
     "datumszeilen"
    ],
    "fehler": ""
+  },
+  {
+   "id": "innoenergy-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
   },
   {
    "id": "intersolar-events",
@@ -641,6 +725,14 @@
    "fehler": ""
   },
   {
+   "id": "messe-bella-center",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+  },
+  {
    "id": "messe-berlin",
    "ok": true,
    "anzahl": 58,
@@ -649,6 +741,40 @@
     "detailseiten:64"
    ],
    "fehler": ""
+  },
+  {
+   "id": "messe-bernexpo",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "messe-bolognafiere",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-brussels-expo",
+   "ok": true,
+   "anzahl": 4,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:14"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messe-bvv-brno",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
   },
   {
    "id": "messe-duesseldorf",
@@ -671,12 +797,152 @@
    "fehler": ""
   },
   {
+   "id": "messe-eurexpo-lyon",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "messe-excel-london",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messe-fiera-milano",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "messe-fira-barcelona",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "messe-ieg-rimini",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-ifema",
+   "ok": true,
+   "anzahl": 43,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "json-ld"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messe-jaarbeurs",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messe-messukeskus",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messe-mtp-poznan",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
    "id": "messe-muenchen",
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [],
    "fehler": ""
+  },
+  {
+   "id": "messe-nec",
+   "ok": true,
+   "anzahl": 154,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:70"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messe-ptak-warsaw",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "messe-pva-prag",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-rai",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-salzburg",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-stockholmsmassan",
+   "ok": true,
+   "anzahl": 27,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "json-ld"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "messe-viparis",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
   },
   {
    "id": "messe-wels",
@@ -687,6 +953,22 @@
     "datumszeilen"
    ],
    "fehler": ""
+  },
+  {
+   "id": "messe-wien",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-zuerich",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
   },
   {
    "id": "messen-de-ausbau",
@@ -850,6 +1132,34 @@
    "fehler": ""
   },
   {
+   "id": "sifted-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "solarplaza-events",
+   "ok": true,
+   "anzahl": 14,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:19"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "solarpower-europe-events",
+   "ok": true,
+   "anzahl": 6,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:12"
+   ],
+   "fehler": ""
+  },
+  {
    "id": "startbase-events",
    "ok": true,
    "anzahl": 9,
@@ -857,6 +1167,14 @@
    "methoden": [
     "detailseiten:9"
    ],
+   "fehler": ""
+  },
+  {
+   "id": "startup-europe-events",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
    "fehler": ""
   },
   {
