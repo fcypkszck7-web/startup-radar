@@ -1,7 +1,7 @@
 {
- "abgerufen": "2026-11-04 08:42 UTC",
- "quellen_gesamt": 170,
- "quellen_ok": 163,
+ "abgerufen": "2026-11-04 08:45 UTC",
+ "quellen_gesamt": 171,
+ "quellen_ok": 164,
  "kandidaten": 794,
  "neu": 263,
  "quellen": [
@@ -486,6 +486,16 @@
    "id": "firmen-bayern-listen",
    "ok": true,
    "anzahl": 25,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "firmenprofile"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "firmen-europa",
+   "ok": true,
+   "anzahl": 18,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "firmenprofile"
