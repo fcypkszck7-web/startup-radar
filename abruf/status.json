@@ -1,5 +1,5 @@
 {
- "abgerufen": "2026-11-04 07:37 UTC",
+ "abgerufen": "2026-11-04 07:41 UTC",
  "quellen_gesamt": 101,
  "quellen_ok": 98,
  "kandidaten": 274,
@@ -664,7 +664,7 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.7,
+   "sekunden": 2.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -678,7 +678,7 @@
    ],
    "anzahl": 2,
    "fehler": "",
-   "sekunden": 7.4,
+   "sekunden": 6.3,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -690,9 +690,9 @@
    "methoden": [
     "liste"
    ],
-   "anzahl": 152,
+   "anzahl": 58,
    "fehler": "",
-   "sekunden": 0.6,
+   "sekunden": 221.9,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -706,7 +706,7 @@
    ],
    "anzahl": 5,
    "fehler": "",
-   "sekunden": 4.4,
+   "sekunden": 5.0,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -720,7 +720,7 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.7,
+   "sekunden": 2.5,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -734,7 +734,7 @@
    ],
    "anzahl": 4,
    "fehler": "",
-   "sekunden": 2.1,
+   "sekunden": 1.5,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -748,7 +748,7 @@
    ],
    "anzahl": 1,
    "fehler": "",
-   "sekunden": 3.6,
+   "sekunden": 7.8,
    "zuletzt_ok": "2026-11-04"
   },
   {
@@ -762,7 +762,7 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 0.3,
+   "sekunden": 1.7,
    "zuletzt_ok": "2026-11-04"
   },
   {
