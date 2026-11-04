@@ -1,0 +1,922 @@
+{
+ "abgerufen": "2026-11-04 07:31 UTC",
+ "quellen_gesamt": 105,
+ "quellen_ok": 55,
+ "kandidaten": 122,
+ "neu": 110,
+ "quellen": [
+  {
+   "id": "auma-bau",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "austrianstartups",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "bauindustrie-bayern",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "bauindustrie-de",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "bayern-innovativ",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "bayika",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "baystartup",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "bdew",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "bitkom",
+   "ok": true,
+   "anzahl": 1,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:1"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "bsw-solar",
+   "ok": true,
+   "anzahl": 2,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:2"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "buildingsmart",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "business-upper-austria",
+   "ok": true,
+   "anzahl": 9,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:9"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "bwp",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "contech-events-blackprint",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 405"
+  },
+  {
+   "id": "dena",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "dgnb",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "dgo-termine",
+   "ok": true,
+   "anzahl": 9,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:9"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "digital-hub-mobility",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "ecoplus-cluster",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "energieagentur-regensburg",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "eu-startups-events",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "eventbrite-contech",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 405"
+  },
+  {
+   "id": "eventbrite-handwerk",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 405"
+  },
+  {
+   "id": "eventbrite-muenchen-startup",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 405"
+  },
+  {
+   "id": "eventbrite-nuernberg",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 405"
+  },
+  {
+   "id": "eventbrite-photovoltaik",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 405"
+  },
+  {
+   "id": "eventbrite-proptech",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 405"
+  },
+  {
+   "id": "eventbrite-regensburg",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 405"
+  },
+  {
+   "id": "eventbrite-wien-startup",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 405"
+  },
+  {
+   "id": "feuerverzinken",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "geb-energieberater",
+   "ok": true,
+   "anzahl": 10,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "json-ld"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "groundbreakers",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "gruenderland-bayern",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "gzdn",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "hannover-messe-deutsche-messe",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "heinze-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "hm-sce",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "hs-landshut",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "hwk-muenchen",
+   "ok": true,
+   "anzahl": 5,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:5"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "hwkno",
+   "ok": true,
+   "anzahl": 15,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:16"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "ihk-muenchen",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "ihk-niederbayern",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "ihk-nuernberg",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "ihk-regensburg",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "ihk-schwaben",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:2"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "innkubator",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "itc-deggendorf",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "koelnmesse",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "link-landshut",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "tribe-api-fehler:HTTPError"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-axel",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "URLError: <urlopen error [Errno -2] Name or service not known>"
+  },
+  {
+   "id": "liste-bayern-kapital",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-climate-kic",
+   "ok": true,
+   "anzahl": 2,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-eu-startups-energy",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "liste-eu-startups-proptech",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "liste-groundbreakers",
+   "ok": true,
+   "anzahl": 152,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-gzdn",
+   "ok": true,
+   "anzahl": 5,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-htgf",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-munich-urban-colab",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "liste-startbase-bau",
+   "ok": true,
+   "anzahl": 4,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-tech2b",
+   "ok": true,
+   "anzahl": 1,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-techbase",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "liste-unternehmertum-xpreneurs",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-zollhof",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "mch-messe-basel",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 403"
+  },
+  {
+   "id": "messe-augsburg",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-berlin",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-duesseldorf",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-essen",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-frankfurt",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-muenchen",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "messe-stuttgart",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "messe-wels",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "munich-startup",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:1",
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "munich-urban-colab",
+   "ok": true,
+   "anzahl": 1,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:1"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "nuernbergmesse",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "oth-aw",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "oth-regensburg",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "planen-bauen-40",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "pv-austria",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "RemoteDisconnected: Remote end closed connection without response"
+  },
+  {
+   "id": "regensburg-wirtschaft",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "schall-messen",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "sensorik-cluster",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "startup-factory",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "startup-region-stuttgart",
+   "ok": true,
+   "anzahl": 17,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:17"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "startup-salzburg",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "startupbw",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "startupticker",
+   "ok": true,
+   "anzahl": 25,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:50"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "startupverband",
+   "ok": true,
+   "anzahl": 3,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:60"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "tech2b",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "tribe-api-fehler:HTTPError",
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "techbase-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "thd-events",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "tum-venture-labs",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:79"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "uni-passau",
+   "ok": true,
+   "anzahl": 6,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:6"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "uni-regensburg",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "unternehmertum",
+   "ok": true,
+   "anzahl": 5,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:5"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "vdma",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "werk1",
+   "ok": true,
+   "anzahl": 8,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "tribe-api",
+    "detailseiten:8"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "wirtschaftsagentur-wien",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "wko-veranstaltungen",
+   "ok": true,
+   "anzahl": 6,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:6"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "wvm",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "zdb",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "zdh",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  },
+  {
+   "id": "zollhof",
+   "ok": true,
+   "anzahl": 0,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "zvdh",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "robots.txt verbietet den Abruf"
+  },
+  {
+   "id": "zvo",
+   "ok": false,
+   "anzahl": 0,
+   "zuletzt_ok": "",
+   "methoden": [],
+   "fehler": "HTTP 404"
+  }
+ ]
+}
