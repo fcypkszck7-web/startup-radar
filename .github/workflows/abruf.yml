@@ -1,0 +1,65 @@
+name: Kalender und Listen abrufen
+on:
+  schedule:
+    - cron: "41 3 * * *"
+  workflow_dispatch:
+    inputs:
+      nur:
+        description: "Nur diese Quellen (IDs, kommagetrennt), leer = alle"
+        required: false
+        default: ""
+      max_detail:
+        description: "Höchstens so viele neue Detailseiten je Quelle"
+        required: false
+        default: "25"
+permissions:
+  contents: write
+concurrency:
+  group: abruf
+  cancel-in-progress: false
+jobs:
+  abruf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+      - uses: actions/checkout@v4
+        with:
+          ref: abruf-daten
+          path: daten
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Abruf
+        run: |
+          python3 main/tools/abruf.py --quellen main/tools/quellen.json --repo main --aus daten \
+            --nur "${{ inputs.nur }}" --max-detail "${{ inputs.max_detail || '25' }}"
+      - name: Speichern
+        if: always()
+        working-directory: daten
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A abruf
+          git commit -m "Abruf $(date -u +%Y-%m-%d)" || exit 0
+          for i in 1 2 3; do git pull --rebase origin abruf-daten && git push origin HEAD:abruf-daten && break; sleep 5; done
+      - name: Status für die Seite
+        if: always()
+        working-directory: main
+        run: |
+          [ -f ../daten/abruf/status.json ] || exit 0
+          python3 - <<'PY'
+          import json
+          s = json.load(open("../daten/abruf/status.json", encoding="utf-8"))
+          kurz = {k: s[k] for k in ("abgerufen", "quellen_gesamt", "quellen_ok", "kandidaten", "neu")}
+          kurz["quellen"] = [{k: q.get(k) for k in ("id", "ok", "anzahl", "zuletzt_ok", "methoden", "fehler")} for q in s["quellen"]]
+          json.dump(kurz, open("data/abruf_status.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/abruf_status.json
+          git commit -m "Abrufstatus $(date -u +%Y-%m-%d)" || exit 0
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done

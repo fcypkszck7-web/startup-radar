@@ -37,6 +37,11 @@
   "geo": [
    48.135,
    11.69
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Energie & Solar",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -78,6 +83,12 @@
   "geo": [
    49.8988,
    10.9028
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten",
+   "Energie & Solar",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -118,7 +129,12 @@
   "gesamt": 4.5,
   "prioritaet": "A",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation",
+   "Bau & Immobilien",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "startup-nights-2026",
@@ -158,7 +174,12 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
+  ]
  },
  {
   "rubrik": "eu",
@@ -198,6 +219,10 @@
   "geo": [
    38.768,
    -9.094
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -238,6 +263,10 @@
   "geo": [
    48.2082,
    16.3738
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -277,7 +306,12 @@
   "kategorie": "Matchmaking",
   "archiv": false,
   "geo": null,
-  "online": true
+  "online": true,
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "matchmaking-erlangen-2026",
@@ -318,7 +352,10 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Matchmaking",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "startup-trifft-mittelstand-bw-2026",
@@ -356,7 +393,11 @@
   "gesamt": 3.8,
   "prioritaet": "B",
   "kategorie": "Matchmaking",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "innovationstag-bauen-der-zukunft-berlin-2026",
@@ -396,7 +437,13 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Bau & Immobilien",
+   "Material & Kreislauf",
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "startup-night-weiden-2026",
@@ -436,6 +483,10 @@
   "geo": [
    49.6769,
    12.1561
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -476,7 +527,11 @@
   "gesamt": 3.2,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation",
+   "Energie & Solar"
+  ]
  },
  {
   "id": "formnext-2026",
@@ -516,7 +571,12 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Industrie & Fertigung",
+   "Gründung & Innovation",
+   "Metall & Oberflächen"
+  ]
  },
  {
   "id": "gruendungstag-deggendorf-2026",
@@ -556,6 +616,9 @@
   "geo": [
    48.84,
    12.9606
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -597,6 +660,9 @@
   "geo": [
    49.003,
    12.0958
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -637,7 +703,12 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Start-up-Festival",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Material & Kreislauf",
+   "Bau & Immobilien",
+   "Gründung & Innovation"
+  ]
  },
  {
   "rubrik": "eu",
@@ -677,6 +748,10 @@
   "geo": [
    60.201,
    24.938
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -717,6 +792,12 @@
   "geo": [
    48.137,
    11.693
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Gründung & Innovation",
+   "Industrie & Fertigung",
+   "Material & Kreislauf"
   ]
  },
  {
@@ -757,7 +838,12 @@
   "gesamt": 3.7,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Industrie & Fertigung",
+   "Gründung & Innovation",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "materialflusskongress-2026",
@@ -797,7 +883,12 @@
   "gesamt": 3.9,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Industrie & Fertigung",
+   "Logistik & Handel",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "demo-night-muenchen-2026",
@@ -837,6 +928,9 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -877,6 +971,10 @@
   "geo": [
    46.6111,
    13.8558
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Dach & Gebäudehülle"
   ]
  },
  {
@@ -918,7 +1016,10 @@
   "gesamt": 3.4,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "startup-factory-2026",
@@ -959,6 +1060,10 @@
   "geo": [
    49.0062,
    12.1093
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -999,7 +1104,11 @@
   "gesamt": 3.7,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation",
+   "Bau & Immobilien"
+  ]
  },
  {
   "id": "ultimate-demo-day-2026",
@@ -1039,6 +1148,10 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -1080,6 +1193,12 @@
   "geo": [
    48.135,
    11.69
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Dach & Gebäudehülle",
+   "Material & Kreislauf",
+   "Gründung & Innovation"
   ]
  },
  {
@@ -1120,6 +1239,10 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "branchen": [
+   "Software, KI & Daten",
+   "Gründung & Innovation"
   ]
  },
  {
@@ -1160,6 +1283,12 @@
   "geo": [
    46.478,
    11.331
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Gründung & Innovation",
+   "Bau & Immobilien",
+   "Material & Kreislauf"
   ]
  },
  {
@@ -1200,7 +1329,12 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Energie & Solar",
+   "Gründung & Innovation",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "energiekongress-regensburg-2027",
@@ -1241,7 +1375,12 @@
   "gesamt": 4.1,
   "prioritaet": "A",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung",
+   "Material & Kreislauf"
+  ]
  },
  {
   "id": "tiger-winter-2027",
@@ -1281,6 +1420,9 @@
   "geo": [
    49.0062,
    12.1093
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -1321,8 +1463,11 @@
   ],
   "gesamt": 3.7,
   "prioritaet": "B",
-  "kategorie": "Sonstiges",
-  "archiv": false
+  "kategorie": "Workshop & Seminar",
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "rubrik": "eu",
@@ -1362,6 +1507,10 @@
   "geo": [
    41.355,
    2.128
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -1402,6 +1551,12 @@
   "geo": [
    48.1575,
    14.0289
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung",
+   "Bau & Immobilien",
+   "Material & Kreislauf"
   ]
  },
  {
@@ -1442,6 +1597,11 @@
   "geo": [
    48.95,
    11.4
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Bau & Immobilien",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -1482,6 +1642,10 @@
   "geo": [
    50.1378,
    10.993
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Dach & Gebäudehülle"
   ]
  },
  {
@@ -1522,7 +1686,10 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "rubrik": "eu",
@@ -1562,6 +1729,10 @@
   "geo": [
    44.056,
    12.62
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Gründung & Innovation"
   ]
  },
  {
@@ -1603,7 +1774,11 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung"
+  ]
  },
  {
   "id": "zukunft-handwerk-2027",
@@ -1644,6 +1819,11 @@
   "geo": [
    48.137,
    11.693
+  ],
+  "branchen": [
+   "Handwerk",
+   "Gründung & Innovation",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -1684,7 +1864,12 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar",
+   "Handwerk"
+  ]
  },
  {
   "id": "demo-night-nuernberg-2027-03",
@@ -1724,7 +1909,10 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "solar-solutions-2027",
@@ -1764,7 +1952,13 @@
   "gesamt": 3.1,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Energie & Solar",
+   "Dach & Gebäudehülle",
+   "Gebäudetechnik",
+   "Handwerk"
+  ]
  },
  {
   "rubrik": "noneu",
@@ -1805,7 +1999,10 @@
    47.4245,
    9.3767
   ],
-  "frist_art": "Frühbucherpreis für Tickets (First Release)"
+  "frist_art": "Frühbucherpreis für Tickets (First Release)",
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "bausymposium-thd-2027",
@@ -1844,8 +2041,13 @@
   ],
   "gesamt": 3.5,
   "prioritaet": "B",
-  "kategorie": "Sonstiges",
-  "archiv": false
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false,
+  "branchen": [
+   "Bau & Immobilien",
+   "Material & Kreislauf",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "hannover-messe-2027",
@@ -1885,6 +2087,12 @@
   "geo": [
    52.32,
    9.81
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Energie & Solar",
+   "Software, KI & Daten",
+   "Gründung & Innovation"
   ]
  },
  {
@@ -1925,7 +2133,13 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Bau & Immobilien",
+   "Gründung & Innovation",
+   "Industrie & Fertigung",
+   "Material & Kreislauf"
+  ]
  },
  {
   "id": "startup-factory-ndb-2027",
@@ -1965,6 +2179,10 @@
   "geo": [
    48.84,
    12.9606
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -2006,6 +2224,11 @@
   "geo": [
    48.2082,
    16.3738
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Energie & Solar",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -2046,7 +2269,12 @@
   "gesamt": 3.2,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation",
+   "Energie & Solar",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "futurebuild-2027",
@@ -2086,7 +2314,12 @@
   "gesamt": 3.1,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Material & Kreislauf",
+   "Bau & Immobilien",
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "sensor-test-2027",
@@ -2126,6 +2359,10 @@
   "geo": [
    49.413,
    11.117
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -2166,6 +2403,10 @@
   "geo": [
    48.1575,
    14.0289
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -2206,7 +2447,12 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Energie & Solar",
+   "Bau & Immobilien",
+   "Gebäudetechnik"
+  ]
  },
  {
   "id": "demo-night-muenchen-2027-06",
@@ -2246,7 +2492,10 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "intersolar-2027",
@@ -2288,6 +2537,11 @@
   "geo": [
    48.135,
    11.69
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Dach & Gebäudehülle",
+   "Gründung & Innovation"
   ]
  },
  {
@@ -2328,7 +2582,10 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "rubrik": "eu",
@@ -2368,6 +2625,10 @@
   "geo": [
    36.7,
    -4.45
+  ],
+  "branchen": [
+   "Metall & Oberflächen",
+   "Material & Kreislauf"
   ]
  },
  {
@@ -2408,6 +2669,12 @@
   "geo": [
    48.832,
    2.287
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten",
+   "Energie & Solar",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -2448,6 +2715,9 @@
   "geo": [
    52.0302,
    8.5325
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -2488,7 +2758,13 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Bau & Immobilien",
+   "Gründung & Innovation",
+   "Handwerk",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "denk-summit-2027",
@@ -2528,6 +2804,9 @@
   "geo": [
    49.6331,
    12.0617
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -2568,6 +2847,10 @@
   "geo": [
    51.508,
    0.029
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -2609,7 +2892,11 @@
   "gesamt": 4.0,
   "prioritaet": "A",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Bau & Immobilien",
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "innovationskongress-2027",
@@ -2650,6 +2937,12 @@
   "geo": [
    49.0062,
    12.1093
+  ],
+  "branchen": [
+   "Software, KI & Daten",
+   "Gründung & Innovation",
+   "Industrie & Fertigung",
+   "Material & Kreislauf"
   ]
  },
  {
@@ -2690,6 +2983,9 @@
   "geo": [
    49.003,
    12.0958
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -2731,6 +3027,9 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -2771,6 +3070,9 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -2811,6 +3113,10 @@
   "geo": [
    49.7384,
    13.3736
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -2851,7 +3157,13 @@
   "gesamt": 3.3,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Bau & Immobilien",
+   "Gründung & Innovation",
+   "Material & Kreislauf",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "solid-konferenz-2027",
@@ -2891,7 +3203,13 @@
   "gesamt": 3.1,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Software, KI & Daten",
+   "Bau & Immobilien",
+   "Industrie & Fertigung",
+   "Material & Kreislauf"
+  ]
  },
  {
   "id": "startup-trifft-handwerk-2027",
@@ -2931,6 +3249,11 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "branchen": [
+   "Handwerk",
+   "Gründung & Innovation",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -2971,7 +3294,10 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "aircon-2027",
@@ -3012,6 +3338,10 @@
   "geo": [
    49.0062,
    12.1093
+  ],
+  "branchen": [
+   "Software, KI & Daten",
+   "Gründung & Innovation"
   ]
  },
  {
@@ -3052,6 +3382,9 @@
   "geo": [
    49.4521,
    11.0767
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -3092,6 +3425,9 @@
   "geo": [
    59.9139,
    10.7522
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -3132,6 +3468,10 @@
   "geo": [
    48.6936,
    9.1925
+  ],
+  "branchen": [
+   "Metall & Oberflächen",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -3172,7 +3512,12 @@
   "gesamt": 4.5,
   "prioritaet": "A",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation",
+   "Bau & Immobilien",
+   "Industrie & Fertigung"
+  ]
  },
  {
   "id": "gruendernacht-landshut-2027",
@@ -3212,7 +3557,10 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "b2b-demoday-2027",
@@ -3253,6 +3601,11 @@
   "geo": [
    48.95,
    11.4
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung",
+   "Energie & Solar"
   ]
  },
  {
@@ -3293,6 +3646,9 @@
   "geo": [
    48.84,
    12.9606
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -3334,6 +3690,9 @@
   "geo": [
    49.0134,
    12.1016
+  ],
+  "branchen": [
+   "Gründung & Innovation"
   ]
  },
  {
@@ -3374,6 +3733,10 @@
   "geo": [
    60.201,
    24.938
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -3414,6 +3777,12 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Bau & Immobilien",
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
   ]
  },
  {
@@ -3454,7 +3823,12 @@
   "gesamt": 3.6,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Industrie & Fertigung",
+   "Gründung & Innovation",
+   "Software, KI & Daten"
+  ]
  },
  {
   "id": "startup-factory-2027",
@@ -3494,6 +3868,10 @@
   "geo": [
    49.0062,
    12.1093
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -3534,6 +3912,10 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung"
   ]
  },
  {
@@ -3575,6 +3957,12 @@
   "geo": [
    47.563,
    7.6
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Dach & Gebäudehülle",
+   "Gebäudetechnik",
+   "Metall & Oberflächen"
   ]
  },
  {
@@ -3615,6 +4003,12 @@
   "geo": [
    46.478,
    11.331
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Energie & Solar",
+   "Bau & Immobilien",
+   "Handwerk"
   ]
  },
  {
@@ -3655,6 +4049,12 @@
   "geo": [
    48.1575,
    14.0289
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung",
+   "Bau & Immobilien",
+   "Material & Kreislauf"
   ]
  },
  {
@@ -3695,7 +4095,12 @@
   "gesamt": 3.0,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar",
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "dach-holz-2028",
@@ -3736,6 +4141,12 @@
   "geo": [
    48.6936,
    9.1925
+  ],
+  "branchen": [
+   "Dach & Gebäudehülle",
+   "Bau & Immobilien",
+   "Handwerk",
+   "Gründung & Innovation"
   ]
  },
  {
@@ -3776,6 +4187,11 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "branchen": [
+   "Handwerk",
+   "Software, KI & Daten",
+   "Gründung & Innovation"
   ]
  },
  {
@@ -3816,7 +4232,13 @@
   "gesamt": 3.7,
   "prioritaet": "B",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Bau & Immobilien",
+   "Industrie & Fertigung",
+   "Material & Kreislauf",
+   "Gründung & Innovation"
+  ]
  },
  {
   "id": "digitalbau-2028",
@@ -3856,6 +4278,11 @@
   "geo": [
    50.947,
    6.983
+  ],
+  "branchen": [
+   "Software, KI & Daten",
+   "Bau & Immobilien",
+   "Gründung & Innovation"
   ]
  },
  {
@@ -3896,6 +4323,10 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": false,
+  "branchen": [
+   "Metall & Oberflächen",
+   "Industrie & Fertigung"
+  ]
  }
 ]

@@ -25,10 +25,12 @@
     Deutschland: "Start-ups aus dem übrigen Deutschland – von Stuttgart und Berlin bis ins Rheinland.",
     Europa: "Europäische Start-ups, vor allem aus Österreich, dem Baltikum, Skandinavien und den Niederlanden."
   };
-  var UMFANG = [["fokus", "Fokus"], ["alle", "Alle Start-ups"]];
-  var UMFANG_TEXT = {
-    fokus: "Fokus: Start-ups mit direktem Bezug zu Dach, Solar, Entwässerung, Fertigung und Nachhaltigkeit (Relevanz 3 bis 5).",
-    alle: "Alle erfassten Start-ups aus Bau, Energie und Industrie – auch solche mit nur mittelbarem Bezug (Relevanz 1 bis 5)."
+  var BRANCHEN = ["Bau & Immobilien", "Dach & Gebäudehülle", "Energie & Solar", "Gebäudetechnik", "Industrie & Fertigung",
+    "Metall & Oberflächen", "Material & Kreislauf", "Handwerk", "Software, KI & Daten", "Logistik & Handel", "Gründung & Innovation"];
+  var BRANCHE_FARBE = {
+    "Bau & Immobilien": "#8a6a3a", "Dach & Gebäudehülle": "#b4572e", "Energie & Solar": "#d4831c", "Gebäudetechnik": "#2a7fae",
+    "Industrie & Fertigung": "#bf4f36", "Metall & Oberflächen": "#5d6d7e", "Material & Kreislauf": "#3f8f3c", "Handwerk": "#9a5a2a",
+    "Software, KI & Daten": "#5868d0", "Logistik & Handel": "#8a55c2", "Gründung & Innovation": "#178a87"
   };
   var SU_AKZENT = { "": "alle", Ostbayern: "region", Bayern: "bayern", Deutschland: "de", Europa: "eu" };
   var SUCHFELD_FARBE = {
@@ -82,11 +84,11 @@
     events: [], startups: [], meta: {}, hinweise: [], heute: heuteISO(), route: null, geladen: false,
     fenster: 6, heldPrio: { A: true, B: true, C: true },
     t: neuerFilter("liste"), a: neuerFilter("liste"),
-    s: { feld: "", region: "", q: "", merk: false, umfang: store.get("radar-su-umfang", "fokus") === "alle" ? "alle" : "fokus" },
+    s: { feld: "", region: "", q: "", merk: false, branche: "" },
     runden: [], investoren: [], logos: {}, k: { art: "", thema: "", nurRadar: false },
     liste: [], suListe: [], radare: [], druck: null, panel: null
   };
-  function neuerFilter(ansicht) { return { rubrik: "", prio: { A: true, B: true, C: true }, kat: "", monat: "", q: "", merk: false, best: false, ansicht: ansicht, kal: null }; }
+  function neuerFilter(ansicht) { return { rubrik: "", prio: { A: true, B: true, C: true }, kat: "", branche: "", monat: "", q: "", merk: false, best: false, ansicht: ansicht, kal: null }; }
   var merk = new Set(store.get("radar-merkliste", []));
 
   /* ---------- Hilfen ---------- */
@@ -262,12 +264,26 @@
     return (w[0][0] + w[1][0]).toUpperCase();
   }
   function logo(s, gross) {
-    var l = S.logos[s.id], farbe = SUCHFELD_FARBE[s.suchfeld] || "#5b6b7b";
+    var l = S.logos[s.id], farbe = SUCHFELD_FARBE[s.suchfeld] || BRANCHE_FARBE[(s.branchen || [])[0]] || "#5b6b7b";
     var cls = "logo" + (gross ? " gross" : "");
     if (l && l.datei) return '<span class="' + cls + ' bild" style="--f:' + farbe + '"><img src="assets/logos/' + esc(l.datei) + '" alt="" loading="lazy" onerror="this.parentNode.classList.add(\'mono\');this.parentNode.classList.remove(\'bild\');this.parentNode.textContent=\'' + esc(kuerzel(s.name)) + '\'"></span>';
     return '<span class="' + cls + ' mono" style="--f:' + farbe + '" aria-hidden="true">' + esc(kuerzel(s.name)) + "</span>";
   }
-  function suchfeldTag(feld) { return '<span class="sf-tag" style="--f:' + (SUCHFELD_FARBE[feld] || "#5b6b7b") + '">' + esc(feld) + "</span>"; }
+  function suchfeldTag(feld) { return feld ? '<span class="sf-tag" style="--f:' + (SUCHFELD_FARBE[feld] || BRANCHE_FARBE[feld] || "#5b6b7b") + '">' + esc(feld) + "</span>" : ""; }
+  function branchenTags(x, max) {
+    var b = x.branchen || [], n = max || b.length;
+    return b.slice(0, n).map(function (w) { return '<span class="br-tag" style="--f:' + (BRANCHE_FARBE[w] || "#5b6b7b") + '">' + esc(w) + "</span>"; }).join("") +
+      (b.length > n ? '<span class="br-mehr">+' + (b.length - n) + "</span>" : "");
+  }
+  function branchenChips(liste, aktiv, attr) {
+    var zahl = {};
+    liste.forEach(function (x) { (x.branchen || []).forEach(function (w) { zahl[w] = (zahl[w] || 0) + 1; }); });
+    return '<div class="branchen-chips" role="group" aria-label="Nach Branche filtern">' +
+      '<button type="button" ' + attr + '="" aria-pressed="' + !aktiv + '">Alle Branchen<span>' + liste.length + "</span></button>" +
+      BRANCHEN.filter(function (w) { return zahl[w] || aktiv === w; }).map(function (w) {
+        return '<button type="button" ' + attr + '="' + esc(w) + '" aria-pressed="' + (aktiv === w) + '" style="--f:' + BRANCHE_FARBE[w] + '"><i></i>' + esc(w) + "<span>" + (zahl[w] || 0) + "</span></button>";
+      }).join("") + "</div>";
+  }
 
   /* ---------- Tooltip ---------- */
   var tipEl = $("#tooltip");
@@ -373,7 +389,7 @@
       (S.meta.aenderungen || []).map(function (a) { return "<li>" + esc(a) + "</li>"; }).join("") + "</ul></div>";
 
     h += '<div class="block"><div class="block-kopf"><h2>Start-ups mit schnellem Nutzen</h2></div><p>Hohe Relevanz bei geringem Aufwand.</p><ul class="quick">' + quick.slice(0, 6).map(function (s) {
-      return '<li><button type="button" data-oeffne-su="' + esc(s.id) + '">' + logo(s) + '<span><span class="q-name">' + esc(s.name) + '</span><span class="q-text">' + esc(s.sitz) + ", " + esc(s.suchfeld) + "</span></span>" +
+      return '<li><button type="button" data-oeffne-su="' + esc(s.id) + '">' + logo(s) + '<span><span class="q-name">' + esc(s.name) + '</span><span class="q-text">' + esc(s.sitz) + ", " + esc(s.suchfeld || (s.branchen || [])[0] || "") + "</span></span>" +
         '<span class="q-werte">' + mini(s.relevanz, "relevanz") + mini(s.aufwand, "aufwand") + "</span></button></li>";
     }).join("") + '</ul><p style="margin-top:12px"><a href="#startups">' + (quick.length > 6 ? (quick.length - 6) + " weitere Quick Wins und " : "") + "alle " + S.startups.length + " Start-ups ansehen</a></p></div>";
     h += "</section>";
@@ -616,18 +632,19 @@
     return liste.filter(function (e) {
       if (!f.prio[e.prioritaet]) return false;
       if (f.kat && e.kategorie !== f.kat) return false;
+      if (f.branche && (e.branchen || []).indexOf(f.branche) < 0) return false;
       if (f.monat && !(e.start.slice(0, 7) <= f.monat && e.ende.slice(0, 7) >= f.monat)) return false;
       if (f.merk && !merk.has(e.id)) return false;
       if (f.best && e.status !== "bestätigt") return false;
       if (woerter.length) {
-        var t = [e.name, e.format, e.kategorie, e.veranstalter, e.ort, e.region, e.fokus, e.zielgruppe, e.begruendung, RUBRIK[e.rubrik]].join(" ").toLowerCase();
+        var t = [e.name, e.format, e.kategorie, e.veranstalter, e.ort, e.region, e.fokus, e.zielgruppe, e.begruendung, RUBRIK[e.rubrik], (e.branchen || []).join(" ")].join(" ").toLowerCase();
         if (woerter.some(function (w) { return t.indexOf(w) < 0; })) return false;
       }
       return true;
     });
   }
   function aktiveFilter(f) {
-    return (f.prio.A && f.prio.B && f.prio.C ? 0 : 1) + (f.kat ? 1 : 0) + (f.monat ? 1 : 0) + (f.merk ? 1 : 0) + (f.best ? 1 : 0);
+    return (f.prio.A && f.prio.B && f.prio.C ? 0 : 1) + (f.kat ? 1 : 0) + (f.branche ? 1 : 0) + (f.monat ? 1 : 0) + (f.merk ? 1 : 0) + (f.best ? 1 : 0);
   }
 
   function listenSeite(art) {
@@ -639,6 +656,7 @@
     monate.sort(); if (art === "archiv") monate.reverse();
     if (f.monat && monate.indexOf(f.monat) < 0) f.monat = "";
     if (f.kat && kats.indexOf(f.kat) < 0) f.kat = "";
+    if (f.branche && !basis.some(function (e) { return (e.branchen || []).indexOf(f.branche) >= 0; })) f.branche = "";
     var ansichten = art === "archiv" ? [["liste", "Liste", I.liste], ["kalender", "Kalender", I.kal]]
       : [["liste", "Liste", I.liste], ["zeitstrahl", "Zeitstrahl", I.zeit], ["kalender", "Kalender", I.kal], ["radar", "Radar", I.radar]];
     if (!ansichten.some(function (a) { return a[0] === f.ansicht; })) f.ansicht = "liste";
@@ -666,7 +684,7 @@
       '<label class="schalter"><input type="checkbox" id="f-merk"' + (f.merk ? " checked" : "") + "> Nur Merkliste</label>" +
       '<label class="schalter"><input type="checkbox" id="f-best"' + (f.best ? " checked" : "") + "> Nur bestätigte Termine</label>" +
       '<button type="button" class="knopf leise klein" id="f-reset" hidden>Filter zurücksetzen</button>' +
-      "</div></div></div>";
+      '</div></div><div class="breite branchen-zeile" id="f-branchen">' + branchenChips(basis, f.branche, "data-f-branche") + "</div></div>";
 
     h += '<div class="breite"><div class="ergebnis-kopf"><span class="anzahl" id="anzahl"></span>' +
       '<div class="segment" role="group" aria-label="Ansicht">' + ansichten.map(function (a) {
@@ -681,6 +699,7 @@
     q.addEventListener("input", function () { clearTimeout(tq); tq = setTimeout(function () { f.q = q.value; aktualisiereListe(art, true); }, 120); });
     bindePrioWahl(f.prio, "liste", function () { aktualisiereListe(art, true); });
     $("#f-kat").addEventListener("change", function () { f.kat = this.value; aktualisiereListe(art, true); });
+    bindeBranchenChips("data-f-branche", function (w) { f.branche = w; aktualisiereListe(art, true); });
     $("#f-monat").addEventListener("change", function () { f.monat = this.value; if (this.value) f.kal = this.value; aktualisiereListe(art, true); });
     $("#f-merk").addEventListener("change", function () { f.merk = this.checked; aktualisiereListe(art, true); });
     $("#f-best").addEventListener("change", function () { f.best = this.checked; aktualisiereListe(art, true); });
@@ -801,8 +820,8 @@
       '<span class="z-datum"><span class="z-tag">' + esc(d.tag) + '</span><span class="z-mon">' + esc(d.unter) + "</span></span>" +
       '<span class="z-haupt"><span class="z-titel">' + esc(e.name) + "</span>" +
       '<span class="z-meta"><span>' + I.ort + esc(e.ort) + (ent && !e.online && ent !== "in Regensburg" ? ", " + esc(ent) : "") + "</span><span>" + esc(e.kategorie) + "</span>" +
-      (e.rubrik === "noneu" ? '<span class="nicht-eu-marke">außerhalb der EU</span>' : "") + "</span>" +
-      '<span class="z-grund">' + esc(e.begruendung) + "</span></span>" +
+      (e.rubrik === "noneu" ? '<span class="nicht-eu-marke">außerhalb der EU</span>' : "") + branchenTags(e, 2) + "</span>" +
+      '<span class="z-grund">' + esc(e.begruendung || e.fokus || "") + "</span></span>" +
       '<span class="z-rechts">' + schild(e.prioritaet, e.gesamt) + status(e) + '<span class="z-wann' + (bald ? " bald" : "") + '">' + esc(relativ(e)) + "</span></span>" +
       "</button>" +
       '<div class="z-aktionen">' + sternKnopf(e.id, e.name) + (vorbei(e) ? "" : icsKnopf(e)) + "</div></li>";
@@ -876,9 +895,9 @@
   /* ============================================================
      Start-ups
      ============================================================ */
-  function suUmfang(region, umfang) {
-    var r = region == null ? S.s.region : region, u = umfang || S.s.umfang;
-    return S.startups.filter(function (s) { return (!r || s.region === r) && (u === "alle" || s.fokus); });
+  function suUmfang(region, branche) {
+    var r = region == null ? S.s.region : region, b = branche == null ? S.s.branche : branche;
+    return S.startups.filter(function (s) { return (!r || s.region === r) && (!b || (s.branchen || []).indexOf(b) >= 0); });
   }
   function regionTabs() {
     return SU_REGIONEN.map(function (r) {
@@ -887,46 +906,47 @@
   }
   function zeigeStartups() {
     var sf = S.s;
-    var felder = uniq(S.startups.map(function (s) { return s.suchfeld; })).sort();
     var h = kopfband({ akzent: SU_AKZENT[sf.region], titel: "Start-ups", textId: "su-text", text: SU_TEXT[sf.region],
-      reiter: '<div class="umfang-wahl"><div class="segment" role="radiogroup" aria-label="Umfang der Liste">' + UMFANG.map(function (u) {
-        return '<button type="button" role="radio" data-su-umfang="' + u[0] + '" aria-checked="' + (sf.umfang === u[0]) + '">' + esc(u[1]) + '<span class="u-zahl">' + suUmfang("", u[0]).length + "</span></button>";
-      }).join("") + '</div><p class="umfang-text" id="umfang-text">' + esc(UMFANG_TEXT[sf.umfang]) + "</p></div>" +
-        '<div class="reiter" role="tablist" aria-label="Region" id="su-reiter">' + regionTabs() + "</div>",
-      unten: '<p class="kb-link"><a href="#kapital">Finanzierungen und Investoren ansehen</a></p>',
+      reiter: '<div class="reiter" role="tablist" aria-label="Region" id="su-reiter">' + regionTabs() + "</div>",
+      unten: '<p class="kb-link"><a href="#kapital">Finanzierungen und Investoren ansehen</a> · <a href="#quellen">Quellen der Recherche</a></p>',
       rechts: '<div class="kb-radar"><div class="radar" id="radar-kopf"></div></div>' });
     h += '<div class="filterleiste" role="search"><div class="breite">' +
       '<label class="suchfeld">' + I.suche + '<span class="vh">Start-ups durchsuchen</span><input class="feld" type="search" id="s-q" placeholder="Suchen, z. B. EPD, Zoll, Sensor, Investor" value="' + esc(sf.q) + '"></label>' +
-      '<label><span class="vh">Suchfeld</span><select class="feld" id="s-feld"><option value="">Alle Suchfelder</option>' + felder.map(function (x) { return "<option" + (x === sf.feld ? " selected" : "") + ">" + esc(x) + "</option>"; }).join("") + "</select></label>" +
-      '<label class="schalter"><input type="checkbox" id="s-merk"' + (sf.merk ? " checked" : "") + "> Nur Merkliste</label></div></div>";
-    h += '<div class="breite"><div class="su-raster"><div class="matrix-block"><h2>Relevanz und Aufwand</h2><p>Oben links liegen die Quick Wins: hohe Relevanz bei geringem Umsetzungsaufwand.</p>' +
+      '<label class="schalter"><input type="checkbox" id="s-merk"' + (sf.merk ? " checked" : "") + "> Nur Merkliste</label></div>" +
+      '<div class="breite branchen-zeile" id="s-branchen">' + branchenChips(suUmfang(null, ""), sf.branche, "data-s-branche") + "</div></div>";
+    h += '<div class="breite"><div class="su-raster"><div class="matrix-block"><h2>Relevanz und Aufwand</h2><p>Einschätzung für Dach, Solar und Fertigung – dient nur zum Sortieren, nicht zur Auswahl. Oben links: hohe Relevanz bei geringem Aufwand.</p>' +
       '<div class="matrix-wrap"><div class="achse-y">Relevanz, oben hoch</div><div class="matrix" id="matrix"></div><div class="achse-x">Umsetzungsaufwand, links gering</div></div>' +
-      '<div class="matrix-legende"><span><span class="m-chip prio-A" style="padding:1px 6px">A</span>Priorität A</span><span><span class="m-chip prio-B" style="padding:1px 6px">B</span>B</span><span><span class="m-chip" style="padding:1px 6px">C</span>C</span><span><i class="ost-punkt"></i>Sitz in Ostbayern</span></div>' +
-      '<div class="sf-legende">' + felder.map(function (x) { return suchfeldTag(x); }).join("") + "</div></div>";
+      '<div class="matrix-legende"><span><span class="m-chip prio-A" style="padding:1px 6px">A</span>Priorität A</span><span><span class="m-chip prio-B" style="padding:1px 6px">B</span>B</span><span><span class="m-chip" style="padding:1px 6px">C</span>C</span><span><i class="ost-punkt"></i>Sitz in Ostbayern</span></div></div>';
     h += '<div><div class="ergebnis-kopf"><span class="anzahl" id="s-anzahl"></span>' + downloadsHtml("su", false) + "</div>" +
       '<ul class="zeilen" id="s-liste"></ul></div></div></div>';
     $("#ansicht").innerHTML = h;
     kopfRadar(suUmfang().filter(function (s) { return s.geo; }), true);
     var tq;
     $("#s-q").addEventListener("input", function () { var v = this.value; clearTimeout(tq); tq = setTimeout(function () { S.s.q = v; aktualisiereStartups(true); }, 120); });
-    $("#s-feld").addEventListener("change", function () { S.s.feld = this.value; aktualisiereStartups(true); });
     $("#s-merk").addEventListener("change", function () { S.s.merk = this.checked; aktualisiereStartups(true); });
-    $$("[data-su-umfang]").forEach(function (b) {
-      b.addEventListener("click", function () {
-        var u = b.getAttribute("data-su-umfang");
-        if (u === S.s.umfang) return;
-        S.s.umfang = u;
-        store.set("radar-su-umfang", u);
-        $$("[data-su-umfang]").forEach(function (x) { x.setAttribute("aria-checked", x === b); });
-        $("#umfang-text").textContent = UMFANG_TEXT[u];
-        $("#su-reiter").innerHTML = regionTabs();
-        bindeRegionTabs();
-        kopfRadar(suUmfang().filter(function (s) { return s.geo; }), true);
-        aktualisiereStartups(true);
-      });
-    });
+    bindeSuBranchen();
     bindeRegionTabs();
     aktualisiereStartups(false, true);
+  }
+  function bindeSuBranchen() {
+    bindeBranchenChips("data-s-branche", function (w) {
+      S.s.branche = w;
+      $("#su-reiter").innerHTML = regionTabs();
+      bindeRegionTabs();
+      kopfRadar(suUmfang().filter(function (s) { return s.geo; }), true);
+      aktualisiereStartups(true);
+    });
+  }
+  function bindeBranchenChips(attr, nachher) {
+    $$("[" + attr + "]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var w = b.getAttribute(attr);
+        var akt = $$("[" + attr + "]").filter(function (x) { return x.getAttribute("aria-pressed") === "true"; })[0];
+        if (akt === b && w) w = "";
+        $$("[" + attr + "]").forEach(function (x) { x.setAttribute("aria-pressed", x.getAttribute(attr) === w); });
+        nachher(w);
+      });
+    });
   }
   function bindeRegionTabs() {
     $$("[data-su-region]").forEach(function (b) {
@@ -936,6 +956,9 @@
         S.s.region = r;
         $$("[data-su-region]").forEach(function (x) { x.setAttribute("aria-selected", x === b); });
         $("#su-text").textContent = SU_TEXT[r];
+        if (S.s.branche && !suUmfang(r, S.s.branche).length) S.s.branche = "";
+        $("#s-branchen").innerHTML = branchenChips(suUmfang(null, ""), S.s.branche, "data-s-branche");
+        bindeSuBranchen();
         $("#kopfband").setAttribute("data-akzent", SU_AKZENT[r]);
         kopfRadar(suUmfang().filter(function (s) { return s.geo; }), true);
         aktualisiereStartups(true);
@@ -945,10 +968,9 @@
   function filtereStartups() {
     var sf = S.s, q = sf.q.trim().toLowerCase(), w = q ? q.split(/\s+/) : [];
     return suUmfang().filter(function (s) {
-      if (sf.feld && s.suchfeld !== sf.feld) return false;
       if (sf.merk && !merk.has(s.id)) return false;
       if (w.length) {
-        var t = [s.name, s.sitz, s.region, LAND[s.land] || "", s.loesung, s.suchfeld, s.mehrwert, s.reifegrad, s.anbindung, s.kooperation, (s.investoren_alle || []).join(" ")].join(" ").toLowerCase();
+        var t = [s.name, s.sitz, s.region, LAND[s.land] || "", s.loesung, s.suchfeld, s.mehrwert, s.reifegrad, s.anbindung, s.kooperation, (s.branchen || []).join(" "), (s.investoren_alle || []).join(" ")].join(" ").toLowerCase();
         if (w.some(function (x) { return t.indexOf(x) < 0; })) return false;
       }
       return true;
@@ -957,7 +979,7 @@
   function aktualisiereStartups(animiert, erst) {
     var l = filtereStartups();
     S.suListe = l;
-    S.druck = { art: "startups", liste: l, titel: "Start-ups" + (S.s.umfang === "alle" ? " (alle)" : " (Fokus)") + (S.s.region ? " – " + S.s.region : "") };
+    S.druck = { art: "startups", liste: l, titel: "Start-ups" + (S.s.branche ? " – " + S.s.branche : "") + (S.s.region ? " – " + S.s.region : "") };
     var basis = suUmfang();
     $("#s-anzahl").innerHTML = plural(l.length, "Start-up", "Start-ups") + (l.length !== basis.length ? "<small>von " + basis.length + "</small>" : "");
     var ids = {}; l.forEach(function (s) { ids[s.id] = true; });
@@ -991,7 +1013,7 @@
     return '<li class="zeile su-zeile prio-' + s.prioritaet + '" data-id="' + esc(s.id) + '">' +
       '<button type="button" class="zeile-knopf" data-oeffne-su="' + esc(s.id) + '">' + logo(s) +
       '<span class="z-haupt"><span class="z-titel">' + esc(s.name) + "</span>" +
-      '<span class="z-meta"><span>' + I.ort + esc(s.sitz) + (s.land && s.land !== "DE" ? ", " + esc(LAND[s.land] || s.land) : "") + "</span>" + suchfeldTag(s.suchfeld) +
+      '<span class="z-meta"><span>' + I.ort + esc(s.sitz) + (s.land && s.land !== "DE" ? ", " + esc(LAND[s.land] || s.land) : "") + "</span>" + branchenTags(s, 3) +
       (lr ? '<span class="z-geld">' + esc(lr.runde) + ": " + esc(lr.betrag) + " (" + esc(monatJahr(lr.datum)) + ")</span>" : "") + "</span>" +
       '<span class="z-grund">' + esc(s.loesung) + "</span></span>" +
       '<span class="z-rechts">' + schild(s.prioritaet) + '<span class="su-region r-' + esc(SU_AKZENT[s.region] || "alle") + '">' + esc(s.region) + "</span>" +
@@ -1531,14 +1553,15 @@
       fakt(I.kal, "<strong>" + esc(zeitraumLang(e)) + "</strong><br>" + esc(relativ(e)) + (e.status === "geschätzt" ? ", Datum aus dem Vorjahr abgeleitet" : "")) +
       fakt(I.ort, "<strong>" + esc(e.ort) + "</strong><br>" + esc(e.region) + (ent && !e.online ? ", " + esc(ent === "in Regensburg" ? "in Regensburg" : ent + " von Regensburg") : "")) +
       fakt(I.leute, esc(e.format) + ", " + esc(e.veranstalter)) +
-      fakt(I.euro, esc(e.kosten)) + "</div>";
+      (e.kosten ? fakt(I.euro, esc(e.kosten)) : "") + "</div>";
+    h += '<div class="p-branchen">' + branchenTags(e) + "</div>";
     h += '<div class="p-aktionen">' + (vorbei(e) ? "" : '<button type="button" class="knopf signal" data-ics="' + esc(e.id) + '">' + I.kalPlus + "In Kalender speichern</button>") +
       '<a class="knopf leise" href="' + esc(e.quelle) + '" target="_blank" rel="noopener noreferrer">' + I.link + "Quelle öffnen</a></div>";
     if (e.anmeldeschluss && e.anmeldeschluss >= S.heute) {
       var n = tageBis(e.anmeldeschluss);
       h += '<div class="frist-box"><span class="countdown' + (n <= 14 ? " dringend" : "") + '"><b>' + n + "</b><small>" + (n === 1 ? "Tag" : "Tage") + "</small></span><div><strong>" + esc(e.frist_art || "Anmeldeschluss") + "</strong><br>bis " + esc(langDatum(e.anmeldeschluss)) + "</div></div>";
     }
-    h += '<section class="p-abschnitt"><h3>Warum relevant</h3><p>' + esc(e.begruendung) + '</p><div class="rollen">' + e.rolle.map(function (r) { return '<span class="rolle">' + esc(r) + "</span>"; }).join("") + "</div></section>";
+    if (e.begruendung || e.fokus || (e.rolle || []).length) h += '<section class="p-abschnitt"><h3>' + (e.begruendung ? "Warum relevant" : "Worum es geht") + "</h3><p>" + esc(e.begruendung || e.fokus) + '</p><div class="rollen">' + (e.rolle || []).map(function (r) { return '<span class="rolle">' + esc(r) + "</span>"; }).join("") + "</div></section>";
     var bar = function (name, gew, wert, hinweis) {
       return '<div class="sc"><span>' + name + "<small>" + gew + (hinweis ? ", " + hinweis : "") + '</small></span><span class="sc-bar"><i style="width:' + wert * 20 + '%"></i></span><b>' + wert + "</b></div>";
     };
@@ -1546,11 +1569,11 @@
       bar("Relevanz", "40 %", sc.relevanz) + bar("Zugang", "30 %", sc.zugang) + bar("Aufwand", "20 %", sc.aufwand, "5 = gering") + bar("Verlässlichkeit", "10 %", sc.verlaesslichkeit) +
       '</div><div class="sc-gesamt">Gesamtscore ' + schild(e.prioritaet, e.gesamt) + "</div></section>";
     h += '<section class="p-abschnitt"><h3>Alle Angaben</h3><dl class="angaben">' +
-      zeile("Veranstalter", e.veranstalter) + zeile("Format", e.format + " (" + e.kategorie + ")") + zeile("Ort", e.ort) + zeile("Land / Bundesland", e.region) +
+      zeile("Veranstalter", e.veranstalter) + zeile("Format", e.format + " (" + e.kategorie + ")") + zeile("Branchen", (e.branchen || []).join(", ")) + zeile("Ort", e.ort) + zeile("Land / Bundesland", e.region) +
       zeile("Rubrik", RUBRIK[e.rubrik]) + zeile("Start und Ende", de(e.start) + (e.ende !== e.start ? " – " + de(e.ende) : "")) + zeile("Turnus", e.turnus) +
       zeile("Üblicher Zeitraum", e.zeitraum) + zeile("Terminstatus", e.status) +
       zeile("Anmeldeschluss", e.anmeldeschluss ? de(e.anmeldeschluss) + (e.frist_art ? " – " + e.frist_art : "") : "") + zeile("Anmeldung", e.anmeldung) +
-      zeile("Kosten", e.kosten) + zeile("Zielgruppe", e.zielgruppe) + zeile("Themenfokus", e.fokus) + zeile("Empfohlene Rolle", e.rolle.join(", ")) +
+      zeile("Kosten", e.kosten) + zeile("Zielgruppe", e.zielgruppe) + zeile("Themenfokus", e.fokus) + zeile("Empfohlene Rolle", (e.rolle || []).join(", ")) +
       '<dt>Quelle</dt><dd><a href="' + esc(e.quelle) + '" target="_blank" rel="noopener noreferrer">' + esc(kurzUrl(e.quelle)) + "</a></dd>" + zeile("Zuletzt geprüft", de(e.geprueft)) +
       "</dl></section></div>";
     return h;
@@ -1576,21 +1599,22 @@
     var runden = S.runden.filter(function (r) { return r.startup_id === s.id && r.art === "Finanzierungsrunde"; });
     var h = panelKopf("Start-up, " + s.region, s.id, s.name) + '<div class="p-inhalt">';
     h += '<div class="p-logo-zeile">' + logo(s, true) + '<div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">' + schild(s.prioritaet, null, true) + (s.quickwin ? '<span class="quick-badge">Quick Win</span>' : "") + suchfeldTag(s.suchfeld) + "</div></div>";
+    h += '<div class="p-branchen">' + branchenTags(s) + "</div>";
     h += '<h2 id="panel-titel">' + esc(s.name) + "</h2>";
     h += '<div class="p-fakten">' + fakt(I.ort, "<strong>" + esc(s.sitz) + "</strong>" + (s.land && s.land !== "DE" ? ", " + esc(LAND[s.land] || s.land) : "") + (s.gruendung && s.gruendung !== "k. A." ? ", gegründet " + esc(s.gruendung) : "")) +
-      fakt(I.rakete, esc(s.reifegrad)) + "</div>";
+      (s.reifegrad ? fakt(I.rakete, esc(s.reifegrad)) : "") + "</div>";
     h += '<div class="p-aktionen">' + (s.website ? '<a class="knopf" href="' + esc(s.website) + '" target="_blank" rel="noopener noreferrer">' + I.link + "Website</a>" : "") +
       '<a class="knopf leise" href="' + esc(s.quelle) + '" target="_blank" rel="noopener noreferrer">' + I.link + "Quelle öffnen</a></div>";
     h += '<section class="p-abschnitt"><h3>Lösung</h3><p>' + esc(s.loesung) + "</p></section>";
-    h += '<section class="p-abschnitt"><h3>Möglicher Mehrwert</h3><p>' + esc(s.mehrwert) + "</p><p><strong>Mögliche Kooperation:</strong> " + esc(s.kooperation) + "</p></section>";
-    h += '<section class="p-abschnitt"><h3>Finanzierung und Investoren</h3><p>' + esc(s.finanzierung) + "</p>" +
+    if (s.mehrwert || s.kooperation) h += '<section class="p-abschnitt"><h3>Möglicher Mehrwert</h3>' + (s.mehrwert ? "<p>" + esc(s.mehrwert) + "</p>" : "") + (s.kooperation ? "<p><strong>Mögliche Kooperation:</strong> " + esc(s.kooperation) + "</p>" : "") + "</section>";
+    h += '<section class="p-abschnitt"><h3>Finanzierung und Investoren</h3><p>' + esc(s.finanzierung || "Keine öffentlichen Angaben erfasst.") + "</p>" +
       (runden.length ? '<ol class="rundenzeit">' + runden.map(rundeZeit).join("") + "</ol>" : "") +
       ((s.investoren_alle || []).length ? '<p class="klein" style="margin:12px 0 6px">Öffentlich bekannte Investoren</p><div class="inv-chips">' + s.investoren_alle.map(investorChip).join("") + "</div>" : "") +
       geteilteInvestoren(s) + "</section>";
     var bar = function (name, hinweis, wert) { return '<div class="sc"><span>' + name + "<small>" + hinweis + '</small></span><span class="sc-bar"><i style="width:' + wert * 20 + '%"></i></span><b>' + wert + "</b></div>"; };
     h += '<section class="p-abschnitt"><h3>Einordnung</h3><div class="scores">' + bar("Relevanz", "5 = sehr relevant", s.relevanz) + bar("Aufwand", "1 = gering", s.aufwand) + "</div></section>";
     h += '<section class="p-abschnitt"><h3>Alle Angaben</h3><dl class="angaben">' +
-      zeile("Sitz", s.sitz) + zeile("Land", LAND[s.land] || s.land) + zeile("Region", s.region) + zeile("Gründungsjahr", s.gruendung) + zeile("Suchfeld", s.suchfeld) + zeile("Reifegrad", s.reifegrad) +
+      zeile("Sitz", s.sitz) + zeile("Land", LAND[s.land] || s.land) + zeile("Region", s.region) + zeile("Branchen", (s.branchen || []).join(", ")) + zeile("Gründungsjahr", s.gruendung) + zeile("Suchfeld", s.suchfeld) + zeile("Reifegrad", s.reifegrad) +
       zeile("Finanzierung", s.finanzierung) + zeile("Anbindung", s.anbindung) + zeile("Mögliche Kooperationsform", s.kooperation) +
       zeile("Bewertung", "Relevanz " + s.relevanz + "/5, Umsetzungsaufwand " + s.aufwand + "/5 (1 = gering), Priorität " + s.prioritaet) +
       "<dt>Website</dt><dd>" + (s.website ? '<a href="' + esc(s.website) + '" target="_blank" rel="noopener noreferrer">' + esc(kurzUrl(s.website)) + "</a>" : "k. A.") + "</dd>" +
@@ -1690,7 +1714,7 @@
         }
       });
       S.startups.forEach(function (s) {
-        var t = [s.name, s.sitz, s.region, s.loesung, s.suchfeld, s.mehrwert, s.reifegrad].join(" ").toLowerCase();
+        var t = [s.name, s.sitz, s.region, s.loesung, s.suchfeld, s.mehrwert, s.reifegrad, (s.branchen || []).join(" ")].join(" ").toLowerCase();
         if (w.every(function (x) { return t.indexOf(x) >= 0; })) {
           var n = s.name.toLowerCase();
           treffer.push({ typ: "su", x: s, p: (n.indexOf(q) === 0 ? 30 : n.indexOf(q) > 0 ? 15 : 0) + 1 });
@@ -1717,7 +1741,7 @@
     sucheTreffer.innerHTML = treffer.length ? treffer.map(function (t, i) {
       var x = t.x;
       var sub = t.typ === "event" ? zeitraum(x) + ", " + x.ort + (vorbei(x) ? " (vorbei)" : "")
-        : t.typ === "su" ? x.sitz + ", " + x.suchfeld
+        : t.typ === "su" ? x.sitz + ", " + (x.suchfeld || (x.branchen || [])[0] || "")
         : t.typ === "inv" ? x.typ + ", " + x.sitz
         : monatJahr(x.datum) + ", " + x.runde + ", " + x.betrag;
       var name = t.typ === "deal" ? x.unternehmen : x.name;

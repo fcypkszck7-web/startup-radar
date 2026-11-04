@@ -27,15 +27,23 @@ GEWICHTE = {"relevanz": 0.4, "zugang": 0.3, "aufwand": 0.2, "verlaesslichkeit": 
 RUBRIKEN = {"region", "de", "eu", "noneu"}
 STATUS = {"bestätigt", "geschätzt"}
 PFLICHT_EVENT = ["id", "name", "format", "veranstalter", "ort", "land", "region", "rubrik", "start", "ende",
-                 "turnus", "zeitraum", "status", "kosten", "zielgruppe", "fokus", "begruendung", "rolle",
-                 "scores", "quelle", "geprueft"]
-PFLICHT_STARTUP = ["id", "name", "sitz", "region", "land", "gruendung", "loesung", "suchfeld", "mehrwert", "reifegrad",
-                   "finanzierung", "anbindung", "kooperation", "relevanz", "aufwand", "quelle", "geprueft"]
+                 "status", "branchen", "scores", "quelle", "geprueft"]
+# Optionale Angaben: fehlen sie, werden sie als leere Werte gespeichert (die Seite blendet sie dann aus).
+OPTIONAL_EVENT = {"turnus": "", "zeitraum": "", "kosten": "", "zielgruppe": "", "fokus": "", "begruendung": "",
+                  "rolle": [], "anmeldung": "", "anmeldeschluss": None}
+PFLICHT_STARTUP = ["id", "name", "sitz", "region", "land", "loesung", "branchen", "relevanz", "aufwand", "quelle", "geprueft"]
+OPTIONAL_STARTUP = {"gruendung": "", "suchfeld": "", "mehrwert": "", "reifegrad": "", "finanzierung": "",
+                    "anbindung": "", "kooperation": "", "website": None, "investoren_weitere": []}
+# Branchen für den Filter auf der Seite – jeder Eintrag bekommt eine oder mehrere.
+BRANCHEN = ["Bau & Immobilien", "Dach & Gebäudehülle", "Energie & Solar", "Gebäudetechnik", "Industrie & Fertigung",
+            "Metall & Oberflächen", "Material & Kreislauf", "Handwerk", "Software, KI & Daten", "Logistik & Handel",
+            "Gründung & Innovation"]
 SU_REGIONEN = {"Ostbayern", "Bayern", "Deutschland", "Europa"}
 PFLICHT_RUNDE = ["id", "datum", "art", "runde", "unternehmen", "sitz", "land", "thema", "betrag", "kurz", "quelle", "geprueft"]
 RUNDEN_ARTEN = {"Finanzierungsrunde", "Übernahme", "Fonds"}
 PFLICHT_INVESTOR = ["id", "name", "typ", "sitz", "kurz", "phasen", "ticket", "volumen", "themen", "quelle", "geprueft"]
 KATEGORIE_REGELN = [
+    ("messe", "Messe"),
     ("gründungswochenende", "Gründungswochenende & Hackathon"),
     ("hackathon", "Gründungswochenende & Hackathon"),
     ("pitch", "Pitch & Demo Day"),
@@ -44,13 +52,44 @@ KATEGORIE_REGELN = [
     ("matchmaking", "Matchmaking"),
     ("corporate-meets", "Matchmaking"),
     ("festival", "Start-up-Festival"),
-    ("messe", "Messe"),
+    ("award", "Pitch & Demo Day"),
+    ("preisverleihung", "Pitch & Demo Day"),
+    ("webinar", "Vortrag & Webinar"),
+    ("online-seminar", "Vortrag & Webinar"),
+    ("vortrag", "Vortrag & Webinar"),
+    ("vorlesung", "Vortrag & Webinar"),
+    ("lecture", "Vortrag & Webinar"),
+    ("talk", "Vortrag & Webinar"),
+    ("infoveranstaltung", "Vortrag & Webinar"),
+    ("informationsveranstaltung", "Vortrag & Webinar"),
+    ("sprechtag", "Vortrag & Webinar"),
+    ("workshop", "Workshop & Seminar"),
+    ("seminar", "Workshop & Seminar"),
+    ("schulung", "Workshop & Seminar"),
+    ("training", "Workshop & Seminar"),
+    ("bootcamp", "Workshop & Seminar"),
+    ("exkursion", "Workshop & Seminar"),
     ("konferenz", "Konferenz & Kongress"),
     ("kongress", "Konferenz & Kongress"),
+    ("tagung", "Konferenz & Kongress"),
+    ("symposium", "Konferenz & Kongress"),
+    ("forum", "Konferenz & Kongress"),
+    ("summit", "Konferenz & Kongress"),
+    ("gipfel", "Konferenz & Kongress"),
     ("innovationstag", "Konferenz & Kongress"),
+    ("fachtag", "Konferenz & Kongress"),
     ("netzwerk", "Netzwerk"),
     ("barcamp", "Netzwerk"),
     ("innovationswoche", "Netzwerk"),
+    ("stammtisch", "Netzwerk"),
+    ("meetup", "Netzwerk"),
+    ("treffen", "Netzwerk"),
+    ("frühstück", "Netzwerk"),
+    ("afterwork", "Netzwerk"),
+    ("after work", "Netzwerk"),
+    ("empfang", "Netzwerk"),
+    ("ausstellung", "Messe"),
+    ("expo", "Messe"),
 ]
 
 
@@ -135,12 +174,31 @@ def prioritaet_startup(rel, aufw):
     return "C"
 
 
+def pruefe_branchen(art, x, fehler):
+    b = x.get("branchen")
+    if not isinstance(b, list) or not b:
+        return  # fehlt → wird schon als Pflichtfeld gemeldet
+    for w in b:
+        if w not in BRANCHEN:
+            fehler.append(f"{art} {x.get('id')}: unbekannte Branche '{w}' (erlaubt: {', '.join(BRANCHEN)})")
+
+
+def ergaenze_optional(x, vorgaben):
+    for k, v in vorgaben.items():
+        if x.get(k) is None and v is not None:
+            x[k] = v.copy() if isinstance(v, list) else v
+        elif k not in x:
+            x[k] = v
+
+
 def pruefe_events(events, fehler):
     ids = set()
     for e in events:
         for f in PFLICHT_EVENT:
-            if f not in e or e[f] in (None, ""):
+            if f not in e or e[f] in (None, "", []):
                 fehler.append(f"Event {e.get('id', '?')}: Feld '{f}' fehlt")
+        pruefe_branchen("Event", e, fehler)
+        ergaenze_optional(e, OPTIONAL_EVENT)
         if e.get("id") in ids:
             fehler.append(f"Event-ID doppelt: {e.get('id')}")
         ids.add(e.get("id"))
@@ -166,8 +224,10 @@ def pruefe_startups(startups, fehler):
     ids = set()
     for s in startups:
         for f in PFLICHT_STARTUP:
-            if f not in s or s[f] in (None, ""):
+            if f not in s or s[f] in (None, "", []):
                 fehler.append(f"Start-up {s.get('id', '?')}: Feld '{f}' fehlt")
+        pruefe_branchen("Start-up", s, fehler)
+        ergaenze_optional(s, OPTIONAL_STARTUP)
         if s.get("id") in ids:
             fehler.append(f"Start-up-ID doppelt: {s.get('id')}")
         ids.add(s.get("id"))
@@ -314,8 +374,9 @@ def vevent(e, stamp, site):
         f"{e['format']} · {e['veranstalter']}",
         f"Priorität {e['prioritaet']} (Gesamtscore {str(e['gesamt']).replace('.', ',')})",
         f"Terminstatus: {e['status']}" + (" – bitte vor der Planung prüfen" if geschaetzt else ""),
-        f"Warum relevant: {e['begruendung']}",
-        f"Empfohlene Rolle: {', '.join(e['rolle'])}",
+        f"Branchen: {', '.join(e.get('branchen', []))}",
+        f"Warum relevant: {e.get('begruendung') or e.get('fokus') or 'k. A.'}",
+        f"Empfohlene Rolle: {', '.join(e.get('rolle') or []) or 'k. A.'}",
         f"Anmeldung: {e.get('anmeldung') or 'k. A.'}",
         f"Quelle: {e['quelle']}",
         f"Radar: {site}",
@@ -380,7 +441,7 @@ def baue_hinweis(events, meta, heute):
         for e in wichtig:
             geschaetzt = " (Termin geschätzt)" if e["status"] == "geschätzt" else ""
             zeilen.append(f"• {zeitraum_text(e)} – {e['name']}, {e['ort']}{geschaetzt} · Priorität {e['prioritaet']}"
-                          f" · Empfehlung: {', '.join(e['rolle'])}")
+                          + (f" · Empfehlung: {', '.join(e['rolle'])}" if e.get('rolle') else ""))
         zeilen.append("")
     if rest:
         zeilen.append(f"Dazu {rest} weitere{'r' if rest == 1 else ''} Termin{'' if rest == 1 else 'e'} mit Priorität C"
