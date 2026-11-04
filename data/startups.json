@@ -2743,6 +2743,43 @@
   "letzte_runde": null
  },
  {
+  "id": "all3",
+  "name": "All3",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "",
+  "loesung": "Generalunternehmer für Wohnungsbau mit KI-gestützter Planung, Robotik und Holzhybridbauweise für deutlich schnelleres Bauen.",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "finanzierung": "",
+  "anbindung": "",
+  "kooperation": "",
+  "relevanz": 1,
+  "aufwand": 3,
+  "website": "https://all3.com/de",
+  "investoren_weitere": [],
+  "quelle": "https://all3.com/de",
+  "geprueft": "2026-11-04",
+  "branchen": [
+   "Bau & Immobilien",
+   "Software, KI & Daten",
+   "Industrie & Fertigung"
+  ],
+  "herkunft": "abruf:firmen-europa",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
+ },
+ {
   "id": "azekura",
   "name": "Azekura",
   "sitz": "Bietigheim-Bissingen",
@@ -2806,6 +2843,42 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
+ },
+ {
+  "id": "duramea",
+  "name": "Duramea",
+  "sitz": "Graz",
+  "region": "Europa",
+  "land": "AT",
+  "gruendung": "",
+  "loesung": "Langlebige Membran-Elektroden-Einheiten (MEAs) für Elektrolyseure und Brennstoffzellen.",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "finanzierung": "",
+  "anbindung": "",
+  "kooperation": "",
+  "relevanz": 1,
+  "aufwand": 3,
+  "website": "https://duramea.com/",
+  "investoren_weitere": [],
+  "quelle": "https://www.greentech.at/en/?p=167699",
+  "geprueft": "2026-11-04",
+  "branchen": [
+   "Energie & Solar",
+   "Material & Kreislauf"
+  ],
+  "herkunft": "abruf:firmen-europa",
+  "geo": [
+   47.0707,
+   15.4395
   ],
   "prioritaet": "C",
   "quickwin": false,
@@ -3349,6 +3422,43 @@
   "geo": [
    48.0886,
    11.0242
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
+ },
+ {
+  "id": "s1seven",
+  "name": "S1SEVEN",
+  "sitz": "Retz",
+  "region": "Europa",
+  "land": "AT",
+  "gruendung": "",
+  "loesung": "Software, die Materialzertifikate und Konformitätsnachweise in industriellen Lieferketten (u. a. Stahl und Metall) digital und automatisch prüft.",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "finanzierung": "",
+  "anbindung": "",
+  "kooperation": "",
+  "relevanz": 1,
+  "aufwand": 3,
+  "website": "https://www.s1seven.com/",
+  "investoren_weitere": [],
+  "quelle": "https://www.s1seven.com/",
+  "geprueft": "2026-11-04",
+  "branchen": [
+   "Metall & Oberflächen",
+   "Software, KI & Daten",
+   "Industrie & Fertigung"
+  ],
+  "herkunft": "abruf:firmen-europa",
+  "geo": [
+   48.7567,
+   15.9497
   ],
   "prioritaet": "C",
   "quickwin": false,
