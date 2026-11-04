@@ -588,6 +588,66 @@ def verarbeite_seite(q, cache, max_detail, url=None):
     return ergebnis
 
 
+ORG_TYPEN = {"organization", "corporation", "localbusiness", "professionalservice", "softwareapplication"}
+PLZ_RE = re.compile(r"(?<![\d-])(?:(D|A|CH)-)?(\d{4,5})\s+([A-ZÄÖÜ][a-zäöüß]+(?:[ -](?:[A-ZÄÖÜ]?[a-zäöüß]+|im|am|an|der|bei)){0,3})")
+
+
+def firmenprofil(url, cache):
+    """Öffentliche Unternehmensangaben einer Start-up-Website: Name, Kurzbeschreibung, Sitz laut Impressum."""
+    c = cache.get("firma:" + url)
+    if c and c.get("geholt", "") >= (HEUTE - dt.timedelta(days=60)).isoformat():
+        return c.get("profil")
+    profil = {"website": url}
+    try:
+        final, text, _ = hole(url)
+        z = zerlege(text)
+        profil["website"] = final
+        profil["name"] = (z.meta.get("og:site_name") or z.titel or "").strip()[:120]
+        profil["kurz"] = (z.meta.get("og:description") or z.meta.get("description") or "").strip()[:300]
+        for b in z.jsonld:
+            o = lade_json_locker(b)
+            stapel = [o]
+            while stapel:
+                x = stapel.pop()
+                if isinstance(x, list):
+                    stapel += x
+                elif isinstance(x, dict):
+                    if "@graph" in x:
+                        stapel.append(x["@graph"])
+                    if typen(x) & ORG_TYPEN and isinstance(x.get("address"), dict):
+                        adr = x["address"]
+                        profil.setdefault("sitz", adr.get("addressLocality") or "")
+                        land = adr.get("addressCountry") or ""
+                        profil.setdefault("land", land.get("name", "") if isinstance(land, dict) else land)
+                        if x.get("foundingDate"):
+                            profil.setdefault("gruendung", str(x["foundingDate"])[:4])
+        imp = next((urllib.parse.urljoin(final, l["href"]) for l in z.links
+                    if re.search(r"impressum|imprint|legal notice|mentions l", l["text"] + " " + l["href"], re.I)), "")
+        if imp:
+            profil["impressum"] = imp
+            if not profil.get("sitz"):
+                _, t2, _ = hole(imp)
+                zeilen = sichtbarer_text(zerlege(t2))
+                for zl in zeilen[:200]:
+                    m = PLZ_RE.search(zl)
+                    if m:
+                        profil["sitz"] = m.group(3).strip()
+                        pre = m.group(1) or ""
+                        profil["plz"] = m.group(2)
+                        ctx = " ".join(zeilen[:200]).lower()
+                        if pre == "A" or (len(m.group(2)) == 4 and ("österreich" in ctx or "austria" in ctx)):
+                            profil["land"] = "AT"
+                        elif pre == "CH" or (len(m.group(2)) == 4 and ("schweiz" in ctx or "switzerland" in ctx)):
+                            profil["land"] = "CH"
+                        elif len(m.group(2)) == 5:
+                            profil["land"] = "DE"
+                        break
+    except Exception as ex:  # noqa: BLE001
+        profil["fehler"] = type(ex).__name__
+    cache["firma:" + url] = {"geholt": HEUTE.isoformat(), "profil": profil}
+    return profil
+
+
 def verarbeite_liste(q, cache, max_detail):
     final, text, _ = hole(q["url"])
     z = zerlege(text)
@@ -626,8 +686,18 @@ def verarbeite_liste(q, cache, max_detail):
                 eintraege.append(e)
             except Exception as ex:  # noqa: BLE001
                 cache[u] = {"geholt": HEUTE.isoformat(), "fehler": type(ex).__name__}
+    firmen = []
+    if q.get("website_text") or q.get("profile"):
+        ziele = []
+        if q.get("website_text"):
+            wt = re.compile(q["website_text"], re.I)
+            ziele += [l["url"] for l in links if l["extern"] and wt.search(l["text"])]
+        if q.get("profile"):
+            ziele += [e["website"] for e in eintraege if e.get("website")]
+        for u in list(dict.fromkeys(ziele))[: q.get("max_firmen", 120)]:
+            firmen.append(firmenprofil(u, cache))
     return {"koepfe": [t for h, t in z.koepfe if h in ("h2", "h3", "h4")][:400],
-            "links": links[:800], "eintraege": eintraege}
+            "links": links[:800], "eintraege": eintraege, "firmen": firmen}
 
 
 # ---------------------------------------------------------------- Entdecken
@@ -752,7 +822,7 @@ def main():
                 (aus / "abruf" / "listen" / f"{q['id']}.json").write_text(json.dumps({
                     "quelle": q["id"], "name": q.get("name"), "url": q["url"], "abgerufen": HEUTE.isoformat(), **r},
                     ensure_ascii=False, indent=1), encoding="utf-8")
-                st["anzahl"] = len(r["eintraege"]) or len([l for l in r["links"] if l["extern"]])
+                st["anzahl"] = len(r["firmen"]) or len(r["eintraege"]) or len([l for l in r["links"] if l["extern"]])
                 st["methoden"] = ["liste"] + (["detailseiten"] if r["eintraege"] else [])
             else:
                 r = {"events": [], "methoden": [], "zeilen": []}

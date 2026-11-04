@@ -782,7 +782,8 @@
    "art": "liste",
    "region": "Deutschland",
    "typ": "Accelerator",
-   "url": "https://groundbreakers.io/en"
+   "url": "https://groundbreakers.io/en",
+   "website_text": "^Website"
   },
   {
    "id": "liste-gzdn",
@@ -817,7 +818,8 @@
    "region": "Bayern",
    "typ": "Investor",
    "url": "https://bayernkapital.de/portfolio/",
-   "folge": "/portfolio/portfolio-ueberblick/"
+   "folge": "/portfolio/portfolio-ueberblick/",
+   "profile": true
   },
   {
    "id": "liste-htgf",
@@ -826,7 +828,8 @@
    "region": "Deutschland",
    "typ": "Investor",
    "url": "https://www.htgf.de/portfolio/",
-   "folge": "/portfolio/htgffamily/"
+   "folge": "/portfolio/htgffamily/",
+   "profile": true
   },
   {
    "id": "liste-munich-urban-colab",
