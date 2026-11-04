@@ -3420,5 +3420,4206 @@
     "entscheidung": ""
    }
   ]
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/4/11/2026/digit-r-geklickt-gehackt-wie-sicher-im-netz": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/ausstellungen-an-der-ur": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Ausstellungen an der UR",
+    "start": "2027-03-31",
+    "ende": "2027-03-31",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/ausstellungen-an-der-ur",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-03-31|uni-regensburg.de/universitaet/aktuelles/kalender/ausstellungen-an-der-ur",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/community-of-practice-gesundheitsfoerderung-praevention-fokus-bgm-teil-2-finanzieren/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/10/11/2026/pitch-match-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Pitch & Match 2026 – Das Online Matching Event für Unternehmen & Start-ups",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/10/11/2026/pitch-match-2026",
+    "veranstalter": "",
+    "kurz": "Pitch & Match 2026: Online-Event für gezieltes Matchmaking zwischen Unternehmen und Start-ups. Jetzt Challenge für Start-ups einreichen!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-10|techbase.de/news-termine/events-termine/detail/10/11/2026/pitch-match-2026",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "pitch-match-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/03-11-2026_wissen-schafft-zukunft-sozial-und-geisteswissenschaftliche-perspektiven-auf-nachhaltigen-konsum-2": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/inspiration-startup-night-2/": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Inspiration & Startup Night",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/inspiration-startup-night-2/",
+    "veranstalter": "",
+    "kurz": "Die INSPIRATION & STARTUP NIGHT macht ihrem Namen seit Jahren alle Ehre.\r\nEinmal im Jahr versammelt sich die Gründungs- und Innovationsszene der Nordoberpfalz an der OTH Amberg-Weiden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-aw",
+    "quelle_name": "OTH Amberg-Weiden – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-16|oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/inspiration-startup-night-2",
+    "quellen": [
+     "oth-aw"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "startup-night-weiden-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/16/11/2026/inspiration-startup-night-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Inspiration & StartUp Night 2026",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/16/11/2026/inspiration-startup-night-2026",
+    "veranstalter": "",
+    "kurz": "KI, Startups & Insider-Einblicke: Besuch die Inspiration & StartUp Night 2026 am 16.11. an der OTH Weiden. Kostenlose Teilnahme – hier anmelden!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation",
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-16|techbase.de/news-termine/events-termine/detail/16/11/2026/inspiration-startup-night-2026",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "startup-night-weiden-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.sensorik-bayern.de/fileadmin/Bilder/Seminare/Seminarreihen/Flyer_Co-Creation_April_Mai_2026.pdf": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-04&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=bowling-billiard-mit-den-study-mates&cHash=334fe92199fd314b63cf72ed0ec4f635": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/03-11-2026_wissen-schafft-zukunft-nachhaltiges-wirtschaften-1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/17/11/2026/workshop-fallstricke-steuerrecht": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Workshop: Fallstricke im Steuerrecht",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
+    "veranstalter": "",
+    "kurz": "GmbH-Überführung, Scheinselbstständigkeit & USt. im Ausland: Jetzt für den Workshop am 17.11. in der TechBase Regensburg anmelden & rechtssicher wachsen!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-17|techbase.de/news-termine/events-termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/23-partnercircle/": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "23. PartnerCircle",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/23-partnercircle/",
+    "veranstalter": "",
+    "kurz": "Wir wollen Ihnen unter diesjähriger Federführung durch die Fakultät Maschinenbau/Umwelttechnik (MB/UT) die Ziele, Inhalte und Kooperationsangebote im neuen Technologietransferzentrum (TTZ) Schwandorf vorstellen.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-aw",
+    "quelle_name": "OTH Amberg-Weiden – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2026-11-24|oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/23-partnercircle",
+    "quellen": [
+     "oth-aw"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621110": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/03-11-2026_school-systems-worldwide-1": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Veranstaltung: School Systems Worldwide",
+    "start": "2026-11-03",
+    "ende": "2026-11-03",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/03-11-2026_school-systems-worldwide-1",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-03|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/03-11-2026_school-systems-worldwide-1",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/18/11/2026/hochschulgruendertag-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Hochschulgründertag 2026",
+    "start": "2026-11-18",
+    "ende": "2026-11-18",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/18/11/2026/hochschulgruendertag-2026",
+    "veranstalter": "",
+    "kurz": "Das OTH Start-up Center und das Verbundprojekt GründungsHUB Ostbayern laden herzlich zum Hochschulgründertag am 18. November 2026 ein. Jetzt kostenlos anmelden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-18|techbase.de/news-termine/events-termine/detail/18/11/2026/hochschulgruendertag-2026",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "startup-night-weiden-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-04&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=ausstellung-in-visible-geschichten-sichtbar-machen&cHash=18ff62bb529adace8e2d4df3965d96d7": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/618711": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/03-11-2026_erasmus-europaeische-austauschprogramme-fuer-naturwissenschaften": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/gemeinsames-forschungskolloquium-der-fakultaeten-emi-und-mb-ut/": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Gemeinsames Forschungskolloquium der Fakultäten EMI und MB/UT",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/gemeinsames-forschungskolloquium-der-fakultaeten-emi-und-mb-ut/",
+    "veranstalter": "",
+    "kurz": "Neue Ergebnisse aus Forschungsaktivitäten der Fakultäten EMI und MB/UT",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-aw",
+    "quelle_name": "OTH Amberg-Weiden – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/gemeinsames-forschungskolloquium-der-fakultaeten-emi-und-mb-ut",
+    "quellen": [
+     "oth-aw"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/23/11/2026/kanada-besucht-die-techbase-innovations-und-kooperationspotenziale": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Kanada besucht die TechBase: Innovations- und Kooperationspotenziale",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/23/11/2026/kanada-besucht-die-techbase-innovations-und-kooperationspotenziale",
+    "veranstalter": "",
+    "kurz": "TechBase Regensburg, Creative Lab, 16:00-19:00 Uhr",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-23|techbase.de/news-termine/events-termine/detail/23/11/2026/kanada-besucht-die-techbase-innovations-und-kooperationspotenziale",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-mobilitaet/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-2df22e94127a44c89d85a0ec107e78b4?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621111": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/das-liebe-geld-hat-es-ein-gewissen-1/": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "„Das liebe Geld – hat es ein Gewissen?“",
+    "start": "2027-04-05",
+    "ende": "2027-04-05",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/das-liebe-geld-hat-es-ein-gewissen-1/",
+    "veranstalter": "",
+    "kurz": "Hat Geld eigentlich ein Gewissen? Der Oberpfälzer Singer-Songwriter und Autor Dr. theol. Hubert Treml spricht mit Jürgen Koppmann, Gründungsmitglied der UmweltBank, über Finanzen, Ethik und Verantwortung – unterhaltsam, ",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-aw",
+    "quelle_name": "OTH Amberg-Weiden – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-04-05|oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/das-liebe-geld-hat-es-ein-gewissen-1",
+    "quellen": [
+     "oth-aw"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Webinar: Schritt für Schritt zur Gründung",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
+    "veranstalter": "",
+    "kurz": "Wer seine Gründung gut plant, kommt schneller ans Ziel. Welche Überlegungen im Vorfeld wichtig sind und was bei der Gründung beachtet werden muss erfahrt ihr im Webinar der IHK.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-25|techbase.de/news-termine/events-termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_biodiversity-impacts-of-renewable-energy-zacharias-sautner-universitaet-zuerich": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-06&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=offene-sprechstunde-landshut-graduate-center-20261106&cHash=f9fed9e3d34ff1212704649808521976": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Offene Sprechstunde Landshut Graduate Center",
+    "start": "2026-11-06",
+    "ende": "2026-11-06",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261106",
+    "veranstalter": "",
+    "kurz": "Offene Sprechstunde des Graduate Centers",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-06|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261106",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-techhub-svi/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-475902279eeb420a8b40b44ea5aea530?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/25/11/2026/4-bayerischer-materialflusskongress": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "4. Bayerischer Materialflusskongress",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/25/11/2026/4-bayerischer-materialflusskongress",
+    "veranstalter": "",
+    "kurz": "TechBase Regensburg, 12:00 - 16:30 Uhr",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-25|techbase.de/news-termine/events-termine/detail/25/11/2026/4-bayerischer-materialflusskongress",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "materialflusskongress-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621255": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_philosophisches-kolloquium-vortrag-von-prof-dr-sebastian-bender-lmu-muenchen": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-quantentechnologie/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-06&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=absolventenfeier-2026&cHash=8fa64164ec8b19d2c0e7c44fbe8ab6ff": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Absolventenfeier 2026",
+    "start": "2026-11-06",
+    "ende": "2026-11-06",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/absolventenfeier-2026",
+    "veranstalter": "",
+    "kurz": "Sie haben Ihr Studium im Wintersemester 2025/26 oder Sommersemester 2026 abgeschlossen? Dann melden Sie sich jetzt zur Absolventenfeier an und feiern Sie diesen Meilenstein gemeinsam mit Kommilitoninnen und Kommilitonen,",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-06|haw-landshut.de/veranstaltungen/termin/absolventenfeier-2026",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "groundbreakers-summit-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/26/11/2026/startup-factory-regensburg-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "StartUP Factory Regensburg 2026",
+    "start": "2026-11-28",
+    "ende": "2026-11-28",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/26/11/2026/startup-factory-regensburg-2026",
+    "veranstalter": "",
+    "kurz": "TechBase Regensburg",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-28|techbase.de/news-termine/events-termine/detail/26/11/2026/startup-factory-regensburg-2026",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "startup-factory-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/619282": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_missbrauch-in-institutionen-sexuelle-spirituelle-systemische-komponenten-3": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-16742b91e26c41e0a97502a0616b5bc7?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-knedl/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/619067": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_sprache-die-bass-fuer-inklusion-2": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Veranstaltung: Sprache - die BAS!S für Inklusion",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_sprache-die-bass-fuer-inklusion-2",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_sprache-die-bass-fuer-inklusion-2",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-07&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=herztag-herz-aus-dem-takt&cHash=e9b6854cf5461bf0f66673fbd6b0fad2": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Herztag - Herz aus dem Takt",
+    "start": "2026-11-07",
+    "ende": "2026-11-07",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/herztag-herz-aus-dem-takt",
+    "veranstalter": "",
+    "kurz": "HERZLICHE EINLADUNG ZUM\r\nHERZTAG - HERZ AUS DEM TAKT\r\nSamstag, 7. November 2026\r\n10.00 bis 12.30 Uhr, Hochschule Landshut\r\n",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-07|haw-landshut.de/veranstaltungen/termin/herztag-herz-aus-dem-takt",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-material/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-207e5238bbf64b66b1cfb30f22156086?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Startup Demo Night München",
+    "start": "2026-11-06",
+    "ende": "2026-11-06",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.baystartup.de/termine/detailview/event-207e5238bbf64b66b1cfb30f22156086?no_cache=1",
+    "veranstalter": "BayStartUP",
+    "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "baystartup",
+    "quelle_name": "BayStartUP – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-06|baystartup.de/termine/detailview/event-207e5238bbf64b66b1cfb30f22156086",
+    "quellen": [
+     "baystartup"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617498": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_kritische-perspektiven-auf-bildung-fuer-nachhaltige-entwicklung-theoretische-grundlagen-und-praxisanwendungen": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Veranstaltung: Kritische Perspektiven auf Bildung für nachhaltige Entwicklung: Theoretische Grundlagen und Praxisanwendungen",
+    "start": "2026-11-18",
+    "ende": "2026-11-18",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_kritische-perspektiven-auf-bildung-fuer-nachhaltige-entwicklung-theoretische-grundlagen-und-praxisanwendungen",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-18|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_kritische-perspektiven-auf-bildung-fuer-nachhaltige-entwicklung-theoretische-grundlagen-und-praxisanwendungen",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-textil/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/613423": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-d88170b27a3f4f8e9691b9ed04970112?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-2": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Veranstaltung: Verfassungsdebatten: Antike Ursprünge, historische Wirkung, aktuelle Relevanz",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-2",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-2",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-mechatronik/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-09&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=girls-abend-im-cafe-mit-den-maedels-von-den-study-mates&cHash=89a3fe07dae5b64cc06a92f2566ee3a8": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Girls-Abend im Café mit den Mädels von den Study Mates",
+    "start": "2026-11-09",
+    "ende": "2026-11-09",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/girls-abend-im-cafe-mit-den-maedels-von-den-study-mates",
+    "veranstalter": "",
+    "kurz": "Girls-Abend im Café ",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-09|haw-landshut.de/veranstaltungen/termin/girls-abend-im-cafe-mit-den-maedels-von-den-study-mates",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.tum-venture-labs.de/events/pitch-progress-sept-2025/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/619493": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Code Week 2026: Bayern, Regensburg",
+    "start": "2026-11-06",
+    "ende": "2026-11-06",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/619493",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-06|regensburg.de/veranstaltungen/detail/619493",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/04-11-2026_dphg-vortrag-entwicklung-von-rotverschobenen-azobenzolen-ein-entscheidender-fortschritt-in-der-in-vivo-photopharmakologie": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/partnertermine-additive-fertigung/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/startup-lunch-autonomous-system-hub/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-10&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=10-jahre-tz-puls&cHash=4616917320f8cedd594b9a4cefa3625d": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "10 Jahre TZ PULS – Gemeinsam Zukunft Produzieren",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/10-jahre-tz-puls",
+    "veranstalter": "",
+    "kurz": "10 Jahre TZ PULS",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|haw-landshut.de/veranstaltungen/termin/10-jahre-tz-puls",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.baystartup.de/termine/detailview/event-7b80eb4dec064bd0b3315452c56ff5bb?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/615881": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "\"Rainer & Hanna\" Photographien der deutschen Filmwelt der 70er von Michael Friedel",
+    "start": "2026-11-07",
+    "ende": "2026-11-07",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/615881",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-07|regensburg.de/veranstaltungen/detail/615881",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/startupnationdeutschland-24-03-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-energie/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/geriatronics-summit/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/05-11-2026_the-unlearned-lessons-of-kultura-giedroycs-legacy-and-present-day-polish-policy-towards-ukraine": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/convertiblewhat-17-09-2025": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-gesundheit/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-16d291753e254b81bb137c1292b7bb3e?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/applied-science-meetup-2/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/05-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-3": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Veranstaltung: Terrains: Kritische Perspektiven und Methoden in Geographie, Anthropologie und Geschichte",
+    "start": "2026-11-05",
+    "ende": "2026-11-05",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/05-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-3",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-05|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/05-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-3",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-10&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=talk-zwischen-forschung-familie-und-rollenerwartungen&cHash=429683515b2a554792b4bcbd11fb0221": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Workshop: Zwischen Forschung, Familie und Rollenerwartungen.",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/talk-zwischen-forschung-familie-und-rollenerwartungen",
+    "veranstalter": "",
+    "kurz": "Ein Vereinbarkeitsworkshop für Väter im Kontext Wissenschaft.\r\n",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|haw-landshut.de/veranstaltungen/termin/talk-zwischen-forschung-familie-und-rollenerwartungen",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/svontour:muenchen-14-04-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.bayern-innovativ.de/events-termine/detail/de/veranstaltung/branchentermine-innovatives-bauen/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.bauindustrie.de/termine/termine-detail/konferenz-artenschutz-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Konferenz Artenschutz 2026",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.bauindustrie.de/termine/termine-detail/konferenz-artenschutz-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bauindustrie-de",
+    "quelle_name": "Hauptverband der Deutschen Bauindustrie – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-01|bauindustrie.de/termine/termine-detail/konferenz-artenschutz-2026",
+    "quellen": [
+     "bauindustrie-de"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.zdb.de/presse/termine/32-sachverstaendigenseminar-strassen-und-tiefbau": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "32. Sachverständigenseminar Straßen- und Tiefbau",
+    "start": "2026-12-09",
+    "ende": "2026-12-09",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.zdb.de/presse/termine/32-sachverstaendigenseminar-strassen-und-tiefbau",
+    "veranstalter": "",
+    "kurz": "32. Sachverständigenseminar Straßen- und Tiefbau, 20./21. November 2026 in Hannover.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zdb",
+    "quelle_name": "Zentralverband Deutsches Baugewerbe – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Bau & Immobilien"
+    ],
+    "schluessel": "2026-12-09|zdb.de/presse/termine/32-sachverstaendigenseminar-strassen-und-tiefbau",
+    "quellen": [
+     "zdb"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.tum-venture-labs.de/events/22nd-expert-session-4/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/05-11-2026_der-mueller-aus-nottingham-der-die-greensche-funktion-erfand-george-green-und-sein-essay-von-1828": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-185e567ef82f4a0b8a9c2e6a8fd4ea31?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "TK Präsenz-Tutorial: Wie gehe ich während meines Pitches souverän mit Druck um?",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.baystartup.de/termine/detailview/event-185e567ef82f4a0b8a9c2e6a8fd4ea31?no_cache=1",
+    "veranstalter": "BayStartUP",
+    "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "baystartup",
+    "quelle_name": "BayStartUP – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-03|baystartup.de/termine/detailview/event-185e567ef82f4a0b8a9c2e6a8fd4ea31",
+    "quellen": [
+     "baystartup"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-13&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=offene-sprechstunde-landshut-graduate-center-20261113&cHash=e67ff7cc8f00319e4751585869a1dfde": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Offene Sprechstunde Landshut Graduate Center",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261113",
+    "veranstalter": "",
+    "kurz": "Offene Sprechstunde des Graduate Centers",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-13|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261113",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/startuponsale:wiemabewertungenfunktionieren-15-04-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdb.de/presse/termine/deutscher-baugewerbetag-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Deutscher Baugewerbetag 2026",
+    "start": "2026-12-09",
+    "ende": "2026-12-09",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.zdb.de/presse/termine/deutscher-baugewerbetag-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zdb",
+    "quelle_name": "Zentralverband Deutsches Baugewerbe – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-09|zdb.de/presse/termine/deutscher-baugewerbetag-2026",
+    "quellen": [
+     "zdb"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.bauindustrie.de/termine/termine-detail/innovationstag-bauen-der-zukunft": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Innovationstag Bauen der Zukunft",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.bauindustrie.de/termine/termine-detail/innovationstag-bauen-der-zukunft",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bauindustrie-de",
+    "quelle_name": "Hauptverband der Deutschen Bauindustrie – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-13|bauindustrie.de/termine/termine-detail/innovationstag-bauen-der-zukunft",
+    "quellen": [
+     "bauindustrie-de"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "innovationstag-bauen-der-zukunft-berlin-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.tum-venture-labs.de/events/applied-science-meetup/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/06-11-2026_how-to-apply-successfully-in-germany": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.buildingsmart.de/termine/buildingsmart-deutschland-auf-der-digitalbau-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/svontour:berlin-23-04-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-8f382d335c244335b5846c82a47e4cd0?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.bauindustrie.de/termine/termine-detail/bim-world-munich-2": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "BIM World MUNICH",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.bauindustrie.de/termine/termine-detail/bim-world-munich-2",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bauindustrie-de",
+    "quelle_name": "Hauptverband der Deutschen Bauindustrie – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Bau & Immobilien"
+    ],
+    "schluessel": "2026-11-24|bauindustrie.de/termine/termine-detail/bim-world-munich-2",
+    "quellen": [
+     "bauindustrie-de"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "bim-world-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/07-11-2026_20-jaehriges-jubilaeum-master-of-speech-communication-and-rhetoric": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/ki-festival-heilbronn/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-16&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=leg-reiner-wasserstoff-aus-guelle&cHash=dbde9a313b2b68beef4f6073c57cf4a6": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "LEG: Reiner Wasserstoff aus Gülle",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/leg-reiner-wasserstoff-aus-guelle",
+    "veranstalter": "",
+    "kurz": "Die Landshuter Energiegespräche der Hochschule Landshut befassen sich im Wintersemester 2026/2027 in drei Vorträgen mit dem Thema „Wasserstoff und Speichertechnik für ein resilientes Energiesystem“. Der Titel des zweiten",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-11-16|haw-landshut.de/veranstaltungen/termin/leg-reiner-wasserstoff-aus-guelle",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.zdh.de/presse/veranstaltungen/zdh-termine/": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "ZDH-Termine",
+    "start": "2026-11-05",
+    "ende": "2026-11-05",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.zdh.de/presse/veranstaltungen/zdh-termine/",
+    "veranstalter": "",
+    "kurz": "Hier finden Sie eine Liste der wichtigsten öffentlichen ZDH-Termine.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zdh",
+    "quelle_name": "Zentralverband des Deutschen Handwerks – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-05|zdh.de/presse/veranstaltungen/zdh-termine",
+    "quellen": [
+     "zdh"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/readyforangels:wiedeinteaminvestierbarwird-29-04-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/phd-breakfast-2026/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/09-11-2026_lunchtime-talk-zum-thema-organisiert-im-gruendungschaos-mit-struktur-zu-foerdermitteln-und-den-richtigen-kontakten": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-2e4e86ec76ff4008b6b31838e9219eac?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.bauindustrie.de/termine/termine-detail/fiec-conference-general-assembly-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "FIEC Conference & General Assembly 2027",
+    "start": "2027-06-24",
+    "ende": "2027-06-24",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.bauindustrie.de/termine/termine-detail/fiec-conference-general-assembly-2027",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bauindustrie-de",
+    "quelle_name": "Hauptverband der Deutschen Bauindustrie – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-06-24|bauindustrie.de/termine/termine-detail/fiec-conference-general-assembly-2027",
+    "quellen": [
+     "bauindustrie-de"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/omrfestival-05-05-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdh.de/presse/veranstaltungen/zdh-termine/vollversammlungen-dhkt-und-udh/": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Vollversammlungen DHKT und UDH",
+    "start": "2026-11-05",
+    "ende": "2026-11-05",
+    "ort": "Berlin",
+    "land": "",
+    "online": false,
+    "url": "https://www.zdh.de/presse/veranstaltungen/zdh-termine/vollversammlungen-dhkt-und-udh/",
+    "veranstalter": "ZDH, Berlin",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "zdh",
+    "quelle_name": "Zentralverband des Deutschen Handwerks – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-05|zdh.de/presse/veranstaltungen/zdh-termine/vollversammlungen-dhkt-und-udh",
+    "quellen": [
+     "zdh"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.tum-venture-labs.de/events/phd-breakfast-may-2025/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/09-11-2026_ringvorlesung-mehrsprachigkeitsforschung-1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-16&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=spieleabend&cHash=6ce1c84cc5292b49ae6dd89a024fbcfd": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Werwolf-Spieleabend",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/spieleabend",
+    "veranstalter": "",
+    "kurz": "Werwolf-Spieleabend",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-16|haw-landshut.de/veranstaltungen/termin/spieleabend",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/htgffamilyday-11-05-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-40e55f4df36d462783c99251ce1c01a6?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/from-science-to-start-up-biom-meets-fab-talks/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/09-11-2026_austauschprogramme-pj-famulatur-fuer-medizin": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdh.de/presse/veranstaltungen/zdh-termine/abend-der-begegnung/": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Abend der Begegnung",
+    "start": "2026-11-05",
+    "ende": "2026-11-05",
+    "ort": "Anton-Wilhelm-Amo-Straße 20/21, 10117 Berlin",
+    "land": "",
+    "online": false,
+    "url": "https://www.zdh.de/presse/veranstaltungen/zdh-termine/abend-der-begegnung/",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "zdh",
+    "quelle_name": "Zentralverband des Deutschen Handwerks – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-05|zdh.de/presse/veranstaltungen/zdh-termine/abend-der-begegnung",
+    "quellen": [
+     "zdh"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-16&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=3-alfinah-anwendungsworkshop&cHash=eaf33d1302c610386fb55ebee054f78d": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "AlFinaH Anwendungsworkshop: Regionaler CO2-Zertifikatehandel zwischen Hochschulen und Unternehmen als Beitrag zum Klimaschutz und Finanzierungsinstrument",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/3-alfinah-anwendungsworkshop",
+    "veranstalter": "",
+    "kurz": "Regionaler CO2-Zertifikatehandel zwischen Hochschulen und Unternehmen als Beitrag zum Klimaschutz und Finanzierungsinstrument",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Energie & Solar",
+     "Material & Kreislauf",
+     "Logistik & Handel"
+    ],
+    "schluessel": "2026-11-16|haw-landshut.de/veranstaltungen/termin/3-alfinah-anwendungsworkshop",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/greentechmonitor2026-12-05-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/forum-munich-aerospace-contrail-management-benefits-and-challenges-for-aviation/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-27e9f97cac344343b6c77818f4319e85?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "IdeenPitch Region Nürnberg: X-Mas Edition!",
+    "start": "2026-12-10",
+    "ende": "2026-12-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.baystartup.de/termine/detailview/event-27e9f97cac344343b6c77818f4319e85?no_cache=1",
+    "veranstalter": "BayStartUP",
+    "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "baystartup",
+    "quelle_name": "BayStartUP – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-10|baystartup.de/termine/detailview/event-27e9f97cac344343b6c77818f4319e85",
+    "quellen": [
+     "baystartup"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/09-11-2026_ausbildungsreihe-feminist-legal-aid-sexualisierte-gewalt": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdh.de/presse/veranstaltungen/zdh-termine/vollversammlung-zdh/": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Vollversammlung ZDH mit ZDH-Forum",
+    "start": "2026-11-06",
+    "ende": "2026-11-06",
+    "ort": "Berlin",
+    "land": "",
+    "online": false,
+    "url": "https://www.zdh.de/presse/veranstaltungen/zdh-termine/vollversammlung-zdh/",
+    "veranstalter": "ZDH, Berlin",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "zdh",
+    "quelle_name": "Zentralverband des Deutschen Handwerks – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-06|zdh.de/presse/veranstaltungen/zdh-termine/vollversammlung-zdh",
+    "quellen": [
+     "zdh"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/startupinthespotlight:prlearningsvonproximafusion-13-05-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zvo.org/events/termine/detailansicht/zvo-oberflaechentage-2026-karlsruhe": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "ZVO-Oberflächentage 2027, Berlin (Hotel MOA)",
+    "start": "2027-09-17",
+    "ende": "2027-09-17",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.zvo.org/events/termine/detailansicht/zvo-oberflaechentage-2026-karlsruhe",
+    "veranstalter": "Zentralverband Oberflächentechnik e.V.",
+    "kurz": "15.-17. September 2027\r\nVollständige Informationen unter https://oberflaechentage.zvo.org",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zvo",
+    "quelle_name": "Zentralverband Oberflächentechnik – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Metall & Oberflächen"
+    ],
+    "schluessel": "2027-09-17|zvo.org/events/termine/detailansicht/zvo-oberflaechentage-2026-karlsruhe",
+    "quellen": [
+     "zvo"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.tum-venture-labs.de/events/academia-day-at-msc-2025-2/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-09&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=public-climate-school-aktionswoche-rund-um-die-klimakrise&cHash=7c118c3241a7bbaaa30a955b5ddc2429": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Public Climate School - Aktionswoche rund um die Klimakrise",
+    "start": "2026-11-09",
+    "ende": "2026-11-09",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/public-climate-school-aktionswoche-rund-um-die-klimakrise",
+    "veranstalter": "",
+    "kurz": "Im Rahmen der Public Climate School finden vom 9. bis 16. November 2026 am Campus der Hochschule Landshut Fachvorträge und eine begleitende Posterausstellung zu aktuellen Projekten aus Forschung, Lehre und Betrieb im Ber",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-09|haw-landshut.de/veranstaltungen/termin/public-climate-school-aktionswoche-rund-um-die-klimakrise",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.baystartup.de/termine/detailview/event-3f025dccb2ef47749d30d665c11b469e?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/germanstartupawards2026-21-05-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdh.de/presse/veranstaltungen/veranstaltungsrueckblick/deutscher-handwerkstag-2025/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/breakthrough-energy-fellows/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/equitymatters:trendsbeimanagementmitarbeiterbeteiligung-27-05-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/lab-to-launch/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-3e1d8d271b2a45718882186017d60443?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Businessplan Wettbewerb 2027 | Phase 1: Q&A-Session",
+    "start": "2027-01-07",
+    "ende": "2027-01-07",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.baystartup.de/termine/detailview/event-3e1d8d271b2a45718882186017d60443?no_cache=1",
+    "veranstalter": "BayStartUP",
+    "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "baystartup",
+    "quelle_name": "BayStartUP – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-01-07|baystartup.de/termine/detailview/event-3e1d8d271b2a45718882186017d60443",
+    "quellen": [
+     "baystartup"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.zvo.org/events/termine/detailansicht/32-leipziger-fachseminar": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "32. Leipziger Fachseminar",
+    "start": "2027-03-04",
+    "ende": "2027-03-04",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.zvo.org/events/termine/detailansicht/32-leipziger-fachseminar",
+    "veranstalter": "Zentralverband Oberflächentechnik e.V.",
+    "kurz": "4. März 2027Congress Center LeipzigLeipzig&nbsp;",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zvo",
+    "quelle_name": "Zentralverband Oberflächentechnik – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Metall & Oberflächen"
+    ],
+    "schluessel": "2027-03-04|zvo.org/events/termine/detailansicht/32-leipziger-fachseminar",
+    "quellen": [
+     "zvo"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/cimx-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "CIMX",
+    "start": "2026-11-05",
+    "ende": "2026-11-05",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/cimx-2026",
+    "veranstalter": "",
+    "kurz": "The premier platform for China's Events, Meetings and Incentive Tavel Industry",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung",
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-05|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/cimx-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-17&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=stipendien-fuer-einen-auslandsaufenthalt-online-infoveranstaltung-und-erfahrungsbericht-1-2-1&cHash=3485ca507add7b605cd0f5b099631682": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Stipendien für einen Auslandsaufenthalt - Online-Infoveranstaltung und Erfahrungsbericht",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/stipendien-fuer-einen-auslandsaufenthalt-online-infoveranstaltung-und-erfahrungsbericht-1-2-1",
+    "veranstalter": "",
+    "kurz": "<strong>Stipendien im Ausland</strong>?",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-17|haw-landshut.de/veranstaltungen/termin/stipendien-fuer-einen-auslandsaufenthalt-online-infoveranstaltung-und-erfahrungsbericht-1-2-1",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.zdh.de/presse/veranstaltungen/zukunft-handwerk-und-ihm/zukunft-handwerk-und-ihm-2025/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/politicsandpizza-02-06-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/bau-2025-2/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bazaar-berlin-2026-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Bazaar Berlin 2026",
+    "start": "2026-11-08",
+    "ende": "2026-11-08",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bazaar-berlin-2026-2026",
+    "veranstalter": "",
+    "kurz": "Internationale Verkaufsmesse für Kunsthandwerk, Design, Naturwaren sowie für fair gehandelte und sozial produzierte Erzeugnisse",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Handwerk",
+     "Logistik & Handel"
+    ],
+    "schluessel": "2026-11-08|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bazaar-berlin-2026-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.baystartup.de/termine/detailview/event-3937f63f021d40ad8461ee14e2e14d28?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Businessplan Wettbewerb 2027 | Phase 1: Q&A-Session",
+    "start": "2027-01-12",
+    "ende": "2027-01-12",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.baystartup.de/termine/detailview/event-3937f63f021d40ad8461ee14e2e14d28?no_cache=1",
+    "veranstalter": "BayStartUP",
+    "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "baystartup",
+    "quelle_name": "BayStartUP – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-01-12|baystartup.de/termine/detailview/event-3937f63f021d40ad8461ee14e2e14d28",
+    "quellen": [
+     "baystartup"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/studienvorstellung:runningabusinessthehealthyway-09-06-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/science-night-innovation-in-cleantech-and-beyond/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdh.de/presse/veranstaltungen/veranstaltungsrueckblick/zdh-fachtagung-zur-nachhaltigkeitsberichterstattung/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-20&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=offene-sprechstunde-landshut-graduate-center-20261120&cHash=002a476c50f1f221a345864aabbdb507": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Offene Sprechstunde Landshut Graduate Center",
+    "start": "2026-11-20",
+    "ende": "2026-11-20",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261120",
+    "veranstalter": "",
+    "kurz": "Offene Sprechstunde des Graduate Centers",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-20|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261120",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.zvo.org/events/termine/detailansicht/zvo-seminar-grundlagen-der-galvano-und-oberflaechentechnik-2027-1": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "ZVO-Seminar: Grundlagen der Galvano- und Oberflächentechnik 2027_1",
+    "start": "2027-04-13",
+    "ende": "2027-04-13",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.zvo.org/events/termine/detailansicht/zvo-seminar-grundlagen-der-galvano-und-oberflaechentechnik-2027-1",
+    "veranstalter": "Zentralverband Oberflächentechnik e.V.",
+    "kurz": "13.-15. April 2027QUBUS GmbHSchwäbisch Gmünd",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zvo",
+    "quelle_name": "Zentralverband Oberflächentechnik – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Metall & Oberflächen"
+    ],
+    "schluessel": "2027-04-13|zvo.org/events/termine/detailansicht/zvo-seminar-grundlagen-der-galvano-und-oberflaechentechnik-2027-1",
+    "quellen": [
+     "zvo"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgn-kongress-2026-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "DGN Kongress 2026",
+    "start": "2026-11-07",
+    "ende": "2026-11-07",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgn-kongress-2026-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-07|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgn-kongress-2026-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=orlando_advertising-industry-exhibition_232467": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/founderbreakfast-11-06-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/16th-expert-session/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-38115741ceb14fda8b2dea7be09c0acc?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/the-icon-league-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdh.de/presse/veranstaltungen/zukunft-handwerk-und-ihm/zukunft-handwerk-und-ihm-2024/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/vivatech2026-17-06-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/ammersee-venture-school/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-23&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=online-und-praesenz-informationsveranstaltung-berufsbegleitender-master-systems-and-project-management-mba-1-1&cHash=7a91087f6f0723adf59d09bc8048070c": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Online-Informationsveranstaltung berufsbegleitender Master \"Systems and Project Management MBA \"",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/online-und-praesenz-informationsveranstaltung-berufsbegleitender-master-systems-and-project-management-mba-1-1",
+    "veranstalter": "",
+    "kurz": "Online-Infoveranstaltung ",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-23|haw-landshut.de/veranstaltungen/termin/online-und-praesenz-informationsveranstaltung-berufsbegleitender-master-systems-and-project-management-mba-1-1",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/itb-americas-2026-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "ITB Americas 2026",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/itb-americas-2026-2026",
+    "veranstalter": "",
+    "kurz": "The travel trade show  for the americas",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-12|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/itb-americas-2026-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "startup-trifft-mittelstand-bw-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.zvo.org/events/termine/detailansicht/24-norddeutscher-galvanotag": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "24. Norddeutscher Galvanotag",
+    "start": "2027-04-29",
+    "ende": "2027-04-29",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.zvo.org/events/termine/detailansicht/24-norddeutscher-galvanotag",
+    "veranstalter": "Zentralverband Oberflächentechnik e.V.",
+    "kurz": "29. April 2027MEDIAN HotelHannover Lehrte",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zvo",
+    "quelle_name": "Zentralverband Oberflächentechnik – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Metall & Oberflächen"
+    ],
+    "schluessel": "2027-04-29|zvo.org/events/termine/detailansicht/24-norddeutscher-galvanotag",
+    "quellen": [
+     "zvo"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.baystartup.de/termine/detailview/event-e54edcb3106d4714aefb868015728da3?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/don'tgetlost:sozialversicherungeinfacherklaert-24-06-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/tum-blockchain-conference/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdh.de/presse/veranstaltungen/zukunft-handwerk-und-ihm/zukunft-handwerk-und-ihm-2023/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=las-vegas_the-source-for-consumer-technologies_228890": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "International CES - Consumer Electronics Show",
+    "start": "2027-01-09",
+    "ende": "2027-01-09",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=las-vegas_the-source-for-consumer-technologies_228890",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-09|auma.de/messen-finden/details",
+    "quellen": [
+     "auma-bau"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/deutscher-pflegetag-2026-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Deutscher Pflegetag 2026",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/deutscher-pflegetag-2026-2026",
+    "veranstalter": "",
+    "kurz": "Pflege stärken mit starken Partnern",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-13|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/deutscher-pflegetag-2026-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "startup-trifft-mittelstand-bw-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-23&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=wege-in-die-wissenschaft-1-1&cHash=96d65ed667dea8f13b38493b9f9b78b0": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Wege in die Wissenschaft",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/wege-in-die-wissenschaft-1-1",
+    "veranstalter": "",
+    "kurz": "Berufliche Perspektiven in der Wissenschaft Soziale Arbeit",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-23|haw-landshut.de/veranstaltungen/termin/wege-in-die-wissenschaft-1-1",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/govtechstartupmonitor2026-01-07-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/aerospace-connect/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-d73d706c8b3f4a4eaefd84a8fedd2e41?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/mitgliederversammlung-hertha-bsc-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Mitgliederversammlung Hertha BSC",
+    "start": "2026-11-14",
+    "ende": "2026-11-14",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/mitgliederversammlung-hertha-bsc-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-14|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/mitgliederversammlung-hertha-bsc-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=antalya_international-trade-exhibition-for-food-an_230360": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/quantum-entrepreneurship-lab-demo-day-2024/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/socialmediaaufautopilotsogehtsmitai-08-07-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdh.de/presse/veranstaltungen/veranstaltungsrueckblick/zdh-steuerforum-2022-mit-bundesminister-christian-lindner/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zvo.org/events/termine/detailansicht/48-ulmer-gespraech-am-12-13-mai-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "48. Ulmer Gespräch",
+    "start": "2027-05-12",
+    "ende": "2027-05-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.zvo.org/events/termine/detailansicht/48-ulmer-gespraech-am-12-13-mai-2027",
+    "veranstalter": "Zentralverband Oberflächentechnik e.V.",
+    "kurz": "12./13. Mai 2027Stadthaus UlmUlm",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zvo",
+    "quelle_name": "Zentralverband Oberflächentechnik – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Metall & Oberflächen"
+    ],
+    "schluessel": "2027-05-12|zvo.org/events/termine/detailansicht/48-ulmer-gespraech-am-12-13-mai-2027",
+    "quellen": [
+     "zvo"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-23&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=einladung-zur-filmvorfuehrung-systemwandeln&cHash=04566a3e48687003793cf7caec113aa9": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Einladung zur Filmvorführung \"Systemwandeln - Die Welt neu entdecken\"\"",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/einladung-zur-filmvorfuehrung-systemwandeln",
+    "veranstalter": "",
+    "kurz": "Film-Vorführung und Film-Gespräch mit dem Regisseur Mickel Rentsch",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-23|haw-landshut.de/veranstaltungen/termin/einladung-zur-filmvorfuehrung-systemwandeln",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/numismata-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "NUMISMATA",
+    "start": "2026-11-15",
+    "ende": "2026-11-15",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/numismata-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-15|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/numismata-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.tum-venture-labs.de/events/cti-symposium/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/startup-verbandfoundersrealtalk-16-04-2025": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-b51190d4fc1a4bfa9e51c027b7a032f2?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=orlando_watersports-and-coastal-lifestyle-tradesho_232123": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.zdh.de/presse/veranstaltungen/zukunft-handwerk-und-ihm/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-23&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=vaetercampus-lagerfeuer-im-november&cHash=4e7f7b7b3b57fe98ae18ec58a3b6fe61": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "VäterCampus-Lagerfeuer im November -",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/vaetercampus-lagerfeuer-im-november",
+    "veranstalter": "",
+    "kurz": "Austausch von Vätern im Hochschulkontext.\r\n",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-23|haw-landshut.de/veranstaltungen/termin/vaetercampus-lagerfeuer-im-november",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.tum-venture-labs.de/events/av-roadshow-ftm/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/policypitchzurberlinwahl2026-18-08-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/esmo-ai-digital-oncology-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "ESMO AI & Digital Oncology",
+    "start": "2026-11-18",
+    "ende": "2026-11-18",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/esmo-ai-digital-oncology-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-18|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/esmo-ai-digital-oncology-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.zvo.org/events/termine/detailansicht/surfacetechnology-germany-2024-1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-29de39ace8b34fa49b5567dd7e8515b5?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/jobmedi-2026-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Jobmedi 2026",
+    "start": "2026-11-21",
+    "ende": "2026-11-21",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/jobmedi-2026-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-21|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/jobmedi-2026-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "gruendungstag-deggendorf-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/svontourfrankfurt-27-08-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-24&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=christkindlmarkt-sandora-garten&cHash=047fd417cf889ec6c879919ebdf59aad": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Christkindlmarkt & Sandora-Garten",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/christkindlmarkt-sandora-garten",
+    "veranstalter": "",
+    "kurz": "Christkindlmarkt und Sandora Garten",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-24|haw-landshut.de/veranstaltungen/termin/christkindlmarkt-sandora-garten",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=dusseldorf_psi_229475": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "PSI",
+    "start": "2027-01-14",
+    "ende": "2027-01-14",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=dusseldorf_psi_229475",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-14|auma.de/messen-finden/details",
+    "quellen": [
+     "auma-bau"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.tum-venture-labs.de/events/phd-breakfast/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.baystartup.de/termine/detailview/event-e7414f7d5f354f4b8399e457275ac421?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgppn-kongress-2026-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "DGPPN Kongress 2026",
+    "start": "2026-11-28",
+    "ende": "2026-11-28",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgppn-kongress-2026-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-28|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgppn-kongress-2026-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/startupverband@ifa2026-04-09-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.tum-venture-labs.de/events/festival-of-the-future/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=anaheim_american-international-motorcycle-expo_232525": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "AIMEXPO",
+    "start": "2027-03-05",
+    "ende": "2027-03-05",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=anaheim_american-international-motorcycle-expo_232525",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-03-05|auma.de/messen-finden/details",
+    "quellen": [
+     "auma-bau"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://startupverband.de/events/pitchdeckroastermitiskenderdirik-18-09-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/boot-fun-auf-der-outventure-berlin-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "BOOT & FUN auf der OutVenture Berlin",
+    "start": "2026-11-29",
+    "ende": "2026-11-29",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/boot-fun-auf-der-outventure-berlin-2026",
+    "veranstalter": "",
+    "kurz": "Die Boots- und Freizeitmesse in Europas größtem Binnenwasserrevier",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-29|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/boot-fun-auf-der-outventure-berlin-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.baystartup.de/termine/detailview/event-b505184a2a3c478c86927880a2de8ed6?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://startupverband.de/events/foundersfuelup2026-28-09-2026": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.startupticker.ch/en/events/friup-start-up-lunch-16": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "FriUp Start-up Lunch #16",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/friup-start-up-lunch-16",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-10|startupticker.ch/en/events/friup-start-up-lunch-16",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/outventure-berlin-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "OutVenture Berlin",
+    "start": "2026-11-29",
+    "ende": "2026-11-29",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/outventure-berlin-2026",
+    "veranstalter": "",
+    "kurz": "Die Messe für Wassersport & Outdoor mit ihren Submarken BOOT & FUN, ANGELWELT, CARAVAN & CAMPING, OFFROAD & NATURE",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-29|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/outventure-berlin-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=atlanta_atlanta-boat-show_229829": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Atlanta Boat Show",
+    "start": "2027-01-10",
+    "ende": "2027-01-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=atlanta_atlanta-boat-show_229829",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-10|auma.de/messen-finden/details",
+    "quellen": [
+     "auma-bau"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.baystartup.de/termine/detailview/event-210a11592c9e4ec7a1793612cd341491?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.startupticker.ch/en/events/circulator-forum": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Circulator Forum 2026",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/circulator-forum",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/circulator-forum",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "startup-trifft-mittelstand-bw-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/angelwelt-auf-der-outventure-berlin-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "ANGELWELT auf der OutVenture Berlin",
+    "start": "2026-11-29",
+    "ende": "2026-11-29",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/angelwelt-auf-der-outventure-berlin-2026",
+    "veranstalter": "",
+    "kurz": "Europas größte Angelmesse",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-29|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/angelwelt-auf-der-outventure-berlin-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=utrecht_touristik-und-freizeitmesse_231881": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.startupticker.ch/index.php/en/events/ip-workshop-trade-marks-registration-procedure-%287%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "IP Workshop: Trade marks, Registration procedure",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-trade-marks-registration-procedure-%287%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|startupticker.ch/index.php/en/events/ip-workshop-trade-marks-registration-procedure-%287%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bike-days-berlin-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "BIKE DAYS BERLIN",
+    "start": "2026-11-29",
+    "ende": "2026-11-29",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bike-days-berlin-2026",
+    "veranstalter": "",
+    "kurz": "Die neue Motorradmesse auf der OutVenture Berlin",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-29|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bike-days-berlin-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.baystartup.de/termine/detailview/event-b14733ec0cc54ad3a9fc3b4f99195722?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Angel-Akademie 2027 - Track C: Der Expert-Track",
+    "start": "2027-02-19",
+    "ende": "2027-02-19",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.baystartup.de/termine/detailview/event-b14733ec0cc54ad3a9fc3b4f99195722?no_cache=1",
+    "veranstalter": "BayStartUP",
+    "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "baystartup",
+    "quelle_name": "BayStartUP – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-02-19|baystartup.de/termine/detailview/event-b14733ec0cc54ad3a9fc3b4f99195722",
+    "quellen": [
+     "baystartup"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/en/events/die-grundlagen-des-marketings-%2839%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Die Grundlagen des Marketings",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/die-grundlagen-des-marketings-%2839%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|startupticker.ch/en/events/die-grundlagen-des-marketings-%2839%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/52-bundesdelegiertenkonferenz-bdk-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "52. Bundesdelegiertenkonferenz (BDK)",
+    "start": "2026-12-06",
+    "ende": "2026-12-06",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/52-bundesdelegiertenkonferenz-bdk-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-06|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/52-bundesdelegiertenkonferenz-bdk-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.baystartup.de/termine/detailview/event-b5e88c4b47f043e1aac1b43849892a78?no_cache=1": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Angel-Akademie 2027 - Track A: In Startups investieren",
+    "start": "2027-02-19",
+    "ende": "2027-02-19",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.baystartup.de/termine/detailview/event-b5e88c4b47f043e1aac1b43849892a78?no_cache=1",
+    "veranstalter": "BayStartUP",
+    "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "baystartup",
+    "quelle_name": "BayStartUP – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-02-19|baystartup.de/termine/detailview/event-b5e88c4b47f043e1aac1b43849892a78",
+    "quellen": [
+     "baystartup"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/en/events/business-insight-talk-mit-comedy-star-manu-burkart": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Business Insight Talk mit Comedy-Star: MANU BURKART",
+    "start": "2027-02-13",
+    "ende": "2027-02-13",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/business-insight-talk-mit-comedy-star-manu-burkart",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-02-13|startupticker.ch/en/events/business-insight-talk-mit-comedy-star-manu-burkart",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=chemnitz_reisen-caravaning-chemnitz_228839": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Reisen & Caravaning Chemnitz",
+    "start": "2027-01-10",
+    "ende": "2027-01-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=chemnitz_reisen-caravaning-chemnitz_228839",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": []
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/global-forum-for-food-and-agriculture-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Global Forum for Food and Agriculture",
+    "start": "2027-01-15",
+    "ende": "2027-01-15",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/global-forum-for-food-and-agriculture-2027",
+    "veranstalter": "",
+    "kurz": "Das Global Forum for Food and Agriculture (GFFA) ist eine bedeutende Veranstaltung, die Politik, Wissenschaft, Wirtschaft und Zivilgesellschaft zusammenbringt, um Lösungen für die zukünftige Ernährung",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-15|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/global-forum-for-food-and-agriculture-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/index.php/en/events/deadline-vanguard-accelerator-atbiopole": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Deadline Vanguard Accelerator @Biopole",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/index.php/en/events/deadline-vanguard-accelerator-atbiopole",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-11|startupticker.ch/index.php/en/events/deadline-vanguard-accelerator-atbiopole",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/grune-woche-2027-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Grüne Woche 2027",
+    "start": "2027-01-24",
+    "ende": "2027-01-24",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/grune-woche-2027-2027",
+    "veranstalter": "",
+    "kurz": "Ausstellung für Ernährungswirtschaft, Landwirtschaft und Gartenbau",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-24|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/grune-woche-2027-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=peking_the-leading-sports-business-platform-in-th_232126": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "ISPO Beijing",
+    "start": "2027-01-09",
+    "ende": "2027-01-09",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=peking_the-leading-sports-business-platform-in-th_232126",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": []
+   }
+  ]
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-2-bis-8-november-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.startupticker.ch/en/events/co-founder-matchmaking-%286%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Co-Founder Matchmaking",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/co-founder-matchmaking-%286%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-03|startupticker.ch/en/events/co-founder-matchmaking-%286%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fruit-logistica-2027-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "FRUIT LOGISTICA 2027",
+    "start": "2027-02-05",
+    "ende": "2027-02-05",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fruit-logistica-2027-2027",
+    "veranstalter": "",
+    "kurz": "Internationale Messe für Früchte- und Gemüsemarketing",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-02-05|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fruit-logistica-2027-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.fuer-gruender.de/blog/top-gruenderevents-2026-im-ueberblick/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-26-oktober-bis-1-november-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.startupticker.ch/en/events/sprint-robotics-europe-summit-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "SPRINT Robotics Europe Summit 2026",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/sprint-robotics-europe-summit-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/sprint-robotics-europe-summit-2026",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "web-summit-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/sap-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "SAP",
+    "start": "2027-02-15",
+    "ende": "2027-02-15",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/sap-2027",
+    "veranstalter": "",
+    "kurz": "Digitale Souveränität & Industrial AI Summit \nSAP und Deutsche Telekom",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2027-02-15|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/sap-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=dortmund_interlook_229334": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "INTERLOOK",
+    "start": "2027-01-17",
+    "ende": "2027-01-17",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=dortmund_interlook_229334",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-17|auma.de/messen-finden/details",
+    "quellen": [
+     "auma-bau"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-19-bis-25-oktober-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.startupticker.ch/en/events/blueark-conference-2026": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "BlueArk Conference 2026",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/blueark-conference-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/blueark-conference-2026",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "startup-trifft-mittelstand-bw-2026",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/e-commerce-berlin-expo-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "E-COMMERCE Berlin Expo",
+    "start": "2027-02-18",
+    "ende": "2027-02-18",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/e-commerce-berlin-expo-2027",
+    "veranstalter": "",
+    "kurz": "10TH EDITION",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Logistik & Handel"
+    ],
+    "schluessel": "2027-02-18|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/e-commerce-berlin-expo-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-12-bis-18-oktober-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.startupticker.ch/en/events/einfuehrung-buchhaltung-%2852%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Einführung Buchhaltung",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/einfuehrung-buchhaltung-%2852%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/einfuehrung-buchhaltung-%2852%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=bagdad_internationale-energieausstellung-und-konf_230181": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "IEE",
+    "start": "2027-03-24",
+    "ende": "2027-03-24",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=bagdad_internationale-energieausstellung-und-konf_230181",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-03-24|auma.de/messen-finden/details",
+    "quellen": [
+     "auma-bau"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-5-bis-11-oktober-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.startupticker.ch/en/events/versicherung-und-vorsorge-fuer-deine-firma-und-fuer-dich-%281%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Versicherung und Vorsorge für deine Firma und für dich",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/versicherung-und-vorsorge-fuer-deine-firma-und-fuer-dich-%281%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/versicherung-und-vorsorge-fuer-deine-firma-und-fuer-dich-%281%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-28-september-bis-4-oktober-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.startupticker.ch/en/events/venture-briefing-lugano-%283%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Venture Briefing Lugano",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/venture-briefing-lugano-%283%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/venture-briefing-lugano-%283%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=kopenhagen_conference-trade-fair-for-winemakers-from_232434": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/regio-agrar-bayern-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Regio Agrar Bayern",
+    "start": "2027-02-25",
+    "ende": "2027-02-25",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/regio-agrar-bayern-2027",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-02-25|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/regio-agrar-bayern-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-21-bis-27-september-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.pv-magazine.de/events/webinare/page/2/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.startupticker.ch/en/events/von-der-schweizer-marke-zur-erfolgsgeschichte-so-waechst-dein-unternehmen-nachhaltig": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Von der Schweizer Marke zur Erfolgsgeschichte: So wächst dein Unternehmen nachhaltig",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/von-der-schweizer-marke-zur-erfolgsgeschichte-so-waechst-dein-unternehmen-nachhaltig",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/von-der-schweizer-marke-zur-erfolgsgeschichte-so-waechst-dein-unternehmen-nachhaltig",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/itb-berlin-2027-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "ITB Berlin 2027",
+    "start": "2027-03-18",
+    "ende": "2027-03-18",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/itb-berlin-2027-2027",
+    "veranstalter": "",
+    "kurz": "The World’s Leading Travel Trade Show®",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-03-18|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/itb-berlin-2027-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=new-delhi_ndwbf-new-delhi-world-book-fair_229872": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-14-bis-20-september-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.startupticker.ch/index.php/en/events/patentrecht-ab-2027-erweitertes-modul": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Patentrecht ab 2027 - Erweitertes Modul",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/patentrecht-ab-2027-erweitertes-modul",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|startupticker.ch/index.php/en/events/patentrecht-ab-2027-erweitertes-modul",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-7-bis-13-september-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fibe-2027-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "FIBE 2027",
+    "start": "2027-04-08",
+    "ende": "2027-04-08",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fibe-2027-2027",
+    "veranstalter": "",
+    "kurz": "The place where finance gets real",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-04-08|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fibe-2027-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": "hannover-messe-2027",
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/en/events/medkap-pitchevent-in-lugano": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "MEDKAP Pitchevent in Lugano",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/medkap-pitchevent-in-lugano",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/medkap-pitchevent-in-lugano",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.pv-magazine.de/events/webinare/page/36/": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-31-august-bis-6-september-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/nca-classic-berlin-2027": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "NCA Classic Berlin",
+    "start": "2027-04-10",
+    "ende": "2027-04-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/nca-classic-berlin-2027",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-04-10|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/nca-classic-berlin-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/en/events/east-ki-ki-kompetenz-map-ostschweiz": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "east#KI – KI-Kompetenz Map Ostschweiz",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/east-ki-ki-kompetenz-map-ostschweiz",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/east-ki-ki-kompetenz-map-ostschweiz",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=hamburg_nordstil-winter_229228": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Nordstil Winter",
+    "start": "2027-01-11",
+    "ende": "2027-01-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=hamburg_nordstil-winter_229228",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-11|auma.de/messen-finden/details",
+    "quellen": [
+     "auma-bau"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-24-bis-30-august-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.startupticker.ch/index.php/en/events/how-to-start-a-company-%285%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "How to start a company",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/how-to-start-a-company-%285%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|startupticker.ch/index.php/en/events/how-to-start-a-company-%285%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=riva-del-garda_expo-riva-schuh_232017": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-17-bis-23-august-2026/": {
+  "geholt": "2026-11-04",
+  "zeilen": []
+ },
+ "https://www.startupticker.ch/en/events/campus-impuls-finanzpraxis": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Campus Impuls: Finanzpraxis",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/campus-impuls-finanzpraxis",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/campus-impuls-finanzpraxis",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/en/events/keep-your-options-open-how-to-prepare-your-company-for-a-successful-exit": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Keep Your Options Open: How to Prepare Your Company for a Successful Exit",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/keep-your-options-open-how-to-prepare-your-company-for-a-successful-exit",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|startupticker.ch/en/events/keep-your-options-open-how-to-prepare-your-company-for-a-successful-exit",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=harrogate_christmas-gift-show_232100": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.startupticker.ch/en/events/creer-son-entreprise-%28104%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Créer son entreprise",
+    "start": "2027-02-13",
+    "ende": "2027-02-13",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/creer-son-entreprise-%28104%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-02-13|startupticker.ch/en/events/creer-son-entreprise-%28104%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/en/events/life-sciences-networking-cafe-croissant-with-hug-innovation-center": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Life Sciences Networking Café+Croissant with HUG Innovation Center",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/life-sciences-networking-cafe-croissant-with-hug-innovation-center",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-12|startupticker.ch/en/events/life-sciences-networking-cafe-croissant-with-hug-innovation-center",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=new-york_nrf-annual-convention-expo_231100": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Retail's BIG Show",
+    "start": "2027-01-12",
+    "ende": "2027-01-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=new-york_nrf-annual-convention-expo_231100",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-12|auma.de/messen-finden/details",
+    "quellen": [
+     "auma-bau"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/en/events/ip-workshop-patente-lesen-leicht-gemacht-%284%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "IP-Workshop: Patente lesen, leicht gemacht",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/ip-workshop-patente-lesen-leicht-gemacht-%284%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-12|startupticker.ch/en/events/ip-workshop-patente-lesen-leicht-gemacht-%284%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/index.php/en/events/business-ideas-%2811%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Business Ideas",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/index.php/en/events/business-ideas-%2811%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-12|startupticker.ch/index.php/en/events/business-ideas-%2811%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=san-diego_international-fancy-food-confection-show-w_230444": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Winter Fancy Food Show",
+    "start": "2027-01-19",
+    "ende": "2027-01-19",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=san-diego_international-fancy-food-confection-show-w_230444",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-19|auma.de/messen-finden/details",
+    "quellen": [
+     "auma-bau"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/en/events/swiss-agetech-konferenz-%281%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "Swiss AgeTech Konferenz",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/swiss-agetech-konferenz-%281%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-12|startupticker.ch/en/events/swiss-agetech-konferenz-%281%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.startupticker.ch/index.php/en/events/ip-basisworkshop-%2821%29": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "IP-Basisworkshop",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/ip-basisworkshop-%2821%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-12|startupticker.ch/index.php/en/events/ip-basisworkshop-%2821%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=kairo_internationale-fachmesse-fur-die-kunststof_226775": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=bozen_international-trade-show-for-snow-sports-a_232492": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=zurich_fachmesse-fur-neuheiten-und-trends_230936": {
+  "geholt": "2026-11-04",
+  "events": []
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=hongkong_hktdc-hong-kong-baby-products-fair_230869": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "HKTDC Hong Kong Baby Products Fair",
+    "start": "2027-01-14",
+    "ende": "2027-01-14",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=hongkong_hktdc-hong-kong-baby-products-fair_230869",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": []
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=sharjah_the-middle-east-trade-show-for-the-metal-w_228886": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "SteelFab",
+    "start": "2027-01-14",
+    "ende": "2027-01-14",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=sharjah_the-middle-east-trade-show-for-the-metal-w_228886",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Metall & Oberflächen"
+    ]
+   }
+  ]
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=amsterdam_fachmesse-fur-das-hotel-und-gaststattengew_230735": {
+  "geholt": "2026-11-04",
+  "events": [
+   {
+    "titel": "HORECAVA",
+    "start": "2027-01-14",
+    "ende": "2027-01-14",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=amsterdam_fachmesse-fur-das-hotel-und-gaststattengew_230735",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": []
+   }
+  ]
  }
 }
