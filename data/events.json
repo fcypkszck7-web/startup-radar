@@ -135,6 +135,52 @@
   "archiv": false
  },
  {
+  "id": "ecomondo-2026",
+  "name": "Ecomondo 2026",
+  "format": "Fachmesse Kreislaufwirtschaft",
+  "veranstalter": "Italian Exhibition Group",
+  "ort": "Rimini Expo Centre, Rimini",
+  "land": "IT",
+  "region": "Italien",
+  "rubrik": "eu",
+  "start": "2026-11-03",
+  "ende": "2026-11-06",
+  "turnus": "jährlich",
+  "zeitraum": "November",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Kreislaufwirtschaft, Recycling, Wasser und erneuerbare Energien",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Material & Kreislauf",
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://westmed-initiative.ec.europa.eu/events/ecomondo-3-6-november-2026-rimini-italy/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   44.056,
+   12.62
+  ],
+  "gesamt": 2.4,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "founders-circle-rlp-2026",
   "name": "Founders Circle RLP",
   "format": "Netzwerktreffen",
@@ -177,6 +223,53 @@
   "prioritaet": "C",
   "kategorie": "Netzwerk",
   "archiv": true
+ },
+ {
+  "id": "smart-city-expo-2026",
+  "name": "Smart City Expo World Congress 2026",
+  "format": "Kongress und Fachmesse",
+  "veranstalter": "Fira Barcelona",
+  "ort": "Fira Barcelona Gran Via, Barcelona",
+  "land": "ES",
+  "region": "Spanien",
+  "rubrik": "eu",
+  "start": "2026-11-03",
+  "ende": "2026-11-05",
+  "turnus": "jährlich",
+  "zeitraum": "November",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Stadtentwicklung, Gebäude, Energie und urbane Digitalisierung mit Start-up-Bereich",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Energie & Solar",
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.eventseye.com/fairs/cst1_trade-shows_spain_clean-energies-renewable-energies.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   41.355,
+   2.128
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "id": "bic-wissenonline-moebelproduktion-im-wandel-2026",
@@ -1942,6 +2035,51 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
+  "id": "elmia-subcontractor-2026",
+  "name": "Elmia Subcontractor 2026",
+  "format": "Zuliefermesse",
+  "veranstalter": "Elmia",
+  "ort": "Elmia, Jönköping",
+  "land": "SE",
+  "region": "Schweden",
+  "rubrik": "eu",
+  "start": "2026-11-10",
+  "ende": "2026-11-12",
+  "turnus": "jährlich",
+  "zeitraum": "November",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Größte Zuliefermesse Nordeuropas: Metall, Komponenten, Fertigung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Metall & Oberflächen"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.liaa.gov.lv/en/event/latvia-elmia-subcontractor-2026-meet-engineering-and-industrial-suppliers-baltics",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   57.7826,
+   14.1618
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Messe",
   "archiv": false
  },
  {
@@ -4060,6 +4198,51 @@
    "Industrie & Fertigung",
    "Material & Kreislauf"
   ]
+ },
+ {
+  "id": "genera-2026",
+  "name": "GENERA 2026",
+  "format": "Fachmesse Energie und Umwelt",
+  "veranstalter": "IFEMA Madrid",
+  "ort": "IFEMA, Madrid",
+  "land": "ES",
+  "region": "Spanien",
+  "rubrik": "eu",
+  "start": "2026-11-24",
+  "ende": "2026-11-26",
+  "turnus": "jährlich",
+  "zeitraum": "November",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Photovoltaik, Speicher, Energieeffizienz und Elektrifizierung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Gebäudetechnik"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.eventseye.com/fairs/cst1_trade-shows_spain_clean-energies-renewable-energies.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   40.4168,
+   -3.7038
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "id": "hochhaeuser-vor-der-unbequemen-zukunftsfrage-was-ist-moeglic-2026",
@@ -6351,6 +6534,53 @@
   "archiv": false
  },
  {
+  "id": "budma-2027",
+  "name": "BUDMA 2027",
+  "format": "Bau- und Architekturmesse",
+  "veranstalter": "Grupa MTP",
+  "ort": "MTP Poznań, Posen",
+  "land": "PL",
+  "region": "Polen",
+  "rubrik": "eu",
+  "start": "2027-01-26",
+  "ende": "2027-01-29",
+  "turnus": "jährlich",
+  "zeitraum": "Januar/Februar",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Internationale Bau- und Architekturmesse, Leitmesse für Polen und Mittelosteuropa",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Dach & Gebäudehülle",
+   "Handwerk",
+   "Material & Kreislauf"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.showsbee.com/fairs/81560-BUDMA-2027.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   52.3962,
+   16.8945
+  ],
+  "gesamt": 2.9,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "rubrik": "eu",
   "id": "klimahouse-2027",
   "name": "Klimahouse 2027 inkl. Future Hub",
@@ -6438,6 +6668,53 @@
   "gesamt": 3.0,
   "prioritaet": "B",
   "kategorie": "Sonstiges",
+  "archiv": false
+ },
+ {
+  "id": "batibouw-2027",
+  "name": "Batibouw 2027",
+  "format": "Baufachmesse mit Fachbesuchertag",
+  "veranstalter": "Fisa / Batibouw",
+  "ort": "Brussels Expo, Brüssel",
+  "land": "BE",
+  "region": "Belgien",
+  "rubrik": "eu",
+  "start": "2027-02-12",
+  "ende": "2027-02-21",
+  "turnus": "jährlich",
+  "zeitraum": "Februar",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Größte Baumesse der Benelux-Länder; 2027 auf sechs Hallen erweitert, Eröffnungstag nur für Fachbesucher",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Dach & Gebäudehülle",
+   "Gebäudetechnik",
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.belganewsagency.eu/batibouw-draws-nearly-200000-visitors-plans-expansion-in-2027",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   50.8503,
+   4.3517
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Messe",
   "archiv": false
  },
  {
@@ -7381,6 +7658,52 @@
   ]
  },
  {
+  "id": "global-industrie-2027",
+  "name": "Global Industrie 2027",
+  "format": "Industriemesse",
+  "veranstalter": "GL events",
+  "ort": "Eurexpo, Lyon",
+  "land": "FR",
+  "region": "Frankreich",
+  "rubrik": "eu",
+  "start": "2027-03-15",
+  "ende": "2027-03-18",
+  "turnus": "jährlich",
+  "zeitraum": "März",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Größte Industriemesse Frankreichs: Fertigung, Blech, Automatisierung, Zulieferung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Metall & Oberflächen",
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.showsbee.com/fairs/101328-Industrie-France-2027.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   45.764,
+   4.8357
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "ish-2027",
   "name": "ISH 2027 mit Startup@ISH",
   "format": "Weltleitmesse mit Start-up-Bereich",
@@ -7426,6 +7749,52 @@
   ]
  },
  {
+  "id": "mipim-2027",
+  "name": "MIPIM 2027",
+  "format": "Immobilienmesse mit PropTech-Bereich",
+  "veranstalter": "RX France",
+  "ort": "Palais des Festivals, Cannes",
+  "land": "FR",
+  "region": "Frankreich",
+  "rubrik": "eu",
+  "start": "2027-03-15",
+  "ende": "2027-03-19",
+  "turnus": "jährlich",
+  "zeitraum": "März",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Internationaler Immobilienmarkt mit Stadtentwicklung, Investoren und PropTech-Start-ups",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://en.palaisdesfestivals.com/offers/mipim-cannes-en-3769833/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   43.5513,
+   7.0128
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "demo-night-nuernberg-2027-03",
   "name": "Nürnberger Startup Demo Night 2027 (Prämierung Phase 1 BPW Nordbayern)",
   "format": "Demo Night / Pitch",
@@ -7467,6 +7836,53 @@
   "branchen": [
    "Gründung & Innovation"
   ]
+ },
+ {
+  "id": "rebuild-2027",
+  "name": "REBUILD 2027",
+  "format": "Fachmesse und Kongress",
+  "veranstalter": "REBUILD / IFEMA",
+  "ort": "IFEMA, Madrid",
+  "land": "ES",
+  "region": "Spanien",
+  "rubrik": "eu",
+  "start": "2027-03-16",
+  "ende": "2027-03-18",
+  "turnus": "jährlich",
+  "zeitraum": "März",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Industrialisiertes Bauen, Digitalisierung, Dekarbonisierung und Kreislaufwirtschaft; Kongress „Advanced Architecture and Construction 4.0“",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Industrie & Fertigung",
+   "Software, KI & Daten",
+   "Material & Kreislauf"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.rebuildexpo.com/en/rebuild-2027/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   40.4168,
+   -3.7038
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "id": "seminar-von-der-idee-zum-produkt-2027",
@@ -8008,6 +8424,52 @@
   "archiv": false
  },
  {
+  "id": "changenow-2027",
+  "name": "ChangeNOW 2027",
+  "format": "Nachhaltigkeitskongress mit Start-up-Ausstellung",
+  "veranstalter": "ChangeNOW",
+  "ort": "Grand Palais, Paris",
+  "land": "FR",
+  "region": "Frankreich",
+  "rubrik": "eu",
+  "start": "2027-04-26",
+  "ende": "2027-04-28",
+  "turnus": "jährlich",
+  "zeitraum": "Ende April",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Lösungen für Klima und Ressourcen – Start-ups, Investoren und Unternehmen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Material & Kreislauf",
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.greenroofs.com/event/changenow-2027/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   48.832,
+   2.287
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "transport-logistic-2027",
   "name": "transport logistic 2027",
   "format": "Fachmesse",
@@ -8278,6 +8740,51 @@
   ]
  },
  {
+  "id": "lamiera-2027",
+  "name": "LAMIERA 2027",
+  "format": "Fachmesse Blechbearbeitung",
+  "veranstalter": "UCIMU / CEU",
+  "ort": "Fiera Milano (Rho), Mailand",
+  "land": "IT",
+  "region": "Italien",
+  "rubrik": "eu",
+  "start": "2027-05-11",
+  "ende": "2027-05-14",
+  "turnus": "jährlich",
+  "zeitraum": "Mai",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Blechbearbeitung, Umformen, Schneiden, Fügen und Oberflächen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Metall & Oberflächen",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 4,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.lamiera.net/en/lamiera-from-11-to-14-may-2027-fieramilano-rho/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   45.4642,
+   9.19
+  ],
+  "gesamt": 3.2,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "sensor-test-2027",
   "name": "SENSOR+TEST 2027",
   "format": "Fachmesse",
@@ -8456,6 +8963,188 @@
   "archiv": false
  },
  {
+  "id": "solar-storage-live-spain-2027",
+  "name": "Solar & Storage Live Spain 2027",
+  "format": "Fachmesse Solar und Speicher",
+  "veranstalter": "Terrapinn",
+  "ort": "Feria Valencia, Valencia",
+  "land": "ES",
+  "region": "Spanien",
+  "rubrik": "eu",
+  "start": "2027-05-12",
+  "ende": "2027-05-13",
+  "turnus": "jährlich",
+  "zeitraum": "Mai",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Photovoltaik, Batteriespeicher und Netzintegration",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Dach & Gebäudehülle"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.eventseye.com/fairs/cst1_trade-shows_spain_clean-energies-renewable-energies.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   39.4699,
+   -0.3763
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "construmat-2027",
+  "name": "Construmat 2027",
+  "format": "Baufachmesse",
+  "veranstalter": "Fira Barcelona",
+  "ort": "Fira Barcelona Gran Via, Barcelona",
+  "land": "ES",
+  "region": "Spanien",
+  "rubrik": "eu",
+  "start": "2027-05-18",
+  "ende": "2027-05-20",
+  "turnus": "alle zwei Jahre",
+  "zeitraum": "Mai",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Leitmesse der spanischen Bauwirtschaft, 2027 auf zwei Hallen vergrößert",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Handwerk",
+   "Material & Kreislauf"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.construmat.com/en/press-release/institucional-es/construmat-continues-to-grow-and-will-spread-over-two-halls-at-the-gran-via-venue-in-2027/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   41.355,
+   2.128
+  ],
+  "gesamt": 2.3,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "world-hydrogen-summit-2027",
+  "name": "World Hydrogen Summit & Exhibition 2027",
+  "format": "Kongress und Fachmesse",
+  "veranstalter": "Sustainable Energy Council",
+  "ort": "Ahoy, Rotterdam",
+  "land": "NL",
+  "region": "Niederlande",
+  "rubrik": "eu",
+  "start": "2027-05-18",
+  "ende": "2027-05-20",
+  "turnus": "jährlich",
+  "zeitraum": "Mai",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Wasserstoffwirtschaft, Projekte und Investitionen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://uitholland.eu/de/messebau/messekalender/world-hydrogen-summit-exhibition-ahoy-rotterdam-2027/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   51.8833,
+   4.4881
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "startup-days-bern-2027",
+  "name": "Swiss Startup Days 2027",
+  "format": "Start-up-Konferenz mit Matchmaking",
+  "veranstalter": "Startup Days",
+  "ort": "Kursaal, Bern",
+  "land": "CH",
+  "region": "Schweiz (Bern)",
+  "rubrik": "noneu",
+  "start": "2027-05-20",
+  "ende": "2027-05-20",
+  "turnus": "jährlich",
+  "zeitraum": "Mai",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Schweizer Deep-Tech- und Start-up-Treffen mit Investoren und Corporates",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.seca.ch/en/events/2026/swiss-startup-days-26/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   46.948,
+   7.4474
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Matchmaking",
+  "archiv": false
+ },
+ {
   "id": "berliner-energietage-2027",
   "name": "Berliner ENERGIETAGE 2027",
   "format": "Fachkonferenz",
@@ -8501,6 +9190,51 @@
   ]
  },
  {
+  "id": "sps-italia-2027",
+  "name": "SPS Italia 2027",
+  "format": "Fachmesse Automatisierung",
+  "veranstalter": "Messe Frankfurt Italia",
+  "ort": "Fiere di Parma, Parma",
+  "land": "IT",
+  "region": "Italien",
+  "rubrik": "eu",
+  "start": "2027-05-25",
+  "ende": "2027-05-27",
+  "turnus": "jährlich",
+  "zeitraum": "Mai",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Industrielle Automatisierung und Digitalisierung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://travel2fair.com/exhibitions/sps-ipc-drives-italia/25-may-2027-27-may-2027",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   44.8015,
+   10.3279
+  ],
+  "gesamt": 2.3,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "demo-night-muenchen-2027-06",
   "name": "Startup Demo Night München 2027 (Prämierung Phase 2 Münchener BPW)",
   "format": "Demo Night / Pitch",
@@ -8542,6 +9276,97 @@
   "branchen": [
    "Gründung & Innovation"
   ]
+ },
+ {
+  "id": "london-tech-week-2027",
+  "name": "London Tech Week 2027",
+  "format": "Tech-Konferenz",
+  "veranstalter": "London Tech Week",
+  "ort": "London",
+  "land": "GB",
+  "region": "Vereinigtes Königreich (London)",
+  "rubrik": "noneu",
+  "start": "2027-06-07",
+  "ende": "2027-06-11",
+  "turnus": "jährlich",
+  "zeitraum": "Juni",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Technologie, KI und Start-ups mit Investoren",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://dealroom.co/events/london-tech-week-2027/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   51.508,
+   0.029
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "eusew-2027",
+  "name": "EU Sustainable Energy Week 2027",
+  "format": "Konferenz der EU-Kommission",
+  "veranstalter": "Europäische Kommission",
+  "ort": "Brüssel",
+  "land": "BE",
+  "region": "Belgien",
+  "rubrik": "eu",
+  "start": "2027-06-08",
+  "ende": "2027-06-10",
+  "turnus": "jährlich",
+  "zeitraum": "Juni",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Energiepolitik, Energieeffizienz von Gebäuden und erneuerbare Energien in der EU",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Gebäudetechnik",
+   "Bau & Immobilien"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://managenergy.ec.europa.eu/managenergy-discover/managenergy-events/european-sustainable-energy-week-eusew-2026-2026-06-09_en",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   50.8503,
+   4.3517
+  ],
+  "gesamt": 2.3,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
  },
  {
   "id": "intersolar-2027",
@@ -9389,6 +10214,52 @@
   ]
  },
  {
+  "id": "emo-milano-2027",
+  "name": "EMO Milano 2027",
+  "format": "Weltleitmesse Metallbearbeitung",
+  "veranstalter": "CECIMO / UCIMU",
+  "ort": "Fiera Milano (Rho), Mailand",
+  "land": "IT",
+  "region": "Italien",
+  "rubrik": "eu",
+  "start": "2027-10-04",
+  "ende": "2027-10-08",
+  "turnus": "alle zwei Jahre (wechselnd Hannover/Mailand)",
+  "zeitraum": "Oktober",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Werkzeugmaschinen, Automatisierung und digitale Fertigung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Metall & Oberflächen",
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.etmm-online.com/emo-milano-2027-metalworking-industry-innovations-a-007706bbdd09dfa31ca6855038e14c96/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   45.4642,
+   9.19
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "expo-real-2027",
   "name": "EXPO REAL 2027 mit Bereich Transform & Beyond",
   "format": "Immobilienfachmesse mit Innovationsbereich",
@@ -9481,6 +10352,51 @@
   ]
  },
  {
+  "id": "msv-brno-2027",
+  "name": "MSV Brno 2027 – Internationale Maschinenbaumesse",
+  "format": "Industriemesse",
+  "veranstalter": "Veletrhy Brno",
+  "ort": "Messegelände Brno, Brünn",
+  "land": "CZ",
+  "region": "Tschechien",
+  "rubrik": "eu",
+  "start": "2027-10-05",
+  "ende": "2027-10-08",
+  "turnus": "jährlich",
+  "zeitraum": "Anfang Oktober",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Wichtigste Industriemesse Mitteleuropas: Maschinenbau, Metallbearbeitung, Automatisierung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Metall & Oberflächen"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.showsbee.com/fairs/101429-MSV-Brno-2027.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   49.1886,
+   16.5794
+  ],
+  "gesamt": 2.9,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "smart-country-convention-2027",
   "name": "Smart Country Convention",
   "format": "Kongress",
@@ -9565,6 +10481,52 @@
    9.511
   ],
   "gesamt": 2.5,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "pollutec-2027",
+  "name": "Pollutec 2027",
+  "format": "Fachmesse Umwelt- und Energietechnik",
+  "veranstalter": "RX France",
+  "ort": "Eurexpo, Lyon",
+  "land": "FR",
+  "region": "Frankreich",
+  "rubrik": "eu",
+  "start": "2027-10-12",
+  "ende": "2027-10-15",
+  "turnus": "alle zwei Jahre",
+  "zeitraum": "Oktober",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Umwelttechnik, Recycling, Energie und Kreislaufwirtschaft; Bayerischer Gemeinschaftsstand",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Material & Kreislauf",
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.bayern-international.de/newsroom/news/bayerischer-gemeinschaftsstand-auf-der-pollutec-lyon-2027-sichern-sie-sich-jetzt-ihre-standflaeche",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   45.764,
+   4.8357
+  ],
+  "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Messe",
   "archiv": false
@@ -9743,6 +10705,52 @@
    6.734
   ],
   "gesamt": 2.9,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "artibat-2027",
+  "name": "ArtiBat 2027",
+  "format": "Fachmesse für Bauhandwerk",
+  "veranstalter": "ArtiBat",
+  "ort": "Parc-Expo, Rennes",
+  "land": "FR",
+  "region": "Frankreich",
+  "rubrik": "eu",
+  "start": "2027-10-20",
+  "ende": "2027-10-22",
+  "turnus": "alle zwei Jahre",
+  "zeitraum": "Oktober",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Fachmesse für Handwerksbetriebe im Bau – Material, Werkzeug, Dienstleistungen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Handwerk",
+   "Bau & Immobilien",
+   "Dach & Gebäudehülle"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.eventseye.com/fairs/cst1_trade-shows_france_architecture_1.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   48.0861,
+   -1.6447
+  ],
+  "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Messe",
   "archiv": false
@@ -10056,6 +11064,99 @@
   ]
  },
  {
+  "id": "ecomondo-2027",
+  "name": "Ecomondo 2027",
+  "format": "Fachmesse Kreislaufwirtschaft",
+  "veranstalter": "Italian Exhibition Group",
+  "ort": "Rimini Expo Centre, Rimini",
+  "land": "IT",
+  "region": "Italien",
+  "rubrik": "eu",
+  "start": "2027-11-02",
+  "ende": "2027-11-05",
+  "turnus": "jährlich",
+  "zeitraum": "Anfang November",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Kreislaufwirtschaft, Recycling, Wasser und erneuerbare Energien",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Material & Kreislauf",
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.showsbee.com/fairs/104670-Ecomondo-Rimini-2027.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   44.056,
+   12.62
+  ],
+  "gesamt": 2.3,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "smart-city-expo-2027",
+  "name": "Smart City Expo World Congress 2027",
+  "format": "Kongress und Fachmesse",
+  "veranstalter": "Fira Barcelona",
+  "ort": "Fira Barcelona Gran Via, Barcelona",
+  "land": "ES",
+  "region": "Spanien",
+  "rubrik": "eu",
+  "start": "2027-11-02",
+  "ende": "2027-11-04",
+  "turnus": "jährlich",
+  "zeitraum": "Anfang November",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Stadtentwicklung, Gebäude, Energie und urbane Digitalisierung mit Start-up-Bereich",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Energie & Solar",
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://www.showsbee.com/fairs/104934-Smart-City-Expo-World-Congress-2027.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   41.355,
+   2.128
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "modular-build-2027",
   "name": "Modular Build",
   "format": "Fachmesse",
@@ -10098,6 +11199,51 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "web-summit-2027",
+  "name": "Web Summit 2027",
+  "format": "Tech-Konferenz",
+  "veranstalter": "Web Summit",
+  "ort": "Lissabon",
+  "land": "PT",
+  "region": "Portugal",
+  "rubrik": "eu",
+  "start": "2027-11-08",
+  "ende": "2027-11-11",
+  "turnus": "jährlich",
+  "zeitraum": "November",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Eine der größten Tech- und Start-up-Konferenzen Europas",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://websummit.com/web-summit-2026",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   38.768,
+   -9.094
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
   "archiv": false
  },
  {
@@ -10186,6 +11332,53 @@
   "branchen": [
    "Gründung & Innovation"
   ]
+ },
+ {
+  "id": "made-expo-2027",
+  "name": "MADE expo 2027",
+  "format": "Baufachmesse",
+  "veranstalter": "Made Eventi",
+  "ort": "Fiera Milano (Rho), Mailand",
+  "land": "IT",
+  "region": "Italien",
+  "rubrik": "eu",
+  "start": "2027-11-17",
+  "ende": "2027-11-20",
+  "turnus": "alle zwei Jahre",
+  "zeitraum": "November",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Bauprodukte, Gebäudehülle, Fenster und Fassaden, Baustoffe",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Dach & Gebäudehülle",
+   "Material & Kreislauf",
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.eventseye.com/fairs/f-made-expo-15680-1.html",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   45.4642,
+   9.19
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "rubrik": "eu",
@@ -10688,6 +11881,51 @@
   "archiv": false
  },
  {
+  "id": "mce-2028",
+  "name": "MCE – Mostra Convegno Expocomfort 2028",
+  "format": "Fachmesse Heizung, Klima, Energie",
+  "veranstalter": "RX Italy",
+  "ort": "Fiera Milano (Rho), Mailand",
+  "land": "IT",
+  "region": "Italien",
+  "rubrik": "eu",
+  "start": "2028-03-07",
+  "ende": "2028-03-10",
+  "turnus": "alle zwei Jahre",
+  "zeitraum": "März",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Tickets und Ausstellerinfos über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Heizung, Klima, Kälte, Wasser und erneuerbare Energien im Gebäude",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 5
+  },
+  "quelle": "https://refindustry.com/it-news/eventi/mce-svela-l-identit-2028-e-l-hub-della-refrigerazione-in-italia/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   45.4642,
+   9.19
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "zukunft-handwerk-2028",
   "name": "ZUKUNFT HANDWERK 2028",
   "format": "Fachmesse & Kongress",
@@ -10957,6 +12195,53 @@
   ],
   "gesamt": 3.3,
   "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "nordbygg-2028",
+  "name": "Nordbygg 2028",
+  "format": "Bau- und Gebäudetechnikmesse",
+  "veranstalter": "Stockholmsmässan",
+  "ort": "Stockholmsmässan, Stockholm",
+  "land": "SE",
+  "region": "Schweden",
+  "rubrik": "eu",
+  "start": "2028-04-25",
+  "ende": "2028-04-28",
+  "turnus": "alle zwei Jahre",
+  "zeitraum": "April",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Termin laut Messekalender – vor der Planung beim Veranstalter prüfen",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Größte Bau- und Haustechnikmesse Nordeuropas",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Gebäudetechnik",
+   "Dach & Gebäudehülle",
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.visitstockholm.com/events/nordbygg-2028-stockholmsmassan/next/",
+  "geprueft": "2026-11-04",
+  "herkunft": "recherche:europa",
+  "geo": [
+   59.3293,
+   18.0686
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
   "kategorie": "Messe",
   "archiv": false
  },
