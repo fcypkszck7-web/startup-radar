@@ -36,6 +36,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from branchen import vorschlag  # noqa: E402
 
+CACHE_VERSION = 2
 UA = "Mozilla/5.0 (compatible; StartupEventRadar/1.0; +https://fcypkszck7-web.github.io/startup-radar/)"
 HEUTE = dt.date.today()
 BIS = HEUTE + dt.timedelta(days=550)
@@ -432,6 +433,36 @@ def tribe_events(basis):
 
 
 # ---------------------------------------------------------------- Quellen
+ORG_TYPEN = {"organization", "corporation", "localbusiness", "professionalservice", "softwareapplication"}
+PLZ_RE = re.compile(r"(?<![\d-])(?:(D|A|CH)-)?(\d{4,5})\s+([A-ZÄÖÜ][a-zäöüß]+(?:[ -](?:[A-ZÄÖÜ]?[a-zäöüß]+|im|am|an|der|bei)){0,3})")
+
+
+ORT_ZEILE = re.compile(r"^(ort|veranstaltungsort|location|venue|wo|adresse|address|treffpunkt)\s*[:|]?\s*(.*)$", re.I)
+
+
+def ort_aus_text(zeilen):
+    """Sucht 'Ort: …'-Angaben, sonst PLZ + Ort; erkennt Online-Formate."""
+    for i, zl in enumerate(zeilen[:400]):
+        m = ORT_ZEILE.match(zl)
+        if m:
+            rest = m.group(2).strip(" :|-")
+            if not rest and i + 1 < len(zeilen):
+                rest = zeilen[i + 1]
+            if rest and len(rest) < 160 and not re.match(r"^(und|oder|der|die|das)\b", rest, re.I):
+                if not PLZ_RE.search(rest):
+                    for nz in zeilen[i + 1: i + 4]:
+                        m2 = PLZ_RE.search(nz)
+                        if m2:
+                            rest = f"{rest}, {m2.group(3)}"
+                            break
+                return rest[:120]
+    for zl in zeilen[:400]:
+        m = PLZ_RE.search(zl)
+        if m and len(zl) < 200:
+            return m.group(3)
+    return ""
+
+
 def detail_kandidat(url, text):
     """Detailseite ohne JSON-LD: Titel + erstes künftiges Datum im Text."""
     z = zerlege(text)
@@ -444,7 +475,8 @@ def detail_kandidat(url, text):
         for m in DATUM_RE.finditer(zl):
             d = datum_aus_treffer(m)
             if d and im_zeitraum(d) and d != HEUTE.isoformat():
-                return {"titel": " ".join(titel.split())[:250], "start": d, "ende": d, "ort": "", "land": "",
+                ort = ort_aus_text(zeilen)
+                return {"titel": " ".join(titel.split())[:250], "start": d, "ende": d, "ort": ort, "land": "",
                         "online": bool(re.search(r"\bonline\b|webinar|zoom|teams", " ".join(zeilen[:200]), re.I)),
                         "url": url, "veranstalter": z.meta.get("og:site_name", ""),
                         "kurz": (z.meta.get("og:description") or z.meta.get("description") or "")[:220],
@@ -558,7 +590,7 @@ def verarbeite_seite(q, cache, max_detail, url=None):
         if u in bekannte:
             continue
         c = cache.get(u)
-        if c and c.get("geholt", "") >= (HEUTE - dt.timedelta(days=21)).isoformat():
+        if c and c.get("v") == CACHE_VERSION and c.get("geholt", "") >= (HEUTE - dt.timedelta(days=21)).isoformat():
             ergebnis["events"] += c.get("events", [])
             continue
         if neu_geholt >= max_detail:
@@ -568,13 +600,18 @@ def verarbeite_seite(q, cache, max_detail, url=None):
             f2, t2, _ = hole(u)
             z2 = zerlege(t2)
             e2 = events_aus_jsonld(z2.jsonld, f2)
+            if e2 and any(not e.get("ort") for e in e2):
+                o = ort_aus_text(sichtbarer_text(z2))
+                for e in e2:
+                    if not e.get("ort") and o:
+                        e["ort"] = o
             if not e2:
                 k = detail_kandidat(f2, t2)
                 e2 = [k] if k else []
             for e in e2:
                 if not e.get("url") or e["url"] == final:
                     e["url"] = f2
-            cache[u] = {"geholt": HEUTE.isoformat(), "events": e2}
+            cache[u] = {"geholt": HEUTE.isoformat(), "events": e2, "v": CACHE_VERSION}
             ergebnis["events"] += e2
         except Exception as ex:  # noqa: BLE001
             cache[u] = {"geholt": HEUTE.isoformat(), "events": [], "fehler": type(ex).__name__}
@@ -586,10 +623,6 @@ def verarbeite_seite(q, cache, max_detail, url=None):
         if ergebnis["zeilen"]:
             ergebnis["methoden"].append("datumszeilen")
     return ergebnis
-
-
-ORG_TYPEN = {"organization", "corporation", "localbusiness", "professionalservice", "softwareapplication"}
-PLZ_RE = re.compile(r"(?<![\d-])(?:(D|A|CH)-)?(\d{4,5})\s+([A-ZÄÖÜ][a-zäöüß]+(?:[ -](?:[A-ZÄÖÜ]?[a-zäöüß]+|im|am|an|der|bei)){0,3})")
 
 
 def firmenprofil(url, cache):

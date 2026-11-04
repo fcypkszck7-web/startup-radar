@@ -73,7 +73,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Hochschule",
-   "url": "https://www.th-deg.de/veranstaltungen"
+   "url": "https://www.th-deg.de/veranstaltungen",
+   "folge": "/veranstaltungen/[a-z0-9-]{8,}"
   },
   {
    "id": "oth-aw",
@@ -142,7 +143,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Cluster",
-   "url": "https://www.sensorik-bayern.de/seminare"
+   "url": "https://www.sensorik-bayern.de/seminare",
+   "folge": "/seminare?/[a-z0-9-]{6,}"
   },
   {
    "id": "energieagentur-regensburg",
@@ -166,7 +168,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Cluster",
-   "url": "https://www.bayern-innovativ.de/events-termine/"
+   "url": "https://www.bayern-innovativ.de/events-termine/",
+   "folge": "/events-termine/[a-z0-9-]{8,}"
   },
   {
    "id": "baystartup",
@@ -183,7 +186,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Plattform",
-   "url": "https://www.munich-startup.de/events/"
+   "url": "https://www.munich-startup.de/events/",
+   "folge": "/events?/[a-z0-9-]{6,}"
   },
   {
    "id": "unternehmertum",
@@ -240,7 +244,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Kammer",
-   "url": "https://www.bayika.de/de/veranstaltungen/"
+   "url": "https://www.bayika.de/de/veranstaltungen/",
+   "folge": "/veranstaltungen/[a-z0-9-]{6,}"
   },
   {
    "id": "ihk-muenchen",
@@ -296,7 +301,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Messe",
-   "url": "https://www.messeaugsburg.de/de/terminkalender"
+   "url": "https://www.messeaugsburg.de/de/terminkalender",
+   "folge": "/de/[a-z0-9-]{4,}"
   },
   {
    "id": "tum-venture-labs",
@@ -363,7 +369,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.dgnb.de/de/events-und-termine/aktuelle-veranstaltungen"
+   "url": "https://www.dgnb.de/de/events-und-termine/aktuelle-veranstaltungen",
+   "folge": "/events-und-termine/[a-z0-9-]{8,}"
   },
   {
    "id": "bsw-solar",
@@ -457,7 +464,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Medien",
-   "url": "https://www.heinze.de/events/"
+   "url": "https://www.heinze.de/events/",
+   "folge": "/events?/[a-z0-9-]{6,}"
   },
   {
    "id": "feuerverzinken",
@@ -552,7 +560,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.koelnmesse.de/aktuelle-termine/alle-messen/"
+   "url": "https://www.koelnmesse.de/aktuelle-termine/alle-messen/",
+   "folge": "/(messen|veranstaltungen)/[a-z0-9-]{4,}"
   },
   {
    "id": "messe-berlin",
@@ -568,7 +577,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.messe-essen.de/event-kalender"
+   "url": "https://www.messe-essen.de/event-kalender",
+   "folge": "/(messen|events?)/[a-z0-9-]{4,}"
   },
   {
    "id": "schall-messen",
@@ -689,7 +699,8 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Wirtschaftsförderung",
-   "url": "https://wirtschaftsagentur.at/veranstaltungen/"
+   "url": "https://wirtschaftsagentur.at/veranstaltungen/",
+   "folge": "/veranstaltungen/[a-z0-9-]{6,}"
   },
   {
    "id": "tech2b",
@@ -697,7 +708,8 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Gründerzentrum",
-   "url": "https://www.tech2b.at/events/"
+   "url": "https://www.tech2b.at/events/",
+   "folge": "/events?/[a-z0-9-]{6,}"
   },
   {
    "id": "startup-salzburg",
@@ -1034,7 +1046,8 @@
    "url": "https://www.pv-magazine.de/events/webinare/",
    "branchen": [
     "Energie & Solar"
-   ]
+   ],
+   "folge": "/webinare/[a-z0-9-]{8,}"
   },
   {
    "id": "gentner-events",
@@ -1042,7 +1055,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Medien",
-   "url": "https://events.gentner.de/"
+   "url": "https://events.gentner.de/",
+   "folge": "/[a-z0-9-]{8,}"
   },
   {
    "id": "brutkasten-events",
@@ -1109,7 +1123,91 @@
    "url": "https://www.intersolar.de/",
    "branchen": [
     "Energie & Solar"
-   ]
+   ],
+   "folge": "/(veranstaltungen|events?|konferenz|forum)/[a-z0-9-]{4,}"
+  },
+  {
+   "id": "startbase-events",
+   "name": "Startbase – Start-up-Events Deutschland",
+   "art": "events",
+   "region": "Deutschland",
+   "typ": "Plattform",
+   "url": "https://www.startbase.de/events/",
+   "folge": "/events/[a-z0-9-]{8,}"
+  },
+  {
+   "id": "wrs-termine",
+   "name": "Wirtschaftsförderung Region Stuttgart – Termine",
+   "art": "events",
+   "region": "Deutschland",
+   "typ": "Wirtschaftsförderung",
+   "url": "https://wrs.region-stuttgart.de/termine/",
+   "folge": "/termine/[a-z0-9-]{4,}"
+  },
+  {
+   "id": "it-region-stuttgart",
+   "name": "IT-Region Stuttgart – Termine",
+   "art": "events",
+   "region": "Deutschland",
+   "typ": "Wirtschaftsförderung",
+   "url": "https://it.region-stuttgart.de/termine/",
+   "folge": "/termine/[a-z0-9-]{4,}"
+  },
+  {
+   "id": "liste-bau-futurelab",
+   "name": "BAU – Future Lab und Start-ups",
+   "art": "liste",
+   "region": "Bayern",
+   "typ": "Messe",
+   "url": "https://bau-muenchen.com/en/trade-fair/program/futurelabandstartups/"
+  },
+  {
+   "id": "liste-smarter-e-award",
+   "name": "The smarter E Award – Finalisten",
+   "art": "liste",
+   "region": "Europa",
+   "typ": "Messe",
+   "url": "https://www.thesmartere-award.com/press-release/finalists-tse-award"
+  },
+  {
+   "id": "liste-startbase-axel",
+   "name": "Startbase – AXEL Energie-Accelerator",
+   "art": "liste",
+   "region": "Deutschland",
+   "typ": "Accelerator",
+   "url": "https://www.startbase.de/organization/axel-der-energie-accelerator/"
+  },
+  {
+   "id": "liste-ingenieur-100-bau",
+   "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
+   "art": "liste",
+   "region": "Deutschland",
+   "typ": "Medien",
+   "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/"
+  },
+  {
+   "id": "liste-contech-report",
+   "name": "starting-up.de – ConTech-Start-up-Report 2026",
+   "art": "liste",
+   "region": "Deutschland",
+   "typ": "Medien",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html"
+  },
+  {
+   "id": "liste-energy-launchpad",
+   "name": "Bayern Innovativ – Energy Launchpad Award 2026",
+   "art": "liste",
+   "region": "Bayern",
+   "typ": "Cluster",
+   "url": "https://www.bayern-innovativ.de/en/emagazine/detail/the-2026-energy-launchpad-award-supports-energy-innovations-from-the-dach-region/"
+  },
+  {
+   "id": "liste-contech-award-ch",
+   "name": "Startupticker – ConTech Award Finalisten (Schweiz)",
+   "art": "liste",
+   "region": "Schweiz",
+   "typ": "Medien",
+   "url": "https://startupticker.ch/en/news/ten-startups-proceed-to-the-finals-of-the-contech-award"
   }
  ]
 }
