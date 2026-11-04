@@ -1,7 +1,7 @@
 {
- "abgerufen": "2026-11-04 08:42 UTC",
- "quellen_gesamt": 170,
- "quellen_ok": 163,
+ "abgerufen": "2026-11-04 08:45 UTC",
+ "quellen_gesamt": 171,
+ "quellen_ok": 164,
  "kandidaten": 794,
  "neu": 263,
  "quellen": [
@@ -716,6 +716,20 @@
    "anzahl": 25,
    "fehler": "",
    "sekunden": 190.1,
+   "zuletzt_ok": "2026-11-04"
+  },
+  {
+   "id": "firmen-europa",
+   "name": "Nachrecherche: europäische Start-ups aus Ranglisten (Cemex Ventures Top 50 Contech, Green Tech Startups Austria u. a.)",
+   "art": "firmen",
+   "url": "https://www.cemexventures.com/top-50/",
+   "ok": true,
+   "methoden": [
+    "firmenprofile"
+   ],
+   "anzahl": 18,
+   "fehler": "",
+   "sekunden": 186.0,
    "zuletzt_ok": "2026-11-04"
   },
   {
