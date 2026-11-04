@@ -1304,7 +1304,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.bolognafiere.it/en/calendar/",
+   "url": "https://bolognafiere.it/calendario/",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1313,7 +1313,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.iegexpo.it/en/calendar",
+   "url": "https://www.iegexpo.it/it/calendario-manifestazioni",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1331,7 +1331,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.firabarcelona.com/en/calendar/",
+   "url": "https://www.firabarcelona.com/en/trade_show/",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1340,7 +1340,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.viparis.com/en/agenda",
+   "url": "https://www.viparis.com/en/news-events/events",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1349,7 +1349,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.eurexpo.com/en/calendar",
+   "url": "https://www.gl-lyonevents.com/fr/agenda",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1358,8 +1358,9 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.rai.nl/en/agenda",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "url": "https://www.rai.nl/agenda",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "folge": "/agenda/[a-z0-9-]+"
   },
   {
    "id": "messe-jaarbeurs",
@@ -1367,7 +1368,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.jaarbeurs.nl/en/agenda",
+   "url": "https://www.jaarbeurs.nl/agenda",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1385,7 +1386,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.bvv.cz/en/trade-fairs-calendar/",
+   "url": "https://www.bvv.cz/en/calendar",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1394,8 +1395,9 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.pvaexpo.cz/en/calendar",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "url": "https://www.pvaexpo.cz/en/events",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "folge": "/en/event/\\d+"
   },
   {
    "id": "messe-mtp-poznan",
@@ -1412,8 +1414,9 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://warsawexpo.eu/en/calendar/",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "url": "https://warsawexpo.eu/en/fair-calendar/",
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "folge": "/en/fair-calendar/[a-z0-9-]+/"
   },
   {
    "id": "messe-excel-london",
@@ -1421,7 +1424,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://www.excel.london/whats-on",
+   "url": "https://www.excel.london/visitor/whats-on",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1440,7 +1443,10 @@
    "region": "Europa",
    "typ": "Messegelände",
    "url": "https://www.stockholmsmassan.se/en/calendar/",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "weitere_urls": [
+    "https://stockholmsmassan.se/kalender/?ical=1"
+   ]
   },
   {
    "id": "messe-bella-center",
@@ -1449,7 +1455,8 @@
    "region": "Europa",
    "typ": "Messegelände",
    "url": "https://www.bellacentercopenhagen.dk/en/events",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Website vom Abruf aus nicht erreichbar (DNS); per Websuche abdecken",
+   "aktiv": false
   },
   {
    "id": "messe-messukeskus",
@@ -1457,7 +1464,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Messegelände",
-   "url": "https://messukeskus.com/en/events/",
+   "url": "https://www.messukeskus.com/en/for-visitors/events/",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1466,7 +1473,7 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Messegelände",
-   "url": "https://www.messe.at/en/calendar/",
+   "url": "https://vieconcenter.at/events",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1476,7 +1483,8 @@
    "region": "Österreich",
    "typ": "Messegelände",
    "url": "https://www.messezentrum-salzburg.at/de/veranstaltungen",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "kein maschinenlesbarer Kalender gefunden; per Websuche abdecken",
+   "aktiv": false
   },
   {
    "id": "messe-bernexpo",
@@ -1484,16 +1492,16 @@
    "art": "events",
    "region": "Schweiz",
    "typ": "Messegelände",
-   "url": "https://www.bernexpo.ch/de/veranstaltungen",
+   "url": "https://bernexpo.ch/de/kalender",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
    "id": "messe-zuerich",
-   "name": "Messe Zürich – Veranstaltungen",
+   "name": "MCH Messe Basel/Zürich – Messen",
    "art": "events",
    "region": "Schweiz",
    "typ": "Messegelände",
-   "url": "https://www.messe.ch/de/veranstaltungen/",
+   "url": "https://www.messe-basel.com/de/events?categories=messe",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1502,7 +1510,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "EU-Portal",
-   "url": "https://build-up.ec.europa.eu/en/events",
+   "url": "https://build-up.ec.europa.eu/en/news-and-events/events",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1520,7 +1528,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Verband",
-   "url": "https://www.fiec.eu/events",
+   "url": "https://www.fiec.eu/upcoming-events",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1529,7 +1537,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Verband",
-   "url": "https://www.ectp.org/events",
+   "url": "https://ectp.info/events/?ical=1",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1538,7 +1546,7 @@
    "art": "events",
    "region": "Europa",
    "typ": "Verband",
-   "url": "https://www.egga.com/events/",
+   "url": "https://www.galvanizingeurope.org/events-publications/",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1561,11 +1569,11 @@
   },
   {
    "id": "innoenergy-events",
-   "name": "EIT InnoEnergy – Events",
+   "name": "EIT InnoEnergy – The Business Booster",
    "art": "events",
    "region": "Europa",
    "typ": "EU-Programm",
-   "url": "https://www.innoenergy.com/events/",
+   "url": "https://tbb.innoenergy.com/",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1574,16 +1582,16 @@
    "art": "events",
    "region": "Europa",
    "typ": "EU-Programm",
-   "url": "https://www.climate-kic.org/events/",
+   "url": "https://www.climate-kic.org/get-involved/attend-an-event/",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
    "id": "eit-manufacturing-events",
-   "name": "EIT Manufacturing – Events",
+   "name": "EIT (alle Innovationsgemeinschaften) – Events",
    "art": "events",
    "region": "Europa",
    "typ": "EU-Programm",
-   "url": "https://www.eitmanufacturing.eu/events/",
+   "url": "https://www.eit.europa.eu/news-events/events",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
   },
   {
@@ -1602,7 +1610,8 @@
    "region": "Europa",
    "typ": "Verband",
    "url": "https://www.buildingsmart.org/events/",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Website sperrt automatische Abrufe (403); per Websuche abdecken",
+   "aktiv": false
   },
   {
    "id": "sifted-events",
@@ -1611,7 +1620,8 @@
    "region": "Europa",
    "typ": "Medien",
    "url": "https://sifted.eu/events",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "keine Eventseite gefunden; per Websuche abdecken",
+   "aktiv": false
   },
   {
    "id": "startup-europe-events",
@@ -1945,6 +1955,24 @@
    "datumsformat": "us",
    "kontext": 3,
    "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "liste-innoenergy-portfolio",
+   "name": "EIT InnoEnergy – Portfolio",
+   "art": "liste",
+   "region": "Europa",
+   "typ": "Start-up-Liste",
+   "url": "https://innoenergy.com/portfolio/",
+   "notiz": "Europa-Erweiterung: Start-up-Portfolio"
+  },
+  {
+   "id": "liste-climate-kic-portfolio",
+   "name": "EIT Climate-KIC – Portfolio",
+   "art": "liste",
+   "region": "Europa",
+   "typ": "Start-up-Liste",
+   "url": "https://www.climate-kic.org/programmes/our-portfolio/",
+   "notiz": "Europa-Erweiterung: Start-up-Portfolio"
   }
  ]
 }
