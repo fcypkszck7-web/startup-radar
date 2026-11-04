@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-04 07:50 UTC",
- "quellen_gesamt": 111,
- "quellen_ok": 108,
+ "abgerufen": "2026-11-04 07:56 UTC",
+ "quellen_gesamt": 112,
+ "quellen_ok": 109,
  "kandidaten": 451,
- "neu": 237,
+ "neu": 30,
  "quellen": [
   {
    "id": "auma-bau",
@@ -226,6 +226,16 @@
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [],
+   "fehler": ""
+  },
+  {
+   "id": "firmen-nachrecherche",
+   "ok": true,
+   "anzahl": 24,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "firmenprofile"
+   ],
    "fehler": ""
   },
   {
