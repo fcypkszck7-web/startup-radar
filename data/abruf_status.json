@@ -1,5 +1,5 @@
 {
- "abgerufen": "2026-11-04 07:37 UTC",
+ "abgerufen": "2026-11-04 07:41 UTC",
  "quellen_gesamt": 101,
  "quellen_ok": 98,
  "kandidaten": 274,
@@ -473,7 +473,7 @@
   {
    "id": "liste-groundbreakers",
    "ok": true,
-   "anzahl": 152,
+   "anzahl": 58,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "liste"
