@@ -1245,6 +1245,49 @@
     "https://kertos.io/"
    ],
    "notiz": "Websites aus Listen und Berichten, deren Sitz und Kurzbeschreibung automatisch aus Website und Impressum gelesen werden."
+  },
+  {
+   "id": "firmen-bayern-listen",
+   "name": "Nachrecherche: Bayerische Start-ups aus Ranglisten und Startup-Portalen",
+   "art": "firmen",
+   "region": "Bayern",
+   "typ": "Nachrecherche",
+   "url": "https://www.failory.com/startups/bayern",
+   "urls": [
+    "https://feld.energy/",
+    "https://kiutra.com/",
+    "https://www.twaice.com/",
+    "https://voltstorage.com/",
+    "https://www.tado.com/de-de/",
+    "https://www.navvis.com/de",
+    "https://remberg.com/de",
+    "https://hyperdrives.de/",
+    "https://www.vernaio.com/",
+    "https://symphera.io/",
+    "https://efficient-energy.de/",
+    "https://germanbionic.com/",
+    "https://www.agile-robots.com/",
+    "https://www.fernride.com/",
+    "https://www.orcan-energy.com/",
+    "https://www.proximafusion.com/",
+    "https://marvelfusion.com/",
+    "https://www.hivemq.com/",
+    "https://kinexon.com/",
+    "https://www.simscale.com/",
+    "https://crafthunt.app/de",
+    "https://www.homenergy.de/",
+    "https://www.capmo.com/de",
+    "https://www.cylib.de/de/impressum",
+    "https://www.greenlyte.tech/imprint",
+    "https://www.briink.com/impressum",
+    "https://www.getsunhat.com/de/impressum",
+    "https://www.sparkefuels.com/privacy-legal-notice",
+    "https://www.conxai.com/imprint",
+    "https://www.fenx.ch/impressum",
+    "https://voliro.com/imprint",
+    "https://themobbot.com/"
+   ],
+   "notiz": "Websites aus der failory-Rangliste Bayern, Munich-Startup-Themenseiten und Berichten; Sitz und Kurzbeschreibung werden automatisch aus Website und Impressum gelesen."
   }
  ]
 }

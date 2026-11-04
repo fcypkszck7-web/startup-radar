@@ -625,6 +625,28 @@ def verarbeite_seite(q, cache, max_detail, url=None):
     return ergebnis
 
 
+def sitz_aus_zeilen(zeilen, profil):
+    """Sucht im Impressum die erste Zeile mit Postleitzahl und Ort (Copyright-Zeilen ausgenommen)."""
+    ctx = " ".join(zeilen[:400]).lower()
+    for zl in zeilen[:400]:
+        if re.search(r"©|copyright|\(c\)", zl, re.I):
+            continue
+        m = PLZ_RE.search(zl)
+        if not m or (len(m.group(2)) == 4 and 1990 <= int(m.group(2)) <= 2035 and not m.group(1)):
+            continue
+        profil["sitz"] = m.group(3).strip()
+        pre = m.group(1) or ""
+        profil["plz"] = m.group(2)
+        if pre == "A" or (len(m.group(2)) == 4 and ("österreich" in ctx or "austria" in ctx)):
+            profil["land"] = "AT"
+        elif pre == "CH" or (len(m.group(2)) == 4 and ("schweiz" in ctx or "switzerland" in ctx)):
+            profil["land"] = "CH"
+        elif len(m.group(2)) == 5:
+            profil["land"] = "DE"
+        return True
+    return False
+
+
 def firmenprofil(url, cache):
     """Öffentliche Unternehmensangaben einer Start-up-Website: Name, Kurzbeschreibung, Sitz laut Impressum."""
     c = cache.get("firma:" + url)
@@ -655,26 +677,15 @@ def firmenprofil(url, cache):
                         if x.get("foundingDate"):
                             profil.setdefault("gruendung", str(x["foundingDate"])[:4])
         imp = next((urllib.parse.urljoin(final, l["href"]) for l in z.links
-                    if re.search(r"impressum|imprint|legal notice|mentions l", l["text"] + " " + l["href"], re.I)), "")
-        if imp:
+                    if re.search(r"impressum|imprint|legal notice|legal-notice|mentions l", l["text"] + " " + l["href"], re.I)), "")
+        selbst = re.search(r"impressum|imprint|legal", final, re.I)
+        if selbst and not profil.get("sitz"):
+            profil["impressum"] = final
+            sitz_aus_zeilen(sichtbarer_text(z), profil)
+        if imp and not profil.get("sitz") and imp != final:
             profil["impressum"] = imp
-            if not profil.get("sitz"):
-                _, t2, _ = hole(imp)
-                zeilen = sichtbarer_text(zerlege(t2))
-                for zl in zeilen[:200]:
-                    m = PLZ_RE.search(zl)
-                    if m:
-                        profil["sitz"] = m.group(3).strip()
-                        pre = m.group(1) or ""
-                        profil["plz"] = m.group(2)
-                        ctx = " ".join(zeilen[:200]).lower()
-                        if pre == "A" or (len(m.group(2)) == 4 and ("österreich" in ctx or "austria" in ctx)):
-                            profil["land"] = "AT"
-                        elif pre == "CH" or (len(m.group(2)) == 4 and ("schweiz" in ctx or "switzerland" in ctx)):
-                            profil["land"] = "CH"
-                        elif len(m.group(2)) == 5:
-                            profil["land"] = "DE"
-                        break
+            _, t2, _ = hole(imp)
+            sitz_aus_zeilen(sichtbarer_text(zerlege(t2)), profil)
     except Exception as ex:  # noqa: BLE001
         profil["fehler"] = type(ex).__name__
     cache["firma:" + url] = {"geholt": HEUTE.isoformat(), "profil": profil}
