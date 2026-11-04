@@ -1973,6 +1973,41 @@
    "typ": "Start-up-Liste",
    "url": "https://www.climate-kic.org/programmes/our-portfolio/",
    "notiz": "Europa-Erweiterung: Start-up-Portfolio"
+  },
+  {
+   "id": "firmen-europa",
+   "name": "Nachrecherche: europäische Start-ups aus Ranglisten (Cemex Ventures Top 50 Contech, Green Tech Startups Austria u. a.)",
+   "art": "firmen",
+   "region": "Europa",
+   "typ": "Nachrecherche",
+   "url": "https://www.cemexventures.com/top-50/",
+   "urls": [
+    "https://011h.com/",
+    "https://www.aitenders.com/",
+    "https://all3.com/",
+    "https://www.gentian.io/",
+    "https://www.hyperionrobotics.com/",
+    "https://www.materialevolution.com/",
+    "https://navlive.ai/",
+    "https://www.s1seven.com/",
+    "https://www.sonocrete.com/",
+    "https://tolveet.com/",
+    "https://www.wolly.io/",
+    "https://recycl8.com/",
+    "https://www.ekotekt.com/",
+    "https://www.birdsview.ai/",
+    "https://www.makeabim.com/",
+    "https://www.necotech.at/",
+    "https://www.provizual.com/",
+    "https://www.kapture.co.uk/",
+    "https://www.mineralminds.com/",
+    "https://www.baublocks.at/",
+    "https://www.fiber-elements.com/",
+    "https://hashlynk.com/",
+    "https://duramea.com/",
+    "https://www.pulpstack.com/"
+   ],
+   "notiz": "Europa-Erweiterung: Websites aus Ranglisten; Sitz wird aus dem Impressum gelesen, vor Aufnahme prüfen, ob Website und Start-up zusammenpassen"
   }
  ]
 }
