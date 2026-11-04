@@ -875,6 +875,15 @@ def main():
             status.append(st)
             print(f"{'OK ' if st['ok'] else 'ERR'} {st['id']:<34} {st['anzahl']:>4}  {','.join(st['methoden'])[:60]}  {st['fehler']}", flush=True)
 
+    # Teilabruf: Ergebnisse der übrigen Quellen behalten
+    if a.nur:
+        bearbeitet = {q["id"] for q in quellen}
+        alte_ev_p = aus / "abruf" / "events.json"
+        if alte_ev_p.exists():
+            for k in json.loads(alte_ev_p.read_text(encoding="utf-8")):
+                if k.get("quelle_id") not in bearbeitet and im_zeitraum(k.get("start")):
+                    kandidaten.append(k)
+        status += [s for i, s in alter_status.items() if i not in bearbeitet]
     # zusammenführen
     zusammen = {}
     for k in kandidaten:
@@ -888,7 +897,7 @@ def main():
                 alt["quellen"].append(k["quelle_id"])
             continue
         k["schluessel"] = s
-        k["quellen"] = [k["quelle_id"]]
+        k["quellen"] = list(dict.fromkeys([k["quelle_id"]] + k.get("quellen", [])))
         zusammen[s] = k
     liste = sorted(zusammen.values(), key=lambda k: (k["start"], k["titel"]))
     for k in liste:
