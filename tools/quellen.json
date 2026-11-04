@@ -1621,6 +1621,330 @@
    "typ": "EU-Portal",
    "url": "https://digital-strategy.ec.europa.eu/en/events",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+  },
+  {
+   "id": "eventseye-building-construction",
+   "name": "eventseye – Fachmessen Europa: Bau",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_building-construction.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_building-construction_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_building-construction_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_building-construction_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_building-construction_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-renewal-renovations",
+   "name": "eventseye – Fachmessen Europa: Sanierung",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_renewal-renovations.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_renewal-renovations_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_renewal-renovations_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_renewal-renovations_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_renewal-renovations_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-heating-air-conditioning",
+   "name": "eventseye – Fachmessen Europa: Heizung, Klima",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_heating-air-conditioning.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_heating-air-conditioning_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_heating-air-conditioning_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_heating-air-conditioning_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_heating-air-conditioning_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-industrial-building",
+   "name": "eventseye – Fachmessen Europa: Industriebau",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_industrial-building.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_industrial-building_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_industrial-building_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_industrial-building_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_industrial-building_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-software-tools-for-building",
+   "name": "eventseye – Fachmessen Europa: Bau-Software",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_software-tools-for-building.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_software-tools-for-building_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_software-tools-for-building_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_software-tools-for-building_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_software-tools-for-building_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-clean-energies-renewable-energies",
+   "name": "eventseye – Fachmessen Europa: Erneuerbare Energien",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_clean-energies-renewable-energies.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_clean-energies-renewable-energies_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_clean-energies-renewable-energies_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_clean-energies-renewable-energies_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_clean-energies-renewable-energies_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-energy-production-transportation",
+   "name": "eventseye – Fachmessen Europa: Energieerzeugung und -netze",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_energy-production-transportation.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_energy-production-transportation_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_energy-production-transportation_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_energy-production-transportation_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_energy-production-transportation_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-biofuels-hydrogen",
+   "name": "eventseye – Fachmessen Europa: Wasserstoff, Biokraftstoffe",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_biofuels-hydrogen.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_biofuels-hydrogen_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_biofuels-hydrogen_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_biofuels-hydrogen_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_biofuels-hydrogen_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-metal-working-industries",
+   "name": "eventseye – Fachmessen Europa: Metallbearbeitung",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_metal-working-industries.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_metal-working-industries_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_metal-working-industries_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_metal-working-industries_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_metal-working-industries_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-surface-treatment-technologies-coatings",
+   "name": "eventseye – Fachmessen Europa: Oberflächentechnik",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_surface-treatment-technologies-coatings.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_surface-treatment-technologies-coatings_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_surface-treatment-technologies-coatings_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_surface-treatment-technologies-coatings_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_surface-treatment-technologies-coatings_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-adhesion-paints-coating-technologies",
+   "name": "eventseye – Fachmessen Europa: Lacke, Beschichtung",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_adhesion-paints-coating-technologies.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_adhesion-paints-coating-technologies_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_adhesion-paints-coating-technologies_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_adhesion-paints-coating-technologies_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_adhesion-paints-coating-technologies_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-subcontracting-suppliers-partners",
+   "name": "eventseye – Fachmessen Europa: Zulieferung",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_subcontracting-suppliers-partners.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_subcontracting-suppliers-partners_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_subcontracting-suppliers-partners_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_subcontracting-suppliers-partners_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_subcontracting-suppliers-partners_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-machines-tools-tools",
+   "name": "eventseye – Fachmessen Europa: Werkzeugmaschinen",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_machines-tools-tools.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_machines-tools-tools_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_machines-tools-tools_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_machines-tools-tools_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_machines-tools-tools_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-robotics",
+   "name": "eventseye – Fachmessen Europa: Robotik",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_robotics.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_robotics_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_robotics_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_robotics_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_robotics_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-welding",
+   "name": "eventseye – Fachmessen Europa: Schweißen",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_welding.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_welding_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_welding_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_welding_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_welding_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-waste-management-recycling",
+   "name": "eventseye – Fachmessen Europa: Recycling, Kreislauf",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_waste-management-recycling.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_waste-management-recycling_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_waste-management-recycling_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_waste-management-recycling_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_waste-management-recycling_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-advanced-materials",
+   "name": "eventseye – Fachmessen Europa: Werkstoffe",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_advanced-materials.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_advanced-materials_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_advanced-materials_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_advanced-materials_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_advanced-materials_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
+  },
+  {
+   "id": "eventseye-logistics-transportation-engineering-han",
+   "name": "eventseye – Fachmessen Europa: Logistik",
+   "art": "events",
+   "region": "Europa",
+   "typ": "Messeverzeichnis",
+   "url": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_logistics-transportation-engineering-handling-operations-storage.html",
+   "weitere_urls": [
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_logistics-transportation-engineering-handling-operations-storage_1.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_logistics-transportation-engineering-handling-operations-storage_2.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_logistics-transportation-engineering-handling-operations-storage_3.html",
+    "https://www.eventseye.com/fairs/zst1_trade-shows_europe_logistics-transportation-engineering-handling-operations-storage_4.html"
+   ],
+   "modus": "zeilen",
+   "datumsformat": "us",
+   "kontext": 3,
+   "notiz": "Europa-Erweiterung: Messeverzeichnis je Branche (Terminzeilen, Daten im US-Format); Treffer vor Aufnahme beim Veranstalter prüfen"
   }
  ]
 }

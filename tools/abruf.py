@@ -484,12 +484,19 @@ def detail_kandidat(url, text):
     return None
 
 
-def datumszeilen(zeilen):
+def schraegstrich_daten(zeilen, format_=None):
+    """Wandelt 11/24/2026 (format_ "us") bzw. 24/11/2026 (sonst) in 24.11.2026 um, damit DATUM_RE greift."""
+    if format_ == "us":
+        return [re.sub(r"(?<!\d)(\d{1,2})/(\d{1,2})/(20\d\d)(?!\d)", r"\2.\1.\3", z) for z in zeilen]
+    return [re.sub(r"(?<!\d)(\d{1,2})/(\d{1,2})/(20\d\d)(?!\d)", r"\1.\2.\3", z) for z in zeilen]
+
+
+def datumszeilen(zeilen, kontext=1):
     treffer = []
     for i, zl in enumerate(zeilen):
         ds = [datum_aus_treffer(m) for m in DATUM_RE.finditer(zl)]
         if any(d and im_zeitraum(d) for d in ds):
-            treffer.append(" | ".join(zeilen[max(0, i - 1): i + 2])[:400])
+            treffer.append(" | ".join(zeilen[max(0, i - kontext): i + 2])[:500])
     return list(dict.fromkeys(treffer))
 
 
@@ -497,7 +504,7 @@ def verarbeite_zeilenquelle(q, url, cache, max_detail):
     """Artikel-/Übersichtsseiten (z. B. Wochen-Terminübersichten): Datumszeilen aus Seite und verlinkten Beiträgen."""
     final, text, _ = hole(url)
     z = zerlege(text)
-    zeilen = datumszeilen(sichtbarer_text(z))
+    zeilen = datumszeilen(schraegstrich_daten(sichtbarer_text(z), q.get("datumsformat")), q.get("kontext", 1))
     folge = re.compile(q["folge"], re.I) if q.get("folge") else None
     host = urllib.parse.urlsplit(final).netloc
     if folge:
