@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-04 08:36 UTC",
- "quellen_gesamt": 168,
- "quellen_ok": 148,
- "kandidaten": 707,
- "neu": 240,
+ "abgerufen": "2026-11-04 08:39 UTC",
+ "quellen_gesamt": 170,
+ "quellen_ok": 163,
+ "kandidaten": 794,
+ "neu": 292,
  "quellen": [
   {
    "id": "auma-bau",
@@ -120,11 +120,11 @@
   },
   {
    "id": "build-up-eu",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "buildingsmart",
@@ -230,11 +230,13 @@
   },
   {
    "id": "ectp-events",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 16,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "ical"
+   ],
+   "fehler": ""
   },
   {
    "id": "een-events",
@@ -256,11 +258,13 @@
   },
   {
    "id": "eit-manufacturing-events",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 530"
+   "ok": true,
+   "anzahl": 3,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:10"
+   ],
+   "fehler": ""
   },
   {
    "id": "energieagentur-regensburg",
@@ -470,11 +474,13 @@
   },
   {
    "id": "fiec-events",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 1,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:1"
+   ],
+   "fehler": ""
   },
   {
    "id": "firmen-bayern-listen",
@@ -690,11 +696,13 @@
   },
   {
    "id": "innoenergy-events",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "json-ld"
+   ],
+   "fehler": ""
   },
   {
    "id": "intersolar-events",
@@ -775,6 +783,16 @@
    "fehler": ""
   },
   {
+   "id": "liste-climate-kic-portfolio",
+   "ok": true,
+   "anzahl": 12,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
    "id": "liste-contech-award-ch",
    "ok": true,
    "anzahl": 27,
@@ -838,6 +856,16 @@
    "id": "liste-ingenieur-100-bau",
    "ok": true,
    "anzahl": 23,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "liste"
+   ],
+   "fehler": ""
+  },
+  {
+   "id": "liste-innoenergy-portfolio",
+   "ok": true,
+   "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
     "liste"
@@ -927,16 +955,20 @@
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
    "id": "messe-bolognafiere",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "messe-brussels-expo",
@@ -950,11 +982,13 @@
   },
   {
    "id": "messe-bvv-brno",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "datumszeilen"
+   ],
+   "fehler": ""
   },
   {
    "id": "messe-duesseldorf",
@@ -1012,11 +1046,11 @@
   },
   {
    "id": "messe-ieg-rimini",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "messe-ifema",
@@ -1079,24 +1113,28 @@
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-04",
-   "methoden": [],
+   "methoden": [
+    "detailseiten:228"
+   ],
    "fehler": ""
   },
   {
    "id": "messe-pva-prag",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 39,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:44"
+   ],
+   "fehler": ""
   },
   {
    "id": "messe-rai",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "messe-salzburg",
@@ -1109,20 +1147,23 @@
   {
    "id": "messe-stockholmsmassan",
    "ok": true,
-   "anzahl": 27,
+   "anzahl": 54,
    "zuletzt_ok": "2026-11-04",
    "methoden": [
-    "json-ld"
+    "json-ld",
+    "ical"
    ],
    "fehler": ""
   },
   {
    "id": "messe-viparis",
-   "ok": false,
-   "anzahl": 0,
-   "zuletzt_ok": "",
-   "methoden": [],
-   "fehler": "HTTP 404"
+   "ok": true,
+   "anzahl": 1,
+   "zuletzt_ok": "2026-11-04",
+   "methoden": [
+    "detailseiten:10"
+   ],
+   "fehler": ""
   },
   {
    "id": "messe-wels",
@@ -1136,19 +1177,19 @@
   },
   {
    "id": "messe-wien",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "messe-zuerich",
-   "ok": false,
+   "ok": true,
    "anzahl": 0,
-   "zuletzt_ok": "",
+   "zuletzt_ok": "2026-11-04",
    "methoden": [],
-   "fehler": "HTTP 404"
+   "fehler": ""
   },
   {
    "id": "messen-de-ausbau",
