@@ -1554,6 +1554,50 @@
   ]
  },
  {
+  "id": "19-gruenderfruehstueck-landkreis-cham-2026",
+  "name": "19. Gründerfrühstück Landkreis Cham",
+  "format": "Netzwerktreffen",
+  "veranstalter": "Gründerland Bayern – Veranstaltungen",
+  "ort": "IGZ Roding, Roding",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2026-11-06",
+  "ende": "2026-11-06",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründerfrühstück für Gründerinnen, Gründer und junge Unternehmen im Landkreis Cham",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gruenderland.bayern/veranstaltungen/event/19-gruenderfruehstueck-landkreis-cham/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:gruenderland-bayern",
+  "geo": [
+   49.1953,
+   12.5197
+  ],
+  "gesamt": 2.9,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
   "id": "contact-denkmal-internationale-geschaeftskontaktboerse-auf-d-2026",
   "name": "CONTACT \"denkmal\" - Internationale Geschäftskontaktbörse auf der Messe in Leipzig",
   "format": "Matchmaking",
@@ -2531,6 +2575,52 @@
   ]
  },
  {
+  "id": "power-packaging-for-ai-data-centers-from-grid-to-core-2026",
+  "name": "Power Packaging for AI Data Centers from Grid to Core",
+  "format": "Vortrag",
+  "veranstalter": "OTH Regensburg – Veranstaltungen",
+  "ort": "OTH Regensburg, Regensburg",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Stromversorgung und Leistungselektronik für KI-Rechenzentren",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Software, KI & Daten",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.oth-regensburg.de/termine/detailansicht/power-packaging-for-ai-data-centers-from-grid-to-core",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:oth-regensburg",
+  "geo": [
+   49.003,
+   12.0958
+  ],
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "veteco-2026",
   "name": "VETECO 2026",
   "format": "Fachmesse",
@@ -2616,6 +2706,50 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "gruenderseminar-im-landkreis-cham-teil-i-ii-2026",
+  "name": "Gründerseminar im Landkreis Cham Teil I/II",
+  "format": "Seminar",
+  "veranstalter": "Gründerland Bayern – Veranstaltungen",
+  "ort": "IGZ Roding, Roding",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründerseminar, Teil 1",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-i-ii/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:gruenderland-bayern",
+  "geo": [
+   49.1953,
+   12.5197
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
   "archiv": false
  },
  {
@@ -3058,6 +3192,50 @@
   "archiv": false
  },
  {
+  "id": "gruenderseminar-im-landkreis-cham-teil-ii-ii-2026",
+  "name": "Gründerseminar im Landkreis Cham Teil II/II",
+  "format": "Seminar",
+  "veranstalter": "Gründerland Bayern – Veranstaltungen",
+  "ort": "IGZ Roding, Roding",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründerseminar, Teil 2",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-ii-ii/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:gruenderland-bayern",
+  "geo": [
+   49.1953,
+   12.5197
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "handwerk-trifft-forschung-universitaet-der-bundeswehr-2026",
   "name": "Handwerk trifft Forschung: Universität der Bundeswehr",
   "format": "Netzwerktreffen",
@@ -3323,6 +3501,92 @@
    "Industrie & Fertigung",
    "Software, KI & Daten"
   ]
+ },
+ {
+  "id": "shestartup-frauen-gruenden-2026",
+  "name": "SheStartup - Frauen gründen",
+  "format": "Infoveranstaltung",
+  "veranstalter": "Gründerland Bayern – Veranstaltungen",
+  "ort": "IHK für München und Oberbayern, München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-13",
+  "ende": "2026-11-13",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründungsinformationen für Frauen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gruenderland.bayern/veranstaltungen/event/shestartup-frauen-gruenden/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:gruenderland-bayern",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "starting-with-a-brigk-2026",
+  "name": "Starting with a brigk",
+  "format": "Infoveranstaltung",
+  "veranstalter": "Gründerland Bayern – Veranstaltungen",
+  "ort": "brigk – Digitales Gründerzentrum, Ingolstadt",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-13",
+  "ende": "2026-11-13",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Einstieg ins Gründerzentrum brigk",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 4,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gruenderland.bayern/veranstaltungen/event/starting-with-a-brigk/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:gruenderland-bayern",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
  },
  {
   "id": "webinar-am-freitag-carbon-management-strategien-fuer-eine-kl-2026",
@@ -4333,6 +4597,50 @@
   "archiv": false
  },
  {
+  "id": "bwp-schulung-einfuehrung-zur-nutzung-von-waermepumpen-in-lie-2026",
+  "name": "BWP-Schulung: Einführung zur Nutzung von Wärmepumpen in Liegenschaften",
+  "format": "Schulung",
+  "veranstalter": "Bundesverband Wärmepumpe (BWP)",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-19",
+  "ende": "2026-11-26",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Wärmepumpen in Liegenschaften",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar",
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:bwp",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "get-nord-2026",
   "name": "GET Nord 2026",
   "format": "Fachmesse",
@@ -5231,6 +5539,51 @@
   ]
  },
  {
+  "id": "offshore-energy-exhibition-conference-2026",
+  "name": "Offshore Energy Exhibition & Conference 2026",
+  "format": "Fachmesse und Konferenz",
+  "veranstalter": "RAI Amsterdam – Agenda",
+  "ort": "RAI, Amsterdam",
+  "land": "NL",
+  "region": "Niederlande",
+  "rubrik": "eu",
+  "start": "2026-11-25",
+  "ende": "2026-11-26",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Offshore-Energie: Wind, Netze und Wasserstoff",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 1,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.rai.nl/agenda/offshore-energy-conference-&-exhibition-2026",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:messe-rai",
+  "geo": [
+   52.3676,
+   4.9041
+  ],
+  "gesamt": 2.0,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "demo-night-muenchen-2026",
   "name": "Startup Demo Night München",
   "format": "Demo Night",
@@ -5838,6 +6191,50 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "bwp-schulung-beratung-zum-einsatz-von-waermepumpen-im-bestan-2026",
+  "name": "BWP-Schulung: Beratung zum Einsatz von Wärmepumpen im Bestand",
+  "format": "Schulung",
+  "veranstalter": "Bundesverband Wärmepumpe (BWP)",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-01",
+  "ende": "2026-12-11",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Beratung zum Einsatz von Wärmepumpen im Bestand",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar",
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:bwp",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
   "archiv": false
  },
  {
@@ -6636,6 +7033,49 @@
   "archiv": false
  },
  {
+  "id": "bwp-schulung-oberflaechengewaesser-als-waermequelle-2026",
+  "name": "BWP-Schulung: Oberflächengewässer als Wärmequelle",
+  "format": "Schulung",
+  "veranstalter": "Bundesverband Wärmepumpe (BWP)",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Oberflächengewässer als Wärmequelle",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:bwp",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "gruenderwettbewerb-nordhessen-2026",
   "name": "Gründerwettbewerb Nordhessen",
   "format": "Pitch-Abend",
@@ -6940,6 +7380,49 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
+  "id": "expertenrunde-einrohr-heizung-und-waermepumpe-so-geht-s-2026",
+  "name": "Expertenrunde: Einrohr-Heizung und Wärmepumpe – so geht’s",
+  "format": "Webinar",
+  "veranstalter": "Bundesverband Wärmepumpe (BWP)",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Einrohr-Heizung und Wärmepumpe",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gebäudetechnik",
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:bwp",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
  {
@@ -10229,6 +10712,52 @@
   "archiv": false
  },
  {
+  "id": "fachforum-handwerk-beratung-und-planung-2027",
+  "name": "Fachforum Handwerk, Beratung und Planung",
+  "format": "Fachforum",
+  "veranstalter": "Bundesverband Wärmepumpe (BWP)",
+  "ort": "Hannover",
+  "land": "DE",
+  "region": "Niedersachsen",
+  "rubrik": "de",
+  "start": "2027-04-21",
+  "ende": "2027-04-22",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Fachforum für Handwerk, Beratung und Planung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gebäudetechnik",
+   "Handwerk",
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:bwp",
+  "geo": [
+   52.32,
+   9.81
+  ],
+  "gesamt": 2.2,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "tektonica-2027",
   "name": "Tektónica 2027",
   "format": "Baufachmesse",
@@ -12065,6 +12594,52 @@
   "geo": [
    55.4038,
    10.4024
+  ],
+  "gesamt": 2.2,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "deutscher-grosswaermepumpen-kongress-2027",
+  "name": "Deutscher Großwärmepumpen-Kongress 2027",
+  "format": "Kongress",
+  "veranstalter": "Bundesverband Wärmepumpe (BWP)",
+  "ort": "Turbinenhalle, Düsseldorf",
+  "land": "DE",
+  "region": "Nordrhein-Westfalen",
+  "rubrik": "de",
+  "start": "2027-06-28",
+  "ende": "2027-06-30",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Großwärmepumpen in Fernwärme und Industrie",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 2,
+   "aufwand": 2,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "geprueft": "2026-11-05",
+  "herkunft": "abruf:bwp",
+  "geo": [
+   51.2601,
+   6.734
   ],
   "gesamt": 2.2,
   "prioritaet": "C",

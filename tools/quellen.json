@@ -1,5 +1,5 @@
 {
- "hinweis": "Quellenregister: Kalender, Verzeichnisse und Listen, die der Abruf täglich ausliest. art = events (Termine) oder liste (Start-ups). folge = Muster für Detailseiten (optional). Neue Quellen einfach ergänzen; aktiv: false schaltet eine Quelle ab.",
+ "hinweis": "Quellenregister: Kalender, Verzeichnisse und Listen, die der Abruf täglich ausliest. art = events (Termine) oder liste (Start-ups). folge = Muster für Detailseiten (optional). Neue Quellen einfach ergänzen; aktiv: false schaltet eine Quelle ab. Weitere Felder: \"rendern\": true lädt die Übersichtsseite in einem Headless-Browser (für Kalender, die erst per JavaScript entstehen; robots.txt gilt, Sperren und Bot-Prüfungen werden nicht umgangen); \"modus\": \"zeilen\" sammelt nur Datumszeilen; \"datumsformat\": \"us\" für Daten wie 11/24/2026; \"kontext\": Anzahl Zeilen vor einer Datumszeile; \"folge\": Regex für Detailseiten; \"weitere_urls\": zusätzliche Seiten derselben Quelle.",
  "quellen": [
   {
    "id": "dgo-termine",
@@ -801,7 +801,7 @@
    "region": "Europa",
    "typ": "Medien",
    "url": "https://www.eu-startups.com/events/",
-   "rendern": true
+   "notiz": "Seite sperrt Browserabrufe (403); per Websuche abdecken"
   },
   {
    "id": "contech-events-blackprint",
