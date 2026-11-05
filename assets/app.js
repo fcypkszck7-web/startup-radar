@@ -403,6 +403,7 @@
     $("#ansicht").innerHTML = h;
 
     var radar = new Radar($("#radar-held"), {
+      tisch: true,
       oeffnen: function (id) { oeffnePanel("event", id, heldListe().map(function (e) { return e.id; })); },
       hover: function (id) { $$("#visier button").forEach(function (b) { b.classList.toggle("fokus", b.getAttribute("data-oeffne") === id); }); },
       tooltip: tooltip
@@ -458,7 +459,13 @@
 
     var online = liste.filter(function (e) { return e.online; });
     var ohneOrt = liste.filter(function (e) { return !e.online && !e.geo; });
-    $("#held-legende").innerHTML = radarLegende(online, ohneOrt);
+    $("#held-legende").innerHTML = '<button type="button" class="ansicht-schalter" id="draufsicht" aria-pressed="' + (S.draufsicht ? "true" : "false") + '">Draufsicht</button>' + radarLegende(online, ohneOrt);
+    $("#radar-held").classList.toggle("flach", !!S.draufsicht);
+    $("#draufsicht").addEventListener("click", function () {
+      S.draufsicht = !S.draufsicht;
+      this.setAttribute("aria-pressed", S.draufsicht ? "true" : "false");
+      $("#radar-held").classList.toggle("flach", S.draufsicht);
+    });
     S.heldRadar.setze(liste, false);
   }
   function onlineListe(online) {
@@ -801,7 +808,7 @@
       var h = "", aktM = null, puffer = [];
       var flush = function () {
         if (!puffer.length) return;
-        h += '<h2 class="monat-kopf">' + esc(monatLabel(aktM)) + "<span>" + plural(puffer.length, "Termin", "Termine") + '</span></h2><ul class="zeilen">' + puffer.map(zeileHtml).join("") + "</ul>";
+        h += '<h2 class="monat-kopf" data-id="monat-' + esc(aktM) + '">' + esc(monatLabel(aktM)) + "<span>" + plural(puffer.length, "Termin", "Termine") + '</span></h2><ul class="zeilen">' + puffer.map(zeileHtml).join("") + "</ul>";
         puffer = [];
       };
       l.forEach(function (e) {
@@ -840,15 +847,17 @@
     var vorher = {};
     $$("[data-id]", container).forEach(function (el) { vorher[el.getAttribute("data-id")] = el.getBoundingClientRect(); });
     aendern();
-    var neu = $$("[data-id]", container);
-    if (neu.length > 90) return;
-    neu.forEach(function (el, i) {
+    /* Nur was im Bild ist (oder hineingleitet), wird animiert – so bleibt es auch bei 300+ Einträgen flüssig */
+    var hoehe = window.innerHeight, neuSichtbar = 0;
+    var imBild = function (r) { return r && r.bottom > -80 && r.top < hoehe + 80; };
+    $$("[data-id]", container).forEach(function (el) {
       var a = vorher[el.getAttribute("data-id")], b = el.getBoundingClientRect();
+      if (!imBild(b) && !imBild(a)) return;
       if (a) {
-        var dx = a.left - b.left, dy = a.top - b.top;
-        if (Math.abs(dx) > 1 || Math.abs(dy) > 1) el.animate([{ transform: "translate(" + dx + "px," + dy + "px)" }, { transform: "none" }], { duration: 380, easing: "cubic-bezier(.2,.7,.2,1)" });
-      } else {
-        el.animate([{ opacity: 0, transform: "translateY(8px)" }, { opacity: 1, transform: "none" }], { duration: 280, delay: Math.min(i * 18, 240), easing: "ease-out", fill: "backwards" });
+        var dx = a.left - b.left, dy = Math.max(-hoehe, Math.min(hoehe, a.top - b.top));
+        if (Math.abs(dx) > 1 || Math.abs(dy) > 1) el.animate([{ transform: "translate(" + dx + "px," + dy + "px)" }, { transform: "none" }], { duration: 420, easing: "cubic-bezier(.2,.75,.2,1)" });
+      } else if (imBild(b)) {
+        el.animate([{ opacity: 0, transform: "translateY(10px) scale(.985)" }, { opacity: 1, transform: "none" }], { duration: 320, delay: Math.min(neuSichtbar++ * 28, 280), easing: "cubic-bezier(.2,.7,.2,1)", fill: "backwards" });
       }
     });
   }
@@ -1602,12 +1611,17 @@
     return '<div class="p-kopf"><span class="p-art">' + esc(art) + "</span>" + (id ? sternKnopf(id, name) : "") +
       '<button type="button" class="icon-knopf" data-panel-zu aria-label="Schließen" title="Schließen (Esc)">' + I.x + "</button></div>";
   }
+  /* Materialbild der Branche als Titelbild (erzeugt, keine Fotos) */
+  function motivBild(x) {
+    if (!window.Motiv) return "";
+    return '<div class="p-motiv">' + window.Motiv.svg(window.Motiv.wahl(x.branchen), x.id) + "</div>";
+  }
   function fakt(icon, html) { return '<div class="p-fakt">' + icon + "<div>" + html + "</div></div>"; }
   function zeile(k, v) { return "<dt>" + esc(k) + "</dt><dd>" + esc(v == null || v === "" ? "k. A." : v) + "</dd>"; }
 
   function panelEvent(e) {
     var sc = e.scores, ent = entfernung(e);
-    var h = panelKopf(e.rubrik === "noneu" ? "Veranstaltung außerhalb der EU" : "Veranstaltung, " + (e.rubrik === "eu" ? "EU" : RUBRIK[e.rubrik]), e.id, e.name) + '<div class="p-inhalt">';
+    var h = panelKopf(e.rubrik === "noneu" ? "Veranstaltung außerhalb der EU" : "Veranstaltung, " + (e.rubrik === "eu" ? "EU" : RUBRIK[e.rubrik]), e.id, e.name) + '<div class="p-inhalt">' + motivBild(e);
     h += '<div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">' + schild(e.prioritaet, e.gesamt, true) + status(e) + "</div>";
     h += '<h2 id="panel-titel">' + esc(e.name) + "</h2>";
     h += '<div class="p-fakten">' +
@@ -1658,7 +1672,7 @@
   }
   function panelStartup(s) {
     var runden = S.runden.filter(function (r) { return r.startup_id === s.id && r.art === "Finanzierungsrunde"; });
-    var h = panelKopf("Start-up, " + s.region, s.id, s.name) + '<div class="p-inhalt">';
+    var h = panelKopf("Start-up, " + s.region, s.id, s.name) + '<div class="p-inhalt">' + motivBild(s);
     h += '<div class="p-logo-zeile">' + logo(s, true) + '<div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">' + schild(s.prioritaet, null, true) + (s.quickwin ? '<span class="quick-badge">Quick Win</span>' : "") + suchfeldTag(s.suchfeld) + "</div></div>";
     h += '<div class="p-branchen">' + branchenTags(s) + "</div>";
     h += '<h2 id="panel-titel">' + esc(s.name) + "</h2>";

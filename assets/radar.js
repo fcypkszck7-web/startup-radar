@@ -106,7 +106,28 @@
     el("circle", { r: 14, class: "z-ring" }, z); el("circle", { r: 5, class: "z-punkt" }, z);
     this.zText = el("text", { x: 0, y: 34, "text-anchor": "middle" }, z); this.zText.textContent = "Regensburg";
 
-    wrap.appendChild(svg);
+    if (this.opts.tisch) {
+      /* Lagetisch: Karte als gekippte Platte, Termine als Lichtsäulen darüber (reine CSS-3D-Transformationen). */
+      wrap.classList.add("tisch");
+      var buehne = this.buehne = document.createElement("div"); buehne.className = "tisch-buehne";
+      var platte = this.platte = document.createElement("div"); platte.className = "tisch-platte";
+      this.saeulenEbene = document.createElement("div"); this.saeulenEbene.className = "saeulen"; this.saeulenEbene.setAttribute("aria-hidden", "true");
+      platte.appendChild(svg); platte.appendChild(this.saeulenEbene); buehne.appendChild(platte); wrap.appendChild(buehne);
+      if (!reduziert.matches && !this.opts.sofort) wrap.classList.add("einkippen");
+      this.onZeiger = function (ev) {
+        if (reduziert.matches || wrap.classList.contains("flach")) return;
+        var r = wrap.getBoundingClientRect();
+        var nx = Math.max(-1, Math.min(1, ((ev.clientX - r.left) / r.width) * 2 - 1));
+        var ny = Math.max(-1, Math.min(1, ((ev.clientY - r.top) / r.height) * 2 - 1));
+        wrap.style.setProperty("--dreh", (nx * 9).toFixed(2) + "deg");
+        wrap.style.setProperty("--kipp", (50 + ny * 5).toFixed(2) + "deg");
+        wrap.style.setProperty("--lx", (50 + nx * 30).toFixed(1) + "%");
+        wrap.style.setProperty("--ly", (40 + ny * 25).toFixed(1) + "%");
+      };
+      this.onZeigerWeg = function () { ["--dreh", "--kipp", "--lx", "--ly"].forEach(function (k) { wrap.style.removeProperty(k); }); };
+      wrap.addEventListener("pointermove", this.onZeiger);
+      wrap.addEventListener("pointerleave", this.onZeigerWeg);
+    } else wrap.appendChild(svg);
 
     this.onResize = function () { self.messen(); };
     if (root.ResizeObserver) { this.ro = new ResizeObserver(this.onResize); this.ro.observe(wrap); }
@@ -183,6 +204,7 @@
 
     Object.keys(this.blips).forEach(function (id) {
       if (!neu[id]) {
+        if (self.blips[id].s) self.blips[id].s.remove();
         var alt = self.blips[id].g;
         delete self.blips[id];
         if (reduziert.matches || !alt.animate) alt.remove();
@@ -198,6 +220,11 @@
         var kern = el("circle", { class: "b-kern" }, g);
         el("circle", { class: "b-treffer" }, g);
         b = self.blips[id] = { g: g, halo: halo, ping: ping, kern: kern, vorher: null, gezeigt: !self.erstDurchlauf };
+        if (self.saeulenEbene) {
+          var sa = b.s = document.createElement("i");
+          sa.className = "saeule prio-" + n.e.prioritaet + (n.e.status === "geschätzt" ? " geschaetzt" : "") + (b.gezeigt ? " an" : "");
+          self.saeulenEbene.appendChild(sa);
+        }
         if (!b.gezeigt) g.style.opacity = "0";
         else if (!nurLayout && !reduziert.matches && g.animate && self.gestartet) {
           kern.animate([{ transform: "scale(0)" }, { transform: "scale(1.35)" }, { transform: "scale(1)" }], { duration: 420, easing: "cubic-bezier(.2,.8,.2,1)" });
@@ -205,6 +232,11 @@
       }
       b.x = n.x; b.y = n.y; b.r = n.r; b.d = n.d; b.b = n.b; b.e = n.e;
       b.g.style.transform = "translate(" + n.x.toFixed(1) + "px," + n.y.toFixed(1) + "px)";
+      if (b.s) {
+        b.s.style.left = ((n.x + self.vb) / (2 * self.vb) * 100).toFixed(3) + "%";
+        b.s.style.top = ((n.y + self.vb) / (2 * self.vb) * 100).toFixed(3) + "%";
+        b.s.style.setProperty("--n", (Math.min(n.d, 2400) / 2400).toFixed(3));
+      }
       b.kern.setAttribute("r", n.r.toFixed(1));
       b.halo.setAttribute("r", (n.r * 2.4).toFixed(1));
       b.ping.setAttribute("r", n.r.toFixed(1));
@@ -222,7 +254,7 @@
     this.sweep.style.display = an ? "" : "none";
     if (!an) {
       var self = this;
-      Object.keys(this.blips).forEach(function (id) { var b = self.blips[id]; b.g.style.opacity = ""; b.gezeigt = true; b.halo.style.opacity = "0.25"; b.kern.style.opacity = "1"; });
+      Object.keys(this.blips).forEach(function (id) { var b = self.blips[id]; b.g.style.opacity = ""; b.gezeigt = true; b.halo.style.opacity = "0.25"; b.kern.style.opacity = "1"; if (b.s) { b.s.classList.add("an"); b.s.style.removeProperty("--i"); b.si = null; } });
     }
   };
 
@@ -245,7 +277,7 @@
       var diff = (s - b.b + 360) % 360;
       if (b.vorher !== null && diff < b.vorher - 180) {
         if (!b.gezeigt) {
-          b.gezeigt = true; b.g.style.opacity = "";
+          b.gezeigt = true; b.g.style.opacity = ""; if (b.s) b.s.classList.add("an");
           if (b.kern.animate) b.kern.animate([{ transform: "scale(0)" }, { transform: "scale(1.5)" }, { transform: "scale(1)" }], { duration: 520, easing: "cubic-bezier(.2,.8,.2,1)" });
         }
         if (b.ping.animate) b.ping.animate([{ transform: "scale(1)", opacity: 0.9 }, { transform: "scale(" + (b.e.prioritaet === "A" ? 4.2 : 3.2) + ")", opacity: 0 }], { duration: 1500, easing: "cubic-bezier(.1,.6,.3,1)" });
@@ -255,12 +287,17 @@
       var i = Math.exp(-diff / 62);
       b.halo.style.opacity = (0.08 + 0.6 * i).toFixed(3);
       b.kern.style.opacity = (0.62 + 0.38 * i).toFixed(3);
+      if (b.s) { var q = Math.round(i * 20) / 20; if (q !== b.si) { b.si = q; b.s.style.setProperty("--i", q); } }
     });
     if (this.erstDurchlauf && alleGezeigt && jetzt - this.t0 > 400) this.erstDurchlauf = false;
     this.raf = requestAnimationFrame(function () { self.tick(); });
   };
 
   Radar.prototype.bildschirm = function (b) {
+    if (this.platte) {
+      var rr = b.kern.getBoundingClientRect();
+      return { x: rr.left + rr.width / 2, y: rr.top + rr.height / 2, r: rr.width / 2 };
+    }
     var ctm = this.svg.getScreenCTM();
     if (!ctm) return null;
     var pt = this.svg.createSVGPoint(); pt.x = b.x; pt.y = b.y;
@@ -275,13 +312,13 @@
 
   Radar.prototype.fokus = function (id) {
     var self = this;
-    if (this.fokusId && this.blips[this.fokusId]) this.blips[this.fokusId].g.classList.remove("fokus");
+    if (this.fokusId && this.blips[this.fokusId]) { this.blips[this.fokusId].g.classList.remove("fokus"); if (this.blips[this.fokusId].s) this.blips[this.fokusId].s.classList.remove("fokus"); }
     this.fokusId = id;
     var b = id && this.blips[id];
     this.svg.classList.toggle("hat-fokus", !!b);
     var tip = this.opts.tooltip;
     if (!b) { this.peil.classList.remove("an"); if (tip) tip(null); return; }
-    b.g.classList.add("fokus");
+    b.g.classList.add("fokus"); if (b.s) b.s.classList.add("fokus");
     this.blipG.appendChild(b.g);
     this.peilLinie.setAttribute("x2", b.x.toFixed(1)); this.peilLinie.setAttribute("y2", b.y.toFixed(1));
     var u = 1 / this.k, len = Math.hypot(b.x, b.y) || 1;
@@ -295,6 +332,7 @@
 
   Radar.prototype.entferne = function () {
     this.weg = true; this.pruefeLauf();
+    if (this.onZeiger) { this.wrap.removeEventListener("pointermove", this.onZeiger); this.wrap.removeEventListener("pointerleave", this.onZeigerWeg); this.wrap.classList.remove("tisch", "einkippen", "flach"); }
     if (this.ro) this.ro.disconnect(); else root.removeEventListener("resize", this.onResize);
     if (this.io) this.io.disconnect();
     document.removeEventListener("visibilitychange", this.onVis);
