@@ -37,6 +37,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Browser für JavaScript-Kalender
+        run: |
+          pip install --quiet playwright==1.48.0
+          python -m playwright install --with-deps chromium
       - name: Abruf
         run: |
           python3 main/tools/abruf.py --quellen main/tools/quellen.json --repo main --aus daten \

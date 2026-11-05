@@ -22,6 +22,7 @@ import gzip
 import html
 import json
 import re
+import subprocess
 import sys
 import threading
 import time
@@ -87,8 +88,34 @@ def erlaubt(url):
     return rp.can_fetch(UA, url) and rp.can_fetch("*", url)
 
 
-def hole(url, pruefe_robots=True, max_bytes=6_000_000, zeitlimit=30, accept=None):
+RENDER_SKRIPT = Path(__file__).resolve().parent / "rendern.py"
+
+
+def hole_gerendert(url):
+    """Seite per Headless-Browser laden (für Kalender, die erst per JavaScript entstehen). robots.txt gilt auch hier."""
+    if not erlaubt(url):
+        raise PermissionError("robots.txt verbietet den Abruf")
+    host = urllib.parse.urlsplit(url).netloc
+    sperre = domain_sperre(host)
+    with sperre[0]:
+        warten = sperre[1] + 1.2 - time.time()
+        if warten > 0:
+            time.sleep(warten)
+        try:
+            r = subprocess.run([sys.executable, str(RENDER_SKRIPT), url], capture_output=True, text=True, timeout=90)
+        finally:
+            sperre[1] = time.time()
+    if r.returncode != 0:
+        raise RuntimeError("Browser: " + (r.stderr.strip().splitlines() or ["Fehler"])[-1][:160])
+    text = r.stdout
+    m = re.match(r"<!-- finale-url: (\S+) -->", text)
+    return (m.group(1) if m else url), text, "text/html"
+
+
+def hole(url, pruefe_robots=True, max_bytes=6_000_000, zeitlimit=30, accept=None, rendern=False):
     """Gibt (finale_url, text, content_type) zurück; wirft Exception bei Fehler."""
+    if rendern:
+        return hole_gerendert(url)
     if pruefe_robots and not erlaubt(url):
         raise PermissionError("robots.txt verbietet den Abruf")
     host = urllib.parse.urlsplit(url).netloc
@@ -502,7 +529,7 @@ def datumszeilen(zeilen, kontext=1):
 
 def verarbeite_zeilenquelle(q, url, cache, max_detail):
     """Artikel-/Übersichtsseiten (z. B. Wochen-Terminübersichten): Datumszeilen aus Seite und verlinkten Beiträgen."""
-    final, text, _ = hole(url)
+    final, text, _ = hole(url, rendern=bool(q.get("rendern")))
     z = zerlege(text)
     zeilen = datumszeilen(schraegstrich_daten(sichtbarer_text(z), q.get("datumsformat")), q.get("kontext", 1))
     folge = re.compile(q["folge"], re.I) if q.get("folge") else None
@@ -532,7 +559,7 @@ def verarbeite_seite(q, cache, max_detail, url=None):
     url = url or q["url"]
     if q.get("modus") == "zeilen":
         return verarbeite_zeilenquelle(q, url, cache, max_detail)
-    final, text, ctype = hole(url)
+    final, text, ctype = hole(url, rendern=bool(q.get("rendern")))
     ergebnis = {"events": [], "methoden": [], "zeilen": [], "links": []}
     low = text[:2000].lower()
     if "text/calendar" in ctype or low.startswith("begin:vcalendar"):
@@ -703,7 +730,7 @@ def firmenprofil(url, cache):
 
 
 def verarbeite_liste(q, cache, max_detail):
-    final, text, _ = hole(q["url"])
+    final, text, _ = hole(q["url"], rendern=bool(q.get("rendern")))
     z = zerlege(text)
     host = urllib.parse.urlsplit(final).netloc
     sozial = re.compile(r"(linkedin|facebook|twitter|x\.com|instagram|youtube|xing|tiktok|mailto:|tel:|javascript:)", re.I)

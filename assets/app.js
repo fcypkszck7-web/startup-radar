@@ -4,12 +4,12 @@
   var X = window.RadarExport, Radar = window.Radar;
 
   var RUBRIK = { region: "Region Regensburg", de: "Deutschland", eu: "EU", noneu: "Schweiz, UK, Norwegen" };
-  var REITER = [["", "Alle"], ["region", "Region Regensburg"], ["de", "Deutschland"], ["eu", "EU & Europa"]];
+  var REITER = [["", "Alle"], ["region", "Region Regensburg"], ["de", "Deutschland"], ["eu", "Europa"]];
   var REITER_TEXT = {
-    "": "Alle kommenden Veranstaltungen der nächsten 18 Monate, sortiert nach Datum.",
+    "": "Alle kommenden Veranstaltungen der nächsten 18 Monate – Fachmessen, Kongresse, Vorträge, Webinare und Start-up-Events, sortiert nach Datum.",
     region: "Oberpfalz, Niederbayern, Landkreis Kelheim und Umgebung bis etwa 100 km. München und Nürnberg stehen unter Deutschland.",
-    de: "Übriges Deutschland einschließlich München und Nürnberg.",
-    eu: "EU-Staaten ohne Deutschland mit Schwerpunkt Österreich und große europäische Start-up-Events. Darunter gesondert: wichtige Termine in der Schweiz, im Vereinigten Königreich und in Norwegen."
+    de: "Übriges Deutschland einschließlich München und Nürnberg sowie Online-Termine.",
+    eu: "Österreich und die Schweiz in voller Breite, im übrigen Europa die wichtigen Fachmessen, Kongresse und Start-up-Events. Termine außerhalb der EU sind gesondert aufgeführt."
   };
   var MONATE = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"];
   var MON_KURZ = ["Jan", "Feb", "März", "Apr", "Mai", "Juni", "Juli", "Aug", "Sep", "Okt", "Nov", "Dez"];
@@ -19,11 +19,11 @@
   var TITEL = { uebersicht: "Übersicht", termine: "Termine", startups: "Start-ups", kapital: "Kapital", archiv: "Archiv", merkliste: "Merkliste", intern: "Intern", quellen: "Quellen" };
   var SU_REGIONEN = [["", "Alle Regionen"], ["Ostbayern", "Ostbayern"], ["Bayern", "Bayern"], ["Deutschland", "Deutschland"], ["Europa", "Europa"]];
   var SU_TEXT = {
-    "": "Start-ups rund um Dach, Solar, Bau und Fertigung – von Ostbayern bis Europa. Je näher, desto geringer meist der Aufwand für eine Zusammenarbeit.",
+    "": "Start-ups aus Bau, Energie, Industrie, Handwerk und angrenzenden Branchen – von Ostbayern bis Europa, nach Branche und Region filterbar.",
     Ostbayern: "Regensburg, Oberpfalz und Niederbayern – kurze Wege, schnelle Piloten.",
     Bayern: "Übriges Bayern, vor allem München und Augsburg.",
     Deutschland: "Start-ups aus dem übrigen Deutschland – von Stuttgart und Berlin bis ins Rheinland.",
-    Europa: "Europäische Start-ups, vor allem aus Österreich, dem Baltikum, Skandinavien und den Niederlanden."
+    Europa: "Europäische Start-ups – vor allem aus Österreich, der Schweiz, Skandinavien, dem Baltikum und den Niederlanden."
   };
   var BRANCHEN = ["Bau & Immobilien", "Dach & Gebäudehülle", "Energie & Solar", "Gebäudetechnik", "Industrie & Fertigung",
     "Metall & Oberflächen", "Material & Kreislauf", "Handwerk", "Software, KI & Daten", "Logistik & Handel", "Gründung & Innovation"];
@@ -227,7 +227,8 @@
       ({ uebersicht: zeigeUebersicht, termine: zeigeTermine, startups: zeigeStartups, kapital: zeigeKapital, archiv: zeigeArchiv, merkliste: zeigeMerkliste, intern: zeigeIntern, quellen: zeigeQuellen })[z.r]();
       if (wechsel) window.scrollTo(0, 0);
     };
-    if (wechsel && document.startViewTransition && !reduziert.matches && S.schonGezeichnet) {
+    var leicht = document.getElementById("ansicht").getElementsByTagName("*").length < 1500;
+    if (wechsel && leicht && document.startViewTransition && !reduziert.matches && S.schonGezeichnet) {
       try {
         var vt = document.startViewTransition(zeichne);
         [vt.ready, vt.finished, vt.updateCallbackDone].forEach(function (pr) { if (pr && pr.catch) pr.catch(function () { /* Übergang übersprungen */ }); });
@@ -460,10 +461,16 @@
     $("#held-legende").innerHTML = radarLegende(online, ohneOrt);
     S.heldRadar.setze(liste, false);
   }
+  function onlineListe(online) {
+    if (!online.length) return "";
+    var chips = online.map(function (e) { return '<button type="button" class="online-chip" data-oeffne="' + esc(e.id) + '">' + I.welt.replace("<svg", '<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"') + esc(kurzname(e)) + "</button>"; }).join("");
+    return '<details class="online-liste"><summary>' + I.welt.replace("<svg", '<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"') +
+      plural(online.length, "Online-Termin", "Online-Termine") + " – nicht auf der Karte</summary><div class=\"online-chips\">" + chips + "</div></details>";
+  }
   function radarLegende(online, ohneOrt) {
     return '<span><i class="lg-punkt lg-A"></i>A</span><span><i class="lg-punkt lg-B"></i>B</span><span><i class="lg-punkt lg-C"></i>C</span>' +
       '<span><i class="lg-punkt lg-hohl"></i>Datum geschätzt</span><span><i class="lg-ring"></i>100 km um Regensburg</span>' +
-      online.map(function (e) { return '<button type="button" class="online-chip" data-oeffne="' + esc(e.id) + '">' + I.welt.replace("<svg", '<svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6"') + "Online: " + esc(kurzname(e)) + "</button>"; }).join("") +
+      onlineListe(online) +
       (ohneOrt.length ? "<span>" + plural(ohneOrt.length, "Termin", "Termine") + " ohne festen Ort</span>" : "");
   }
 
@@ -516,7 +523,7 @@
       '<div><h3 style="font-size:20px;margin-bottom:10px">Kommende Termine nach Rubrik</h3><div class="verteilung">' + ["region", "de", "eu"].map(function (r) {
         var t = tab[r] || { A: 0, B: 0, C: 0, n: 0 };
         var w = function (x) { return (x / max * 100).toFixed(1) + "%"; };
-        return '<a class="vt-zeile" href="#' + r + '" style="color:inherit;text-decoration:none"><span class="vt-name">' + esc(r === "eu" ? "EU & Europa" : RUBRIK[r]) + '</span><span class="vt-bar" title="A: ' + t.A + ", B: " + t.B + ", C: " + t.C + '"><i class="a" style="width:' + w(t.A) + '"></i><i class="b" style="width:' + w(t.B) + '"></i><i class="c" style="width:' + w(t.C) + '"></i></span><span class="vt-zahl">' + t.n + "</span></a>";
+        return '<a class="vt-zeile" href="#' + r + '" style="color:inherit;text-decoration:none"><span class="vt-name">' + esc(r === "eu" ? "Europa" : RUBRIK[r]) + '</span><span class="vt-bar" title="A: ' + t.A + ", B: " + t.B + ", C: " + t.C + '"><i class="a" style="width:' + w(t.A) + '"></i><i class="b" style="width:' + w(t.B) + '"></i><i class="c" style="width:' + w(t.C) + '"></i></span><span class="vt-zahl">' + t.n + "</span></a>";
       }).join("") + '</div><p class="klein" style="margin-top:10px">Gelb A, Blau B, Grau C. Antippen öffnet die Rubrik.</p></div></div></section>';
     return h;
   }
@@ -769,7 +776,7 @@
     var f = filterVon(art);
     var liste = filtere(umfang(art), f);
     S.liste = liste;
-    var titel = art === "archiv" ? "Archiv" : "Termine – " + (f.rubrik ? (f.rubrik === "eu" ? "EU & Europa" : RUBRIK[f.rubrik]) : "alle Rubriken");
+    var titel = art === "archiv" ? "Archiv" : "Termine – " + (f.rubrik ? (f.rubrik === "eu" ? "Europa" : RUBRIK[f.rubrik]) : "alle Rubriken");
     S.druck = { art: "events", liste: liste, titel: titel };
     $("#anzahl").innerHTML = plural(liste.length, "Termin", "Termine") + (liste.length !== umfang(art).length ? "<small>von " + umfang(art).length + "</small>" : "");
     var nf = aktiveFilter(f);
@@ -786,7 +793,7 @@
 
   function listeHtml(liste, art, f) {
     if (!liste.length) {
-      return '<div class="leer"><h3>' + (art === "archiv" && !umfang("archiv").length ? "Noch nichts im Archiv" : "Kein Termin passt zu den Filtern") + "</h3><p>" +
+      return '<div class="leer"><h2>' + (art === "archiv" && !umfang("archiv").length ? "Noch nichts im Archiv" : "Kein Termin passt zu den Filtern") + "</h2><p>" +
         (art === "archiv" && !umfang("archiv").length ? "Vergangene Veranstaltungen landen hier automatisch nach ihrem letzten Tag." : "Suchbegriff kürzen oder Filter zurücksetzen.") + "</p>" +
         (art === "archiv" && !umfang("archiv").length ? '<a class="knopf leise" href="#termine">Kommende Termine ansehen</a>' : "") + "</div>";
     }
@@ -794,7 +801,7 @@
       var h = "", aktM = null, puffer = [];
       var flush = function () {
         if (!puffer.length) return;
-        h += '<h3 class="monat-kopf">' + esc(monatLabel(aktM)) + "<span>" + plural(puffer.length, "Termin", "Termine") + '</span></h3><ul class="zeilen">' + puffer.map(zeileHtml).join("") + "</ul>";
+        h += '<h2 class="monat-kopf">' + esc(monatLabel(aktM)) + "<span>" + plural(puffer.length, "Termin", "Termine") + '</span></h2><ul class="zeilen">' + puffer.map(zeileHtml).join("") + "</ul>";
         puffer = [];
       };
       l.forEach(function (e) {
@@ -857,7 +864,7 @@
     var tage = new Date(y, m, 0).getDate(), versatz = (new Date(y, m - 1, 1).getDay() + 6) % 7;
     var imMonat = liste.filter(function (e) { return e.start.slice(0, 7) <= ym && e.ende.slice(0, 7) >= ym; });
     var h = '<div class="kal-nav"><button type="button" class="knopf leise" data-kal="' + vorherMonat(ym) + '" data-richtung="links" aria-label="Vorheriger Monat">' + I.links + '<span class="kal-mname">' + esc(MONATE[(m + 10) % 12]) + "</span></button>" +
-      "<h3>" + esc(monatLabel(ym)) + " <span>" + plural(imMonat.length, "Termin", "Termine") + "</span></h3>" +
+      "<h2>" + esc(monatLabel(ym)) + " <span>" + plural(imMonat.length, "Termin", "Termine") + "</span></h2>" +
       '<button type="button" class="knopf leise" data-kal="' + naechsterMonat(ym) + '" data-richtung="rechts" aria-label="Nächster Monat"><span class="kal-mname">' + esc(MONATE[m % 12]) + "</span>" + I.rechts + "</button></div>";
     h += '<div class="kal' + (richtung ? " rein-" + richtung : "") + '" aria-label="' + esc(monatLabel(ym)) + '">';
     ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"].forEach(function (w) { h += '<div class="kal-wt" aria-hidden="true">' + w + "</div>"; });
@@ -884,7 +891,7 @@
   /* Radar als Ansicht der gefilterten Liste */
   function radarAnsicht(ziel, liste) {
     var online = liste.filter(function (e) { return e.online; }), ohneOrt = liste.filter(function (e) { return !e.online && !e.geo; });
-    ziel.innerHTML = '<div class="radar-ansicht"><div class="radar" id="radar-liste"></div><div class="radar-text"><h3>' + plural(liste.length, "Termin", "Termine") + " auf dem Radar</h3>" +
+    ziel.innerHTML = '<div class="radar-ansicht"><div class="radar" id="radar-liste"></div><div class="radar-text"><h2>' + plural(liste.length, "Termin", "Termine") + " auf dem Radar</h2>" +
       "<p>Richtung und Abstand zeigen, wo die Termine von Regensburg aus liegen. Der gestrichelte Ring markiert 100 km, außen geht es bis etwa 2.000 km. Die Entfernung ist gestaucht, damit die Region nicht untergeht.</p>" +
       '<p>Über einen Punkt fahren zeigt den Termin, Antippen öffnet alle Angaben.</p><div class="radar-legende">' + radarLegende(online, ohneOrt) + "</div></div></div>";
     var r = new Radar($("#radar-liste"), { oeffnen: function (id) { oeffnePanel("event", id, liste.map(function (e) { return e.id; })); }, tooltip: tooltip, sofort: true });
@@ -914,7 +921,7 @@
       '<label class="suchfeld">' + I.suche + '<span class="vh">Start-ups durchsuchen</span><input class="feld" type="search" id="s-q" placeholder="Suchen, z. B. EPD, Zoll, Sensor, Investor" value="' + esc(sf.q) + '"></label>' +
       '<label class="schalter"><input type="checkbox" id="s-merk"' + (sf.merk ? " checked" : "") + "> Nur Merkliste</label></div>" +
       '<div class="breite branchen-zeile" id="s-branchen">' + branchenChips(suUmfang(null, ""), sf.branche, "data-s-branche") + "</div></div>";
-    h += '<div class="breite"><div class="su-raster"><div class="matrix-block"><h2>Relevanz und Aufwand</h2><p>Einschätzung für Dach, Solar und Fertigung – dient nur zum Sortieren, nicht zur Auswahl. Oben links: hohe Relevanz bei geringem Aufwand.</p>' +
+    h += '<div class="breite"><div class="su-raster"><div class="matrix-block"><h2>Relevanz und Aufwand</h2><p>Grobe Einordnung, nach der die Liste sortiert ist – kein Auswahlkriterium. Oben links: hohe Relevanz bei geringem Aufwand.</p>' +
       '<div class="matrix-wrap"><div class="achse-y">Relevanz, oben hoch</div><div class="matrix" id="matrix"></div><div class="achse-x">Umsetzungsaufwand, links gering</div></div>' +
       '<div class="matrix-legende"><span><span class="m-chip prio-A" style="padding:1px 6px">A</span>Priorität A</span><span><span class="m-chip prio-B" style="padding:1px 6px">B</span>B</span><span><span class="m-chip" style="padding:1px 6px">C</span>C</span><span><i class="ost-punkt"></i>Sitz in Ostbayern</span></div></div>';
     h += '<div><div class="ergebnis-kopf"><span class="anzahl" id="s-anzahl"></span>' + downloadsHtml("su", false) + "</div>" +
@@ -987,16 +994,26 @@
     for (var r = 5; r >= 1; r--) {
       for (var a = 1; a <= 5; a++) {
         var hier = basis.filter(function (s) { return s.relevanz === r && s.aufwand === a; });
-        m += '<div class="m-zelle' + (r >= 4 && a <= 2 ? " quick" : "") + '" aria-label="Relevanz ' + r + ", Aufwand " + a + '">' +
+        var viel = hier.length > 6;
+        m += '<div class="m-zelle' + (r >= 4 && a <= 2 ? " quick" : "") + '" role="group" aria-label="Relevanz ' + r + ", Aufwand " + a + '">' +
           (r === 5 && a === 1 ? '<span class="quick-label">Quick Wins</span>' : "") +
           (r === 5 && a === 1 && hier.length ? '<span style="height:16px"></span>' : "") +
           hier.map(function (s, i) {
-            return '<button type="button" class="m-chip prio-' + s.prioritaet + (s.region === "Ostbayern" ? " ost" : "") + (ids[s.id] ? "" : " aus") + '" data-oeffne-su="' + esc(s.id) + '" data-su-chip="' + esc(s.id) + '" style="animation-delay:' + ((5 - r) * 60 + a * 40 + i * 30) + 'ms" title="' + esc(s.name + ", " + s.sitz + ", Relevanz " + r + ", Aufwand " + a) + '">' + esc(s.name) + "</button>";
-          }).join("") + '<span class="m-koord" aria-hidden="true">' + r + "/" + a + "</span></div>";
+            return '<button type="button" class="m-chip prio-' + s.prioritaet + (s.region === "Ostbayern" ? " ost" : "") + (ids[s.id] ? "" : " aus") + (viel && i >= 5 ? " m-weg" : "") + '" data-oeffne-su="' + esc(s.id) + '" data-su-chip="' + esc(s.id) + '" style="animation-delay:' + ((5 - r) * 60 + a * 40 + i * 30) + 'ms" title="' + esc(s.name + ", " + s.sitz + ", Relevanz " + r + ", Aufwand " + a) + '">' + esc(s.name) + "</button>";
+          }).join("") + (viel ? '<button type="button" class="m-mehr" aria-expanded="false" data-m-mehr>+' + (hier.length - 5) + " weitere</button>" : "") +
+          '<span class="m-koord" aria-hidden="true">' + r + "/" + a + "</span></div>";
       }
     }
     var mx = $("#matrix");
     mx.innerHTML = m;
+    $$("[data-m-mehr]", mx).forEach(function (b) {
+      b.addEventListener("click", function () {
+        var z = b.closest(".m-zelle"), auf = !z.classList.contains("offen");
+        z.classList.toggle("offen", auf);
+        b.setAttribute("aria-expanded", auf ? "true" : "false");
+        b.textContent = auf ? "weniger" : "+" + $$(".m-weg", z).length + " weitere";
+      });
+    });
     if (erst && !reduziert.matches) mx.classList.add("reveal");
     var zeichne = function () {
       $("#s-liste").innerHTML = l.length ? l.map(suZeileHtml).join("") : '<li class="leer" style="border:0">Kein Start-up passt zu den Filtern.</li>';
@@ -1132,7 +1149,7 @@
       var yPos = function (i, anzahl) { return anzahl <= 1 ? H / 2 : 12 + zeileH / 2 + i * ((H - 24 - zeileH) / (anzahl - 1)); };
       var fs = schmal ? 12 : 14;
       var kuerze = function (t) { var max = Math.floor(labelW / (fs * 0.52)); return t.length > max ? t.slice(0, max - 1) + "…" : t; };
-      var svg = '<svg viewBox="0 0 ' + W + " " + H + '" width="' + W + '" height="' + H + '" role="img" aria-label="Netzwerk aus Investoren und Unternehmen" font-size="' + fs + '">';
+      var svg = '<svg viewBox="0 0 ' + W + " " + H + '" width="' + W + '" height="' + H + '" role="group" aria-label="Netzwerk aus Investoren und Unternehmen" font-size="' + fs + '">';
       kanten.forEach(function (k) {
         var i = invNamen.indexOf(k[0]), j = firmen.indexOf(k[1]);
         if (i < 0 || j < 0) return;
@@ -1458,7 +1475,7 @@
         Q_REGIONEN.forEach(function (reg) {
           var g = l.filter(function (q) { return q.region === reg; });
           if (!g.length) return;
-          html += '<h3 class="monat-kopf">' + esc(reg) + "<span>" + plural(g.length, "Quelle", "Quellen") + '</span></h3><ul class="zeilen q-zeilen">' + g.map(function (q) {
+          html += '<h2 class="monat-kopf">' + esc(reg) + "<span>" + plural(g.length, "Quelle", "Quellen") + '</span></h2><ul class="zeilen q-zeilen">' + g.map(function (q) {
             var x = idx[q.id], zustand = !x ? ["offen", "noch nicht abgerufen"] : x.ok ? ["ok", (q.art === "liste" ? x.anzahl + " Einträge" : x.anzahl + " Termine") + (x.methoden && x.methoden.length ? " · " + x.methoden.join(", ").replace(/detailseiten:\d+/, "Detailseiten") : "")] : ["fehler", "nicht erreichbar" + (x.fehler ? " (" + x.fehler + ")" : "")];
             return '<li class="zeile q-zeile"><a class="zeile-knopf" href="' + esc(q.url) + '" target="_blank" rel="noopener noreferrer"><span class="z-haupt"><span class="z-titel">' + esc(q.name) + '</span><span class="z-meta"><span>' + esc(q.typ || "") + "</span><span>" + (q.art === "liste" ? "Start-up-Liste" : "Termine") + "</span><span>" + esc(kurzUrl(q.url)) + '</span></span></span><span class="z-rechts"><span class="q-status ' + zustand[0] + '">' + esc(zustand[1]) + "</span>" + (x && x.zuletzt_ok ? '<span class="z-wann">zuletzt erreichbar ' + esc(de(x.zuletzt_ok)) + "</span>" : "") + "</span></a></li>";
           }).join("") + "</ul>";
@@ -1483,7 +1500,7 @@
     S.druck = { art: "beide", liste: ev, su: su, titel: "Merkliste" };
     var h = kopfband({ akzent: "merk", titel: "Merkliste", text: "Deine gemerkten Termine und Start-ups. Die Liste liegt nur in diesem Browser – jede Person hat ihre eigene, und nichts wird übertragen." }) + '<div class="breite" style="padding-top:24px">';
     if (!ev.length && !su.length) {
-      h += '<div class="leer"><h3>Noch nichts gemerkt</h3><p>Tippe bei einem Termin oder Start-up auf den Stern. Hier sammelt sich dann alles, was du im Blick behalten willst – zum Herunterladen als Excel oder Kalenderdatei.</p><a class="knopf" href="#termine">Termine ansehen</a></div></div>';
+      h += '<div class="leer"><h2>Noch nichts gemerkt</h2><p>Tippe bei einem Termin oder Start-up auf den Stern. Hier sammelt sich dann alles, was du im Blick behalten willst – zum Herunterladen als Excel oder Kalenderdatei.</p><a class="knopf" href="#termine">Termine ansehen</a></div></div>';
       $("#ansicht").innerHTML = h; return;
     }
     if (ev.length) {
@@ -1868,6 +1885,12 @@
     store.set("radar-theme", neu);
     toast(neu === "dark" ? "Dunkles Farbschema" : "Helles Farbschema");
   });
+  // Ohne eigene Wahl folgt die Seite dem Farbschema des Systems – auch wenn es sich ändert.
+  if (window.matchMedia) {
+    var sysDunkel = matchMedia("(prefers-color-scheme: dark)");
+    var folgeSystem = function () { if (!store.get("radar-theme", null)) document.documentElement.setAttribute("data-theme", sysDunkel.matches ? "dark" : "light"); };
+    if (sysDunkel.addEventListener) sysDunkel.addEventListener("change", folgeSystem); else if (sysDunkel.addListener) sysDunkel.addListener(folgeSystem);
+  }
 
   /* ============================================================
      Herunterladen & Drucken

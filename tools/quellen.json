@@ -24,7 +24,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Gründerzentrum",
-   "url": "https://startup-factory.rocks/"
+   "url": "https://startup-factory.rocks/",
+   "rendern": true
   },
   {
    "id": "ihk-regensburg",
@@ -32,7 +33,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Kammer",
-   "url": "https://www.ihk.de/regensburg/veranstaltungen"
+   "url": "https://www.ihk.de/regensburg/veranstaltungen",
+   "rendern": true
   },
   {
    "id": "ihk-niederbayern",
@@ -40,7 +42,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Kammer",
-   "url": "https://www.ihk-niederbayern.de/veranstaltungen/"
+   "url": "https://www.ihk-niederbayern.de/veranstaltungen/",
+   "rendern": true
   },
   {
    "id": "hwkno",
@@ -57,7 +60,8 @@
    "region": "Ostbayern",
    "typ": "Hochschule",
    "url": "https://www.oth-regensburg.de/termine",
-   "folge": "/termine/detailansicht/"
+   "folge": "/termine/detailansicht/",
+   "rendern": true
   },
   {
    "id": "uni-regensburg",
@@ -108,7 +112,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Gründerzentrum",
-   "url": "https://www.link-landshut.de/"
+   "url": "https://www.link-landshut.de/",
+   "rendern": true
   },
   {
    "id": "gzdn",
@@ -135,7 +140,8 @@
    "art": "events",
    "region": "Ostbayern",
    "typ": "Gründerzentrum",
-   "url": "https://www.itc-deggendorf.de/veranstaltungen"
+   "url": "https://www.itc-deggendorf.de/veranstaltungen",
+   "rendern": true
   },
   {
    "id": "sensorik-cluster",
@@ -203,7 +209,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Gründerzentrum",
-   "url": "https://zollhof.de/events/"
+   "url": "https://zollhof.de/events/",
+   "rendern": true
   },
   {
    "id": "gruenderland-bayern",
@@ -212,7 +219,8 @@
    "region": "Bayern",
    "typ": "Plattform",
    "url": "https://www.gruenderland.bayern/veranstaltungen/",
-   "folge": "/veranstaltungen/event/"
+   "folge": "/veranstaltungen/event/",
+   "rendern": true
   },
   {
    "id": "werk1",
@@ -236,7 +244,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Verband",
-   "url": "https://www.bauindustrie-bayern.de/verband/veranstaltungen"
+   "url": "https://www.bauindustrie-bayern.de/verband/veranstaltungen",
+   "rendern": true
   },
   {
    "id": "bayika",
@@ -253,7 +262,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Kammer",
-   "url": "https://www.ihk-muenchen.de/service-beratung/veranstaltungen/"
+   "url": "https://www.ihk-muenchen.de/service-beratung/veranstaltungen/",
+   "rendern": true
   },
   {
    "id": "ihk-nuernberg",
@@ -261,7 +271,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Kammer",
-   "url": "https://www.ihk-nuernberg.de/ihk-themen/internationale-wirtschaft/veranstaltungen-international"
+   "url": "https://www.ihk-nuernberg.de/ihk-themen/internationale-wirtschaft/veranstaltungen-international",
+   "rendern": true
   },
   {
    "id": "ihk-schwaben",
@@ -285,7 +296,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Messe",
-   "url": "https://messe-muenchen.de/de/veranstaltungen/"
+   "url": "https://messe-muenchen.de/de/veranstaltungen/",
+   "rendern": true
   },
   {
    "id": "nuernbergmesse",
@@ -293,7 +305,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Messe",
-   "url": "https://www.nuernbergmesse.de/de-de/veranstaltungen/veranstaltungskalender"
+   "url": "https://www.nuernbergmesse.de/de-de/veranstaltungen/veranstaltungskalender",
+   "rendern": true
   },
   {
    "id": "messe-augsburg",
@@ -318,7 +331,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Hochschule",
-   "url": "https://www.sce.de/angebote/start-up-programme/events-community.html"
+   "url": "https://www.sce.de/angebote/start-up-programme/events-community.html",
+   "rendern": true
   },
   {
    "id": "digital-hub-mobility",
@@ -353,7 +367,8 @@
    "region": "Deutschland",
    "typ": "Plattform",
    "url": "https://www.startupbw.de/events-wettbewerbe/landesweiter-veranstaltungskalender",
-   "folge": "/veranstaltung/"
+   "folge": "/veranstaltung/",
+   "rendern": true
   },
   {
    "id": "startupverband",
@@ -405,7 +420,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Agentur",
-   "url": "https://www.dena.de/infocenter/alle-veranstaltungen/"
+   "url": "https://www.dena.de/infocenter/alle-veranstaltungen/",
+   "rendern": true
   },
   {
    "id": "bitkom",
@@ -456,7 +472,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://planen-bauen40.de/termine/"
+   "url": "https://planen-bauen40.de/termine/",
+   "rendern": true
   },
   {
    "id": "heinze-events",
@@ -476,7 +493,8 @@
    "url": "https://www.feuerverzinken.com/termine-und-veranstaltungen",
    "weitere_urls": [
     "https://www.feuerverzinken.com/praxiswissen/webinare"
-   ]
+   ],
+   "rendern": true
   },
   {
    "id": "zvo",
@@ -508,7 +526,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Verband",
-   "url": "https://www.waermepumpe.de/verband/veranstaltungen/"
+   "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
+   "rendern": true
   },
   {
    "id": "geb-energieberater",
@@ -524,7 +543,8 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Messe",
-   "url": "https://www.messe.de/de/messen/"
+   "url": "https://www.messe.de/de/messen/",
+   "rendern": true
   },
   {
    "id": "messe-stuttgart",
@@ -691,7 +711,8 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Plattform",
-   "url": "https://austrianstartups.com/events"
+   "url": "https://austrianstartups.com/events",
+   "rendern": true
   },
   {
    "id": "wirtschaftsagentur-wien",
@@ -709,7 +730,8 @@
    "region": "Österreich",
    "typ": "Gründerzentrum",
    "url": "https://www.tech2b.at/events/",
-   "folge": "/events?/[a-z0-9-]{6,}"
+   "folge": "/events?/[a-z0-9-]{6,}",
+   "rendern": true
   },
   {
    "id": "startup-salzburg",
@@ -717,7 +739,8 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Gründerzentrum",
-   "url": "https://www.startup-salzburg.at/events/"
+   "url": "https://www.startup-salzburg.at/events/",
+   "rendern": true
   },
   {
    "id": "business-upper-austria",
@@ -734,7 +757,8 @@
    "region": "Österreich",
    "typ": "Cluster",
    "url": "https://www.ecoplus.at/veranstaltungen/",
-   "folge": "/newsroom/"
+   "folge": "/newsroom/",
+   "rendern": true
   },
   {
    "id": "pv-austria",
@@ -776,7 +800,8 @@
    "art": "events",
    "region": "Europa",
    "typ": "Medien",
-   "url": "https://www.eu-startups.com/events/"
+   "url": "https://www.eu-startups.com/events/",
+   "rendern": true
   },
   {
    "id": "contech-events-blackprint",
@@ -821,7 +846,8 @@
    "art": "liste",
    "region": "Bayern",
    "typ": "Gründerzentrum",
-   "url": "https://zollhof.de/startups/"
+   "url": "https://zollhof.de/startups/",
+   "rendern": true
   },
   {
    "id": "liste-bayern-kapital",
@@ -831,7 +857,8 @@
    "typ": "Investor",
    "url": "https://bayernkapital.de/portfolio/",
    "folge": "/portfolio/portfolio-ueberblick/",
-   "profile": true
+   "profile": true,
+   "rendern": true
   },
   {
    "id": "liste-htgf",
@@ -841,7 +868,8 @@
    "typ": "Investor",
    "url": "https://www.htgf.de/portfolio/",
    "folge": "/portfolio/htgffamily/",
-   "profile": true
+   "profile": true,
+   "rendern": true
   },
   {
    "id": "liste-munich-urban-colab",
@@ -1080,7 +1108,8 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Wirtschaftsförderung",
-   "url": "https://www.sfg.at/veranstaltungen/"
+   "url": "https://www.sfg.at/veranstaltungen/",
+   "rendern": true
   },
   {
    "id": "bayern-international",
@@ -1088,7 +1117,8 @@
    "art": "events",
    "region": "Bayern",
    "typ": "Wirtschaftsförderung",
-   "url": "https://www.bayern-international.de/termine-veranstaltungen"
+   "url": "https://www.bayern-international.de/termine-veranstaltungen",
+   "rendern": true
   },
   {
    "id": "dev-events-at",
@@ -1167,7 +1197,8 @@
    "art": "liste",
    "region": "Europa",
    "typ": "Messe",
-   "url": "https://www.thesmartere-award.com/press-release/finalists-tse-award"
+   "url": "https://www.thesmartere-award.com/press-release/finalists-tse-award",
+   "rendern": true
   },
   {
    "id": "liste-startbase-axel",
@@ -1296,7 +1327,8 @@
    "region": "Europa",
    "typ": "Messegelände",
    "url": "https://www.fieramilano.it/en/calendar.html",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "messe-bolognafiere",
@@ -1314,7 +1346,8 @@
    "region": "Europa",
    "typ": "Messegelände",
    "url": "https://www.iegexpo.it/it/calendario-manifestazioni",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "messe-ifema",
@@ -1332,7 +1365,8 @@
    "region": "Europa",
    "typ": "Messegelände",
    "url": "https://www.firabarcelona.com/en/trade_show/",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "messe-viparis",
@@ -1350,7 +1384,8 @@
    "region": "Europa",
    "typ": "Messegelände",
    "url": "https://www.gl-lyonevents.com/fr/agenda",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "messe-rai",
@@ -1360,7 +1395,8 @@
    "typ": "Messegelände",
    "url": "https://www.rai.nl/agenda",
    "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
-   "folge": "/agenda/[a-z0-9-]+"
+   "folge": "/agenda/[a-z0-9-]+",
+   "rendern": true
   },
   {
    "id": "messe-jaarbeurs",
@@ -1406,7 +1442,8 @@
    "region": "Europa",
    "typ": "Messegelände",
    "url": "https://www.mtp.pl/en/calendar/",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "messe-ptak-warsaw",
@@ -1474,7 +1511,8 @@
    "region": "Österreich",
    "typ": "Messegelände",
    "url": "https://vieconcenter.at/events",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "messe-salzburg",
@@ -1502,7 +1540,8 @@
    "region": "Schweiz",
    "typ": "Messegelände",
    "url": "https://www.messe-basel.com/de/events?categories=messe",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "build-up-eu",
@@ -1511,7 +1550,8 @@
    "region": "Europa",
    "typ": "EU-Portal",
    "url": "https://build-up.ec.europa.eu/en/news-and-events/events",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "een-events",
@@ -1547,7 +1587,8 @@
    "region": "Europa",
    "typ": "Verband",
    "url": "https://www.galvanizingeurope.org/events-publications/",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "solarpower-europe-events",
@@ -1601,7 +1642,8 @@
    "region": "Europa",
    "typ": "Verband",
    "url": "https://hydrogeneurope.eu/events/",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "buildingsmart-events",
@@ -1630,7 +1672,8 @@
    "region": "Europa",
    "typ": "EU-Portal",
    "url": "https://digital-strategy.ec.europa.eu/en/events",
-   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events"
+   "notiz": "Europa-Erweiterung: wichtige Messen, Kongresse und Start-up-Events",
+   "rendern": true
   },
   {
    "id": "eventseye-building-construction",
@@ -1963,7 +2006,8 @@
    "region": "Europa",
    "typ": "Start-up-Liste",
    "url": "https://innoenergy.com/portfolio/",
-   "notiz": "Europa-Erweiterung: Start-up-Portfolio"
+   "notiz": "Europa-Erweiterung: Start-up-Portfolio",
+   "rendern": true
   },
   {
    "id": "liste-climate-kic-portfolio",

@@ -25,6 +25,8 @@ Statische Webseite mit Start-up- und Netzwerkveranstaltungen sowie passenden Sta
 | `tools/orte.json` | Koordinaten der Veranstaltungsorte für das Radar – neue Orte hier ergänzen |
 | `data/intern.json` | Geschützter Bereich „Intern“ – verschlüsselt (AES-256-GCM, Schlüssel per PBKDF2 aus dem Passwort); wird erst im Browser nach Eingabe des Passworts entschlüsselt |
 | `tools/intern.mjs` | Verschlüsselt den Bereich „Intern“; Schlüssel nur über die Umgebungsvariable `INTERN_SCHLUESSEL`, Klartext nie im Repository |
+| `tools/abruf.py`, `tools/quellen.json` | Nächtlicher Abruf der Veranstalterkalender und Start-up-Listen (GitHub-Workflow „Kalender und Listen abrufen“); beachtet robots.txt |
+| `tools/rendern.py` | Lädt Kalender, die erst per JavaScript entstehen, in einem Headless-Browser (Quellen mit `"rendern": true`); keine Anmeldung, kein Umgehen von Sperren oder Bot-Schutz |
 
 Bei Aktualisierungen ändern sich nur die Dateien in `data/` sowie `events.ics` und `feed.xml`.
 
