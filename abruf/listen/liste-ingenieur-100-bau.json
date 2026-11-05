@@ -2,7 +2,7 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-04",
+ "abgerufen": "2026-11-05",
  "koepfe": [
   "Top Beiträge",
   "Bautechnik und mehr",
@@ -36,53 +36,53 @@
    "extern": false
   },
   {
+   "text": "Naturwissenschaften",
+   "url": "https://www.ingenieur.de/naturwissenschaften/",
+   "extern": false
+  },
+  {
+   "text": "1 unter 10 Milliarden: CERN findet nach 40 Jahren eine Spur",
+   "url": "https://www.ingenieur.de/1-unter-10-milliarden-cern-findet-nach-40-jahren-eine-spur-4e9928b7-7952-4cc2-8c6d-4f1c0ecfeb7b/",
+   "extern": false
+  },
+  {
+   "text": "Raumfahrt",
+   "url": "https://www.ingenieur.de/raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Magmakammern unter dem Mars? Raumsonde findet Gas, wo keins sein dürfte",
+   "url": "https://www.ingenieur.de/magmakammern-unter-dem-mars-raumsonde-findet-gas-wo-keins-sein-durfte-491374ed-ff27-4dc1-8e56-b8d09db5f60c/",
+   "extern": false
+  },
+  {
+   "text": "Raumfahrt",
+   "url": "https://www.ingenieur.de/raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Eine Erde ohne Leben: Simulation liefert überraschendes Ergebnis",
+   "url": "https://www.ingenieur.de/eine-erde-ohne-leben-simulation-liefert-ueberraschendes-ergebnis-72255609-1a7b-4d76-90a6-b31c7d686ae5/",
+   "extern": false
+  },
+  {
    "text": "Bau",
    "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "45 t schwer, 452 PS stark: Komatsu zeigt seine neue Riesenraupe",
-   "url": "https://www.ingenieur.de/45-t-schwer-452-ps-stark-komatsu-zeigt-seine-neue-riesenraupe-bf311cac-3d34-44ad-8c43-c5faaa75578d/",
+   "text": "15 Cent gegen Gebäudeschäden: Dieser Betonklotz erkennt unsichtbare Risse",
+   "url": "https://www.ingenieur.de/15-cent-gegen-gebaeudeschaeden-dieser-betonklotz-erkennt-unsichtbare-risse-132e32ed-2b3b-496b-aebc-37db33f251f7/",
    "extern": false
   },
   {
-   "text": "Automotive",
-   "url": "https://www.ingenieur.de/automotive/",
+   "text": "Energiespeicher",
+   "url": "https://www.ingenieur.de/energiespeicher/",
    "extern": false
   },
   {
-   "text": "Verbrenner-Aus: Brüssel macht einen Rückzieher, die Jobs sind trotzdem weg",
-   "url": "https://www.ingenieur.de/verbrenner-aus-brussel-macht-einen-ruckzieher-die-jobs-sind-trotzdem-weg-1c70cc6c-0616-4d75-a85c-a5f5555deb7e/",
-   "extern": false
-  },
-  {
-   "text": "Fertigungstechnik",
-   "url": "https://www.ingenieur.de/fertigungstechnik/",
-   "extern": false
-  },
-  {
-   "text": "Werkzeugüberwachung zur Senkung von Hartmetallkosten",
-   "url": "https://www.ingenieur.de/werkzeuguberwachung-zur-senkung-von-hartmetallkosten-1f18935b-7b45-4a52-9c3f-4d0dd6255bca/",
-   "extern": false
-  },
-  {
-   "text": "Konstruktion & Produktion",
-   "url": "https://www.ingenieur.de/konstruktion-produktion/",
-   "extern": false
-  },
-  {
-   "text": "Mikrorillen per Laser: So sollen Flugzeuge bis zu 3 % Kerosin sparen",
-   "url": "https://www.ingenieur.de/stroemungsguenstige-flugzeughaut-der-hai-als-vorbild-aad4da01-275c-43e7-a6cd-0feb0b6c2ffe/",
-   "extern": false
-  },
-  {
-   "text": "Energieversorgung",
-   "url": "https://www.ingenieur.de/energieversorgung/",
-   "extern": false
-  },
-  {
-   "text": "3360 MW Kraftwerksleistung für die Lausitz: Warum der Osten jetzt vorn liegt",
-   "url": "https://www.ingenieur.de/3360-mw-kraftwerksleistung-fur-die-lausitz-warum-der-osten-jetzt-absahnt-120803a1-71fb-4d22-a58e-eebba18b7976/",
+   "text": "Aluminium-Ionen-Akkus: Wie das Metall der Getränkedose Lithium herausfordert",
+   "url": "https://www.ingenieur.de/aluminium-ionen-akkus-wie-das-metall-der-getrankedose-lithium-herausfordert-fd3f8152-9965-42bc-bff9-3fcdff98b8fe/",
    "extern": false
   },
   {
@@ -172,61 +172,6 @@
   },
   {
    "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/junior-projektingenieur-papierverarbeitung-m-w-d-064102971?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/teamleiter-m-w-d-vertrieb-und-kalkulation-tga-064103638?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-in-explosionsschutz-als-fachleiter-in-064186382?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/bauueberwacher-m-w-d-strassenverkehrsanlagen-064295817?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/bauingenieur-in-m-w-d-064295819?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/technische-r-projektmitarbeiter-in-m-w-d-bauwesen-projektkoordination-064295818?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/junior-bauueberwacher-in-oberbau-konstruktiver-ingenieurbau-w-m-d-064379311?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/senior-ingenieur-in-leit-und-sicherungstechnik-im-grossprojekt-rhein-ruhr-express-w-m-d-064379310?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/junior-bauingenieur-in-als-bezirksleiter-in-fahrbahn-w-m-d-064379312?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/projektleiter-m-w-d-industriebau-064379404?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/projektingenieur-elektrotechnik-w-m-d-064382713?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr",
    "url": "https://jobs.ingenieur.de/job/teamleiter-m-w-d-vertrieb-und-kalkulation-tga-064122238?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
@@ -271,63 +216,118 @@
    "extern": true
   },
   {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-verkehrsingenieur-w-m-d-strassenplanung-strassenbauprojekte-064218127?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/strategic-account-manager-m-f-x-064218486?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/automatisierungsingenieur-sps-ingenieur-m-w-d-064382988?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/projektleitung-haustechnik-technische-gebaeudeausruestung-tga-neubau-modernisierung-w-m-d-064402599?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/entwicklungsingenieur-leistungselektronik-all-genders-064402788?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/industrial-engineer-fertigungsplaner-arbeitsvorbereitung-m-w-d-064451812?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-integration-platform-m-w-d-064473149?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-enterprise-cloud-platform-m-w-d-064473151?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/software-ingenieur-m-w-d-elektrotechnik-mobile-arbeitsmaschinen-064473150?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/werkleiter-w-m-d-064475108?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/tga-ingenieur-m-w-d-in-leverkusen-064466966?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "Naturwissenschaften",
+   "url": "https://www.ingenieur.de/naturwissenschaften/",
+   "extern": false
+  },
+  {
+   "text": "1 unter 10 Milliarden: CERN findet nach 40 Jahren eine Spur",
+   "url": "https://www.ingenieur.de/1-unter-10-milliarden-cern-findet-nach-40-jahren-eine-spur-4e9928b7-7952-4cc2-8c6d-4f1c0ecfeb7b/",
+   "extern": false
+  },
+  {
+   "text": "Raumfahrt",
+   "url": "https://www.ingenieur.de/raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Magmakammern unter dem Mars? Raumsonde findet Gas, wo keins sein dürfte",
+   "url": "https://www.ingenieur.de/magmakammern-unter-dem-mars-raumsonde-findet-gas-wo-keins-sein-durfte-491374ed-ff27-4dc1-8e56-b8d09db5f60c/",
+   "extern": false
+  },
+  {
+   "text": "Raumfahrt",
+   "url": "https://www.ingenieur.de/raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Eine Erde ohne Leben: Simulation liefert überraschendes Ergebnis",
+   "url": "https://www.ingenieur.de/eine-erde-ohne-leben-simulation-liefert-ueberraschendes-ergebnis-72255609-1a7b-4d76-90a6-b31c7d686ae5/",
+   "extern": false
+  },
+  {
    "text": "Bau",
    "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "45 t schwer, 452 PS stark: Komatsu zeigt seine neue Riesenraupe",
-   "url": "https://www.ingenieur.de/45-t-schwer-452-ps-stark-komatsu-zeigt-seine-neue-riesenraupe-bf311cac-3d34-44ad-8c43-c5faaa75578d/",
+   "text": "15 Cent gegen Gebäudeschäden: Dieser Betonklotz erkennt unsichtbare Risse",
+   "url": "https://www.ingenieur.de/15-cent-gegen-gebaeudeschaeden-dieser-betonklotz-erkennt-unsichtbare-risse-132e32ed-2b3b-496b-aebc-37db33f251f7/",
    "extern": false
   },
   {
-   "text": "Automotive",
-   "url": "https://www.ingenieur.de/automotive/",
+   "text": "Energiespeicher",
+   "url": "https://www.ingenieur.de/energiespeicher/",
    "extern": false
   },
   {
-   "text": "Verbrenner-Aus: Brüssel macht einen Rückzieher, die Jobs sind trotzdem weg",
-   "url": "https://www.ingenieur.de/verbrenner-aus-brussel-macht-einen-ruckzieher-die-jobs-sind-trotzdem-weg-1c70cc6c-0616-4d75-a85c-a5f5555deb7e/",
+   "text": "Aluminium-Ionen-Akkus: Wie das Metall der Getränkedose Lithium herausfordert",
+   "url": "https://www.ingenieur.de/aluminium-ionen-akkus-wie-das-metall-der-getrankedose-lithium-herausfordert-fd3f8152-9965-42bc-bff9-3fcdff98b8fe/",
    "extern": false
   },
   {
-   "text": "Fertigungstechnik",
-   "url": "https://www.ingenieur.de/fertigungstechnik/",
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "Werkzeugüberwachung zur Senkung von Hartmetallkosten",
-   "url": "https://www.ingenieur.de/werkzeuguberwachung-zur-senkung-von-hartmetallkosten-1f18935b-7b45-4a52-9c3f-4d0dd6255bca/",
-   "extern": false
-  },
-  {
-   "text": "Konstruktion & Produktion",
-   "url": "https://www.ingenieur.de/konstruktion-produktion/",
-   "extern": false
-  },
-  {
-   "text": "Mikrorillen per Laser: So sollen Flugzeuge bis zu 3 % Kerosin sparen",
-   "url": "https://www.ingenieur.de/stroemungsguenstige-flugzeughaut-der-hai-als-vorbild-aad4da01-275c-43e7-a6cd-0feb0b6c2ffe/",
-   "extern": false
-  },
-  {
-   "text": "Energieversorgung",
-   "url": "https://www.ingenieur.de/energieversorgung/",
-   "extern": false
-  },
-  {
-   "text": "3360 MW Kraftwerksleistung für die Lausitz: Warum der Osten jetzt vorn liegt",
-   "url": "https://www.ingenieur.de/3360-mw-kraftwerksleistung-fur-die-lausitz-warum-der-osten-jetzt-absahnt-120803a1-71fb-4d22-a58e-eebba18b7976/",
-   "extern": false
-  },
-  {
-   "text": "Automatisierung & Robotik",
-   "url": "https://www.ingenieur.de/automatisierung-robotik/",
-   "extern": false
-  },
-  {
-   "text": "3460 Stellen weg: Jetzt setzt Schaeffler auf humanoide Roboter und Drohnen",
-   "url": "https://www.ingenieur.de/3460-stellen-weg-jetzt-setzt-schaeffler-auf-humanoide-roboter-und-drohnen-172582cc-6a2c-499d-98b3-ba70cfa6bd31/",
+   "text": "KI entdeckt 253 Unstimmigkeiten in Bauplan, 29 davon sind kritisch",
+   "url": "https://www.ingenieur.de/ki-entdeckt-253-unstimmigkeiten-in-bauplan-29-davon-sind-kritisch-76ded62e-e9f4-4432-8543-a3c7f9589e40/",
    "extern": false
   },
   {
@@ -336,63 +336,63 @@
    "extern": false
   },
   {
-   "text": "ALTEN GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/alten-gmbh/",
+   "text": "telent GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/telent-gmbh/",
    "extern": false
   },
   {
-   "text": "TKMS GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/tkms-gmbh/",
+   "text": "BASF",
+   "url": "https://www.ingenieur.de/firmenprofile/basf/",
    "extern": false
   },
   {
-   "text": "Festo AG & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/festo-ag-co-kg/",
+   "text": "Jungheinrich AG",
+   "url": "https://www.ingenieur.de/firmenprofile/jungheinrich-ag/",
    "extern": false
   },
   {
-   "text": "VDI Verein Deutscher Ingenieure e.V.",
-   "url": "https://www.ingenieur.de/firmenprofile/vdi-verein-deutscher-ingenieure-e-v/",
+   "text": "HHLA Sky GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/hhla-sky-gmbh/",
    "extern": false
   },
   {
-   "text": "WACKER Chemie AG",
-   "url": "https://www.ingenieur.de/firmenprofile/wacker-chemie-ag/",
+   "text": "EPLAN Software & Service GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/eplan-software-service-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "HARIBO Deutschland",
-   "url": "https://www.ingenieur.de/firmenprofile/haribo-deutschland/",
+   "text": "Unilever",
+   "url": "https://www.ingenieur.de/firmenprofile/unilever/",
    "extern": false
   },
   {
-   "text": "ecb | energie.concept.bayern. GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/ecb-energie-concept-bayern-gmbh-co-kg/",
+   "text": "ITK Engineering GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/itk-engineering-gmbh/",
    "extern": false
   },
   {
-   "text": "SCHOTT AG",
-   "url": "https://www.ingenieur.de/firmenprofile/schott-ag/",
+   "text": "EnBW Energie Baden-Württemberg AG",
+   "url": "https://www.ingenieur.de/firmenprofile/enbw-energie-baden-wuerttemberg-ag/",
    "extern": false
   },
   {
-   "text": "Mitsubishi Electric Europe B.V. Industrial Automation",
-   "url": "https://www.ingenieur.de/firmenprofile/mitsubishi-electric-europe-b-v-industrial-automation/",
+   "text": "Beckhoff Automation",
+   "url": "https://www.ingenieur.de/firmenprofile/beckhoff-automation/",
    "extern": false
   },
   {
-   "text": "BG ETEM Energie Textil Elektro Medienerzeugnisse",
-   "url": "https://www.ingenieur.de/firmenprofile/bg-etem-energie-textil-elektro-medienerzeugnisse/",
+   "text": "Ferrero",
+   "url": "https://www.ingenieur.de/firmenprofile/ferrero/",
    "extern": false
   },
   {
-   "text": "Mooser EMC Technik GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/mooser-emc-technik-gmbh/",
+   "text": "Deutsche Energie-Agentur GmbH (dena)",
+   "url": "https://www.ingenieur.de/firmenprofile/deutsche-energie-agentur-gmbh-dena/",
    "extern": false
   },
   {
-   "text": "Fernstraßen-Bundesamt",
-   "url": "https://www.ingenieur.de/firmenprofile/fernstrassen-bundesamt/",
+   "text": "Quantum-Systems GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/quantum-systems-gmbh/",
    "extern": false
   }
  ],
