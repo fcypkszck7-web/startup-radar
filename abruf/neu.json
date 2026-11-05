@@ -1,5 +1,31 @@
 [
  {
+  "titel": "19. Gründerfrühstück Landkreis Cham",
+  "start": "2026-11-06",
+  "ende": "2026-11-06",
+  "ort": "IGZ Roding, Roding",
+  "land": "",
+  "online": false,
+  "url": "https://www.gruenderland.bayern/veranstaltungen/event/19-gruenderfruehstueck-landkreis-cham/",
+  "veranstalter": "",
+  "kurz": "Einladung zum GRÜNDERFRÜHSTÜCK im IGZ Roding",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gruenderland-bayern",
+  "quelle_name": "Gründerland Bayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-06|gruenderland.bayern/veranstaltungen/event/19-gruenderfruehstueck-landkreis-cham",
+  "quellen": [
+   "gruenderland-bayern"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "International Business Mission Hannover, Germany, Logistics, Supply Chain & Industry 4.0",
   "start": "2026-11-06",
   "ende": "2026-11-06",
@@ -21,6 +47,54 @@
   "schluessel": "2026-11-06|een.ec.europa.eu/events/international-business-mission-hannover-germany-logistics-supply-chain-industry-40",
   "quellen": [
    "een-events"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "101 Dalmatiërs - de Musical",
+  "start": "2026-11-08",
+  "ende": "2026-11-08",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/dalmatiers-2026",
+  "veranstalter": "",
+  "kurz": "Een musical waarvan je gaat kwispelen!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-08|rai.nl/agenda/dalmatiers-2026",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "PAN Amsterdam",
+  "start": "2026-11-08",
+  "ende": "2026-11-08",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/pan-amsterdam-2026",
+  "veranstalter": "",
+  "kurz": "PAN Amsterdam, Kunst, Antiek, Design",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-08|rai.nl/agenda/pan-amsterdam-2026",
+  "quellen": [
+   "messe-rai"
   ],
   "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
@@ -199,6 +273,250 @@
   "entscheidung": ""
  },
  {
+  "titel": "Infoabend für den Masterstudiengang Hebammenwissenschaft",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/infoabend-fuer-den-masterstudiengang-hebammenwissenschaft-4",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/infoabend-fuer-den-masterstudiengang-hebammenwissenschaft-4",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoabend zum berufsbegleitenden Hochschulzertifikat Mediation",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-mediation",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-mediation",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoabend zum berufsbegleitenden Master Car IT und Elektronik (M.Eng.)",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-car-it-und-elektronik-meng-2",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-car-it-und-elektronik-meng-2",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoabend zum berufsbegleitenden Master Leitung und Kommunikationsmanagement (M.A.)",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-leitung-und-kommunikationsmanagement-3",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-leitung-und-kommunikationsmanagement-3",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Informationsveranstaltung: „Wie werde ich HAW-Prof? Mit Fokus auf Karrierewege in einer Professur.“",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-informationsveranstaltung-wie-werde-ich-haw-prof-mit-fokus-auf-karrierewege-in-einer-professur-2",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-informationsveranstaltung-wie-werde-ich-haw-prof-mit-fokus-auf-karrierewege-in-einer-professur-2",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoveranstaltung zum berufsbegleitenden Bachelor Evidence Based Practice Pflege (B.Sc.)",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-evidence-based-practice-pflege-1",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-evidence-based-practice-pflege-1",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoveranstaltung zum berufsbegleitenden Bachelor Pflegemanagement (B.A.)",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-pflegemanagement-1",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-pflegemanagement-1",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Power Packaging for AI Data Centers from Grid to Core",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/power-packaging-for-ai-data-centers-from-grid-to-core",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/power-packaging-for-ai-data-centers-from-grid-to-core",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Virtueller Infoabend zum Bachelorstudiengang Logopädie",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-bachelorstudiengang-logopaedie",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-bachelorstudiengang-logopaedie",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Virtueller Infoabend zum Masterstudiengang Logopädie",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-logopaedie-4",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-logopaedie-4",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Courage’26 – Investing in Sustainable Futures",
   "start": "2026-11-11",
   "ende": "2026-11-11",
@@ -225,6 +543,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Gründerseminar im Landkreis Cham Teil I/II",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "IGZ Roding, Roding",
+  "land": "",
+  "online": false,
+  "url": "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-i-ii/",
+  "veranstalter": "",
+  "kurz": "Basisseminar für Existenzgründer im Landkreis Cham (Teil I/II)",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gruenderland-bayern",
+  "quelle_name": "Gründerland Bayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-11|gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-i-ii",
+  "quellen": [
+   "gruenderland-bayern"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Gründerstammtisch Stuttgart – Ein zwangloses Treffen für Gründer und Investoren",
   "start": "2026-11-11",
   "ende": "2026-11-11",
@@ -244,6 +588,104 @@
   "schluessel": "2026-11-11|startup-region-stuttgart.de/termine/gruenderstammtisch-stuttgart-ein-zwangloses-treffen-fuer-gruender-und-investoren-2",
   "quellen": [
    "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoabend im BA Musik- und bewegungsorientierte Soziale Arbeit",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-im-ba-musik-und-beweungsorientierte-soziale-arbeit",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-im-ba-musik-und-beweungsorientierte-soziale-arbeit",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoabend zum berufsbegleitenden Hochschulzertifikat KI-tech",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-ki-tech",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-ki-tech",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoabend zum berufsbegleitenden MBA – General Management",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-general-management",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-general-management",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoabend zum berufsbegleitenden MBA – Leadership, Management und Transformation",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-leadership-management-und-transformation",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-leadership-management-und-transformation",
+  "quellen": [
+   "oth-regensburg"
   ],
   "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
@@ -327,6 +769,80 @@
   "entscheidung": ""
  },
  {
+  "titel": "Gründerseminar im Landkreis Cham Teil II/II",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "IGZ Roding, Roding",
+  "land": "",
+  "online": false,
+  "url": "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-ii-ii/",
+  "veranstalter": "",
+  "kurz": "Erfahre in spannenden Vorträgen alles rund ums Thema Gründen!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gruenderland-bayern",
+  "quelle_name": "Gründerland Bayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-12|gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-ii-ii",
+  "quellen": [
+   "gruenderland-bayern"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoabend zum berufsbegleitenden Master Informationstechnologie (M.Eng.)",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-informationstechnologie-2",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-12|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-informationstechnologie-2",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Praxisanleitertag Hebammenkunde",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/praxisanleitertag-hebammenkunde",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-12|oth-regensburg.de/termine/detailansicht/praxisanleitertag-hebammenkunde",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Protect the Edge: IP Strategy for Startups & Scaleups",
   "start": "2026-11-12",
   "ende": "2026-11-12",
@@ -379,6 +895,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Virtueller Infoabend zum Masterstudiengang Physiotherapie",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-physiotherapie-4",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-12|oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-physiotherapie-4",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Roadmap2Security – Vertiefungsmodul 5: Normen, Standards & Zertifizierungen",
   "start": "2026-11-13",
   "ende": "2026-11-13",
@@ -403,6 +943,83 @@
   "entscheidung": ""
  },
  {
+  "titel": "SheStartup - Frauen gründen",
+  "start": "2026-11-13",
+  "ende": "2026-11-13",
+  "ort": "IHK für München und Oberbayern, München",
+  "land": "",
+  "online": false,
+  "url": "https://www.gruenderland.bayern/veranstaltungen/event/shestartup-frauen-gruenden/",
+  "veranstalter": "",
+  "kurz": "Du möchtest gründen, bist in den ersten Jahren deiner Selbstständigkeit oder spielst mit dem Gedanken, dein eigenes Business aufzubauen?",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gruenderland-bayern",
+  "quelle_name": "Gründerland Bayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-13|gruenderland.bayern/veranstaltungen/event/shestartup-frauen-gruenden",
+  "quellen": [
+   "gruenderland-bayern"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Starting with a brigk",
+  "start": "2026-11-13",
+  "ende": "2026-11-13",
+  "ort": "brigk - Digitales Gründerzentrum der Region Ingolstadt, Ingolstadt",
+  "land": "",
+  "online": false,
+  "url": "https://www.gruenderland.bayern/veranstaltungen/event/starting-with-a-brigk/",
+  "veranstalter": "",
+  "kurz": "Rund 20 Start-ups präsentieren am 13. November Lösungen zu Themen wie Künstlicher Intelligenz, Automatisierung und Recruiting.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gruenderland-bayern",
+  "quelle_name": "Gründerland Bayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Industrie & Fertigung",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-13|gruenderland.bayern/veranstaltungen/event/starting-with-a-brigk",
+  "quellen": [
+   "gruenderland-bayern"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Weiterbildungswoche: Große Info-Woche rund um die berufsbegleitende Weiterbildung an der OTH Regensburg",
+  "start": "2026-11-14",
+  "ende": "2026-11-14",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/weiterbildungswoche-grosse-info-woche-rund-um-die-berufsbegleitende-weiterbildung-an-der-oth-regensburg",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-14|oth-regensburg.de/termine/detailansicht/weiterbildungswoche-grosse-info-woche-rund-um-die-berufsbegleitende-weiterbildung-an-der-oth-regensburg",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "BGM-Toolbox: Teil 2 - Vereinbarkeit Pflege und Beruf",
   "start": "2026-11-17",
   "ende": "2026-11-17",
@@ -421,6 +1038,30 @@
   "schluessel": "2026-11-17|biz-up.at/veranstaltung/bgm-toolbox-teil-2-vereinbarkeit-pflege-und-beruf-17-11-2026",
   "quellen": [
    "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Blended-Learning-Veranstaltung: \"Studieren und Sucht: Umgang mit Betroffenen und Rolle der Lehrenden\"",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/blended-learning-veranstaltung-studieren-und-sucht-umgang-mit-betroffenen-und-rolle-der-lehrenden",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|oth-regensburg.de/termine/detailansicht/blended-learning-veranstaltung-studieren-und-sucht-umgang-mit-betroffenen-und-rolle-der-lehrenden",
+  "quellen": [
+   "oth-regensburg"
   ],
   "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
@@ -526,6 +1167,57 @@
   "schluessel": "2026-11-18|hwk-muenchen.de/termine/webinar-cybercrime-und-ki-angriff-und-verteidigung-teil-1-74,0,evedetail.html",
   "quellen": [
    "hwk-muenchen"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "BWP-Schulung: Einführung zur Nutzung von Wärmepumpen in Liegenschaften",
+  "start": "2026-11-19",
+  "ende": "2026-11-26",
+  "ort": "ZOOM",
+  "land": "",
+  "online": false,
+  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "veranstalter": "BWP Marketing &amp; Service GmbH",
+  "kurz": "Aufgrund einer großen Nachfrage von Energieagenturen, Bau-/ Umweltbehörden, Kommunen, Stadtwerken und der Wohnungswirtschaft, haben wir als Bundesverband Wärmepumpe (BWP) e.V. ein Schulungskonzept zu Einsatzmöglichkeiten",
+  "methode": "json-ld",
+  "quelle_id": "bwp",
+  "quelle_name": "Bundesverband Wärmepumpe – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Bau & Immobilien",
+   "Gebäudetechnik",
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-19|waermepumpe.de/verband/veranstaltungen",
+  "quellen": [
+   "bwp"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Metstrade",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/metstrade-2026",
+  "veranstalter": "",
+  "kurz": "Metstrade brengt internationale leisure marine professionals samen om te netwerken en innovatie te ontdekken. Hét event om businesskansen te benutten in een snel veranderende sector.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-19|rai.nl/agenda/metstrade-2026",
+  "quellen": [
+   "messe-rai"
   ],
   "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
@@ -657,6 +1349,58 @@
   "entscheidung": ""
  },
  {
+  "titel": "Digital Marketing World Forum (DMWF) Europe",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/digital-marketing-world-forum-2026",
+  "veranstalter": "",
+  "kurz": "Digital Marketing World Forum 2026",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-25|rai.nl/agenda/digital-marketing-world-forum-2026",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Offshore Energy Exhibition & Conference",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/offshore-energy-conference-&-exhibition-2026",
+  "veranstalter": "",
+  "kurz": "OEEC is een toonaangevend internationaal offshore-energie-evenement in Amsterdam waar experts en bedrijven samenkomen rond offshore wind, waterstof, olie & gas en mariene energie om innovatie en de energietransitie te st",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-25|rai.nl/agenda/offshore-energy-conference-&-exhibition-2026",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Produkt-FMEA als Werkzeug für robuste Batteriesysteme – proaktive Risikoerkennung in der Transformation",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -757,6 +1501,108 @@
   "entscheidung": ""
  },
  {
+  "titel": "Michelle Buteau: The Surviving and Thriving Tour",
+  "start": "2026-11-28",
+  "ende": "2026-11-28",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/michelle-buteau-2026",
+  "veranstalter": "",
+  "kurz": "Michelle Buteau brengt The Surviving and Thriving Tour op 28 november naar RAI Theater in Amsterdam voor twee exclusieve shows die worden opgenomen voor haar nieuwe Netflix special.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-28|rai.nl/agenda/michelle-buteau-2026",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "European SharePoint - Microsoft 2026",
+  "start": "2026-11-30",
+  "ende": "2026-11-30",
+  "ort": "ensdag: Aanmelden vanaf 07:30 Sessies 08:45-17:45",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/european-sharepoint-microsoft-2026",
+  "veranstalter": "",
+  "kurz": "ESPC is Europa’s toonaangevende Microsoft 365- en AI-leer- en netwerkevenement. Kom langs om te luisteren naar 100 experts tijdens 120 sessies over Microsoft 365, AI, Power Platform, Agents, Copilot, Security en meer.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-30|rai.nl/agenda/european-sharepoint-microsoft-2026",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "BWP-Schulung: Beratung zum Einsatz von Wärmepumpen im Bestand",
+  "start": "2026-12-01",
+  "ende": "2026-12-11",
+  "ort": "ZOOM",
+  "land": "",
+  "online": false,
+  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "veranstalter": "BWP Marketing &amp; Service GmbH",
+  "kurz": "Die Schulung richtet sich speziell an Energieberater und bietet Ihnen das notwendige Wissen und die Fähigkeiten, um kompetent rund um die Wärmepumpe beraten zu können. Die \"alte\" BAW-Förderung (Modul 5) kann, sofern ihne",
+  "methode": "json-ld",
+  "quelle_id": "bwp",
+  "quelle_name": "Bundesverband Wärmepumpe – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gebäudetechnik",
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-12-01|waermepumpe.de/verband/veranstaltungen",
+  "quellen": [
+   "bwp"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "BWP-Schulung: Oberflächengewässer als Wärmequelle",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "ort": "ONLINE",
+  "land": "",
+  "online": false,
+  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "veranstalter": "BWP Marketing &amp; Service GmbH",
+  "kurz": "Oberflächengewässer wie Flüsse, Seen oder Kanäle können eine wichtige Wärmequelle für Gebäude, Quartiere und Wärmenetze sein. Die Schulung vermittelt einen kompakten Überblick über technische Grundlagen, Anwendungsfelder",
+  "methode": "json-ld",
+  "quelle_id": "bwp",
+  "quelle_name": "Bundesverband Wärmepumpe – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Metall & Oberflächen",
+   "Bau & Immobilien"
+  ],
+  "schluessel": "2026-12-04|waermepumpe.de/verband/veranstaltungen",
+  "quellen": [
+   "bwp"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Solarplaza Summit | Energy Storage Germany",
   "start": "2026-12-08",
   "ende": "2026-12-08",
@@ -804,6 +1650,31 @@
    "zdb"
   ],
   "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Expertenrunde: Einrohr-Heizung und Wärmepumpe – so geht’s",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "ort": "ZOOM",
+  "land": "",
+  "online": false,
+  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "veranstalter": "Bundesverband Wärmepumpe (BWP) e.V.",
+  "kurz": "Einrohrheizungen gelten häufig als besondere Herausforderung bei der Modernisierung mit Wärmepumpen. Entscheidend ist jedoch die fachliche Bewertung des bestehenden Systems: Wie lässt sich eine Einrohrheizung sicher erke",
+  "methode": "json-ld",
+  "quelle_id": "bwp",
+  "quelle_name": "Bundesverband Wärmepumpe – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gebäudetechnik"
+  ],
+  "schluessel": "2026-12-10|waermepumpe.de/verband/veranstaltungen",
+  "quellen": [
+   "bwp"
+  ],
+  "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1830,6 +2701,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Fachforum Handwerk, Beratung und Planung",
+  "start": "2027-04-21",
+  "ende": "2027-04-22",
+  "ort": "Hannover",
+  "land": "",
+  "online": false,
+  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "veranstalter": "Bundesverband Wärmepumpe (BWP) e.V.",
+  "kurz": "Nach dem erfolgreichen Auftakt in Frankfurt geht das Fachforum Handwerk, Beratung und Planung in die zweite Runde. Am 22. April 2027 bringt der Bundesverband Wärmepumpe gemeinsam mit dem GIH Bundesverband erneut Fachhand",
+  "methode": "json-ld",
+  "quelle_id": "bwp",
+  "quelle_name": "Bundesverband Wärmepumpe – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gebäudetechnik",
+   "Handwerk"
+  ],
+  "schluessel": "2027-04-21|waermepumpe.de/verband/veranstaltungen",
+  "quellen": [
+   "bwp"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Von der Projektidee zur Umsetzung - Crashkurs agiles Arbeiten",
   "start": "2027-04-23",
   "ende": "2027-04-23",
@@ -2091,6 +2988,31 @@
   "entscheidung": ""
  },
  {
+  "titel": "Berliner Energietage 2027",
+  "start": "2027-05-02",
+  "ende": "2027-05-05",
+  "ort": "ONLINE",
+  "land": "",
+  "online": false,
+  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "veranstalter": "",
+  "kurz": "Die Berliner Energietage sind die führende Fachkonferenz zur Energiewende im deutschsprachigen Raum. Jährlich kommen Expertinnen und Experten aus Politik, Wirtschaft, Wissenschaft und Praxis zusammen, um aktuelle Entwick",
+  "methode": "json-ld",
+  "quelle_id": "bwp",
+  "quelle_name": "Bundesverband Wärmepumpe – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2027-05-02|waermepumpe.de/verband/veranstaltungen",
+  "quellen": [
+   "bwp"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Solarplaza Summit | Poland",
   "start": "2027-05-25",
   "ende": "2027-05-25",
@@ -2114,6 +3036,31 @@
    "solarplaza-events"
   ],
   "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Berliner Energietage 2027",
+  "start": "2027-05-30",
+  "ende": "2027-06-02",
+  "ort": "Berlin",
+  "land": "",
+  "online": false,
+  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "veranstalter": "",
+  "kurz": "Die Berliner Energietage sind die führende Fachkonferenz zur Energiewende im deutschsprachigen Raum. Jährlich kommen Expertinnen und Experten aus Politik, Wirtschaft, Wissenschaft und Praxis zusammen, um aktuelle Entwick",
+  "methode": "json-ld",
+  "quelle_id": "bwp",
+  "quelle_name": "Bundesverband Wärmepumpe – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2027-05-30|waermepumpe.de/verband/veranstaltungen",
+  "quellen": [
+   "bwp"
+  ],
+  "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -2259,6 +3206,32 @@
   "schluessel": "2027-06-26|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/ball-des-heeres-2027",
   "quellen": [
    "messe-berlin"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Deutscher Großwärmepumpen-Kongress 2027",
+  "start": "2027-06-28",
+  "ende": "2027-06-30",
+  "ort": "Turbinenhalle Düsseldorf",
+  "land": "",
+  "online": false,
+  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
+  "veranstalter": "BWP Marketing &amp; Service GmbH",
+  "kurz": "Der Deutsche Großwärmepumpen-Kongress 2027 bringt am 30. Juni 2027 in Düsseldorf zentrale Akteure der Wärmewende zusammen. Im Fokus stehen praxisnahe Lösungen und strategische Ansätze für den erfolgreichen Einsatz von Gr",
+  "methode": "json-ld",
+  "quelle_id": "bwp",
+  "quelle_name": "Bundesverband Wärmepumpe – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gebäudetechnik",
+   "Energie & Solar"
+  ],
+  "schluessel": "2027-06-28|waermepumpe.de/verband/veranstaltungen",
+  "quellen": [
+   "bwp"
   ],
   "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,

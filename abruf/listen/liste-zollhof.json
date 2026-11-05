@@ -4,7 +4,33 @@
  "url": "https://zollhof.de/startups/",
  "abgerufen": "2026-11-05",
  "koepfe": [],
- "links": [],
+ "links": [
+  {
+   "text": "BLOG",
+   "url": "https://zollhof.medium.com/",
+   "extern": true
+  },
+  {
+   "text": "ZOHO.VC",
+   "url": "https://zoho.vc",
+   "extern": true
+  },
+  {
+   "text": "zoho.vc",
+   "url": "https://zoho.vc",
+   "extern": true
+  },
+  {
+   "text": "Apply to our Startup Batch 2026",
+   "url": "https://zollhof.de/startup-incubation",
+   "extern": false
+  },
+  {
+   "text": "Cookies Policy",
+   "url": "https://zollhof.de/privacy-policy",
+   "extern": false
+  }
+ ],
  "eintraege": [],
  "firmen": []
 }

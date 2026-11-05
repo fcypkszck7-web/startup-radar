@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-05 04:37 UTC",
+ "abgerufen": "2026-11-05 10:59 UTC",
  "quellen_gesamt": 167,
- "quellen_ok": 163,
- "kandidaten": 891,
- "neu": 103,
+ "quellen_ok": 162,
+ "kandidaten": 952,
+ "neu": 142,
  "quellen": [
   {
    "id": "auma-bau",
@@ -28,7 +28,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.1,
+   "sekunden": 19.9,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -40,7 +40,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.4,
+   "sekunden": 10.8,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -80,7 +80,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.7,
+   "sekunden": 7.3,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -178,7 +178,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.2,
+   "sekunden": 7.3,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -215,10 +215,12 @@
    "art": "events",
    "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
    "ok": true,
-   "methoden": [],
-   "anzahl": 0,
+   "methoden": [
+    "json-ld"
+   ],
+   "anzahl": 16,
    "fehler": "",
-   "sekunden": 3.7,
+   "sekunden": 7.8,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -241,10 +243,13 @@
    "art": "events",
    "url": "https://www.dena.de/infocenter/alle-veranstaltungen/",
    "ok": true,
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.1,
+   "zeilen": 15,
+   "sekunden": 8.2,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -312,7 +317,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.3,
+   "sekunden": 8.1,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -352,7 +357,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.3,
+   "sekunden": 6.4,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -389,11 +394,11 @@
    "name": "EU-Startups – Events",
    "art": "events",
    "url": "https://www.eu-startups.com/events/",
-   "ok": true,
+   "ok": false,
    "methoden": [],
    "anzahl": 0,
-   "fehler": "",
-   "sekunden": 2.8,
+   "fehler": "RuntimeError: Browser: HTTP 403",
+   "sekunden": 2.6,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -675,7 +680,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.3,
+   "sekunden": 8.9,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -811,10 +816,12 @@
    "art": "events",
    "url": "https://www.gruenderland.bayern/veranstaltungen/",
    "ok": true,
-   "methoden": [],
-   "anzahl": 0,
+   "methoden": [
+    "detailseiten:10"
+   ],
+   "anzahl": 9,
    "fehler": "",
-   "sekunden": 3.0,
+   "sekunden": 26.6,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -835,10 +842,14 @@
    "art": "events",
    "url": "https://www.messe.de/de/messen/",
    "ok": true,
-   "methoden": [],
+   "methoden": [
+    "detailseiten:72",
+    "datumszeilen"
+   ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.0,
+   "zeilen": 61,
+   "sekunden": 50.9,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -865,7 +876,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.4,
+   "sekunden": 6.0,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -916,10 +927,13 @@
    "art": "events",
    "url": "https://hydrogeneurope.eu/events/",
    "ok": true,
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.0,
+   "zeilen": 28,
+   "sekunden": 8.3,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -945,7 +959,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.4,
+   "sekunden": 9.8,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -957,7 +971,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.9,
+   "sekunden": 8.2,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -969,7 +983,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 5.2,
+   "sekunden": 9.0,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -981,7 +995,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 6.0,
+   "sekunden": 9.5,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1064,7 +1078,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.7,
+   "sekunden": 7.7,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1121,7 +1135,7 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.3,
+   "sekunden": 6.4,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1233,7 +1247,7 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.8,
+   "sekunden": 16.9,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1259,9 +1273,9 @@
    "methoden": [
     "liste"
    ],
-   "anzahl": 0,
+   "anzahl": 9,
    "fehler": "",
-   "sekunden": 4.3,
+   "sekunden": 9.9,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1275,7 +1289,7 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.1,
+   "sekunden": 8.9,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1329,9 +1343,9 @@
    "methoden": [
     "liste"
    ],
-   "anzahl": 0,
+   "anzahl": 3,
    "fehler": "",
-   "sekunden": 0.3,
+   "sekunden": 4.1,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1459,7 +1473,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 1.5,
+   "sekunden": 8.1,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1486,7 +1500,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 1.6,
+   "sekunden": 6.1,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1495,10 +1509,13 @@
    "art": "events",
    "url": "https://www.firabarcelona.com/en/trade_show/",
    "ok": true,
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.0,
+   "zeilen": 36,
+   "sekunden": 11.1,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1510,7 +1527,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.6,
+   "sekunden": 6.4,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1563,7 +1580,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.2,
+   "sekunden": 10.0,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1572,10 +1589,12 @@
    "art": "events",
    "url": "https://messe-muenchen.de/de/veranstaltungen/",
    "ok": true,
-   "methoden": [],
-   "anzahl": 0,
+   "methoden": [
+    "detailseiten:10"
+   ],
+   "anzahl": 9,
    "fehler": "",
-   "sekunden": 2.4,
+   "sekunden": 30.6,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1626,10 +1645,12 @@
    "art": "events",
    "url": "https://www.rai.nl/agenda",
    "ok": true,
-   "methoden": [],
-   "anzahl": 0,
+   "methoden": [
+    "detailseiten:10"
+   ],
+   "anzahl": 7,
    "fehler": "",
-   "sekunden": 2.6,
+   "sekunden": 30.2,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1685,7 +1706,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.1,
+   "sekunden": 8.9,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1694,10 +1715,13 @@
    "art": "events",
    "url": "https://www.messe-basel.com/de/events?categories=messe",
    "ok": true,
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.8,
+   "zeilen": 4,
+   "sekunden": 11.9,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1810,10 +1834,14 @@
    "art": "events",
    "url": "https://www.nuernbergmesse.de/de-de/veranstaltungen/veranstaltungskalender",
    "ok": true,
-   "methoden": [],
+   "methoden": [
+    "detailseiten:1",
+    "datumszeilen"
+   ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.1,
+   "zeilen": 9,
+   "sekunden": 9.1,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1836,10 +1864,12 @@
    "art": "events",
    "url": "https://www.oth-regensburg.de/termine",
    "ok": true,
-   "methoden": [],
-   "anzahl": 0,
+   "methoden": [
+    "detailseiten:20"
+   ],
+   "anzahl": 20,
    "fehler": "",
-   "sekunden": 2.7,
+   "sekunden": 45.3,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1851,7 +1881,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.2,
+   "sekunden": 7.3,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1934,7 +1964,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 9.9,
+   "sekunden": 12.7,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -1988,7 +2018,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 1.7,
+   "sekunden": 5.6,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -2000,7 +2030,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.9,
+   "sekunden": 6.9,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -2026,7 +2056,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 8.0,
+   "sekunden": 9.6,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -2038,7 +2068,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.9,
+   "sekunden": 6.7,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -2082,7 +2112,7 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 17,
-   "sekunden": 20.8,
+   "sekunden": 20.5,
    "zuletzt_ok": "2026-11-05"
   },
   {
@@ -2295,7 +2325,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.0,
+   "sekunden": 6.9,
    "zuletzt_ok": "2026-11-05"
   },
   {

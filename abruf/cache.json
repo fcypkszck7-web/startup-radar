@@ -28323,5 +28323,1586 @@
   "geholt": "2026-11-05",
   "events": [],
   "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/business-baukasten-baustein-10/": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/weiterbildungswoche-grosse-info-woche-rund-um-die-berufsbegleitende-weiterbildung-an-der-oth-regensburg": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Weiterbildungswoche: Große Info-Woche rund um die berufsbegleitende Weiterbildung an der OTH Regensburg",
+    "start": "2026-11-14",
+    "ende": "2026-11-14",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/weiterbildungswoche-grosse-info-woche-rund-um-die-berufsbegleitende-weiterbildung-an-der-oth-regensburg",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-14|oth-regensburg.de/termine/detailansicht/weiterbildungswoche-grosse-info-woche-rund-um-die-berufsbegleitende-weiterbildung-an-der-oth-regensburg",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/19-gruenderfruehstueck-landkreis-cham/": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "19. Gründerfrühstück Landkreis Cham",
+    "start": "2026-11-06",
+    "ende": "2026-11-06",
+    "ort": "IGZ Roding, Roding",
+    "land": "",
+    "online": false,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/19-gruenderfruehstueck-landkreis-cham/",
+    "veranstalter": "",
+    "kurz": "Einladung zum GRÜNDERFRÜHSTÜCK im IGZ Roding",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-06|gruenderland.bayern/veranstaltungen/event/19-gruenderfruehstueck-landkreis-cham",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/blended-learning-veranstaltung-studieren-und-sucht-umgang-mit-betroffenen-und-rolle-der-lehrenden": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Blended-Learning-Veranstaltung: \"Studieren und Sucht: Umgang mit Betroffenen und Rolle der Lehrenden\"",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/blended-learning-veranstaltung-studieren-und-sucht-umgang-mit-betroffenen-und-rolle-der-lehrenden",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-17|oth-regensburg.de/termine/detailansicht/blended-learning-veranstaltung-studieren-und-sucht-umgang-mit-betroffenen-und-rolle-der-lehrenden",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/pitch-match/": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Pitch & Match",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "Franz-Mayer-Str. 1, TechBase Regensburg GmbH, Regensburg",
+    "land": "",
+    "online": true,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/pitch-match/",
+    "veranstalter": "",
+    "kurz": "Start-ups gesucht! Innovation entsteht nicht im Stillen – sie entsteht durch Austausch.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-10|gruenderland.bayern/veranstaltungen/event/pitch-match",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "kuwi-webinar-power-pitch-praesentationen-so-verkaufst-du-dei-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-car-it-und-elektronik-meng-2": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoabend zum berufsbegleitenden Master Car IT und Elektronik (M.Eng.)",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-car-it-und-elektronik-meng-2",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-car-it-und-elektronik-meng-2",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/startup-im-handwerk-5/": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Startup im Handwerk",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "Schleifenstraße 57, 1/2, Königsbrunn",
+    "land": "",
+    "online": true,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/startup-im-handwerk-5/",
+    "veranstalter": "",
+    "kurz": "Ein Start-Up zu gründen ist nicht schwer! Es erfolgreich zu tun schon! Damit Sie richtig durchstarten können, gilt es einiges zu beachten. ",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation",
+     "Handwerk"
+    ],
+    "schluessel": "2026-11-11|gruenderland.bayern/veranstaltungen/event/startup-im-handwerk-5",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "startup-im-handwerk-frag-uns-einfach-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-leitung-und-kommunikationsmanagement-3": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoabend zum berufsbegleitenden Master Leitung und Kommunikationsmanagement (M.A.)",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-leitung-und-kommunikationsmanagement-3",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-leitung-und-kommunikationsmanagement-3",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.nuernbergmesse.de/de-de/veranstaltungen/veranstaltungsportfolio/gefoerderte-gemeinschaftsstaende/big-5-global-gemeinschaftsstand-bayern": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/startup-im-handwerk-1/": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Startup im Handwerk",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "Online-Veranstaltung",
+    "land": "",
+    "online": true,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/startup-im-handwerk-1/",
+    "veranstalter": "",
+    "kurz": "Startup im Handwerk – frag uns einfach!\r\nOnline-Seminar Betriebswirtschaft",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Handwerk",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-11|gruenderland.bayern/veranstaltungen/event/startup-im-handwerk-1",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "startup-im-handwerk-frag-uns-einfach-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-bachelorstudiengang-logopaedie": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Virtueller Infoabend zum Bachelorstudiengang Logopädie",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-bachelorstudiengang-logopaedie",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-bachelorstudiengang-logopaedie",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-i-ii/": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Gründerseminar im Landkreis Cham Teil I/II",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "IGZ Roding, Roding",
+    "land": "",
+    "online": false,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-i-ii/",
+    "veranstalter": "",
+    "kurz": "Basisseminar für Existenzgründer im Landkreis Cham (Teil I/II)",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-11|gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-i-ii",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/infoabend-fuer-den-masterstudiengang-hebammenwissenschaft-4": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Infoabend für den Masterstudiengang Hebammenwissenschaft",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/infoabend-fuer-den-masterstudiengang-hebammenwissenschaft-4",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/infoabend-fuer-den-masterstudiengang-hebammenwissenschaft-4",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/ispo-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-informationsveranstaltung-wie-werde-ich-haw-prof-mit-fokus-auf-karrierewege-in-einer-professur-2": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Informationsveranstaltung: „Wie werde ich HAW-Prof? Mit Fokus auf Karrierewege in einer Professur.“",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-informationsveranstaltung-wie-werde-ich-haw-prof-mit-fokus-auf-karrierewege-in-einer-professur-2",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-informationsveranstaltung-wie-werde-ich-haw-prof-mit-fokus-auf-karrierewege-in-einer-professur-2",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-ii-ii/": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Gründerseminar im Landkreis Cham Teil II/II",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "IGZ Roding, Roding",
+    "land": "",
+    "online": false,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-ii-ii/",
+    "veranstalter": "",
+    "kurz": "Erfahre in spannenden Vorträgen alles rund ums Thema Gründen!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-12|gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-ii-ii",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/shestartup-frauen-gruenden/": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "SheStartup - Frauen gründen",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "IHK für München und Oberbayern, München",
+    "land": "",
+    "online": false,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/shestartup-frauen-gruenden/",
+    "veranstalter": "",
+    "kurz": "Du möchtest gründen, bist in den ersten Jahren deiner Selbstständigkeit oder spielst mit dem Gedanken, dein eigenes Business aufzubauen?",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-13|gruenderland.bayern/veranstaltungen/event/shestartup-frauen-gruenden",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/electronica-automotive-conference-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "electronica Automotive Conference 2026",
+    "start": "2026-11-09",
+    "ende": "2026-11-09",
+    "ort": "München",
+    "land": "",
+    "online": false,
+    "url": "https://messe-muenchen.de/de/veranstaltungen/electronica-automotive-conference-2026.html",
+    "veranstalter": "Messe München GmbH",
+    "kurz": "Die eintägige Konferenz beschäftigt sich mit den wichtigsten Trends und Herausforderungen der Automobilindustrie.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-muenchen",
+    "quelle_name": "Messe München – Messekalender",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2026-11-09|messe-muenchen.de/de/veranstaltungen/electronica-automotive-conference-2026.html",
+    "quellen": [
+     "messe-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "bimexpo-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/power-packaging-for-ai-data-centers-from-grid-to-core": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Power Packaging for AI Data Centers from Grid to Core",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/power-packaging-for-ai-data-centers-from-grid-to-core",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/power-packaging-for-ai-data-centers-from-grid-to-core",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/cemat-asia": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/electronica-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "electronica 2026",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "München",
+    "land": "",
+    "online": false,
+    "url": "https://messe-muenchen.de/de/veranstaltungen/electronica-2026.html",
+    "veranstalter": "Messe München GmbH",
+    "kurz": "Alle zwei Jahre trifft sich die Welt der Elektronik in München. Hier gestalten sie gemeinsam eine nachhaltige und lebenswerte Zukunft im Sinne der All Electric Society.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-muenchen",
+    "quelle_name": "Messe München – Messekalender",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-13|messe-muenchen.de/de/veranstaltungen/electronica-2026.html",
+    "quellen": [
+     "messe-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "bimexpo-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/starting-with-a-brigk/": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Starting with a brigk",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "brigk - Digitales Gründerzentrum der Region Ingolstadt, Ingolstadt",
+    "land": "",
+    "online": false,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/starting-with-a-brigk/",
+    "veranstalter": "",
+    "kurz": "Rund 20 Start-ups präsentieren am 13. November Lösungen zu Themen wie Künstlicher Intelligenz, Automatisierung und Recruiting.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-13|gruenderland.bayern/veranstaltungen/event/starting-with-a-brigk",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/freight-vehicle-asia": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-pflegemanagement-1": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoveranstaltung zum berufsbegleitenden Bachelor Pflegemanagement (B.A.)",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-pflegemanagement-1",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-pflegemanagement-1",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/semicon-europa-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "SEMICON Europa 2026",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "München",
+    "land": "",
+    "online": false,
+    "url": "https://messe-muenchen.de/de/veranstaltungen/semicon-europa-2026.html",
+    "veranstalter": "Messe München GmbH",
+    "kurz": "Die von SEMI Europe organisierte SEMICON Europa co-located mit productronica / electronica ist die größte europäische Elektronikplattform.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-muenchen",
+    "quelle_name": "Messe München – Messekalender",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-13|messe-muenchen.de/de/veranstaltungen/semicon-europa-2026.html",
+    "quellen": [
+     "messe-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "bimexpo-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/comvac-asia": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/allgaeuer-gruenderbuehne-2026-1/": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Allgäuer Gründerbühne 2026",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "kultBOX, Kempten",
+    "land": "",
+    "online": true,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/allgaeuer-gruenderbuehne-2026-1/",
+    "veranstalter": "",
+    "kurz": "Das Event für innovative Gründungsideen. Move Forward Ideas, Business, Together, Future.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-17|gruenderland.bayern/veranstaltungen/event/allgaeuer-gruenderbuehne-2026-1",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "formnext-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-evidence-based-practice-pflege-1": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoveranstaltung zum berufsbegleitenden Bachelor Evidence Based Practice Pflege (B.Sc.)",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-evidence-based-practice-pflege-1",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-evidence-based-practice-pflege-1",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/industrial-supply-asia": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/glasstech-asia-fenestration-asia-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Glasstech Asia / Fenestration Asia 2026",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://messe-muenchen.de/de/veranstaltungen/glasstech-asia-fenestration-asia-2026.html",
+    "veranstalter": "Messe München GmbH",
+    "kurz": "The Glass Hub of Southeast Asia",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-muenchen",
+    "quelle_name": "Messe München – Messekalender",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-12|messe-muenchen.de/de/veranstaltungen/glasstech-asia-fenestration-asia-2026.html",
+    "quellen": [
+     "messe-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "bimexpo-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-mediation": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoabend zum berufsbegleitenden Hochschulzertifikat Mediation",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-mediation",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-mediation",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/ptc-asia": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/air-cargo-tuerkiye-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "air cargo Türkiye 2026",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://messe-muenchen.de/de/veranstaltungen/air-cargo-tuerkiye-2026.html",
+    "veranstalter": "Messe München GmbH",
+    "kurz": "air cargo Türkiye, als Teil der logitrans, vereint die Akteure der Luftfrachtindustrie am strategischen Knotenpunkt Istanbul",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-muenchen",
+    "quelle_name": "Messe München – Messekalender",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2026-11-13|messe-muenchen.de/de/veranstaltungen/air-cargo-tuerkiye-2026.html",
+    "quellen": [
+     "messe-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "bimexpo-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/caravan-bremen": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-logopaedie-4": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Virtueller Infoabend zum Masterstudiengang Logopädie",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-logopaedie-4",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-logopaedie-4",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/logitrans-tuerkiye-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "logitrans Türkiye 2026",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://messe-muenchen.de/de/veranstaltungen/logitrans-tuerkiye-2026.html",
+    "veranstalter": "Messe München GmbH",
+    "kurz": "logitrans – the largest logistics gathering in the Eurasia region",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-muenchen",
+    "quelle_name": "Messe München – Messekalender",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Logistik & Handel"
+    ],
+    "schluessel": "2026-11-13|messe-muenchen.de/de/veranstaltungen/logitrans-tuerkiye-2026.html",
+    "quellen": [
+     "messe-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "bimexpo-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/eurotier": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/it-security-day-2026": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "IT-Security Day 2026",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/it-security-day-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/it-security-day-2026",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "bimexpo-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/energydecentral": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/analytica-china-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "analytica China 2026",
+    "start": "2026-11-18",
+    "ende": "2026-11-18",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://messe-muenchen.de/de/veranstaltungen/analytica-china-2026.html",
+    "veranstalter": "Messe München GmbH",
+    "kurz": "analytica China: Internationale Fachmesse für Labortechnik, Analytik, Biotechnologie und Diagnostik. Alle Messe-Informationen!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-muenchen",
+    "quelle_name": "Messe München – Messekalender",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-18|messe-muenchen.de/de/veranstaltungen/analytica-china-2026.html",
+    "quellen": [
+     "messe-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "formnext-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-ki-tech": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoabend zum berufsbegleitenden Hochschulzertifikat KI-tech",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-ki-tech",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-ki-tech",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/logistics-automation-new-zealand": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/bauma-china-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "bauma CHINA 2026",
+    "start": "2026-11-27",
+    "ende": "2026-11-27",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://messe-muenchen.de/de/veranstaltungen/bauma-china-2026.html",
+    "veranstalter": "Messe München GmbH",
+    "kurz": "bauma CHINA 2026: International Trade Fair for Construction Machinery, Building Material Machines, Mining Machines and Construction Vehicles",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-muenchen",
+    "quelle_name": "Messe München – Messekalender",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Bau & Immobilien",
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-27|messe-muenchen.de/de/veranstaltungen/bauma-china-2026.html",
+    "quellen": [
+     "messe-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-leadership-management-und-transformation": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoabend zum berufsbegleitenden MBA – Leadership, Management und Transformation",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-leadership-management-und-transformation",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-leadership-management-und-transformation",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/domotex-south-east-asia": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://messe-muenchen.de/de/veranstaltungen/bim-world-munich-2026.html": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "BIM World MUNICH 2026",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Herrsching",
+    "land": "",
+    "online": false,
+    "url": "https://messe-muenchen.de/de/veranstaltungen/bim-world-munich-2026.html",
+    "veranstalter": "Messe München GmbH",
+    "kurz": "BIM World MUNICH ist die führende internationale Plattform und Veranstaltung für die Digitalisierung der Bau-, Immobilien- und Facility-Management-Branchen",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-muenchen",
+    "quelle_name": "Messe München – Messekalender",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Bau & Immobilien",
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-25|messe-muenchen.de/de/veranstaltungen/bim-world-munich-2026.html",
+    "quellen": [
+     "messe-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "bim-world-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-general-management": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoabend zum berufsbegleitenden MBA – General Management",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-general-management",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-general-management",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/industrial-transformation-mexico": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-im-ba-musik-und-beweungsorientierte-soziale-arbeit": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoabend im BA Musik- und bewegungsorientierte Soziale Arbeit",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-im-ba-musik-und-beweungsorientierte-soziale-arbeit",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-im-ba-musik-und-beweungsorientierte-soziale-arbeit",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/supply-chain-indonesia": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/praxisanleitertag-hebammenkunde": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Praxisanleitertag Hebammenkunde",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/praxisanleitertag-hebammenkunde",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-12|oth-regensburg.de/termine/detailansicht/praxisanleitertag-hebammenkunde",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/passion-pferd": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/nacht-der-pferde-2": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-physiotherapie-4": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Virtueller Infoabend zum Masterstudiengang Physiotherapie",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-physiotherapie-4",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-12|oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-physiotherapie-4",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/mimamo-2": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-informationstechnologie-2": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Online-Infoabend zum berufsbegleitenden Master Informationstechnologie (M.Eng.)",
+    "start": "2026-11-12",
+    "ende": "2026-11-12",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-informationstechnologie-2",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-12|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-informationstechnologie-2",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/pro-care": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/abf-2": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/pan-amsterdam-2026": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "PAN Amsterdam",
+    "start": "2026-11-08",
+    "ende": "2026-11-08",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/pan-amsterdam-2026",
+    "veranstalter": "",
+    "kurz": "PAN Amsterdam, Kunst, Antiek, Design",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-08|rai.nl/agenda/pan-amsterdam-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/b-i-g--2": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/didacta": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/ispo-2026": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/chengdu-international-industry-fair-cdiif-": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/the-international-running-expo-2026": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/tire-technology-expo": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/future-of-protein-2026": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/dsei-germany": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/automechanika-istanbul": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/dalmatiers-2026": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "101 Dalmatiërs - de Musical",
+    "start": "2026-11-08",
+    "ende": "2026-11-08",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/dalmatiers-2026",
+    "veranstalter": "",
+    "kurz": "Een musical waarvan je gaat kwispelen!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-08|rai.nl/agenda/dalmatiers-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/nexgem-next-generation-metalworking-": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/metstrade-2026": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Metstrade",
+    "start": "2026-11-19",
+    "ende": "2026-11-19",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/metstrade-2026",
+    "veranstalter": "",
+    "kurz": "Metstrade brengt internationale leisure marine professionals samen om te netwerken en innovatie te ontdekken. Hét event om businesskansen te benutten in een snel veranderende sector.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-19|rai.nl/agenda/metstrade-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/europe-energy-week-2027": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/digital-marketing-world-forum-2026": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Digital Marketing World Forum (DMWF) Europe",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/digital-marketing-world-forum-2026",
+    "veranstalter": "",
+    "kurz": "Digital Marketing World Forum 2026",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-25|rai.nl/agenda/digital-marketing-world-forum-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/hannover-messe-2": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/solar-storage-mexico": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/offshore-energy-conference-&-exhibition-2026": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Offshore Energy Exhibition & Conference",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/offshore-energy-conference-&-exhibition-2026",
+    "veranstalter": "",
+    "kurz": "OEEC is een toonaangevend internationaal offshore-energie-evenement in Amsterdam waar experts en bedrijven samenkomen rond offshore wind, waterstof, olie & gas en mariene energie om innovatie en de energietransitie te st",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-11-25|rai.nl/agenda/offshore-energy-conference-&-exhibition-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/ecomondo-mexico": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/michelle-buteau-2026": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "Michelle Buteau: The Surviving and Thriving Tour",
+    "start": "2026-11-28",
+    "ende": "2026-11-28",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/michelle-buteau-2026",
+    "veranstalter": "",
+    "kurz": "Michelle Buteau brengt The Surviving and Thriving Tour op 28 november naar RAI Theater in Amsterdam voor twee exclusieve shows die worden opgenomen voor haar nieuwe Netflix special.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-28|rai.nl/agenda/michelle-buteau-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/legal-innovation-tech-fest-digital": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/ligna-3": {
+  "geholt": "2026-11-05",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/european-sharepoint-microsoft-2026": {
+  "geholt": "2026-11-05",
+  "events": [
+   {
+    "titel": "European SharePoint - Microsoft 2026",
+    "start": "2026-11-30",
+    "ende": "2026-11-30",
+    "ort": "ensdag: Aanmelden vanaf 07:30 Sessies 08:45-17:45",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/european-sharepoint-microsoft-2026",
+    "veranstalter": "",
+    "kurz": "ESPC is Europa’s toonaangevende Microsoft 365- en AI-leer- en netwerkevenement. Kom langs om te luisteren naar 100 experts tijdens 120 sessies over Microsoft 365, AI, Power Platform, Agents, Copilot, Security en meer.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-30|rai.nl/agenda/european-sharepoint-microsoft-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
  }
 }
