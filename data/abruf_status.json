@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-05 04:37 UTC",
+ "abgerufen": "2026-11-05 10:59 UTC",
  "quellen_gesamt": 167,
- "quellen_ok": 163,
- "kandidaten": 891,
- "neu": 103,
+ "quellen_ok": 162,
+ "kandidaten": 952,
+ "neu": 142,
  "quellen": [
   {
    "id": "auma-bau",
@@ -149,9 +149,11 @@
   {
    "id": "bwp",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 16,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "json-ld"
+   ],
    "fehler": ""
   },
   {
@@ -169,7 +171,9 @@
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
@@ -270,11 +274,11 @@
   },
   {
    "id": "eu-startups-events",
-   "ok": true,
+   "ok": false,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-05",
    "methoden": [],
-   "fehler": ""
+   "fehler": "RuntimeError: Browser: HTTP 403"
   },
   {
    "id": "eventseye-adhesion-paints-coating-technologies",
@@ -557,9 +561,11 @@
   {
    "id": "gruenderland-bayern",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 9,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "detailseiten:10"
+   ],
    "fehler": ""
   },
   {
@@ -575,7 +581,10 @@
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "detailseiten:72",
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
@@ -631,7 +640,9 @@
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
@@ -867,7 +878,7 @@
   {
    "id": "liste-innoenergy-portfolio",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 9,
    "zuletzt_ok": "2026-11-05",
    "methoden": [
     "liste"
@@ -917,7 +928,7 @@
   {
    "id": "liste-zollhof",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 3,
    "zuletzt_ok": "2026-11-05",
    "methoden": [
     "liste"
@@ -1035,7 +1046,9 @@
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
@@ -1085,9 +1098,11 @@
   {
    "id": "messe-muenchen",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 9,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "detailseiten:10"
+   ],
    "fehler": ""
   },
   {
@@ -1123,9 +1138,11 @@
   {
    "id": "messe-rai",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 7,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "detailseiten:10"
+   ],
    "fehler": ""
   },
   {
@@ -1172,7 +1189,9 @@
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
@@ -1250,7 +1269,10 @@
    "ok": true,
    "anzahl": 0,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "detailseiten:1",
+    "datumszeilen"
+   ],
    "fehler": ""
   },
   {
@@ -1266,9 +1288,11 @@
   {
    "id": "oth-regensburg",
    "ok": true,
-   "anzahl": 0,
+   "anzahl": 20,
    "zuletzt_ok": "2026-11-05",
-   "methoden": [],
+   "methoden": [
+    "detailseiten:20"
+   ],
    "fehler": ""
   },
   {
