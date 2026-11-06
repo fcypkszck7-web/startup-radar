@@ -2,16 +2,13 @@
  "quelle": "liste-contech-report",
  "name": "starting-up.de – ConTech-Start-up-Report 2026",
  "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
- "abgerufen": "2026-11-05",
+ "abgerufen": "2026-11-06",
  "koepfe": [
   "Highlights des Jahres",
   "Zum Newsletter per QR-Code",
   "Frage des Monats",
   "22.06.2026",
-  "Geld ist nichts für die Bank",
-  "Drei klassische Fehler begünstigen den Wildwuchs",
-  "To-Dos für Gründer*innen: So gelingt der strukturierte Rollout",
-  "Fazit"
+  "Jack Ma: Der Mann hinter Alibaba"
  ],
  "links": [
   {
@@ -138,11 +135,6 @@
    "text": "SportTech-Start-up-Report 2026",
    "url": "https://www.starting-up.de/geschaeftsideen/trends/sporttech-start-up-report-2026.html",
    "extern": false
-  },
-  {
-   "text": "ISPO 2026, Amsterdam",
-   "url": "https://www.expostandservice.com/de/ispo-munich/",
-   "extern": true
   },
   {
    "text": "dena Energiewende-Kongress 2026, Berlin",
@@ -310,16 +302,6 @@
    "extern": false
   },
   {
-   "text": "Impacc",
-   "url": "https://impacc.org/de/",
-   "extern": true
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/interview-wenn-der-purpose-toxisch-wird.html",
-   "extern": false
-  },
-  {
    "text": "HARTLICH Steuerberatung",
    "url": "https://www.hartlich-steuerberatung.de/index.html",
    "extern": true
@@ -330,128 +312,168 @@
    "extern": false
   },
   {
-   "text": "Dies ist ein Auszug aus einem aktuellen Artikel unseres Print-Objekts StartingUp: Den vollständigen Artikel lesen Sie in der aktuellen StartingUp - Heft 02/16 -",
-   "url": "http://www.starting-up.de/abo-service/alle-ausgaben.html",
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/die-alibaba-story.html",
    "extern": false
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/drew-houston-und-die-dropbox-story.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/travis-kalanick-und-die-uber-story.html",
    "extern": false
   },
   {
-   "text": "BobDaHacker",
-   "url": "https://bobdahacker.com/blog/tldv-hack",
-   "extern": true
-  },
-  {
-   "text": "Neurawork",
-   "url": "https://www.google.com/search?q=https://neurawork.de/",
-   "extern": true
-  },
-  {
-   "text": "Gartner",
-   "url": "https://www.gartner.com/en/information-technology",
-   "extern": true
-  },
-  {
-   "text": "IBM Cost of a Data Breach Report",
-   "url": "https://www.ibm.com/reports/data-breach",
-   "extern": true
-  },
-  {
-   "text": "EU AI Act",
-   "url": "https://artificialintelligenceact.eu/de/das-gesetz/",
+   "text": "Spark e-Fuels",
+   "url": "https://www.sparkefuels.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/ki/shadow-ki-alarmstufe-rot-fuer-start-ups.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spark-e-fuels-vom-labor-pitch-zum-e-kerosin-hoffnungstraeger.html",
    "extern": false
   },
   {
-   "text": "spiceboys",
-   "url": "https://www.spiceboys.shop/",
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/in-orbit-economy-der-wahre-milliardenmarkt-im-all.html",
+   "extern": false
+  },
+  {
+   "text": "Karevo",
+   "url": "https://www.karevo.de/de",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiceboys-chai-latte-vibes-statt-kaesefuss.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/karevo-der-125000-euro-befreiungsschlag-von-der-knochenarbeit.html",
    "extern": false
   },
   {
-   "text": "Order Right",
-   "url": "https://orderright.de/",
+   "text": "Tanso",
+   "url": "https://www.tanso.de/",
+   "extern": true
+  },
+  {
+   "text": "Atlas Metrics",
+   "url": "https://www.atlasmetrics.io/",
+   "extern": true
+  },
+  {
+   "text": "Kertos",
+   "url": "https://kertos.io/",
+   "extern": true
+  },
+  {
+   "text": "Kodex AI",
+   "url": "https://www.kodex-ai.com/",
+   "extern": true
+  },
+  {
+   "text": "Sunhat",
+   "url": "https://www.getsunhat.com/de",
+   "extern": true
+  },
+  {
+   "text": "Fides-Technology",
+   "url": "https://fides.technology/de",
+   "extern": true
+  },
+  {
+   "text": "Briink",
+   "url": "https://www.briink.com/",
+   "extern": true
+  },
+  {
+   "text": "ContractHero",
+   "url": "https://www.contracthero.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-order-right-mit-ki-das-gastro-sterben-bekaempft.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/regtech-start-up-report-2026.html",
    "extern": false
   },
   {
-   "text": "Reflip",
-   "url": "https://www.reflip.net/",
+   "text": "LYBS",
+   "url": "https://lybs.eu/",
    "extern": true
   },
   {
-   "text": "TTI Technologie-Transfer-Initiative GmbH",
-   "url": "https://www.tti-stuttgart.de/",
+   "text": "Sonica",
+   "url": "https://www.sonica.studio/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/reflip-die-europaeische-social-media-hoffnung.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/sonica-ki-sound-ohne-abmahnrisiko.html",
    "extern": false
   },
   {
-   "text": "Helmit",
-   "url": "https://www.helmit.org/de",
+   "text": "1KOMMA5°",
+   "url": "https://1komma5.com/de/",
+   "extern": true
+  },
+  {
+   "text": "Voltfang",
+   "url": "https://voltfang.de/",
+   "extern": true
+  },
+  {
+   "text": "phelas",
+   "url": "https://www.phelas.com/de",
+   "extern": true
+  },
+  {
+   "text": "Entrix",
+   "url": "https://www.entrixenergy.com/de",
+   "extern": true
+  },
+  {
+   "text": "suena",
+   "url": "https://www.suena.energy/",
+   "extern": true
+  },
+  {
+   "text": "Ecoplanet",
+   "url": "https://www.ecoplanet.tech/",
+   "extern": true
+  },
+  {
+   "text": "Reverion",
+   "url": "https://reverion.com/",
+   "extern": true
+  },
+  {
+   "text": "Cylib",
+   "url": "https://www.cylib.de/de",
+   "extern": true
+  },
+  {
+   "text": "Greenlyte Carbon Technologies",
+   "url": "https://www.greenlyte.tech/",
+   "extern": true
+  },
+  {
+   "text": "Proxima Fusion",
+   "url": "https://www.proximafusion.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/helmit-der-digitale-schutzschild-gegen-cybermobbing.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/gridtech-start-up-report-2026.html",
    "extern": false
   },
   {
-   "text": "Nomado24",
-   "url": "https://www.nomado24.de/de",
+   "text": "exist women",
+   "url": "https://exist.de/programm/women/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/nomado24-ki-gegen-fake-remote.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/drik-17-smartes-gadget-skalierbares-business.html",
    "extern": false
   },
   {
-   "text": "QOODA",
-   "url": "https://www.qooda.io/",
-   "extern": true
-  },
-  {
-   "text": "BayStartUP-Wettbewerb",
-   "url": "https://www.baystartup.de/businessplan-wettbewerbe",
-   "extern": true
-  },
-  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/qooda-satelliten-blackout-als-geschaeftsmodell.html",
-   "extern": false
-  },
-  {
-   "text": "ScanlyAI",
-   "url": "https://www.scanlyai.de/login",
-   "extern": true
-  },
-  {
-   "text": "SFP-IT",
-   "url": "https://www.sfp-it.de/",
-   "extern": true
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/scanlyai-produkt-listings-neu-gedacht.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/b2b-edtech-start-up-report.html",
    "extern": false
   },
   {
@@ -460,13 +482,8 @@
    "extern": false
   },
   {
-   "text": "Neurawork",
-   "url": "https://neurawork.ai/",
-   "extern": true
-  },
-  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/ki/step-by-step-zum-profitablen-ki-einsatz-im-start-up.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiritory-vom-trading-floor-zum-flagship-store.html",
    "extern": false
   },
   {

@@ -1,102 +1,51 @@
 [
  {
-  "titel": "19. Gründerfrühstück Landkreis Cham",
-  "start": "2026-11-06",
-  "ende": "2026-11-06",
-  "ort": "IGZ Roding, Roding",
+  "titel": "Anima / Animal: Tiere in der zeitgenössischen Malerei",
+  "start": "2026-11-07",
+  "ende": "2026-11-07",
+  "ort": "Schaulager Erdel, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.gruenderland.bayern/veranstaltungen/event/19-gruenderfruehstueck-landkreis-cham/",
-  "veranstalter": "",
-  "kurz": "Einladung zum GRÜNDERFRÜHSTÜCK im IGZ Roding",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "gruenderland-bayern",
-  "quelle_name": "Gründerland Bayern – Veranstaltungen",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-06|gruenderland.bayern/veranstaltungen/event/19-gruenderfruehstueck-landkreis-cham",
-  "quellen": [
-   "gruenderland-bayern"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "International Business Mission Hannover, Germany, Logistics, Supply Chain & Industry 4.0",
-  "start": "2026-11-06",
-  "ende": "2026-11-06",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://een.ec.europa.eu/events/international-business-mission-hannover-germany-logistics-supply-chain-industry-40",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/618744",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "een-events",
-  "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
-  "region_hinweis": "Europa",
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-07|regensburg.de/veranstaltungen/detail/618744",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "159th SICTIC Investor Day online",
+  "start": "2026-11-09",
+  "ende": "2026-11-09",
+  "ort": "online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/159th-sictic-investor-day-online",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
   "branchen_vorschlag": [
-   "Logistik & Handel",
-   "Industrie & Fertigung"
+   "Gründung & Innovation"
   ],
-  "schluessel": "2026-11-06|een.ec.europa.eu/events/international-business-mission-hannover-germany-logistics-supply-chain-industry-40",
+  "schluessel": "2026-11-09|startupticker.ch/index.php/en/events/159th-sictic-investor-day-online",
   "quellen": [
-   "een-events"
+   "startupticker"
   ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "101 Dalmatiërs - de Musical",
-  "start": "2026-11-08",
-  "ende": "2026-11-08",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.rai.nl/agenda/dalmatiers-2026",
-  "veranstalter": "",
-  "kurz": "Een musical waarvan je gaat kwispelen!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-rai",
-  "quelle_name": "RAI Amsterdam – Agenda",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-08|rai.nl/agenda/dalmatiers-2026",
-  "quellen": [
-   "messe-rai"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "PAN Amsterdam",
-  "start": "2026-11-08",
-  "ende": "2026-11-08",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.rai.nl/agenda/pan-amsterdam-2026",
-  "veranstalter": "",
-  "kurz": "PAN Amsterdam, Kunst, Antiek, Design",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-rai",
-  "quelle_name": "RAI Amsterdam – Agenda",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-08|rai.nl/agenda/pan-amsterdam-2026",
-  "quellen": [
-   "messe-rai"
-  ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -146,6 +95,30 @@
    "geb-energieberater"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "IP-Workshop: Marken, Eintragungsverfahren",
+  "start": "2026-11-09",
+  "ende": "2026-11-09",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-marken-eintragungsverfahren-%2810%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-09|startupticker.ch/index.php/en/events/ip-workshop-marken-eintragungsverfahren-%2810%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -273,246 +246,151 @@
   "entscheidung": ""
  },
  {
-  "titel": "Infoabend für den Masterstudiengang Hebammenwissenschaft",
+  "titel": "AI Sovereignty: Charting Switzerland’s Path Amid US and Chinese AI Dominance",
   "start": "2026-11-10",
   "ende": "2026-11-10",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/infoabend-fuer-den-masterstudiengang-hebammenwissenschaft-4",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/infoabend-fuer-den-masterstudiengang-hebammenwissenschaft-4",
-  "quellen": [
-   "oth-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Online-Infoabend zum berufsbegleitenden Hochschulzertifikat Mediation",
-  "start": "2026-11-10",
-  "ende": "2026-11-10",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-mediation",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-mediation",
-  "quellen": [
-   "oth-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Online-Infoabend zum berufsbegleitenden Master Car IT und Elektronik (M.Eng.)",
-  "start": "2026-11-10",
-  "ende": "2026-11-10",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-car-it-und-elektronik-meng-2",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-car-it-und-elektronik-meng-2",
-  "quellen": [
-   "oth-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Online-Infoabend zum berufsbegleitenden Master Leitung und Kommunikationsmanagement (M.A.)",
-  "start": "2026-11-10",
-  "ende": "2026-11-10",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-leitung-und-kommunikationsmanagement-3",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-leitung-und-kommunikationsmanagement-3",
-  "quellen": [
-   "oth-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Online-Informationsveranstaltung: „Wie werde ich HAW-Prof? Mit Fokus auf Karrierewege in einer Professur.“",
-  "start": "2026-11-10",
-  "ende": "2026-11-10",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-informationsveranstaltung-wie-werde-ich-haw-prof-mit-fokus-auf-karrierewege-in-einer-professur-2",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-informationsveranstaltung-wie-werde-ich-haw-prof-mit-fokus-auf-karrierewege-in-einer-professur-2",
-  "quellen": [
-   "oth-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Online-Infoveranstaltung zum berufsbegleitenden Bachelor Evidence Based Practice Pflege (B.Sc.)",
-  "start": "2026-11-10",
-  "ende": "2026-11-10",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-evidence-based-practice-pflege-1",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-evidence-based-practice-pflege-1",
-  "quellen": [
-   "oth-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Online-Infoveranstaltung zum berufsbegleitenden Bachelor Pflegemanagement (B.A.)",
-  "start": "2026-11-10",
-  "ende": "2026-11-10",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-pflegemanagement-1",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/online-infoveranstaltung-zum-berufsbegleitenden-bachelor-pflegemanagement-1",
-  "quellen": [
-   "oth-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Power Packaging for AI Data Centers from Grid to Core",
-  "start": "2026-11-10",
-  "ende": "2026-11-10",
-  "ort": "Regensburg",
+  "ort": "Starling Hotel, 1025 Saint-Sulpice",
   "land": "",
   "online": false,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/power-packaging-for-ai-data-centers-from-grid-to-core",
+  "url": "https://www.startupticker.ch/en/events/ai-sovereignty-charting-switzerland-s-path-amid-us-and-chinese-ai-dominance",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
   "branchen_vorschlag": [
    "Software, KI & Daten"
   ],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/power-packaging-for-ai-data-centers-from-grid-to-core",
+  "schluessel": "2026-11-10|startupticker.ch/en/events/ai-sovereignty-charting-switzerland-s-path-amid-us-and-chinese-ai-dominance",
   "quellen": [
-   "oth-regensburg"
+   "startupticker"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Virtueller Infoabend zum Bachelorstudiengang Logopädie",
+  "titel": "Die Grundlagen des Marketings",
   "start": "2026-11-10",
   "ende": "2026-11-10",
-  "ort": "",
+  "ort": "Online",
   "land": "",
   "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-bachelorstudiengang-logopaedie",
+  "url": "https://www.startupticker.ch/index.php/en/events/die-grundlagen-des-marketings-%2839%29",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-bachelorstudiengang-logopaedie",
+  "schluessel": "2026-11-10|startupticker.ch/index.php/en/events/die-grundlagen-des-marketings-%2839%29",
   "quellen": [
-   "oth-regensburg"
+   "startupticker"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Virtueller Infoabend zum Masterstudiengang Logopädie",
+  "titel": "HR-Business-Frühstück: Fair gefiltert? KI im Recruiting zwischen Effizienz, Recht und Verantwortung",
   "start": "2026-11-10",
   "ende": "2026-11-10",
-  "ort": "",
+  "ort": "Online",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/hr-business-fruehstueck-quo-vadis-hybrides-arbeiten-2/",
+  "veranstalter": "",
+  "kurz": "KI sortiert Lebensläufe, bewertet Profile und beantwortet Bewerbungen. Doch wer trägt die Verantwortung, wenn der Algorithmus mitentscheidet, und was verlangt der EU-AI-Act von Ihnen als Arbeitgeber?",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-10|wrs.region-stuttgart.de/termine/hr-business-fruehstueck-quo-vadis-hybrides-arbeiten-2",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Stammtisch Karlsruhe",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "Restaurant Obermühle Durlach, Naturfreunde Durlach, Alte Weingartener Str. 37, 76227 Karlsruhe",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/stammtisch-karlsruhe-11/",
+  "veranstalter": "",
+  "kurz": "Das Stammtisch-Treffen bietet Gelegenheit zum gegenseitigen Kennenlernen, für Diskussionen und zum Erfahrungsaustausch. Diese Runde ist für alle Fragen und Anliegen […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|gih.de/veranstaltung/stammtisch-karlsruhe-11",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: School Systems Worldwide",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "online via Zoom",
   "land": "",
   "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-logopaedie-4",
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/10-11-2026_school-systems-worldwide-2",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
   "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-10|oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-logopaedie-4",
+  "schluessel": "2026-11-10|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/10-11-2026_school-systems-worldwide-2",
   "quellen": [
-   "oth-regensburg"
+   "uni-regensburg"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Aufzeichnung: SHK+E Essen Strom in der Gebäudetechnik",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://events.gentner.de/de/aufzeichnung-shke-essen-strom-der-gebaeudetechnik",
+  "veranstalter": "Gentner Events",
+  "kurz": "PVT-Kollektoren im Check; Praxis: §14a EnWG – Vorgaben, Umsetzung & Chancen für Heizungsbauer.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gentner-events",
+  "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gebäudetechnik",
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-11|events.gentner.de/de/aufzeichnung-shke-essen-strom-der-gebaeudetechnik",
+  "quellen": [
+   "gentner-events"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -543,28 +421,52 @@
   "entscheidung": ""
  },
  {
-  "titel": "Gründerseminar im Landkreis Cham Teil I/II",
+  "titel": "Deadline Vanguard Accelerator @Biopole",
   "start": "2026-11-11",
   "ende": "2026-11-11",
-  "ort": "IGZ Roding, Roding",
+  "ort": "Startup Camp India",
   "land": "",
   "online": false,
-  "url": "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-i-ii/",
+  "url": "https://www.startupticker.ch/en/events/deadline-vanguard-accelerator-atbiopole",
   "veranstalter": "",
-  "kurz": "Basisseminar für Existenzgründer im Landkreis Cham (Teil I/II)",
+  "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "gruenderland-bayern",
-  "quelle_name": "Gründerland Bayern – Veranstaltungen",
-  "region_hinweis": "Bayern",
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
   "branchen_vorschlag": [
    "Gründung & Innovation"
   ],
-  "schluessel": "2026-11-11|gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-i-ii",
+  "schluessel": "2026-11-11|startupticker.ch/en/events/deadline-vanguard-accelerator-atbiopole",
   "quellen": [
-   "gruenderland-bayern"
+   "startupticker"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Einführung Buchhaltung",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/einfuehrung-buchhaltung-%2852%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|startupticker.ch/index.php/en/events/einfuehrung-buchhaltung-%2852%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -594,100 +496,125 @@
   "entscheidung": ""
  },
  {
-  "titel": "Online-Infoabend im BA Musik- und bewegungsorientierte Soziale Arbeit",
+  "titel": "Sprechstunde des Welcome Service Region Stuttgart in Ludwigsburg",
   "start": "2026-11-11",
   "ende": "2026-11-11",
-  "ort": "",
+  "ort": "Landratsamt Ludwigsburg, Ludwigsburg",
   "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-im-ba-musik-und-beweungsorientierte-soziale-arbeit",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/sprechstunde-des-welcome-service-region-stuttgart-in-ludwigsburg-11-11/",
   "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
+  "kurz": "Beratung für internationale Fachkräfte, Studierende und Unternehmen der Region Stuttgart",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-im-ba-musik-und-beweungsorientierte-soziale-arbeit",
+  "schluessel": "2026-11-11|wrs.region-stuttgart.de/termine/sprechstunde-des-welcome-service-region-stuttgart-in-ludwigsburg-11-11",
   "quellen": [
-   "oth-regensburg"
+   "wrs-termine"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Online-Infoabend zum berufsbegleitenden Hochschulzertifikat KI-tech",
+  "titel": "Veranstaltung: Das PUR stellt sich vor",
   "start": "2026-11-11",
   "ende": "2026-11-11",
-  "ort": "",
+  "ort": "PT 2.0.25/26",
   "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-ki-tech",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_das-pur-stellt-sich-vor",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
   "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_das-pur-stellt-sich-vor",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Versicherung und Vorsorge für deine Firma und für dich",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/versicherung-und-vorsorge-fuer-deine-firma-und-fuer-dich-%281%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|startupticker.ch/index.php/en/events/versicherung-und-vorsorge-fuer-deine-firma-und-fuer-dich-%281%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Von der Schweizer Marke zur Erfolgsgeschichte: So wächst dein Unternehmen nachhaltig",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/von-der-schweizer-marke-zur-erfolgsgeschichte-so-waechst-dein-unternehmen-nachhaltig",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
   "branchen_vorschlag": [
-   "Software, KI & Daten"
+   "Material & Kreislauf"
   ],
-  "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-ki-tech",
+  "schluessel": "2026-11-11|startupticker.ch/index.php/en/events/von-der-schweizer-marke-zur-erfolgsgeschichte-so-waechst-dein-unternehmen-nachhaltig",
   "quellen": [
-   "oth-regensburg"
+   "startupticker"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Online-Infoabend zum berufsbegleitenden MBA – General Management",
-  "start": "2026-11-11",
-  "ende": "2026-11-11",
+  "titel": "Aufzeichnungen: Gebäudedämmung - Wann ist sie notwendig und welche Vorteile bringt sie?",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
   "ort": "",
   "land": "",
   "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-general-management",
-  "veranstalter": "",
-  "kurz": "",
+  "url": "https://events.gentner.de/de/aufzeichnungen-gebaeudedaemmung-wann-ist-sie-notwendig-und-welche-vorteile-bringt-sie",
+  "veranstalter": "Gentner Events",
+  "kurz": "Sie erfahren, welche Dämmmaßnahmen besonders wirksam für Ihr Gebäude sein können und welche Förderung möglich ist. Zusätzlich werden Motivation und Hemmnisse unterschiedlicher Akteure miteinander verglichen. Dies beinhal",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-general-management",
-  "quellen": [
-   "oth-regensburg"
+  "quelle_id": "gentner-events",
+  "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Dach & Gebäudehülle"
   ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Online-Infoabend zum berufsbegleitenden MBA – Leadership, Management und Transformation",
-  "start": "2026-11-11",
-  "ende": "2026-11-11",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-leadership-management-und-transformation",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-11|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-mba-leadership-management-und-transformation",
+  "schluessel": "2026-11-12|events.gentner.de/de/aufzeichnungen-gebaeudedaemmung-wann-ist-sie-notwendig-und-welche-vorteile-bringt-sie",
   "quellen": [
-   "oth-regensburg"
+   "gentner-events"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -715,6 +642,30 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Business Ideas",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "Geneva",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/business-ideas-%2811%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-12|startupticker.ch/en/events/business-ideas-%2811%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -769,76 +720,52 @@
   "entscheidung": ""
  },
  {
-  "titel": "Gründerseminar im Landkreis Cham Teil II/II",
+  "titel": "IP-Workshop: Patente lesen, leicht gemacht",
   "start": "2026-11-12",
   "ende": "2026-11-12",
-  "ort": "IGZ Roding, Roding",
+  "ort": "Online",
   "land": "",
-  "online": false,
-  "url": "https://www.gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-ii-ii/",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-patente-lesen-leicht-gemacht-%284%29",
   "veranstalter": "",
-  "kurz": "Erfahre in spannenden Vorträgen alles rund ums Thema Gründen!",
+  "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "gruenderland-bayern",
-  "quelle_name": "Gründerland Bayern – Veranstaltungen",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-12|gruenderland.bayern/veranstaltungen/event/gruenderseminar-teil-ii-ii",
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-12|startupticker.ch/index.php/en/events/ip-workshop-patente-lesen-leicht-gemacht-%284%29",
   "quellen": [
-   "gruenderland-bayern"
+   "startupticker"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Online-Infoabend zum berufsbegleitenden Master Informationstechnologie (M.Eng.)",
+  "titel": "KI-Praxiswerkstatt #1: Mit KI Wissen sichern – Know-how erhalten",
   "start": "2026-11-12",
   "ende": "2026-11-12",
   "ort": "",
   "land": "",
   "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-informationstechnologie-2",
+  "url": "https://www.bayern-innovativ.de/events-termine/transformation/detail/ki-praxiswerkstatt-1-mit-ki-wissen-sichern-know-how-erhalten/",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-12|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-master-informationstechnologie-2",
-  "quellen": [
-   "oth-regensburg"
+  "quelle_id": "bayern-innovativ",
+  "quelle_name": "Bayern Innovativ – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
   ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Praxisanleitertag Hebammenkunde",
-  "start": "2026-11-12",
-  "ende": "2026-11-12",
-  "ort": "Regensburg",
-  "land": "",
-  "online": false,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/praxisanleitertag-hebammenkunde",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-12|oth-regensburg.de/termine/detailansicht/praxisanleitertag-hebammenkunde",
+  "schluessel": "2026-11-12|bayern-innovativ.de/events-termine/transformation/detail/ki-praxiswerkstatt-1-mit-ki-wissen-sichern-know-how-erhalten",
   "quellen": [
-   "oth-regensburg"
+   "bayern-innovativ"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -869,13 +796,38 @@
   "entscheidung": ""
  },
  {
+  "titel": "RKW-Sprechtage Gründung und Nachfolge",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "Bezirkskammer Böblingen, Böblingen",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/rkw-sprechtage-gruendung-und-nachfolge-2/",
+  "veranstalter": "",
+  "kurz": "Wer den Schritt in die Selbstständigkeit plant und konkrete Fragen zur eigenen Geschäftsidee hat, kann sich beim Beratungsvormittag der IHK Bezirkskammer Böblingen individuell unterstützen lassen.",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-12|startup-region-stuttgart.de/termine/rkw-sprechtage-gruendung-und-nachfolge-2",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Sustainability Safari mit Novaziun",
   "start": "2026-11-12",
   "ende": "2026-11-12",
   "ort": "Technopark Graubünden Bahnhofstrasse 11 7302, Landquart",
   "land": "",
   "online": false,
-  "url": "https://www.startupticker.ch/index.php/en/events/sustainability-safari-mit-novaziun",
+  "url": "https://www.startupticker.ch/en/events/sustainability-safari-mit-novaziun",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
@@ -886,35 +838,37 @@
   "branchen_vorschlag": [
    "Material & Kreislauf"
   ],
-  "schluessel": "2026-11-12|startupticker.ch/index.php/en/events/sustainability-safari-mit-novaziun",
+  "schluessel": "2026-11-12|startupticker.ch/en/events/sustainability-safari-mit-novaziun",
   "quellen": [
    "startupticker"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Virtueller Infoabend zum Masterstudiengang Physiotherapie",
-  "start": "2026-11-12",
-  "ende": "2026-11-12",
-  "ort": "",
+  "titel": "IP Workshop: Searching Patents in public databases",
+  "start": "2026-11-13",
+  "ende": "2026-11-13",
+  "ort": "Remote",
   "land": "",
   "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-physiotherapie-4",
+  "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-searching-patents-in-public-databases-%2816%29",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-12|oth-regensburg.de/termine/detailansicht/virtueller-infoabend-zum-masterstudiengang-physiotherapie-4",
-  "quellen": [
-   "oth-regensburg"
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "schluessel": "2026-11-13|startupticker.ch/index.php/en/events/ip-workshop-searching-patents-in-public-databases-%2816%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -943,79 +897,107 @@
   "entscheidung": ""
  },
  {
-  "titel": "SheStartup - Frauen gründen",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "IHK für München und Oberbayern, München",
+  "titel": "Deadline Basel Goes Circular!",
+  "start": "2026-11-15",
+  "ende": "2026-11-15",
+  "ort": "Startup Camp India",
   "land": "",
   "online": false,
-  "url": "https://www.gruenderland.bayern/veranstaltungen/event/shestartup-frauen-gruenden/",
-  "veranstalter": "",
-  "kurz": "Du möchtest gründen, bist in den ersten Jahren deiner Selbstständigkeit oder spielst mit dem Gedanken, dein eigenes Business aufzubauen?",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "gruenderland-bayern",
-  "quelle_name": "Gründerland Bayern – Veranstaltungen",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-13|gruenderland.bayern/veranstaltungen/event/shestartup-frauen-gruenden",
-  "quellen": [
-   "gruenderland-bayern"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Starting with a brigk",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "brigk - Digitales Gründerzentrum der Region Ingolstadt, Ingolstadt",
-  "land": "",
-  "online": false,
-  "url": "https://www.gruenderland.bayern/veranstaltungen/event/starting-with-a-brigk/",
-  "veranstalter": "",
-  "kurz": "Rund 20 Start-ups präsentieren am 13. November Lösungen zu Themen wie Künstlicher Intelligenz, Automatisierung und Recruiting.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "gruenderland-bayern",
-  "quelle_name": "Gründerland Bayern – Veranstaltungen",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Industrie & Fertigung",
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-13|gruenderland.bayern/veranstaltungen/event/starting-with-a-brigk",
-  "quellen": [
-   "gruenderland-bayern"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Weiterbildungswoche: Große Info-Woche rund um die berufsbegleitende Weiterbildung an der OTH Regensburg",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/weiterbildungswoche-grosse-info-woche-rund-um-die-berufsbegleitende-weiterbildung-an-der-oth-regensburg",
+  "url": "https://www.startupticker.ch/en/events/deadline-basel-goes-circular",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-14|oth-regensburg.de/termine/detailansicht/weiterbildungswoche-grosse-info-woche-rund-um-die-berufsbegleitende-weiterbildung-an-der-oth-regensburg",
-  "quellen": [
-   "oth-regensburg"
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Material & Kreislauf"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "schluessel": "2026-11-15|startupticker.ch/en/events/deadline-basel-goes-circular",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Deadline RUNWAY Incubator",
+  "start": "2026-11-15",
+  "ende": "2026-11-15",
+  "ort": "Startup Camp India",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/deadline-runway-incubator",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-15|startupticker.ch/en/events/deadline-runway-incubator",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Deadline Swissnex Startup Camp Brazil",
+  "start": "2026-11-15",
+  "ende": "2026-11-15",
+  "ort": "Startup Camp India",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/deadline-swissnex-startup-camp-brazil",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-15|startupticker.ch/en/events/deadline-swissnex-startup-camp-brazil",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Webinar: Investing in Global Startups Built from Unlikely Ecosystems",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "Online webinar",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/webinar-investing-in-global-startups-built-from-unlikely-ecosystems",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Bau & Immobilien",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-16|startupticker.ch/index.php/en/events/webinar-investing-in-global-startups-built-from-unlikely-ecosystems",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1038,30 +1020,6 @@
   "schluessel": "2026-11-17|biz-up.at/veranstaltung/bgm-toolbox-teil-2-vereinbarkeit-pflege-und-beruf-17-11-2026",
   "quellen": [
    "business-upper-austria"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Blended-Learning-Veranstaltung: \"Studieren und Sucht: Umgang mit Betroffenen und Rolle der Lehrenden\"",
-  "start": "2026-11-17",
-  "ende": "2026-11-17",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/blended-learning-veranstaltung-studieren-und-sucht-umgang-mit-betroffenen-und-rolle-der-lehrenden",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-17|oth-regensburg.de/termine/detailansicht/blended-learning-veranstaltung-studieren-und-sucht-umgang-mit-betroffenen-und-rolle-der-lehrenden",
-  "quellen": [
-   "oth-regensburg"
   ],
   "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
@@ -1120,6 +1078,55 @@
   "entscheidung": ""
  },
  {
+  "titel": "Webinarreihe #Fördermittel: Startup und Gründung",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Online",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/webinarreihe-foerdermittel-startup-und-gruendung/",
+  "veranstalter": "",
+  "kurz": "Erfahren Sie mehr zu Fördervoraussetzungen, Förderhöhen und erhalten Sie praxisnahe Tipps für eine erfolgreiche Antragstellung.",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-17|startup-region-stuttgart.de/termine/webinarreihe-foerdermittel-startup-und-gruendung",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Zero Project Unternehmensdialog - Erfolgsmodell Teil-Qualifizierung",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Pasching",
+  "land": "",
+  "online": false,
+  "url": "https://www.biz-up.at/veranstaltung/zero-project-unternehmensdialog-erfolgsmodell-teil-qualifizierung-17-11-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "business-upper-austria",
+  "quelle_name": "Business Upper Austria – Veranstaltungen",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|biz-up.at/veranstaltung/zero-project-unternehmensdialog-erfolgsmodell-teil-qualifizierung-17-11-2026",
+  "quellen": [
+   "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "HR & AI Day: Wie Künstliche Intelligenz Personalarbeit, Führung und Recruiting neu definiert",
   "start": "2026-11-18",
   "ende": "2026-11-18",
@@ -1173,53 +1180,28 @@
   "entscheidung": ""
  },
  {
-  "titel": "BWP-Schulung: Einführung zur Nutzung von Wärmepumpen in Liegenschaften",
-  "start": "2026-11-19",
-  "ende": "2026-11-26",
-  "ort": "ZOOM",
-  "land": "",
-  "online": false,
-  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
-  "veranstalter": "BWP Marketing &amp; Service GmbH",
-  "kurz": "Aufgrund einer großen Nachfrage von Energieagenturen, Bau-/ Umweltbehörden, Kommunen, Stadtwerken und der Wohnungswirtschaft, haben wir als Bundesverband Wärmepumpe (BWP) e.V. ein Schulungskonzept zu Einsatzmöglichkeiten",
-  "methode": "json-ld",
-  "quelle_id": "bwp",
-  "quelle_name": "Bundesverband Wärmepumpe – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Bau & Immobilien",
-   "Gebäudetechnik",
-   "Energie & Solar"
-  ],
-  "schluessel": "2026-11-19|waermepumpe.de/verband/veranstaltungen",
-  "quellen": [
-   "bwp"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Metstrade",
+  "titel": "KI-Praxiswerkstatt #2: Mit KI Arbeit neu gestalten – Aufgaben auf den Prüfstand stellen",
   "start": "2026-11-19",
   "ende": "2026-11-19",
   "ort": "",
   "land": "",
-  "online": false,
-  "url": "https://www.rai.nl/agenda/metstrade-2026",
+  "online": true,
+  "url": "https://www.bayern-innovativ.de/events-termine/transformation/detail/ki-praxiswerkstatt-2-mit-ki-arbeit-neu-gestalten-aufgaben-auf-den-pruefstand-stellen/",
   "veranstalter": "",
-  "kurz": "Metstrade brengt internationale leisure marine professionals samen om te netwerken en innovatie te ontdekken. Hét event om businesskansen te benutten in een snel veranderende sector.",
+  "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "messe-rai",
-  "quelle_name": "RAI Amsterdam – Agenda",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|rai.nl/agenda/metstrade-2026",
-  "quellen": [
-   "messe-rai"
+  "quelle_id": "bayern-innovativ",
+  "quelle_name": "Bayern Innovativ – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "schluessel": "2026-11-19|bayern-innovativ.de/events-termine/transformation/detail/ki-praxiswerkstatt-2-mit-ki-arbeit-neu-gestalten-aufgaben-auf-den-pruefstand-stellen",
+  "quellen": [
+   "bayern-innovativ"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1349,54 +1331,29 @@
   "entscheidung": ""
  },
  {
-  "titel": "Digital Marketing World Forum (DMWF) Europe",
+  "titel": "LfA-Finanzierungssprechtag in Landshut",
   "start": "2026-11-25",
   "ende": "2026-11-25",
-  "ort": "",
+  "ort": "Handwerkskammer in Landshut, Landshut",
   "land": "",
   "online": false,
-  "url": "https://www.rai.nl/agenda/digital-marketing-world-forum-2026",
-  "veranstalter": "",
-  "kurz": "Digital Marketing World Forum 2026",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-rai",
-  "quelle_name": "RAI Amsterdam – Agenda",
-  "region_hinweis": "Europa",
+  "url": "https://www.hwkno.de/termine/lfa-finanzierungssprechtag-in-landshut-76,0,evedetail.html?eve=1733",
+  "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz und Industrie- und Handelskammer für Niederbayern",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwkno",
+  "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [
-   "Software, KI & Daten"
+   "Industrie & Fertigung",
+   "Handwerk",
+   "Logistik & Handel"
   ],
-  "schluessel": "2026-11-25|rai.nl/agenda/digital-marketing-world-forum-2026",
+  "schluessel": "2026-11-25|hwkno.de/termine/lfa-finanzierungssprechtag-in-landshut-76,0,evedetail.html",
   "quellen": [
-   "messe-rai"
+   "hwkno"
   ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Offshore Energy Exhibition & Conference",
-  "start": "2026-11-25",
-  "ende": "2026-11-25",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.rai.nl/agenda/offshore-energy-conference-&-exhibition-2026",
-  "veranstalter": "",
-  "kurz": "OEEC is een toonaangevend internationaal offshore-energie-evenement in Amsterdam waar experts en bedrijven samenkomen rond offshore wind, waterstof, olie & gas en mariene energie om innovatie en de energietransitie te st",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-rai",
-  "quelle_name": "RAI Amsterdam – Agenda",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Energie & Solar"
-  ],
-  "schluessel": "2026-11-25|rai.nl/agenda/offshore-energy-conference-&-exhibition-2026",
-  "quellen": [
-   "messe-rai"
-  ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1501,104 +1458,151 @@
   "entscheidung": ""
  },
  {
-  "titel": "Michelle Buteau: The Surviving and Thriving Tour",
-  "start": "2026-11-28",
-  "ende": "2026-11-28",
+  "titel": "KI-Praxiswerkstatt #3: Mit KI erfolgreich arbeiten – Mitarbeitende befähigen und Akzeptanz schaffen",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.bayern-innovativ.de/events-termine/transformation/detail/ki-praxiswerkstatt-3-mit-ki-erfolgreich-arbeiten-mitarbeitende-befaehigen-und-akzeptanz-schaffen/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "bayern-innovativ",
+  "quelle_name": "Bayern Innovativ – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-26|bayern-innovativ.de/events-termine/transformation/detail/ki-praxiswerkstatt-3-mit-ki-erfolgreich-arbeiten-mitarbeitende-befaehigen-und-akzeptanz-schaffen",
+  "quellen": [
+   "bayern-innovativ"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "„Bedingt abwehrbereit?“ – Militärökonomie und Sicherheitskommunikation in der Zeitenwende",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
   "ort": "",
   "land": "",
   "online": false,
-  "url": "https://www.rai.nl/agenda/michelle-buteau-2026",
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/militaeroekonomie-und-sicherheitskommunikation-in-der-zeitenwende",
   "veranstalter": "",
-  "kurz": "Michelle Buteau brengt The Surviving and Thriving Tour op 28 november naar RAI Theater in Amsterdam voor twee exclusieve shows die worden opgenomen voor haar nieuwe Netflix special.",
+  "kurz": "Einladung zum Landshuter Business Management Forum: „Bedingt abwehrbereit?“ – Militärökonomie und Sicherheitskommunikation in der Zeitenwende",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|haw-landshut.de/veranstaltungen/termin/militaeroekonomie-und-sicherheitskommunikation-in-der-zeitenwende",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Webinar: VDI 4646 - Großwärmepumpen sicher planen und bewerten",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://events.gentner.de/de/webinar-vdi-4646-grosswaermepumpen-sicher-planen-und-bewerten",
+  "veranstalter": "Gentner Events",
+  "kurz": "Die neue VDI 4646 „Planung und Dimensionierung von Großwärmepumpenanlagen“ ist seit dem 1. Mai 2026 als Weißdruck verfügbar. Sie schafft erstmals eine umfassende methodische Grundlage für die Planung, technische Bewertun",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gentner-events",
+  "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gebäudetechnik"
+  ],
+  "schluessel": "2026-12-03|events.gentner.de/de/webinar-vdi-4646-grosswaermepumpen-sicher-planen-und-bewerten",
+  "quellen": [
+   "gentner-events"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Schlussfeier Deutsche Meisterschaft im Handwerk",
+  "start": "2026-12-05",
+  "ende": "2026-12-05",
+  "ort": "Berlin",
+  "land": "",
+  "online": false,
+  "url": "https://www.zdh.de/presse/veranstaltungen/zdh-termine/schlussfeier-deutsche-meisterschaft-im-handwerk-1/",
+  "veranstalter": "ZDH, Berlin",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "zdh",
+  "quelle_name": "Zentralverband des Deutschen Handwerks – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Handwerk"
+  ],
+  "schluessel": "2026-12-05|zdh.de/presse/veranstaltungen/zdh-termine/schlussfeier-deutsche-meisterschaft-im-handwerk-1",
+  "quellen": [
+   "zdh"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "De Vier Jaargetijden",
+  "start": "2026-12-06",
+  "ende": "2026-12-06",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/de-vier-jaargetijden-2026",
+  "veranstalter": "",
+  "kurz": "Ga mee op een choreografische reis op de muziek van Antonio Vivaldi's Vier Jaargetijden. Een geweldige voorstelling voor het hele gezin, die u niet mag missen!",
   "methode": "detailseite-text",
   "datum_aus_text": true,
   "quelle_id": "messe-rai",
   "quelle_name": "RAI Amsterdam – Agenda",
   "region_hinweis": "Europa",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-28|rai.nl/agenda/michelle-buteau-2026",
+  "schluessel": "2026-12-06|rai.nl/agenda/de-vier-jaargetijden-2026",
   "quellen": [
    "messe-rai"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "European SharePoint - Microsoft 2026",
-  "start": "2026-11-30",
-  "ende": "2026-11-30",
-  "ort": "ensdag: Aanmelden vanaf 07:30 Sessies 08:45-17:45",
+  "titel": "Theatershow Harry Mens",
+  "start": "2026-12-07",
+  "ende": "2026-12-07",
+  "ort": "",
   "land": "",
   "online": false,
-  "url": "https://www.rai.nl/agenda/european-sharepoint-microsoft-2026",
+  "url": "https://www.rai.nl/agenda/Harrymens2026",
   "veranstalter": "",
-  "kurz": "ESPC is Europa’s toonaangevende Microsoft 365- en AI-leer- en netwerkevenement. Kom langs om te luisteren naar 100 experts tijdens 120 sessies over Microsoft 365, AI, Power Platform, Agents, Copilot, Security en meer.",
+  "kurz": "Harry geeft u een kijkje in zijn ruim 50-jarige carrière als makelaar, projectontwikkelaar, tv-presentator en levensgenieter. Een inspirerend verhaal voor jong, oud én ondernemend Nederland.",
   "methode": "detailseite-text",
   "datum_aus_text": true,
   "quelle_id": "messe-rai",
   "quelle_name": "RAI Amsterdam – Agenda",
   "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-30|rai.nl/agenda/european-sharepoint-microsoft-2026",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-07|rai.nl/agenda/harrymens2026",
   "quellen": [
    "messe-rai"
   ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "BWP-Schulung: Beratung zum Einsatz von Wärmepumpen im Bestand",
-  "start": "2026-12-01",
-  "ende": "2026-12-11",
-  "ort": "ZOOM",
-  "land": "",
-  "online": false,
-  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
-  "veranstalter": "BWP Marketing &amp; Service GmbH",
-  "kurz": "Die Schulung richtet sich speziell an Energieberater und bietet Ihnen das notwendige Wissen und die Fähigkeiten, um kompetent rund um die Wärmepumpe beraten zu können. Die \"alte\" BAW-Förderung (Modul 5) kann, sofern ihne",
-  "methode": "json-ld",
-  "quelle_id": "bwp",
-  "quelle_name": "Bundesverband Wärmepumpe – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Gebäudetechnik",
-   "Energie & Solar"
-  ],
-  "schluessel": "2026-12-01|waermepumpe.de/verband/veranstaltungen",
-  "quellen": [
-   "bwp"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "BWP-Schulung: Oberflächengewässer als Wärmequelle",
-  "start": "2026-12-04",
-  "ende": "2026-12-04",
-  "ort": "ONLINE",
-  "land": "",
-  "online": false,
-  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
-  "veranstalter": "BWP Marketing &amp; Service GmbH",
-  "kurz": "Oberflächengewässer wie Flüsse, Seen oder Kanäle können eine wichtige Wärmequelle für Gebäude, Quartiere und Wärmenetze sein. Die Schulung vermittelt einen kompakten Überblick über technische Grundlagen, Anwendungsfelder",
-  "methode": "json-ld",
-  "quelle_id": "bwp",
-  "quelle_name": "Bundesverband Wärmepumpe – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Metall & Oberflächen",
-   "Bau & Immobilien"
-  ],
-  "schluessel": "2026-12-04|waermepumpe.de/verband/veranstaltungen",
-  "quellen": [
-   "bwp"
-  ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1654,27 +1658,28 @@
   "entscheidung": ""
  },
  {
-  "titel": "Expertenrunde: Einrohr-Heizung und Wärmepumpe – so geht’s",
-  "start": "2026-12-10",
-  "ende": "2026-12-10",
-  "ort": "ZOOM",
+  "titel": "MASTERS EXPO",
+  "start": "2026-12-14",
+  "ende": "2026-12-14",
+  "ort": "",
   "land": "",
-  "online": false,
-  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
-  "veranstalter": "Bundesverband Wärmepumpe (BWP) e.V.",
-  "kurz": "Einrohrheizungen gelten häufig als besondere Herausforderung bei der Modernisierung mit Wärmepumpen. Entscheidend ist jedoch die fachliche Bewertung des bestehenden Systems: Wie lässt sich eine Einrohrheizung sicher erke",
-  "methode": "json-ld",
-  "quelle_id": "bwp",
-  "quelle_name": "Bundesverband Wärmepumpe – Termine",
-  "region_hinweis": "Deutschland",
+  "online": true,
+  "url": "https://www.rai.nl/agenda/masters-expo-2026",
+  "veranstalter": "",
+  "kurz": "MASTERS EXPO is Europe’s premium business fair, unique in its concept. Each year, around 350 national and international parties come together here amidst an atmosphere of vibrant entrepreneurship.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
   "branchen_vorschlag": [
-   "Gebäudetechnik"
+   "Gründung & Innovation"
   ],
-  "schluessel": "2026-12-10|waermepumpe.de/verband/veranstaltungen",
+  "schluessel": "2026-12-14|rai.nl/agenda/masters-expo-2026",
   "quellen": [
-   "bwp"
+   "messe-rai"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1777,6 +1782,52 @@
   "entscheidung": ""
  },
  {
+  "titel": "Collected Card Show NEC Edition - Day 1",
+  "start": "2027-01-30",
+  "ende": "2027-01-30",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/collected-card-show-nec-edition/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-01-30|thenec.co.uk/events/collected-card-show-nec-edition",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Collected Card Show NEC Edition - Day 2",
+  "start": "2027-01-31",
+  "ende": "2027-01-31",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/collected-card-show-nec-edition/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-01-31|thenec.co.uk/events/collected-card-show-nec-edition",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Denis Burdet : entreprendre avec l’humain au centre",
   "start": "2027-02-13",
   "ende": "2027-02-13",
@@ -1797,6 +1848,30 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Pioneers & Pancakes 2026",
+  "start": "2027-02-13",
+  "ende": "2027-02-13",
+  "ort": "8400 Winterthur, Eulachhallen, Leisure Area Wartstrasse 73,",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/pioneers-pancakes-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-02-13|startupticker.ch/en/events/pioneers-pancakes-2026",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -2008,6 +2083,33 @@
    "messe-nec"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Recap 2026: Das hat die FusionX:Global bereits bewegt",
+  "start": "2027-02-26",
+  "ende": "2027-02-26",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.bayern-innovativ.de/events-termine/energie-bau/detail/fusionx-global-2027/",
+  "veranstalter": "",
+  "kurz": "Bis zu 700 internationale Akteure aus Fusion, Mittelstand, Forschung, Kapital und Politik kommen nach München, um die industrielle Umsetzung der Kernfusions-Energie zu starten. Für bayerische Unternehmen ist das die Gele",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "bayern-innovativ",
+  "quelle_name": "Bayern Innovativ – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "schluessel": "2027-02-26|bayern-innovativ.de/events-termine/energie-bau/detail/fusionx-global-2027",
+  "quellen": [
+   "bayern-innovativ"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -2393,6 +2495,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Fit für den EU-Markt: Produktsicherheit und CE-Kennzeichnung",
+  "start": "2027-03-18",
+  "ende": "2027-03-18",
+  "ort": "rkshop",
+  "land": "",
+  "online": false,
+  "url": "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/fit-fuer-den-eu-markt-produktsicherheit-und-ce-kennzeichnung-maerz-2027/",
+  "veranstalter": "",
+  "kurz": "Produktsicherheit verstehen, gesetzliche Anforderungen erfüllen und Produkte rechtskonform auf den EU-Markt bringen.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "bayern-innovativ",
+  "quelle_name": "Bayern Innovativ – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-03-18|bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/fit-fuer-den-eu-markt-produktsicherheit-und-ce-kennzeichnung-maerz-2027",
+  "quellen": [
+   "bayern-innovativ"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "IntraLogisteX - Day 2",
   "start": "2027-03-18",
   "ende": "2027-03-18",
@@ -2674,6 +2800,167 @@
   "entscheidung": ""
  },
  {
+  "titel": "Farm Shop & Deli Show 2027 - Day 1",
+  "start": "2027-04-12",
+  "ende": "2027-04-12",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/farm-shop-and-deli-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-12|thenec.co.uk/events/farm-shop-and-deli-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Food & Drink Expo 2027 - Day 1",
+  "start": "2027-04-12",
+  "ende": "2027-04-12",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/food-and-drink-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-12|thenec.co.uk/events/food-and-drink-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "National Convenience Show 2027 - Day 1",
+  "start": "2027-04-12",
+  "ende": "2027-04-12",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/national-convenience-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-12|thenec.co.uk/events/national-convenience-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "The Forecourt Show 2027 - Day 1",
+  "start": "2027-04-12",
+  "ende": "2027-04-12",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/the-forecourt-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-12|thenec.co.uk/events/the-forecourt-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Farm Shop & Deli Show 2027 - Day 2",
+  "start": "2027-04-13",
+  "ende": "2027-04-13",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/farm-shop-and-deli-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-13|thenec.co.uk/events/farm-shop-and-deli-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Food & Drink Expo 2027 - Day 2",
+  "start": "2027-04-13",
+  "ende": "2027-04-13",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/food-and-drink-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-13|thenec.co.uk/events/food-and-drink-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "National Convenience Show 2027 - Day 2",
+  "start": "2027-04-13",
+  "ende": "2027-04-13",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/national-convenience-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-13|thenec.co.uk/events/national-convenience-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Solarplaza Summit | Energy Storage The Netherlands",
   "start": "2027-04-13",
   "ende": "2027-04-13",
@@ -2701,28 +2988,255 @@
   "entscheidung": ""
  },
  {
-  "titel": "Fachforum Handwerk, Beratung und Planung",
-  "start": "2027-04-21",
-  "ende": "2027-04-22",
-  "ort": "Hannover",
+  "titel": "The Forecourt Show 2027 - Day 2",
+  "start": "2027-04-13",
+  "ende": "2027-04-13",
+  "ort": "The NEC",
   "land": "",
   "online": false,
-  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
-  "veranstalter": "Bundesverband Wärmepumpe (BWP) e.V.",
-  "kurz": "Nach dem erfolgreichen Auftakt in Frankfurt geht das Fachforum Handwerk, Beratung und Planung in die zweite Runde. Am 22. April 2027 bringt der Bundesverband Wärmepumpe gemeinsam mit dem GIH Bundesverband erneut Fachhand",
+  "url": "https://www.thenec.co.uk/events/the-forecourt-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
   "methode": "json-ld",
-  "quelle_id": "bwp",
-  "quelle_name": "Bundesverband Wärmepumpe – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Gebäudetechnik",
-   "Handwerk"
-  ],
-  "schluessel": "2027-04-21|waermepumpe.de/verband/veranstaltungen",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-13|thenec.co.uk/events/the-forecourt-show-2027",
   "quellen": [
-   "bwp"
+   "messe-nec"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Farm Shop & Deli Show 2027 - Day 3",
+  "start": "2027-04-14",
+  "ende": "2027-04-14",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/farm-shop-and-deli-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-14|thenec.co.uk/events/farm-shop-and-deli-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Food & Drink Expo 2027 - Day 3",
+  "start": "2027-04-14",
+  "ende": "2027-04-14",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/food-and-drink-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-14|thenec.co.uk/events/food-and-drink-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "National Convenience Show 2027 - Day 3",
+  "start": "2027-04-14",
+  "ende": "2027-04-14",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/national-convenience-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-14|thenec.co.uk/events/national-convenience-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "The Forecourt Show 2027 - Day 3",
+  "start": "2027-04-14",
+  "ende": "2027-04-14",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/the-forecourt-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-14|thenec.co.uk/events/the-forecourt-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Bus & Coach Expo 2027 - Day 1",
+  "start": "2027-04-20",
+  "ende": "2027-04-20",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/bus-coach-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-20|thenec.co.uk/events/bus-coach-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Commercial Vehicle Show 2027 - Day 1",
+  "start": "2027-04-20",
+  "ende": "2027-04-20",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/commercial-vehicle-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-20|thenec.co.uk/events/commercial-vehicle-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Bus & Coach Expo 2027 - Day 2",
+  "start": "2027-04-21",
+  "ende": "2027-04-21",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/bus-coach-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-21|thenec.co.uk/events/bus-coach-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Commercial Vehicle Show 2027 - Day 2",
+  "start": "2027-04-21",
+  "ende": "2027-04-21",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/commercial-vehicle-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-21|thenec.co.uk/events/commercial-vehicle-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Bus & Coach Expo 2027 - Day 3",
+  "start": "2027-04-22",
+  "ende": "2027-04-22",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/bus-coach-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-22|thenec.co.uk/events/bus-coach-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Commercial Vehicle Show 2027 - Day 3",
+  "start": "2027-04-22",
+  "ende": "2027-04-22",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/commercial-vehicle-show-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-22|thenec.co.uk/events/commercial-vehicle-show-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -2988,31 +3502,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "Berliner Energietage 2027",
-  "start": "2027-05-02",
-  "ende": "2027-05-05",
-  "ort": "ONLINE",
-  "land": "",
-  "online": false,
-  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
-  "veranstalter": "",
-  "kurz": "Die Berliner Energietage sind die führende Fachkonferenz zur Energiewende im deutschsprachigen Raum. Jährlich kommen Expertinnen und Experten aus Politik, Wirtschaft, Wissenschaft und Praxis zusammen, um aktuelle Entwick",
-  "methode": "json-ld",
-  "quelle_id": "bwp",
-  "quelle_name": "Bundesverband Wärmepumpe – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Energie & Solar"
-  ],
-  "schluessel": "2027-05-02|waermepumpe.de/verband/veranstaltungen",
-  "quellen": [
-   "bwp"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "Solarplaza Summit | Poland",
   "start": "2027-05-25",
   "ende": "2027-05-25",
@@ -3036,31 +3525,6 @@
    "solarplaza-events"
   ],
   "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Berliner Energietage 2027",
-  "start": "2027-05-30",
-  "ende": "2027-06-02",
-  "ort": "Berlin",
-  "land": "",
-  "online": false,
-  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
-  "veranstalter": "",
-  "kurz": "Die Berliner Energietage sind die führende Fachkonferenz zur Energiewende im deutschsprachigen Raum. Jährlich kommen Expertinnen und Experten aus Politik, Wirtschaft, Wissenschaft und Praxis zusammen, um aktuelle Entwick",
-  "methode": "json-ld",
-  "quelle_id": "bwp",
-  "quelle_name": "Bundesverband Wärmepumpe – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Energie & Solar"
-  ],
-  "schluessel": "2027-05-30|waermepumpe.de/verband/veranstaltungen",
-  "quellen": [
-   "bwp"
-  ],
-  "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -3133,6 +3597,75 @@
    "messe-berlin"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Automechanika Birmingham - Day 1",
+  "start": "2027-06-08",
+  "ende": "2027-06-08",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/automechanika-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-06-08|thenec.co.uk/events/automechanika-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Automechanika Birmingham - Day 2",
+  "start": "2027-06-09",
+  "ende": "2027-06-09",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/automechanika-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-06-09|thenec.co.uk/events/automechanika-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Automechanika Birmingham - Day 3",
+  "start": "2027-06-10",
+  "ende": "2027-06-10",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/automechanika-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-06-10|thenec.co.uk/events/automechanika-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -3212,32 +3745,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "Deutscher Großwärmepumpen-Kongress 2027",
-  "start": "2027-06-28",
-  "ende": "2027-06-30",
-  "ort": "Turbinenhalle Düsseldorf",
-  "land": "",
-  "online": false,
-  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
-  "veranstalter": "BWP Marketing &amp; Service GmbH",
-  "kurz": "Der Deutsche Großwärmepumpen-Kongress 2027 bringt am 30. Juni 2027 in Düsseldorf zentrale Akteure der Wärmewende zusammen. Im Fokus stehen praxisnahe Lösungen und strategische Ansätze für den erfolgreichen Einsatz von Gr",
-  "methode": "json-ld",
-  "quelle_id": "bwp",
-  "quelle_name": "Bundesverband Wärmepumpe – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Gebäudetechnik",
-   "Energie & Solar"
-  ],
-  "schluessel": "2027-06-28|waermepumpe.de/verband/veranstaltungen",
-  "quellen": [
-   "bwp"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "Solarplaza Summit | Italy",
   "start": "2027-07-08",
   "ende": "2027-07-08",
@@ -3265,6 +3772,167 @@
   "entscheidung": ""
  },
  {
+  "titel": "Invictus Games Birmingham 2027 - Day 1",
+  "start": "2027-07-10",
+  "ende": "2027-07-10",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/invictus-games-birmingham-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-07-10|thenec.co.uk/events/invictus-games-birmingham-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Invictus Games Birmingham 2027 - Day 2",
+  "start": "2027-07-11",
+  "ende": "2027-07-11",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/invictus-games-birmingham-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-07-11|thenec.co.uk/events/invictus-games-birmingham-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Invictus Games Birmingham 2027 - Day 3",
+  "start": "2027-07-12",
+  "ende": "2027-07-12",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/invictus-games-birmingham-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-07-12|thenec.co.uk/events/invictus-games-birmingham-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Invictus Games Birmingham 2027 - Day 4",
+  "start": "2027-07-13",
+  "ende": "2027-07-13",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/invictus-games-birmingham-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-07-13|thenec.co.uk/events/invictus-games-birmingham-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Invictus Games Birmingham 2027 - Day 5",
+  "start": "2027-07-14",
+  "ende": "2027-07-14",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/invictus-games-birmingham-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-07-14|thenec.co.uk/events/invictus-games-birmingham-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Invictus Games Birmingham 2027 - Day 6",
+  "start": "2027-07-15",
+  "ende": "2027-07-15",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/invictus-games-birmingham-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-07-15|thenec.co.uk/events/invictus-games-birmingham-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Invictus Games Birmingham 2027 - Day 7",
+  "start": "2027-07-16",
+  "ende": "2027-07-16",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/invictus-games-birmingham-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-07-16|thenec.co.uk/events/invictus-games-birmingham-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "WeAreDevelopers",
   "start": "2027-07-16",
   "ende": "2027-07-16",
@@ -3285,6 +3953,29 @@
    "messe-berlin"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Invictus Games Birmingham 2027 - Day 8",
+  "start": "2027-07-17",
+  "ende": "2027-07-17",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/invictus-games-birmingham-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-07-17|thenec.co.uk/events/invictus-games-birmingham-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -3359,6 +4050,52 @@
    "messe-berlin"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "The Pharmacy Show - Day 1",
+  "start": "2027-10-10",
+  "ende": "2027-10-10",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/the-pharmacy-show/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-10-10|thenec.co.uk/events/the-pharmacy-show",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "The Pharmacy Show - Day 2",
+  "start": "2027-10-11",
+  "ende": "2027-10-11",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/the-pharmacy-show/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-10-11|thenec.co.uk/events/the-pharmacy-show",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -3459,6 +4196,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "DGN",
+  "start": "2027-11-06",
+  "ende": "2027-11-06",
+  "ort": "CityCube Berlin",
+  "land": "",
+  "online": false,
+  "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgn-2027",
+  "veranstalter": "",
+  "kurz": "100. Kongress der Deutschen Gesellschaft für Neurologie",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-berlin",
+  "quelle_name": "Messe Berlin – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-11-06|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgn-2027",
+  "quellen": [
+   "messe-berlin"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Truck & Cargo Expo 2027",
   "start": "2027-11-25",
   "ende": "2027-11-25",
@@ -3479,6 +4240,75 @@
    "messe-pva-prag"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Halal Expo UK - Day 1",
+  "start": "2027-12-10",
+  "ende": "2027-12-10",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/halal-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-12-10|thenec.co.uk/events/halal-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Halal Expo UK - Day 2",
+  "start": "2027-12-11",
+  "ende": "2027-12-11",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/halal-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-12-11|thenec.co.uk/events/halal-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "18. Optatec",
+  "start": "2028-05-09",
+  "ende": "2028-05-11",
+  "ort": "Frankfurt",
+  "land": "",
+  "online": false,
+  "url": "https://www.optatec-messe.de",
+  "veranstalter": "",
+  "kurz": "Internationale Fachmesse für photonische und optische Technologien",
+  "methode": "json-ld",
+  "quelle_id": "schall-messen",
+  "quelle_name": "P. E. Schall – Messen (Blechexpo, Fakuma u. a.)",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2028-05-09|optatec-messe.de",
+  "quellen": [
+   "schall-messen"
+  ],
+  "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": ""
  }

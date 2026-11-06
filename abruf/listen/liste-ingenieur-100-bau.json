@@ -2,7 +2,7 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-05",
+ "abgerufen": "2026-11-06",
  "koepfe": [
   "Top Beiträge",
   "Bautechnik und mehr",
@@ -41,28 +41,38 @@
    "extern": false
   },
   {
-   "text": "1 unter 10 Milliarden: CERN findet nach 40 Jahren eine Spur",
-   "url": "https://www.ingenieur.de/1-unter-10-milliarden-cern-findet-nach-40-jahren-eine-spur-4e9928b7-7952-4cc2-8c6d-4f1c0ecfeb7b/",
+   "text": "5828 Neutrinos, 2450 m Meerestiefe: Physiker testen Einsteins Theorie",
+   "url": "https://www.ingenieur.de/5828-neutrinos-2450-m-meerestiefe-physiker-testen-einsteins-theorie-6891acc1-24a9-4249-a014-11d355aae3cc/",
    "extern": false
   },
   {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
+   "text": "Luft- & Raumfahrt",
+   "url": "https://www.ingenieur.de/luft-raumfahrt/",
    "extern": false
   },
   {
-   "text": "Magmakammern unter dem Mars? Raumsonde findet Gas, wo keins sein dürfte",
-   "url": "https://www.ingenieur.de/magmakammern-unter-dem-mars-raumsonde-findet-gas-wo-keins-sein-durfte-491374ed-ff27-4dc1-8e56-b8d09db5f60c/",
+   "text": "USA testen neue Atomraketen-Technik, bei 24.000 km/h wird es extrem",
+   "url": "https://www.ingenieur.de/usa-testen-neue-atomraketen-technik-bei-24000-kmh-wird-es-extrem-944ce791-7eff-4ab0-9c59-9755416177fe/",
    "extern": false
   },
   {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
+   "text": "Elektronik & IT",
+   "url": "https://www.ingenieur.de/elektronik-it/",
    "extern": false
   },
   {
-   "text": "Eine Erde ohne Leben: Simulation liefert überraschendes Ergebnis",
-   "url": "https://www.ingenieur.de/eine-erde-ohne-leben-simulation-liefert-ueberraschendes-ergebnis-72255609-1a7b-4d76-90a6-b31c7d686ae5/",
+   "text": "Der große Quanten-Irrtum: Warum Forscher oft dasselbe messen und Verschiedenes finden",
+   "url": "https://www.ingenieur.de/der-grosse-quanten-irrtum-warum-forscher-oft-dasselbe-messen-und-verschiedenes-finden-f8343b0e-d3aa-41e6-bb00-497f3aaa62bc/",
+   "extern": false
+  },
+  {
+   "text": "Energie",
+   "url": "https://www.ingenieur.de/energie/",
+   "extern": false
+  },
+  {
+   "text": "Billige Kernfusion? Magnete vom Fließband sollen ein Kostenproblem lösen",
+   "url": "https://www.ingenieur.de/billige-kernfusion-300-magnete-vom-fliessband-sollen-ein-grosses-kostenproblem-losen-bf9c2c74-148e-425d-9d75-5886ce6640ab/",
    "extern": false
   },
   {
@@ -71,18 +81,8 @@
    "extern": false
   },
   {
-   "text": "15 Cent gegen Gebäudeschäden: Dieser Betonklotz erkennt unsichtbare Risse",
-   "url": "https://www.ingenieur.de/15-cent-gegen-gebaeudeschaeden-dieser-betonklotz-erkennt-unsichtbare-risse-132e32ed-2b3b-496b-aebc-37db33f251f7/",
-   "extern": false
-  },
-  {
-   "text": "Energiespeicher",
-   "url": "https://www.ingenieur.de/energiespeicher/",
-   "extern": false
-  },
-  {
-   "text": "Aluminium-Ionen-Akkus: Wie das Metall der Getränkedose Lithium herausfordert",
-   "url": "https://www.ingenieur.de/aluminium-ionen-akkus-wie-das-metall-der-getrankedose-lithium-herausfordert-fd3f8152-9965-42bc-bff9-3fcdff98b8fe/",
+   "text": "100.000 t Erde bewegt und keine einzige Tunnelbohrmaschine im Einsatz",
+   "url": "https://www.ingenieur.de/100-000-t-erde-bewegt-und-keine-einzige-tunnelbohrmaschine-um-einsatz-44edcefa-b7d3-45df-9941-57539377befa/",
    "extern": false
   },
   {
@@ -168,6 +168,11 @@
   {
    "text": "Alle Stellenanzeigen",
    "url": "https://jobs.ingenieur.de/",
+   "extern": true
+  },
+  {
+   "text": "mehr",
+   "url": "https://jobs.ingenieur.de/job/professur-m-w-d-der-besgr-w-2-fuer-das-lehrgebiet-gebaeudeenergiesysteme-und-automation-064908648?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
@@ -266,58 +271,43 @@
    "extern": true
   },
   {
-   "text": "mehr",
-   "url": "https://jobs.ingenieur.de/job/tga-ingenieur-m-w-d-in-leverkusen-064466966?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
    "text": "Naturwissenschaften",
    "url": "https://www.ingenieur.de/naturwissenschaften/",
    "extern": false
   },
   {
-   "text": "1 unter 10 Milliarden: CERN findet nach 40 Jahren eine Spur",
-   "url": "https://www.ingenieur.de/1-unter-10-milliarden-cern-findet-nach-40-jahren-eine-spur-4e9928b7-7952-4cc2-8c6d-4f1c0ecfeb7b/",
+   "text": "5828 Neutrinos, 2450 m Meerestiefe: Physiker testen Einsteins Theorie",
+   "url": "https://www.ingenieur.de/5828-neutrinos-2450-m-meerestiefe-physiker-testen-einsteins-theorie-6891acc1-24a9-4249-a014-11d355aae3cc/",
    "extern": false
   },
   {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
+   "text": "Luft- & Raumfahrt",
+   "url": "https://www.ingenieur.de/luft-raumfahrt/",
    "extern": false
   },
   {
-   "text": "Magmakammern unter dem Mars? Raumsonde findet Gas, wo keins sein dürfte",
-   "url": "https://www.ingenieur.de/magmakammern-unter-dem-mars-raumsonde-findet-gas-wo-keins-sein-durfte-491374ed-ff27-4dc1-8e56-b8d09db5f60c/",
+   "text": "USA testen neue Atomraketen-Technik, bei 24.000 km/h wird es extrem",
+   "url": "https://www.ingenieur.de/usa-testen-neue-atomraketen-technik-bei-24000-kmh-wird-es-extrem-944ce791-7eff-4ab0-9c59-9755416177fe/",
    "extern": false
   },
   {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
+   "text": "Elektronik & IT",
+   "url": "https://www.ingenieur.de/elektronik-it/",
    "extern": false
   },
   {
-   "text": "Eine Erde ohne Leben: Simulation liefert überraschendes Ergebnis",
-   "url": "https://www.ingenieur.de/eine-erde-ohne-leben-simulation-liefert-ueberraschendes-ergebnis-72255609-1a7b-4d76-90a6-b31c7d686ae5/",
+   "text": "Der große Quanten-Irrtum: Warum Forscher oft dasselbe messen und Verschiedenes finden",
+   "url": "https://www.ingenieur.de/der-grosse-quanten-irrtum-warum-forscher-oft-dasselbe-messen-und-verschiedenes-finden-f8343b0e-d3aa-41e6-bb00-497f3aaa62bc/",
    "extern": false
   },
   {
-   "text": "Bau",
-   "url": "https://www.ingenieur.de/bau/",
+   "text": "Energie",
+   "url": "https://www.ingenieur.de/energie/",
    "extern": false
   },
   {
-   "text": "15 Cent gegen Gebäudeschäden: Dieser Betonklotz erkennt unsichtbare Risse",
-   "url": "https://www.ingenieur.de/15-cent-gegen-gebaeudeschaeden-dieser-betonklotz-erkennt-unsichtbare-risse-132e32ed-2b3b-496b-aebc-37db33f251f7/",
-   "extern": false
-  },
-  {
-   "text": "Energiespeicher",
-   "url": "https://www.ingenieur.de/energiespeicher/",
-   "extern": false
-  },
-  {
-   "text": "Aluminium-Ionen-Akkus: Wie das Metall der Getränkedose Lithium herausfordert",
-   "url": "https://www.ingenieur.de/aluminium-ionen-akkus-wie-das-metall-der-getrankedose-lithium-herausfordert-fd3f8152-9965-42bc-bff9-3fcdff98b8fe/",
+   "text": "Billige Kernfusion? Magnete vom Fließband sollen ein Kostenproblem lösen",
+   "url": "https://www.ingenieur.de/billige-kernfusion-300-magnete-vom-fliessband-sollen-ein-grosses-kostenproblem-losen-bf9c2c74-148e-425d-9d75-5886ce6640ab/",
    "extern": false
   },
   {
@@ -326,8 +316,18 @@
    "extern": false
   },
   {
-   "text": "KI entdeckt 253 Unstimmigkeiten in Bauplan, 29 davon sind kritisch",
-   "url": "https://www.ingenieur.de/ki-entdeckt-253-unstimmigkeiten-in-bauplan-29-davon-sind-kritisch-76ded62e-e9f4-4432-8543-a3c7f9589e40/",
+   "text": "100.000 t Erde bewegt und keine einzige Tunnelbohrmaschine im Einsatz",
+   "url": "https://www.ingenieur.de/100-000-t-erde-bewegt-und-keine-einzige-tunnelbohrmaschine-um-einsatz-44edcefa-b7d3-45df-9941-57539377befa/",
+   "extern": false
+  },
+  {
+   "text": "Transportlogistik",
+   "url": "https://www.ingenieur.de/transportlogistik/",
+   "extern": false
+  },
+  {
+   "text": "10,8 °C im Kühllaster: Warum Obst trotz Kühlung zu warm wird",
+   "url": "https://www.ingenieur.de/108-c-im-kuhllaster-warum-obst-trotz-kuhlung-zu-warm-wird-9d073da5-3b6d-4f5d-82fd-2cd5b2d9367a/",
    "extern": false
   },
   {
@@ -336,63 +336,63 @@
    "extern": false
   },
   {
-   "text": "telent GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/telent-gmbh/",
+   "text": "SKF Deutschland",
+   "url": "https://www.ingenieur.de/firmenprofile/skf-deutschland/",
    "extern": false
   },
   {
-   "text": "BASF",
-   "url": "https://www.ingenieur.de/firmenprofile/basf/",
+   "text": "Freudenberg Sealing Technologies GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/freudenberg-sealing-technologies-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "Jungheinrich AG",
-   "url": "https://www.ingenieur.de/firmenprofile/jungheinrich-ag/",
+   "text": "Endress+Hauser Gruppe",
+   "url": "https://www.ingenieur.de/firmenprofile/endresshauser-gruppe/",
    "extern": false
   },
   {
-   "text": "HHLA Sky GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/hhla-sky-gmbh/",
+   "text": "Brose Gruppe",
+   "url": "https://www.ingenieur.de/firmenprofile/brose-gruppe/",
    "extern": false
   },
   {
-   "text": "EPLAN Software & Service GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/eplan-software-service-gmbh-co-kg/",
+   "text": "Fresenius Group",
+   "url": "https://www.ingenieur.de/firmenprofile/fresenius-group/",
    "extern": false
   },
   {
-   "text": "Unilever",
-   "url": "https://www.ingenieur.de/firmenprofile/unilever/",
+   "text": "Bundespolizeipräsidium",
+   "url": "https://www.ingenieur.de/firmenprofile/bundespolizeipraesidium/",
    "extern": false
   },
   {
-   "text": "ITK Engineering GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/itk-engineering-gmbh/",
+   "text": "Bürkert Fluid Control Systems",
+   "url": "https://www.ingenieur.de/firmenprofile/buerkert-fluid-control-systems/",
    "extern": false
   },
   {
-   "text": "EnBW Energie Baden-Württemberg AG",
-   "url": "https://www.ingenieur.de/firmenprofile/enbw-energie-baden-wuerttemberg-ag/",
+   "text": "AUGUST STORCK KG",
+   "url": "https://www.ingenieur.de/firmenprofile/august-storck-kg/",
    "extern": false
   },
   {
-   "text": "Beckhoff Automation",
-   "url": "https://www.ingenieur.de/firmenprofile/beckhoff-automation/",
+   "text": "FAULHABER Antriebssysteme",
+   "url": "https://www.ingenieur.de/firmenprofile/faulhaber-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "Ferrero",
-   "url": "https://www.ingenieur.de/firmenprofile/ferrero/",
+   "text": "Hengst SE",
+   "url": "https://www.ingenieur.de/firmenprofile/hengst-se/",
    "extern": false
   },
   {
-   "text": "Deutsche Energie-Agentur GmbH (dena)",
-   "url": "https://www.ingenieur.de/firmenprofile/deutsche-energie-agentur-gmbh-dena/",
+   "text": "NUKEM Technologies Engineering Services GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/nukem-technologies-engineering-services-gmbh/",
    "extern": false
   },
   {
-   "text": "Quantum-Systems GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/quantum-systems-gmbh/",
+   "text": "Salzgitter AG",
+   "url": "https://www.ingenieur.de/firmenprofile/salzgitter-ag/",
    "extern": false
   }
  ],
