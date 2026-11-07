@@ -1,9 +1,9 @@
 {
- "abgerufen": "2026-11-06 04:36 UTC",
+ "abgerufen": "2026-11-07 04:32 UTC",
  "quellen_gesamt": 167,
- "quellen_ok": 164,
- "kandidaten": 985,
- "neu": 178,
+ "quellen_ok": 163,
+ "kandidaten": 974,
+ "neu": 195,
  "quellen": [
   {
    "id": "auma-bau",
@@ -14,10 +14,10 @@
    "methoden": [
     "detailseiten:25"
    ],
-   "anzahl": 14,
+   "anzahl": 12,
    "fehler": "",
-   "sekunden": 14.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 16.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "austrianstartups",
@@ -28,8 +28,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 19.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 20.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "bauindustrie-bayern",
@@ -40,8 +40,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 5.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "bauindustrie-de",
@@ -54,8 +54,8 @@
    ],
    "anzahl": 4,
    "fehler": "",
-   "sekunden": 2.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "bayern-innovativ",
@@ -64,12 +64,12 @@
    "url": "https://www.bayern-innovativ.de/events-termine/",
    "ok": true,
    "methoden": [
-    "detailseiten:100"
+    "detailseiten:103"
    ],
-   "anzahl": 80,
+   "anzahl": 83,
    "fehler": "",
-   "sekunden": 40.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 13.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "bayern-international",
@@ -80,8 +80,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 7.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "bayika",
@@ -94,9 +94,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 25,
-   "sekunden": 2.8,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 24,
+   "sekunden": 3.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "baystartup",
@@ -105,12 +105,12 @@
    "url": "https://www.baystartup.de/termine",
    "ok": true,
    "methoden": [
-    "detailseiten:74"
+    "detailseiten:21"
    ],
-   "anzahl": 10,
+   "anzahl": 4,
    "fehler": "",
-   "sekunden": 15.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "bdew",
@@ -124,8 +124,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 2,
-   "sekunden": 2.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "bitkom",
@@ -140,8 +140,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 18,
-   "sekunden": 3.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "brutkasten-events",
@@ -152,7 +152,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "HTTP 403",
-   "sekunden": 1.4,
+   "sekunden": 1.3,
    "zuletzt_ok": ""
   },
   {
@@ -166,8 +166,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "build-up-eu",
@@ -178,8 +178,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 6.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "buildingsmart",
@@ -192,8 +192,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 1.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "business-upper-austria",
@@ -206,8 +206,8 @@
    ],
    "anzahl": 9,
    "fehler": "",
-   "sekunden": 6.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "bwp",
@@ -220,8 +220,8 @@
    ],
    "anzahl": 16,
    "fehler": "",
-   "sekunden": 7.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "climate-kic-events",
@@ -235,7 +235,7 @@
    "anzahl": 2,
    "fehler": "",
    "sekunden": 2.4,
-   "zuletzt_ok": "2026-11-06"
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "dena",
@@ -249,8 +249,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 17,
-   "sekunden": 6.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "dev-events-at",
@@ -263,8 +263,8 @@
    ],
    "anzahl": 2,
    "fehler": "",
-   "sekunden": 3.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "dev-events-de",
@@ -277,8 +277,8 @@
    ],
    "anzahl": 2,
    "fehler": "",
-   "sekunden": 5.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "dgnb",
@@ -291,8 +291,8 @@
    ],
    "anzahl": 3,
    "fehler": "",
-   "sekunden": 2.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "dgo-termine",
@@ -305,8 +305,8 @@
    ],
    "anzahl": 9,
    "fehler": "",
-   "sekunden": 3.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "ecoplus-cluster",
@@ -317,8 +317,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 7.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "ectp-events",
@@ -331,8 +331,8 @@
    ],
    "anzahl": 13,
    "fehler": "",
-   "sekunden": 6.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "een-events",
@@ -345,8 +345,8 @@
    ],
    "anzahl": 9,
    "fehler": "",
-   "sekunden": 5.1,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "egga-events",
@@ -357,8 +357,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 6.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eit-manufacturing-events",
@@ -371,8 +371,8 @@
    ],
    "anzahl": 3,
    "fehler": "",
-   "sekunden": 1.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 1.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "energieagentur-regensburg",
@@ -386,19 +386,19 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 2,
-   "sekunden": 3.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eu-startups-events",
    "name": "EU-Startups – Events",
    "art": "events",
    "url": "https://www.eu-startups.com/events/",
-   "ok": true,
+   "ok": false,
    "methoden": [],
    "anzahl": 0,
-   "fehler": "",
-   "sekunden": 2.0,
+   "fehler": "HTTP 403",
+   "sekunden": 1.3,
    "zuletzt_ok": "2026-11-06"
   },
   {
@@ -413,8 +413,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 23,
-   "sekunden": 59.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 65.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-advanced-materials",
@@ -428,8 +428,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 54,
-   "sekunden": 61.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 58.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-biofuels-hydrogen",
@@ -443,8 +443,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 35,
-   "sekunden": 58.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 63.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-building-construction",
@@ -457,9 +457,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 151,
-   "sekunden": 49.9,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 144,
+   "sekunden": 41.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-clean-energies-renewable-energies",
@@ -472,9 +472,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 136,
-   "sekunden": 55.3,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 132,
+   "sekunden": 61.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-energy-production-transportation",
@@ -488,8 +488,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 99,
-   "sekunden": 58.1,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 62.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-heating-air-conditioning",
@@ -502,9 +502,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 151,
-   "sekunden": 52.1,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 146,
+   "sekunden": 53.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-industrial-building",
@@ -518,8 +518,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 38,
-   "sekunden": 53.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 57.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-logistics-transportation-engineering-han",
@@ -533,8 +533,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 171,
-   "sekunden": 55.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 57.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-machines-tools-tools",
@@ -548,8 +548,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 115,
-   "sekunden": 59.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 61.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-metal-working-industries",
@@ -563,8 +563,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 111,
-   "sekunden": 60.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 65.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-renewal-renovations",
@@ -577,9 +577,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 134,
-   "sekunden": 59.0,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 130,
+   "sekunden": 47.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-robotics",
@@ -593,8 +593,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 53,
-   "sekunden": 59.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 61.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-software-tools-for-building",
@@ -608,8 +608,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 3,
-   "sekunden": 54.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 58.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-subcontracting-suppliers-partners",
@@ -622,9 +622,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 139,
-   "sekunden": 59.7,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 137,
+   "sekunden": 63.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-surface-treatment-technologies-coatings",
@@ -638,8 +638,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 27,
-   "sekunden": 59.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 65.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-waste-management-recycling",
@@ -653,8 +653,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 53,
-   "sekunden": 61.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 60.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "eventseye-welding",
@@ -667,9 +667,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 20,
-   "sekunden": 59.4,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 21,
+   "sekunden": 61.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "feuerverzinken",
@@ -680,8 +680,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 8.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "fiec-events",
@@ -695,7 +695,7 @@
    "anzahl": 1,
    "fehler": "",
    "sekunden": 2.5,
-   "zuletzt_ok": "2026-11-06"
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "firmen-bayern-listen",
@@ -709,7 +709,7 @@
    "anzahl": 25,
    "fehler": "",
    "sekunden": 0.0,
-   "zuletzt_ok": "2026-11-06"
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "firmen-europa",
@@ -723,7 +723,7 @@
    "anzahl": 18,
    "fehler": "",
    "sekunden": 0.0,
-   "zuletzt_ok": "2026-11-06"
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "firmen-nachrecherche",
@@ -737,7 +737,7 @@
    "anzahl": 24,
    "fehler": "",
    "sekunden": 0.0,
-   "zuletzt_ok": "2026-11-06"
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "fuer-gruender-events",
@@ -750,9 +750,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 1,
-   "sekunden": 2.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "geb-energieberater",
@@ -763,10 +762,10 @@
    "methoden": [
     "json-ld"
    ],
-   "anzahl": 10,
+   "anzahl": 9,
    "fehler": "",
-   "sekunden": 21.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "gentner-events",
@@ -777,10 +776,10 @@
    "methoden": [
     "detailseiten:48"
    ],
-   "anzahl": 44,
+   "anzahl": 38,
    "fehler": "",
-   "sekunden": 8.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "groundbreakers",
@@ -793,9 +792,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 7,
-   "sekunden": 2.3,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 1,
+   "sekunden": 2.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "gruenderkueche-termine",
@@ -808,8 +807,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 2.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "gruenderland-bayern",
@@ -822,8 +821,8 @@
    ],
    "anzahl": 10,
    "fehler": "",
-   "sekunden": 9.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "handwerk-digital",
@@ -834,7 +833,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "HTTP 404",
-   "sekunden": 2.8,
+   "sekunden": 3.2,
    "zuletzt_ok": ""
   },
   {
@@ -844,14 +843,14 @@
    "url": "https://www.messe.de/de/messen/",
    "ok": true,
    "methoden": [
-    "detailseiten:72",
+    "detailseiten:67",
     "datumszeilen"
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 61,
-   "sekunden": 42.2,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 56,
+   "sekunden": 32.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "heinze-events",
@@ -864,9 +863,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 6,
-   "sekunden": 2.2,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 4,
+   "sekunden": 2.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "hm-sce",
@@ -877,8 +876,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 6.1,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "hs-landshut",
@@ -891,8 +890,8 @@
    ],
    "anzahl": 20,
    "fehler": "",
-   "sekunden": 5.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "hwk-muenchen",
@@ -905,8 +904,8 @@
    ],
    "anzahl": 5,
    "fehler": "",
-   "sekunden": 3.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "hwkno",
@@ -919,8 +918,8 @@
    ],
    "anzahl": 14,
    "fehler": "",
-   "sekunden": 4.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "hydrogen-europe-events",
@@ -934,8 +933,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 24,
-   "sekunden": 10.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 8.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "i2c-tuwien",
@@ -948,8 +947,8 @@
    ],
    "anzahl": 2,
    "fehler": "",
-   "sekunden": 2.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "ihk-muenchen",
@@ -960,8 +959,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 8.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 11.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "ihk-niederbayern",
@@ -972,8 +971,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 7.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "ihk-nuernberg",
@@ -984,8 +983,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 9.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 10.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "ihk-regensburg",
@@ -996,8 +995,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 8.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "ihk-schwaben",
@@ -1010,8 +1009,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 1.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 1.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "innkubator",
@@ -1025,8 +1024,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 4,
-   "sekunden": 4.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "innoenergy-events",
@@ -1039,8 +1038,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 3.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "intersolar-events",
@@ -1053,8 +1052,8 @@
    ],
    "anzahl": 1,
    "fehler": "",
-   "sekunden": 5.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "it-region-stuttgart",
@@ -1067,8 +1066,8 @@
    ],
    "anzahl": 10,
    "fehler": "",
-   "sekunden": 5.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "itc-deggendorf",
@@ -1079,8 +1078,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 7.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "koelnmesse",
@@ -1094,8 +1093,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 67,
-   "sekunden": 2.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "link-landshut",
@@ -1108,8 +1107,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 16.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 17.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-bau-futurelab",
@@ -1122,8 +1121,8 @@
    ],
    "anzahl": 1,
    "fehler": "",
-   "sekunden": 2.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-bayern-kapital",
@@ -1136,8 +1135,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 6.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-climate-kic",
@@ -1150,8 +1149,8 @@
    ],
    "anzahl": 2,
    "fehler": "",
-   "sekunden": 6.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-climate-kic-portfolio",
@@ -1165,7 +1164,7 @@
    "anzahl": 12,
    "fehler": "",
    "sekunden": 0.7,
-   "zuletzt_ok": "2026-11-06"
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-contech-award-ch",
@@ -1178,8 +1177,8 @@
    ],
    "anzahl": 27,
    "fehler": "",
-   "sekunden": 3.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-contech-report",
@@ -1190,10 +1189,10 @@
    "methoden": [
     "liste"
    ],
-   "anzahl": 43,
+   "anzahl": 41,
    "fehler": "",
-   "sekunden": 2.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-energy-launchpad",
@@ -1206,8 +1205,8 @@
    ],
    "anzahl": 1,
    "fehler": "",
-   "sekunden": 1.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 0.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-groundbreakers",
@@ -1220,8 +1219,8 @@
    ],
    "anzahl": 58,
    "fehler": "",
-   "sekunden": 0.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 0.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-gzdn",
@@ -1234,8 +1233,8 @@
    ],
    "anzahl": 5,
    "fehler": "",
-   "sekunden": 4.1,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-htgf",
@@ -1248,8 +1247,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 15.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 17.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-ingenieur-100-bau",
@@ -1262,8 +1261,8 @@
    ],
    "anzahl": 23,
    "fehler": "",
-   "sekunden": 2.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-innoenergy-portfolio",
@@ -1276,8 +1275,8 @@
    ],
    "anzahl": 9,
    "fehler": "",
-   "sekunden": 9.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 10.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-smarter-e-award",
@@ -1290,8 +1289,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 7.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 8.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-startbase-axel",
@@ -1304,8 +1303,8 @@
    ],
    "anzahl": 4,
    "fehler": "",
-   "sekunden": 0.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 0.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-startbase-bau",
@@ -1318,8 +1317,8 @@
    ],
    "anzahl": 4,
    "fehler": "",
-   "sekunden": 2.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 1.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-tech2b",
@@ -1332,8 +1331,8 @@
    ],
    "anzahl": 1,
    "fehler": "",
-   "sekunden": 6.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 10.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "liste-zollhof",
@@ -1346,8 +1345,8 @@
    ],
    "anzahl": 3,
    "fehler": "",
-   "sekunden": 4.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-augsburg",
@@ -1360,8 +1359,8 @@
    ],
    "anzahl": 35,
    "fehler": "",
-   "sekunden": 2.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-berlin",
@@ -1374,8 +1373,8 @@
    ],
    "anzahl": 70,
    "fehler": "",
-   "sekunden": 5.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-bernexpo",
@@ -1389,8 +1388,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 54,
-   "sekunden": 2.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-bolognafiere",
@@ -1403,9 +1402,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 128,
-   "sekunden": 3.9,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 126,
+   "sekunden": 4.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-brussels-expo",
@@ -1418,8 +1417,8 @@
    ],
    "anzahl": 4,
    "fehler": "",
-   "sekunden": 5.1,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-bvv-brno",
@@ -1433,8 +1432,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 1,
-   "sekunden": 3.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-duesseldorf",
@@ -1447,8 +1446,8 @@
    ],
    "anzahl": 30,
    "fehler": "",
-   "sekunden": 2.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-essen",
@@ -1461,9 +1460,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 28,
-   "sekunden": 2.6,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 27,
+   "sekunden": 2.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-eurexpo-lyon",
@@ -1474,8 +1473,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 6.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-excel-london",
@@ -1489,8 +1488,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 165,
-   "sekunden": 2.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-fiera-milano",
@@ -1501,8 +1500,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 5.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-fira-barcelona",
@@ -1516,8 +1515,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 36,
-   "sekunden": 9.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 10.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-ieg-rimini",
@@ -1528,8 +1527,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 6.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-ifema",
@@ -1542,8 +1541,8 @@
    ],
    "anzahl": 39,
    "fehler": "",
-   "sekunden": 2.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-jaarbeurs",
@@ -1556,9 +1555,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 24,
-   "sekunden": 4.2,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 23,
+   "sekunden": 4.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-messukeskus",
@@ -1571,9 +1570,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 108,
+   "zeilen": 107,
    "sekunden": 2.1,
-   "zuletzt_ok": "2026-11-06"
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-mtp-poznan",
@@ -1584,8 +1583,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 8.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-muenchen",
@@ -1598,8 +1597,8 @@
    ],
    "anzahl": 9,
    "fehler": "",
-   "sekunden": 9.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-nec",
@@ -1610,10 +1609,10 @@
    "methoden": [
     "detailseiten:70"
    ],
-   "anzahl": 236,
+   "anzahl": 233,
    "fehler": "",
-   "sekunden": 21.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-ptak-warsaw",
@@ -1626,8 +1625,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 101.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 88.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-pva-prag",
@@ -1640,8 +1639,8 @@
    ],
    "anzahl": 43,
    "fehler": "",
-   "sekunden": 3.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-rai",
@@ -1654,8 +1653,8 @@
    ],
    "anzahl": 10,
    "fehler": "",
-   "sekunden": 14.1,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-stockholmsmassan",
@@ -1669,8 +1668,8 @@
    ],
    "anzahl": 54,
    "fehler": "",
-   "sekunden": 7.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-viparis",
@@ -1683,8 +1682,8 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 4.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-wels",
@@ -1698,8 +1697,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 56,
-   "sekunden": 3.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-wien",
@@ -1710,8 +1709,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 7.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 8.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messe-zuerich",
@@ -1724,9 +1723,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 4,
-   "sekunden": 8.6,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 5,
+   "sekunden": 9.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messen-de-ausbau",
@@ -1740,8 +1739,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 165,
-   "sekunden": 66.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 70.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messen-de-bau-und-heimwerkerbedarf",
@@ -1755,8 +1754,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 130,
-   "sekunden": 66.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 70.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messen-de-energiewirtschaft",
@@ -1770,8 +1769,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 191,
-   "sekunden": 61.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 66.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messen-de-erneuerbare-energien",
@@ -1785,8 +1784,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 199,
-   "sekunden": 65.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 67.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "messen-de-solarenergie",
@@ -1800,8 +1799,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 167,
-   "sekunden": 64.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 72.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "munich-startup",
@@ -1814,9 +1813,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 88,
-   "sekunden": 3.3,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 87,
+   "sekunden": 3.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "munich-urban-colab",
@@ -1829,8 +1828,8 @@
    ],
    "anzahl": 1,
    "fehler": "",
-   "sekunden": 2.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "nuernbergmesse",
@@ -1845,8 +1844,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 9,
-   "sekunden": 6.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 8.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "oth-aw",
@@ -1855,12 +1854,12 @@
    "url": "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/",
    "ok": true,
    "methoden": [
-    "detailseiten:4"
+    "detailseiten:5"
    ],
-   "anzahl": 4,
+   "anzahl": 5,
    "fehler": "",
-   "sekunden": 3.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "oth-regensburg",
@@ -1873,8 +1872,8 @@
    ],
    "anzahl": 20,
    "fehler": "",
-   "sekunden": 7.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 8.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "planen-bauen-40",
@@ -1885,8 +1884,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 8.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "pv-austria",
@@ -1897,7 +1896,7 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "RemoteDisconnected: Remote end closed connection without response",
-   "sekunden": 2.7,
+   "sekunden": 3.0,
    "zuletzt_ok": ""
   },
   {
@@ -1912,8 +1911,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 4,
-   "sekunden": 1.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 1.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "regensburg-wirtschaft",
@@ -1924,10 +1923,10 @@
    "methoden": [
     "detailseiten:10"
    ],
-   "anzahl": 2,
+   "anzahl": 0,
    "fehler": "",
-   "sekunden": 18.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 21.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "schall-messen",
@@ -1940,8 +1939,8 @@
    ],
    "anzahl": 9,
    "fehler": "",
-   "sekunden": 4.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "sensorik-cluster",
@@ -1956,8 +1955,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 6,
-   "sekunden": 2.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "sfg-steiermark",
@@ -1971,8 +1970,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 1,
-   "sekunden": 6.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 13.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "solarplaza-events",
@@ -1985,8 +1984,8 @@
    ],
    "anzahl": 14,
    "fehler": "",
-   "sekunden": 5.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "solarpower-europe-events",
@@ -1995,12 +1994,12 @@
    "url": "https://www.solarpowereurope.org/events",
    "ok": true,
    "methoden": [
-    "detailseiten:12"
+    "detailseiten:11"
    ],
    "anzahl": 6,
    "fehler": "",
-   "sekunden": 4.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "startbase-events",
@@ -2009,12 +2008,12 @@
    "url": "https://www.startbase.de/events/",
    "ok": true,
    "methoden": [
-    "detailseiten:8"
+    "detailseiten:9"
    ],
-   "anzahl": 8,
+   "anzahl": 9,
    "fehler": "",
-   "sekunden": 0.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 1.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "startup-europe-events",
@@ -2025,8 +2024,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 5.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "startup-factory",
@@ -2037,8 +2036,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 6.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 7.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "startup-region-stuttgart",
@@ -2051,8 +2050,8 @@
    ],
    "anzahl": 10,
    "fehler": "",
-   "sekunden": 14.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "startup-salzburg",
@@ -2063,8 +2062,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 11.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 11.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "startupbw",
@@ -2075,8 +2074,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 6.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.9,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "startupticker",
@@ -2089,8 +2088,8 @@
    ],
    "anzahl": 50,
    "fehler": "",
-   "sekunden": 39.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "startupverband",
@@ -2103,8 +2102,8 @@
    ],
    "anzahl": 7,
    "fehler": "",
-   "sekunden": 4.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "tech2b",
@@ -2119,8 +2118,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 15,
-   "sekunden": 23.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 25.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "techbase-events",
@@ -2133,8 +2132,8 @@
    ],
    "anzahl": 9,
    "fehler": "",
-   "sekunden": 4.0,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 4.4,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "thd-events",
@@ -2147,9 +2146,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 166,
-   "sekunden": 3.0,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 165,
+   "sekunden": 3.6,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "tum-venture-labs",
@@ -2162,8 +2161,8 @@
    ],
    "anzahl": 1,
    "fehler": "",
-   "sekunden": 4.3,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "uni-passau",
@@ -2171,11 +2170,13 @@
    "art": "events",
    "url": "https://www.uni-passau.de/veranstaltungen",
    "ok": true,
-   "methoden": [],
-   "anzahl": 0,
+   "methoden": [
+    "detailseiten:6"
+   ],
+   "anzahl": 6,
    "fehler": "",
-   "sekunden": 4.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 10.5,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "uni-regensburg",
@@ -2188,8 +2189,8 @@
    ],
    "anzahl": 7,
    "fehler": "",
-   "sekunden": 16.1,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 9.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "unternehmertum",
@@ -2202,8 +2203,8 @@
    ],
    "anzahl": 5,
    "fehler": "",
-   "sekunden": 4.2,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.3,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "vdma",
@@ -2217,8 +2218,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 1,
-   "sekunden": 2.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "werk1",
@@ -2228,12 +2229,12 @@
    "ok": true,
    "methoden": [
     "tribe-api",
-    "detailseiten:7"
+    "detailseiten:6"
    ],
-   "anzahl": 7,
+   "anzahl": 4,
    "fehler": "",
-   "sekunden": 6.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "wirtschaftsagentur-wien",
@@ -2246,9 +2247,9 @@
    ],
    "anzahl": 0,
    "fehler": "",
-   "zeilen": 58,
-   "sekunden": 7.7,
-   "zuletzt_ok": "2026-11-06"
+   "zeilen": 59,
+   "sekunden": 9.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "wko-veranstaltungen",
@@ -2261,8 +2262,8 @@
    ],
    "anzahl": 1,
    "fehler": "",
-   "sekunden": 3.1,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.8,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "wrs-termine",
@@ -2275,8 +2276,8 @@
    ],
    "anzahl": 7,
    "fehler": "",
-   "sekunden": 9.8,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.1,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "wvm",
@@ -2290,8 +2291,8 @@
    "anzahl": 0,
    "fehler": "",
    "zeilen": 1,
-   "sekunden": 2.6,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 3.2,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "zdb",
@@ -2304,8 +2305,8 @@
    ],
    "anzahl": 2,
    "fehler": "",
-   "sekunden": 2.4,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 2.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "zdh",
@@ -2314,12 +2315,12 @@
    "url": "https://www.zdh.de/presse/veranstaltungen/",
    "ok": true,
    "methoden": [
-    "detailseiten:11"
+    "detailseiten:12"
    ],
    "anzahl": 4,
    "fehler": "",
-   "sekunden": 8.9,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 10.0,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "zollhof",
@@ -2330,8 +2331,8 @@
    "methoden": [],
    "anzahl": 0,
    "fehler": "",
-   "sekunden": 10.7,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 6.7,
+   "zuletzt_ok": "2026-11-07"
   },
   {
    "id": "zvo",
@@ -2344,8 +2345,8 @@
    ],
    "anzahl": 5,
    "fehler": "",
-   "sekunden": 4.5,
-   "zuletzt_ok": "2026-11-06"
+   "sekunden": 5.2,
+   "zuletzt_ok": "2026-11-07"
   }
  ]
 }

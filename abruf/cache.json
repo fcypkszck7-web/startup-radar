@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-07",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -33291,6 +33291,911 @@
  },
  "https://warsawexpo.eu/en/fair-calendar/modular-prefab-expo/": {
   "geholt": "2026-11-06",
+  "events": [],
+  "v": 2
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/10/11/2026/baubq-stammtisch": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "BauBQ – Stammtisch neu gedacht",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "Regensburg-Galgenberg",
+    "land": "",
+    "online": false,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/10/11/2026/baubq-stammtisch",
+    "veranstalter": "",
+    "kurz": "BUILDING LAB, 17:00 Uhr",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Dach & Gebäudehülle"
+    ],
+    "schluessel": "2026-11-10|techbase.de/news-termine/events-termine/detail/10/11/2026/baubq-stammtisch",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/09-11-2026_quasi-maximum-likelihood-estimation-and-inference-of-large-approximate-dynamic-factor-models-via-the-em-algorithm-matteo-barigozzi-bocconi-university": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.hwkno.de/termine/verleihung-ehrenblatt-fuer-betriebsinhaber-76,0,evedetail.html?eve=1703": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Verleihung Ehrenblatt für Betriebsinhaber",
+    "start": "2026-11-27",
+    "ende": "2026-11-27",
+    "ort": "Handwerkskammer in Regensburg, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.hwkno.de/termine/verleihung-ehrenblatt-fuer-betriebsinhaber-76,0,evedetail.html?eve=1703",
+    "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "hwkno",
+    "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Handwerk"
+    ],
+    "schluessel": "2026-11-27|hwkno.de/termine/verleihung-ehrenblatt-fuer-betriebsinhaber-76,0,evedetail.html",
+    "quellen": [
+     "hwkno"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/gruenderwerkstatt-3/": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "GründerWerkstatt",
+    "start": "2026-11-20",
+    "ende": "2026-11-20",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/gruenderwerkstatt-3/",
+    "veranstalter": "",
+    "kurz": "Im Rahmen der Veranstaltungsreihe „GründerWerkstatt“ lädt der Campus Kemnath der OTH Amberg-Weiden in Kooperation mit dem Coworking Kemnath zum nächsten Termin der Reihe ein, der sich dem Thema „How to Pitch?“ widmet. Di",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-aw",
+    "quelle_name": "OTH Amberg-Weiden – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-20|oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/gruenderwerkstatt-3",
+    "quellen": [
+     "oth-aw"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_the-future-of-work-in-local-government-employee-perspectives-karoline-stroehlein-universitaet-regensburg": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.hwkno.de/termine/online-seminar-ausbildung-wir-beantworten-ihre-fragen-76,0,evedetail.html?eve=1820": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Online-Seminar: \"Ausbildung - Wir beantworten Ihre Fragen\"",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.hwkno.de/termine/online-seminar-ausbildung-wir-beantworten-ihre-fragen-76,0,evedetail.html?eve=1820",
+    "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "hwkno",
+    "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Handwerk"
+    ],
+    "schluessel": "2026-12-02|hwkno.de/termine/online-seminar-ausbildung-wir-beantworten-ihre-fragen-76,0,evedetail.html",
+    "quellen": [
+     "hwkno"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/vortrag-zum-glueck-vaeter-vereinbarkeit-von-beruf-und-privatleben-aus-vaetersicht-meistern": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Vortrag: Zum Glück Väter – Vereinbarkeit von Beruf und Privatleben aus Vätersicht meistern!",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/vortrag-zum-glueck-vaeter-vereinbarkeit-von-beruf-und-privatleben-aus-vaetersicht-meistern",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Handwerk"
+    ],
+    "schluessel": "2026-11-10|uni-passau.de/veranstaltungskalender/detail/event/vortrag-zum-glueck-vaeter-vereinbarkeit-von-beruf-und-privatleben-aus-vaetersicht-meistern",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_sprache-die-bass-fuer-inklusion-3": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Veranstaltung: Sprache - die BAS!S für Inklusion",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "online via Zoom",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_sprache-die-bass-fuer-inklusion-3",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_sprache-die-bass-fuer-inklusion-3",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-27&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=offene-sprechstunde-landshut-graduate-center-20261127&cHash=966f85a71020fde967e7cb80488f09a4": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Offene Sprechstunde Landshut Graduate Center",
+    "start": "2026-11-27",
+    "ende": "2026-11-27",
+    "ort": "N3 21",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261127",
+    "veranstalter": "",
+    "kurz": "Offene Sprechstunde des Graduate Centers",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-27|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261127",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/danube-floods-in-the-last-700-years-in-a-european-context": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Danube Floods - in the Last 700 Years in a European Context",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/danube-floods-in-the-last-700-years-in-a-european-context",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|uni-passau.de/veranstaltungskalender/detail/event/danube-floods-in-the-last-700-years-in-a-european-context",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/informationsveranstaltung-zum-auslandsstudium-fokus-lateinamerika": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Informationsveranstaltung zum Auslandsstudium - Fokus Lateinamerika",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/informationsveranstaltung-zum-auslandsstudium-fokus-lateinamerika",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|uni-passau.de/veranstaltungskalender/detail/event/informationsveranstaltung-zum-auslandsstudium-fokus-lateinamerika",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617542": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.baystartup.de/termine/detailview/event-21bb1b15833e4df6aa0931557dedfe88?no_cache=1": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620635": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.unternehmertum.de/events/opportunity-hunters-talks-5": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Opportunity Hunters Talks",
+    "start": "2026-11-19",
+    "ende": "2026-11-19",
+    "ort": "Google Maps",
+    "land": "",
+    "online": false,
+    "url": "https://www.unternehmertum.de/events/opportunity-hunters-talks-5",
+    "veranstalter": "UnternehmerTUM",
+    "kurz": "Meet Felix Poernbacher , Co-CEO & Co-Founder, DeepDrive . Hear how he really built a company, the wins, the wrong turns and what shaped him. Then go hunt…",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "unternehmertum",
+    "quelle_name": "UnternehmerTUM – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Bau & Immobilien",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-19|unternehmertum.de/events/opportunity-hunters-talks-5",
+    "quellen": [
+     "unternehmertum"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621228": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/mobilitaet/detail/unternehmerreise-nach-kanada-chips-north-2027/": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Unternehmerreise nach Kanada: CHIPS NORTH 2027",
+    "start": "2027-05-11",
+    "ende": "2027-05-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.bayern-innovativ.de/events-termine/mobilitaet/detail/unternehmerreise-nach-kanada-chips-north-2027/",
+    "veranstalter": "",
+    "kurz": "Die Bavarian Chips Alliance organisiert gemeinsam mit dem Cluster Automotive und dem Enterprise Europe Network (EEN) im Mai 2027 eine Unternehmerreise nach Ottawa.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-05-11|bayern-innovativ.de/events-termine/mobilitaet/detail/unternehmerreise-nach-kanada-chips-north-2027",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": "ligna-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/606235": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/material/detail/textalks-forschung-kennenlernen-im-netzwerk-textile-innovation-2/": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "TexTalks - Forschung kennenlernen im Netzwerk Textile Innovation",
+    "start": "2026-12-10",
+    "ende": "2026-12-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.bayern-innovativ.de/events-termine/material/detail/textalks-forschung-kennenlernen-im-netzwerk-textile-innovation-2/",
+    "veranstalter": "",
+    "kurz": "Wie lassen sich textile Kreisläufe effizienter gestalten und hochwertige Recyclingmaterialien gewinnen? Beim nächsten TexTalk gibt Georg Stegschuster vom Institut für Textiltechnik Augsburg (ITA Augsburg) Einblicke in ak",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Material & Kreislauf",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-10|bayern-innovativ.de/events-termine/material/detail/textalks-forschung-kennenlernen-im-netzwerk-textile-innovation-2",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617543": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/businessplan-fuer-bank-und-gruendung-3/": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Businessplan für Bank und Gründung",
+    "start": "2026-11-18",
+    "ende": "2026-11-18",
+    "ort": "Schleifenstraße 57, 1/2, Königsbrunn",
+    "land": "",
+    "online": true,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/businessplan-fuer-bank-und-gruendung-3/",
+    "veranstalter": "",
+    "kurz": "Sind Sie bereit, Ihre Geschäftsidee auf die nächste Stufe zu stellen? Dann verpassen Sie nicht unser neues Webinar \"Businessplan - so gehen Sie richtig vor\".",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-18|gruenderland.bayern/veranstaltungen/event/businessplan-fuer-bank-und-gruendung-3",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620506": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/digitalisierung/detail/unternehmerreise-nach-kanada-chips-north-2027/": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Unternehmerreise nach Kanada: CHIPS NORTH 2027",
+    "start": "2027-05-11",
+    "ende": "2027-05-11",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.bayern-innovativ.de/events-termine/digitalisierung/detail/unternehmerreise-nach-kanada-chips-north-2027/",
+    "veranstalter": "",
+    "kurz": "Die Bavarian Chips Alliance organisiert gemeinsam mit dem Cluster Automotive und dem Enterprise Europe Network (EEN) im Mai 2027 eine Unternehmerreise nach Ottawa.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-05-11|bayern-innovativ.de/events-termine/digitalisierung/detail/unternehmerreise-nach-kanada-chips-north-2027",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": "ligna-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/560474": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620719": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620452": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/618971": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.zdh.de/presse/veranstaltungen/zdh-termine/dhkt-vollversammlung-fruehjahr/": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "DHKT-Vollversammlung",
+    "start": "2027-03-11",
+    "ende": "2027-03-11",
+    "ort": "München",
+    "land": "",
+    "online": false,
+    "url": "https://www.zdh.de/presse/veranstaltungen/zdh-termine/dhkt-vollversammlung-fruehjahr/",
+    "veranstalter": "ZDH, Berlin",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "zdh",
+    "quelle_name": "Zentralverband des Deutschen Handwerks – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-03-11|zdh.de/presse/veranstaltungen/zdh-termine/dhkt-vollversammlung-fruehjahr",
+    "quellen": [
+     "zdh"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.zdh.de/presse/veranstaltungen/veranstaltungsrueckblick/vollversammlungen-2026/": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Vollversammlungen 2026",
+    "start": "2027-07-01",
+    "ende": "2027-07-01",
+    "ort": "Peter Haas zum neuen",
+    "land": "",
+    "online": false,
+    "url": "https://www.zdh.de/presse/veranstaltungen/veranstaltungsrueckblick/vollversammlungen-2026/",
+    "veranstalter": "",
+    "kurz": "Am 5. und 6. November kamen in Berlin die Spitzenorganisationen des deutschen Handwerks zu ihren Vollversammlungen zusammen. Auf der ZDH-Vollversammlung wu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zdh",
+    "quelle_name": "Zentralverband des Deutschen Handwerks – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Handwerk"
+    ],
+    "schluessel": "2027-07-01|zdh.de/presse/veranstaltungen/veranstaltungsrueckblick/vollversammlungen-2026",
+    "quellen": [
+     "zdh"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/apex-asia": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/isk-sodex-2": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/systems-components": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/agritechnica": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=dubai_the-leading-trade-fair-for-safety-security_228462": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Intersec",
+    "start": "2027-01-14",
+    "ende": "2027-01-14",
+    "ort": "_on",
+    "land": "",
+    "online": false,
+    "url": "https://www.auma.de/messen-finden/details/?tfd=dubai_the-leading-trade-fair-for-safety-security_228462",
+    "veranstalter": "",
+    "kurz": "Der AUMA stärkt die Messewirtschaft und unterstützt Sie beim Ausstellen. Ob Informationen zur Messeplanung oder zum Messeauftritt – wir vertreten die Interessen von Ausstellern, Veranstaltern, Serviceunternehmen und Besu",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "auma-bau",
+    "quelle_name": "AUMA Messedatenbank – Messen finden",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": []
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/industrial-transformation-saudi-arabia": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/unternehmerische-hochschule-wie-organisieren-hochschulen-selbstwirksamkeit-und-innovation": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Unternehmerische Hochschule: Wie organisieren Hochschulen Selbstwirksamkeit und Innovation?",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/unternehmerische-hochschule-wie-organisieren-hochschulen-selbstwirksamkeit-und-innovation",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-16|startupticker.ch/index.php/en/events/unternehmerische-hochschule-wie-organisieren-hochschulen-selbstwirksamkeit-und-innovation",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/domotex-2": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=amsterdam_weinmesse_232421": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/hannover-messe-3": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/intralogistica-italia": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=madrid_internationale-fachmesse-fur-werbeartikel_232462": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/surfacetechnology-germany": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/ideenexpo": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/iaa-transportation": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/euroblech-4": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/ligna-2": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/emo-hannover": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/interschutz-2": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/euroblech-3": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/euroblech-2": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startbase.de/events/the-founder-bootcamp-2027-06-campus-westend/": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "The Founder Bootcamp",
+    "start": "2027-06-10",
+    "ende": "2027-06-12",
+    "ort": "Campus Westend, Frankfurt",
+    "land": "DE",
+    "online": false,
+    "url": "https://www.startbase.de/events/the-founder-bootcamp-2027-06-campus-westend/",
+    "veranstalter": "",
+    "kurz": "Vom 10. bis 12. Juni 2027 findet in Frankfurt am Main das The Founder Bootcamp 2027 statt. Das dreitägige Intensivprogramm des Founders Club Frankfurt e.V. richtet sich an junge Gründerinnen und Gründer, die ihre Geschäf",
+    "methode": "json-ld",
+    "quelle_id": "startbase-events",
+    "quelle_name": "Startbase – Start-up-Events Deutschland",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-06-10|startbase.de/events/the-founder-bootcamp-2027-06-campus-westend",
+    "quellen": [
+     "startbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-07",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794025755-c1bb50c72": {
+  "geholt": "2026-11-07",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2026-12-07",
+    "ende": "2026-12-07",
+    "ort": "Termin",
+    "land": "",
+    "online": true,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794025755-c1bb50c72",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
+   }
+  ],
+  "v": 2
+ },
+ "https://www.viparis.com/en/news-events/events/devops-rex-2": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/grind-tech-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/eurogastro/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/world-hotel/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/wine-warsaw-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/beer-warsaw-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/clean-tech-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/vending-poland-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/horeca-foodservice-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-jewellery-fair/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-giftdeco/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-security-defence-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/drone-world-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/safety-rescue-expo-poland/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/gun-shooting-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/critical-infrastructure-forum/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/dual-use-poland-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/electronic-warfare-expo-poland/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/camper-caravan-show/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-motorcycle-show/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-pack/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/fast-textile-fabrics/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/fast-textile-fabrics-1/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-bus-expo/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/mt-tsl/": {
+  "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/mining-resources-expo-poland/": {
+  "geholt": "2026-11-07",
   "events": [],
   "v": 2
  }

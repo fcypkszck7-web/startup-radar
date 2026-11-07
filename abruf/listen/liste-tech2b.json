@@ -2,8 +2,10 @@
  "quelle": "liste-tech2b",
  "name": "tech2b – Start-ups",
  "url": "https://www.tech2b.at/startups/",
- "abgerufen": "2026-11-06",
+ "abgerufen": "2026-11-07",
  "koepfe": [
+  "PolitikDashboard",
+  "bloomnow",
   "Trailpulse",
   "LUML",
   "Supercount AI",
@@ -330,6 +332,16 @@
   {
    "text": "Ich möchte ein Startup gründen",
    "url": "https://www.tech2b.at/idee-einreichen/",
+   "extern": false
+  },
+  {
+   "text": "PolitikDashboard Wissen, was die Gemeinde bewegt.",
+   "url": "https://www.tech2b.at/startup/politikdashboard/",
+   "extern": false
+  },
+  {
+   "text": "bloomnow",
+   "url": "https://www.tech2b.at/startup/bloomnow/",
    "extern": false
   },
   {

@@ -2,7 +2,7 @@
  "quelle": "liste-groundbreakers",
  "name": "GROUNDBREAKERS – Start-ups",
  "url": "https://groundbreakers.io/en",
- "abgerufen": "2026-11-06",
+ "abgerufen": "2026-11-07",
  "koepfe": [
   "What brings you here?",
   "From pitch deck to paying customer",
@@ -15,10 +15,10 @@
   "GROUNDBREAKERS Alumni",
   "GROUNDBREAKERSSUMMIT 2026",
   "Nice to meet you",
-  "Topping-Out Ceremony of the StrawBrick Pavilion",
-  "GROUNDBREAKERS Summit 2026",
   "Innovationstag „Bauen der Zukunft“ – Berlin",
   "Klimafestival für die Bauwende",
+  "Groundbreaking Future",
+  "Hi Tech! Match",
   "Your Innovation­Department",
   "Venture Clienting",
   "GROUNDBREAKERS Tool",
@@ -217,7 +217,7 @@
   "Make a BIM",
   "Optocycle",
   "Rement",
-  "Find 1100+ more startups in our GROUNDBREAKERS Tool",
+  "Find 1200+ more startups in our GROUNDBREAKERS Tool",
   "Team",
   "Interested in AI-RE?",
   "Team",
@@ -353,7 +353,7 @@
   "Pitch Formats",
   "On-Site Innovation Formats",
   "All Events at a Glance",
-  "1100+ Curated Startups. One Access Point.",
+  "1200+ Curated Startups. One Access Point.",
   "What Partners Say About Working With Us",
   "Become a Groundbreaker Now",
   "Three areas where we make you stronger",
@@ -467,21 +467,6 @@
    "extern": false
   },
   {
-   "text": "To the Challenge >",
-   "url": "https://www.groundbreakers.io/en",
-   "extern": false
-  },
-  {
-   "text": "Get Your Ticket >",
-   "url": "https://www.eventbrite.de/e/groundbreakers-summit-2026-tickets-1973784146515?aff=oddtdtcreator",
-   "extern": true
-  },
-  {
-   "text": "More on the Summit >",
-   "url": "https://www.groundbreakers.io/en",
-   "extern": false
-  },
-  {
    "text": "More Info >",
    "url": "https://www.bauenderzukunft.com/events-2026-bauen-der-zukunft-konferenzen/?event_id=006516d29c4040f6a920ebf000c1c207",
    "extern": true
@@ -492,7 +477,22 @@
    "extern": true
   },
   {
-   "text": "+3 more events View All >",
+   "text": "Register Now >",
+   "url": "https://eventfrog.de//de/p/wissenschaft-technik/digitalisierung-ki/aed-x-groundbreakers-international-stuttgart-7523758897640791829.html?mtm_source=sharing&mtm_medium=link_kopieren",
+   "extern": true
+  },
+  {
+   "text": "Register Now >",
+   "url": "https://wrs.region-stuttgart.de/termine/hi-tech-match-3-2-2/",
+   "extern": true
+  },
+  {
+   "text": "More on the Hi Tech! Batch >",
+   "url": "https://www.groundbreakers.io/en",
+   "extern": false
+  },
+  {
+   "text": "+1 more events View All >",
    "url": "https://www.groundbreakers.io/en",
    "extern": false
   },
@@ -2092,21 +2092,6 @@
    "extern": true
   },
   {
-   "text": "To the Challenge >",
-   "url": "https://www.groundbreakers.io/en",
-   "extern": false
-  },
-  {
-   "text": "Get Your Ticket >",
-   "url": "https://www.eventbrite.de/e/groundbreakers-summit-2026-tickets-1973784146515?aff=oddtdtcreator",
-   "extern": true
-  },
-  {
-   "text": "More on the Summit >",
-   "url": "https://www.groundbreakers.io/en",
-   "extern": false
-  },
-  {
    "text": "More Info >",
    "url": "https://www.bauenderzukunft.com/events-2026-bauen-der-zukunft-konferenzen/?event_id=006516d29c4040f6a920ebf000c1c207",
    "extern": true
@@ -2114,6 +2099,11 @@
   {
    "text": "More Info >",
    "url": "https://klimafestival.heinze.de/de/",
+   "extern": true
+  },
+  {
+   "text": "Register Now >",
+   "url": "https://eventfrog.de//de/p/wissenschaft-technik/digitalisierung-ki/aed-x-groundbreakers-international-stuttgart-7523758897640791829.html?mtm_source=sharing&mtm_medium=link_kopieren",
    "extern": true
   },
   {
