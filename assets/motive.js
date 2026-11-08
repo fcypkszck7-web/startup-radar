@@ -245,9 +245,15 @@
   };
 
   /* Die spezifischste Branche bestimmt das Motiv: „Gründung & Innovation“ nur, wenn sonst nichts passt */
-  function wahl(branchen) {
+  /* Mit Häufigkeiten: die seltenste der Branchen – Software und Gründung sind fast überall dabei und sagen wenig über das Material */
+  function wahl(branchen, haeufig) {
     var b = (branchen || []).filter(function (x) { return MOTIVE[x]; });
     var genauer = b.filter(function (x) { return x !== "Gründung & Innovation"; });
+    if (haeufig && genauer.length > 1) {
+      var allg = genauer.filter(function (x) { return x !== "Software, KI & Daten"; });
+      var pool = allg.length ? allg : genauer;
+      return pool.slice().sort(function (x, y) { return (haeufig[x] || 0) - (haeufig[y] || 0); })[0];
+    }
     return genauer[0] || b[0] || "";
   }
 
@@ -258,5 +264,20 @@
       "<defs>" + m.defs + l.defs + "</defs>" + m.inhalt + l.ueber + "</svg>";
   }
 
-  root.Motiv = { svg: svg, wahl: wahl, branchen: Object.keys(MOTIVE) };
+  /* Als CSS-Hintergrund: ein Bild je Branche, einmal erzeugt und von allen Karten geteilt */
+  function datenUrl(branche) {
+    var id = "mb" + (++zaehler), z = rng((branche || "") + "|band");
+    var m = (MOTIVE[branche] || linien)(id, z), l = licht(id, z, m.lichtStaerke);
+    var t = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + W + " " + H + '" preserveAspectRatio="xMidYMid slice"><defs>' + m.defs + l.defs + '</defs><rect width="' + W + '" height="' + H + '" fill="' + m.grund + '"/>' + m.inhalt + l.ueber + "</svg>";
+    return 'url("data:image/svg+xml,' + encodeURIComponent(t).replace(/'/g, "%27").replace(/\(/g, "%28").replace(/\)/g, "%29") + '")';
+  }
+  function bandStile() {
+    return Object.keys(MOTIVE).map(function (b, i) { return ".mb-" + i + "{background-image:" + datenUrl(b) + "}"; }).join("\n") + "\n.mb-x{background-image:" + datenUrl("") + "}";
+  }
+  function bandKlasse(branchen, haeufig) {
+    var i = Object.keys(MOTIVE).indexOf(wahl(branchen, haeufig));
+    return i < 0 ? "mb-x" : "mb-" + i;
+  }
+
+  root.Motiv = { svg: svg, wahl: wahl, branchen: Object.keys(MOTIVE), bandStile: bandStile, bandKlasse: bandKlasse };
 })(window);

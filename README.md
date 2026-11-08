@@ -10,7 +10,8 @@ Statische Webseite mit Start-up- und Netzwerkveranstaltungen sowie passenden Sta
 |---|---|
 | `index.html`, `assets/style.css`, `assets/app.js` | Seite, Gestaltung und Logik (Radar, Zeitstrahl, Kalender, Filter, Suche, Merkliste, Downloads) |
 | `assets/radar.js`, `assets/karte.js` | Animiertes Radar (auf der Übersicht als gekippter 3D-Lagetisch mit Lichtsäulen, umschaltbar auf Draufsicht); vorberechnete Europa-Umrisse (Natural Earth, gemeinfrei) |
-| `assets/motive.js` | Erzeugte Materialbilder je Branche (Dachziegel, Solarmodul, Sichtbeton …) als Titelbilder der Detailansicht – reines SVG, keine Fotos, keine externen Dateien |
+| `assets/motive.js` | Erzeugte Materialbilder je Branche (Dachziegel, Solarmodul, Sichtbeton …) als Titelbilder der Detailansicht und als Band auf den Start-up-Karten – reines SVG, keine externen Dateien |
+| `assets/bilder/` | Fotos für die Seitenköpfe (Termine, Start-ups, Kapital; Archiv nutzt das Termine-Bild entsättigt) – KI-generiert, lokal gespeichert, ohne reale Orte, Personen oder Marken |
 | `assets/export.js` | Kalender-, Excel- und CSV-Export im Browser |
 | `assets/fonts/` | Schrift Barlow (SIL Open Font License), lokal eingebunden |
 | `data/events.json` | Veranstaltungen – Quelle der Wahrheit |

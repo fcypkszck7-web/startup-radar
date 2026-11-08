@@ -56,6 +56,7 @@
     x: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>',
     links: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 5.5L8 12l6.5 6.5"/></svg>',
     rechts: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.5 5.5L16 12l-6.5 6.5"/></svg>',
+    unten: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.5 9.5L12 16l6.5-6.5"/></svg>',
     suche: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>',
     filter: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>',
     liste: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6.5h12M8 12h12M8 17.5h12"/><circle cx="4.2" cy="6.5" r="1"/><circle cx="4.2" cy="12" r="1"/><circle cx="4.2" cy="17.5" r="1"/></svg>',
@@ -221,6 +222,7 @@
       a.classList.toggle("aktiv", an);
       if (an) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
     });
+    navZeiger();
     document.title = TITEL[z.r] + " – Start-up- & Event-Radar";
     var zeichne = function () {
       aufraeumen();
@@ -244,9 +246,31 @@
   }
   function ansichtRadarWeg() { if (S.ansichtRadar) { S.ansichtRadar.entferne(); S.ansichtRadar = null; } }
 
+  /* Gleitende Markierung unter dem aktiven Bereich der Hauptnavigation */
+  function navZeiger() {
+    var nav = $(".hauptnav"); if (!nav) return;
+    var z = $(".nav-zeiger", nav);
+    if (!z) { z = document.createElement("span"); z.className = "nav-zeiger"; z.setAttribute("aria-hidden", "true"); nav.appendChild(z); }
+    var akt = $("a.aktiv", nav);
+    if (!akt || !akt.offsetWidth) { z.style.opacity = "0"; return; }
+    z.style.width = (akt.offsetWidth - 24) + "px";
+    z.style.transform = "translateX(" + (akt.offsetLeft + 12) + "px)";
+    z.style.opacity = "1";
+    if (!z.classList.contains("bereit")) requestAnimationFrame(function () { requestAnimationFrame(function () { z.classList.add("bereit"); }); });
+  }
+  window.addEventListener("resize", function () { navZeiger(); });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { navZeiger(); });
+
   /* ---------- Dunkler Seitenkopf für Unterseiten ---------- */
+  /* Kopfbilder: mit KI erzeugte Fotos (ElevenLabs), lokal gespeichert – keine Personen, keine Marken, keine externen Abrufe */
+  var KOPFBILD = { termine: "termine", archiv: "termine", startups: "startups", kapital: "kapital" };
+  function kopfbild(name, art) {
+    var b = KOPFBILD[name];
+    if (!b) return "";
+    return '<div class="kb-bild' + (art ? " " + art : "") + '" data-bild="' + b + '" aria-hidden="true"><img src="assets/bilder/' + b + '.webp" alt="" decoding="async" onload="this.parentNode.classList.add(\'da\')"></div>';
+  }
   function kopfband(o) {
-    return '<section class="kopfband" data-akzent="' + esc(o.akzent || "alle") + '" id="kopfband"><div class="kopfband-innen">' +
+    return '<section class="kopfband' + (o.bild ? " mit-bild" : "") + '" data-akzent="' + esc(o.akzent || "alle") + '" id="kopfband">' + (o.bild ? kopfbild(o.bild, o.bildArt) : "") + '<div class="kopfband-innen">' +
       '<div class="kb-text"><h1>' + esc(o.titel) + "</h1>" + '<p class="kb-intro"' + (o.textId ? ' id="' + o.textId + '"' : "") + ">" + esc(o.text) + "</p>" +
       (o.reiter || "") + (o.unten || "") + "</div>" +
       (o.rechts ? '<div class="kb-rechts">' + o.rechts + "</div>" : "") + "</div></section>";
@@ -317,7 +341,18 @@
     var r = t.getBoundingClientRect();
     tooltip(e, { x: r.left + Math.min(r.width / 2, 60), y: r.top + r.height / 2, r: r.height / 2 + 2 });
   });
+  document.addEventListener("pointerover", function (ev) {
+    if (ev.pointerType && ev.pointerType !== "mouse") return;
+    var t = ev.target.closest && ev.target.closest("[data-tip-deal]");
+    if (!t) return;
+    var id = t.getAttribute("data-tip-deal"), r = S.runden.filter(function (x) { return x.id === id; })[0];
+    if (!r) return;
+    var b = t.getBoundingClientRect();
+    tooltipDeal(r, { x: b.left + b.width / 2, y: b.top + b.height / 2, r: b.height / 2 + 4 });
+  });
   document.addEventListener("pointerout", function (ev) {
+    var d = ev.target.closest && ev.target.closest("[data-tip-deal]");
+    if (d && !(ev.relatedTarget && d.contains(ev.relatedTarget))) tooltip(null);
     var t = ev.target.closest && ev.target.closest("[data-tip]");
     if (t && !(ev.relatedTarget && t.contains(ev.relatedTarget))) tooltip(null);
   });
@@ -412,7 +447,7 @@
     S.heldRadar = radar;
     heldAktualisieren(true);
 
-    zeitstrahl($("#zs-ueb"), aktiv, { monate: 18 });
+    zeitstrahl($("#zs-ueb"), aktiv, { monate: 18, kappe: 560 });
 
     $$("[data-fenster]").forEach(function (b) {
       b.addEventListener("click", function () {
@@ -591,11 +626,21 @@
       return '<div class="zs-monat" style="left:' + i * mw + "px;width:" + mw + 'px"><span>' + MON_KURZ[mi] + (mi === 0 || i === 0 ? '<span class="jahr">' + p[0] + "</span>" : "") + "</span></div>";
     }).join("");
     var heuteX = S.heute.slice(0, 7) >= von && S.heute.slice(0, 7) <= bisYm ? x(S.heute) : null;
-    ziel.innerHTML = '<div class="zs"><div class="zs-scroll" tabindex="0" aria-label="Zeitstrahl, mit Pfeiltasten oder Wischen blättern"><div class="zs-flaeche" style="width:' + monate * mw + "px;height:" + hoehe + 'px">' + monatsHtml +
+    var kappe = opt.kappe && hoehe > opt.kappe + 120 ? opt.kappe : 0;
+    ziel.innerHTML = '<div class="zs' + (kappe ? " gekappt" : "") + '"' + (kappe ? ' style="--kappe:' + kappe + 'px"' : "") + '><div class="zs-scroll" id="zs-scroll-' + (ziel.id || "x") + '" tabindex="0" aria-label="Zeitstrahl, mit Pfeiltasten oder Wischen blättern"' + (kappe ? ' style="max-height:' + kappe + 'px"' : "") + '><div class="zs-flaeche" style="width:' + monate * mw + "px;height:" + hoehe + 'px">' + monatsHtml +
       (heuteX != null ? '<div class="zs-heute" style="left:' + heuteX.toFixed(1) + 'px"></div>' : "") + h + "</div></div>" +
+      (kappe ? '<div class="zs-blende" aria-hidden="true"></div><button type="button" class="zs-mehr" aria-expanded="false" aria-controls="zs-scroll-' + (ziel.id || "x") + '">' + I.unten + "<span>Alle " + items.length + " Termine aufklappen</span></button>" : "") +
       '<div class="zs-steuer"><button type="button" class="icon-knopf" data-zs="-1" aria-label="Zurückblättern">' + I.links + '</button><button type="button" class="icon-knopf" data-zs="1" aria-label="Weiterblättern">' + I.rechts + "</button></div>" +
       '<div class="zs-legende"><span><i class="zl-bar" style="background:var(--signal)"></i>Priorität A</span><span><i class="zl-bar" style="background:var(--solar)"></i>B</span><span><i class="zl-bar" style="background:var(--c-grau)"></i>C</span><span><i class="zl-bar" style="border:2px dashed var(--c-grau)"></i>Datum geschätzt</span>' + (items.length ? "" : "<span>Keine Termine in dieser Auswahl.</span>") + "</div></div>";
     var zs = $(".zs", ziel), sc = $(".zs-scroll", ziel);
+    if (kappe) $(".zs-mehr", ziel).addEventListener("click", function () {
+      var auf = this.getAttribute("aria-expanded") !== "true";
+      this.setAttribute("aria-expanded", auf ? "true" : "false");
+      $("span", this).textContent = auf ? "Wieder einklappen" : "Alle " + items.length + " Termine aufklappen";
+      sc.style.maxHeight = (auf ? hoehe : kappe) + "px";
+      zs.classList.toggle("offen", auf);
+      if (!auf) zs.scrollIntoView({ block: "nearest", behavior: reduziert.matches ? "auto" : "smooth" });
+    });
     $$("[data-zs]", ziel).forEach(function (b) {
       b.addEventListener("click", function () { sc.scrollBy({ left: +b.getAttribute("data-zs") * sc.clientWidth * 0.75, behavior: reduziert.matches ? "auto" : "smooth" }); });
     });
@@ -677,10 +722,10 @@
 
     var h;
     if (art === "archiv") {
-      h = kopfband({ akzent: "archiv", titel: "Archiv", text: "Vergangene Veranstaltungen zum Nachschlagen und für die Planung im nächsten Jahr. Termine wandern nach ihrem letzten Tag automatisch hierher.",
+      h = kopfband({ akzent: "archiv", bild: "archiv", bildArt: "vergangen", titel: "Archiv", text: "Vergangene Veranstaltungen zum Nachschlagen und für die Planung im nächsten Jahr. Termine wandern nach ihrem letzten Tag automatisch hierher.",
         unten: '<p class="kb-link"><a href="#termine">Zu den kommenden Terminen</a></p>' });
     } else {
-      h = kopfband({ akzent: f.rubrik || "alle", titel: "Termine", textId: "reiter-text", text: REITER_TEXT[f.rubrik],
+      h = kopfband({ akzent: f.rubrik || "alle", bild: "termine", titel: "Termine", textId: "reiter-text", text: REITER_TEXT[f.rubrik],
         reiter: '<div class="reiter" role="tablist" aria-label="Rubrik">' + REITER.map(function (r) {
           return '<button type="button" role="tab" data-rubrik="' + r[0] + '" aria-selected="' + (f.rubrik === r[0]) + '">' + esc(r[1]) + "<span>" + umfang("termine", r[0]).length + "</span></button>";
         }).join("") + "</div>",
@@ -922,7 +967,7 @@
   }
   function zeigeStartups() {
     var sf = S.s;
-    var h = kopfband({ akzent: SU_AKZENT[sf.region], titel: "Start-ups", textId: "su-text", text: SU_TEXT[sf.region],
+    var h = kopfband({ akzent: SU_AKZENT[sf.region], bild: "startups", titel: "Start-ups", textId: "su-text", text: SU_TEXT[sf.region],
       reiter: '<div class="reiter" role="tablist" aria-label="Region" id="su-reiter">' + regionTabs() + "</div>",
       unten: '<p class="kb-link"><a href="#kapital">Finanzierungen und Investoren ansehen</a> · <a href="#quellen">Quellen der Recherche</a></p>',
       rechts: '<div class="kb-radar"><div class="radar" id="radar-kopf"></div></div>' });
@@ -934,7 +979,7 @@
       '<div class="matrix-wrap"><div class="achse-y">Relevanz, oben hoch</div><div class="matrix" id="matrix"></div><div class="achse-x">Umsetzungsaufwand, links gering</div></div>' +
       '<div class="matrix-legende"><span><span class="m-chip prio-A" style="padding:1px 6px">A</span>Priorität A</span><span><span class="m-chip prio-B" style="padding:1px 6px">B</span>B</span><span><span class="m-chip" style="padding:1px 6px">C</span>C</span><span><i class="ost-punkt"></i>Sitz in Ostbayern</span></div></div>';
     h += '<div><div class="ergebnis-kopf"><span class="anzahl" id="s-anzahl"></span>' + downloadsHtml("su", false) + "</div>" +
-      '<ul class="zeilen" id="s-liste"></ul></div></div></div>';
+      '<ul class="zeilen su-karten" id="s-liste"></ul></div></div></div>';
     $("#ansicht").innerHTML = h;
     kopfRadar(suUmfang().filter(function (s) { return s.geo; }), true);
     var tq;
@@ -1034,10 +1079,22 @@
       z.addEventListener("mouseleave", function () { var c = $('[data-su-chip="' + id + '"]'); if (c) c.classList.remove("fokus"); });
     });
   }
+  /* Materialband oben auf den Start-up-Karten: ein SVG-Bild je Branche, einmal als Stil angelegt */
+  function bandHtml(s) {
+    if (!window.Motiv) return "";
+    if (!document.getElementById("motiv-baender")) {
+      var st = document.createElement("style"); st.id = "motiv-baender"; st.textContent = window.Motiv.bandStile(); document.head.appendChild(st);
+    }
+    if (!S.suHaeufig) {
+      S.suHaeufig = {};
+      S.startups.forEach(function (x) { (x.branchen || []).forEach(function (b) { S.suHaeufig[b] = (S.suHaeufig[b] || 0) + 1; }); });
+    }
+    return '<span class="su-band ' + window.Motiv.bandKlasse(s.branchen, S.suHaeufig) + '" aria-hidden="true"></span>';
+  }
   function suZeileHtml(s) {
     var lr = s.letzte_runde;
     return '<li class="zeile su-zeile prio-' + s.prioritaet + '" data-id="' + esc(s.id) + '">' +
-      '<button type="button" class="zeile-knopf" data-oeffne-su="' + esc(s.id) + '">' + logo(s) +
+      '<button type="button" class="zeile-knopf" data-oeffne-su="' + esc(s.id) + '">' + bandHtml(s) + logo(s) +
       '<span class="z-haupt"><span class="z-titel">' + esc(s.name) + "</span>" +
       '<span class="z-meta"><span>' + I.ort + esc(s.sitz) + (s.land && s.land !== "DE" ? ", " + esc(LAND[s.land] || s.land) : "") + "</span>" + branchenTags(s, 3) +
       (lr ? '<span class="z-geld">' + esc(lr.runde) + ": " + esc(lr.betrag) + " (" + esc(monatJahr(lr.datum)) + ")</span>" : "") + "</span>" +
@@ -1068,8 +1125,9 @@
       "<div><dt>Summe der in Euro genannten Beträge</dt><dd>" + esc(fmtMio(summe)) + "</dd></div>" +
       "<div><dt>Übernahmen im selben Zeitraum</dt><dd>" + jahr.filter(function (r) { return r.art === "Übernahme"; }).length + "</dd></div>" +
       "<div><dt>Investoren mit Profil</dt><dd>" + S.investoren.length + "</dd></div></dl>";
-    var h = kopfband({ akzent: "kapital", titel: "Kapital", text: "Öffentlich bekannte Finanzierungsrunden, Übernahmen und Investoren rund um Dach, Solar, Bau und Fertigung – jeweils mit Quelle. Eigene Bewertungen und Finanzanalysen gehören nicht auf diese Seite.", rechts: rechts });
+    var h = kopfband({ akzent: "kapital", bild: "kapital", titel: "Kapital", text: "Öffentlich bekannte Finanzierungsrunden, Übernahmen und Investoren rund um Dach, Solar, Bau und Fertigung – jeweils mit Quelle. Eigene Bewertungen und Finanzanalysen gehören nicht auf diese Seite.", rechts: rechts });
     h += '<div class="breite">';
+    h += '<section class="abschnitt" aria-labelledby="ks-titel"><div class="abschnitt-kopf"><h2 id="ks-titel">Runden im Zeitverlauf</h2><p>Jeder Kreis ist ein Deal, seine Fläche entspricht dem genannten Betrag in Euro. Hohle Kreise: Betrag nicht veröffentlicht oder in einer anderen Währung. Antippen öffnet die Details.</p></div><div class="ks" id="ks"></div></section>';
     h += '<section class="abschnitt" aria-labelledby="deals-titel"><div class="abschnitt-kopf"><h2 id="deals-titel">Deals</h2><p>Finanzierungsrunden der Start-ups im Radar und weitere Runden, Übernahmen und neue Fonds in diesen Themen. Neueste zuerst.</p></div>' +
       '<div class="deal-filter"><div class="segment" role="radiogroup" aria-label="Art">' + ARTEN.map(function (a) {
         return '<button type="button" role="radio" data-k-art="' + esc(a[0]) + '" aria-checked="' + (S.k.art === a[0]) + '">' + esc(a[1]) + "</button>";
@@ -1094,6 +1152,7 @@
     });
     $("#k-thema").addEventListener("change", function () { S.k.thema = this.value; aktualisiereDeals(true); });
     $("#k-radar").addEventListener("change", function () { S.k.nurRadar = this.checked; aktualisiereDeals(true); });
+    kapitalstrom($("#ks"), S.runden);
     aktualisiereDeals(false);
     netzwerk($("#netz"));
   }
@@ -1104,6 +1163,50 @@
     $("#d-anzahl").innerHTML = plural(l.length, "Deal", "Deals") + (l.length !== S.runden.length ? "<small>von " + S.runden.length + "</small>" : "");
     var zeichne = function () { $("#d-liste").innerHTML = l.length ? l.map(dealZeile).join("") : '<li class="leer" style="border:0">Kein Deal passt zu den Filtern.</li>'; };
     if (animiert) flip($("#d-liste"), zeichne); else zeichne();
+    var drin = {}; l.forEach(function (r) { drin[r.id] = true; });
+    $$(".ks-blase").forEach(function (b) { b.classList.toggle("aus", !drin[b.getAttribute("data-oeffne-deal")]); });
+  }
+
+  /* Kapitalstrom: Deals als Kreise auf einer Zeitachse, eine Bahn je Thema. Ein Strahl läuft einmal von links nach rechts und lässt die Kreise erscheinen – wie der Radarstrahl. */
+  function kapitalstrom(ziel, runden) {
+    if (!ziel) return;
+    var ab = "2022-01-01", bis = addMonate(S.heute, 2);
+    var t0 = dt(ab).getTime(), t1 = dt(bis).getTime();
+    var zaehl = {}; runden.forEach(function (r) { zaehl[r.thema] = (zaehl[r.thema] || 0) + 1; });
+    var bahnen = Object.keys(zaehl).sort(function (x, y) { return zaehl[y] - zaehl[x] || x.localeCompare(y); });
+    function xPos(d) {
+      var s = d.length === 7 ? d + "-15" : d;
+      if (s < ab) return 1.2;
+      return 4 + (dt(s).getTime() - t0) / (t1 - t0) * 94;
+    }
+    var jahre = [];
+    for (var j = 2022; j <= +bis.slice(0, 4); j++) jahre.push(j);
+    var h = '<div class="ks-feld">';
+    h += '<div class="ks-achse" aria-hidden="true">' + jahre.map(function (j) { var x = xPos(j + "-01-01"); return x > 95 ? "" : '<span style="left:' + x.toFixed(2) + '%">' + j + "</span>"; }).join("") + '<span class="ks-frueher" style="left:1.2%">früher</span><span class="ks-heute" style="left:' + xPos(S.heute).toFixed(2) + '%">heute</span></div>';
+    h += bahnen.map(function (b, bi) {
+      var inBahn = runden.filter(function (r) { return r.thema === b; }).slice().sort(function (x, y) { return (y.betrag_mio_eur || 0) - (x.betrag_mio_eur || 0); });
+      return '<div class="ks-bahn"><span class="ks-name">' + esc(b) + '</span><div class="ks-spur" role="group" aria-label="' + esc(b) + '">' + inBahn.map(function (r, i) {
+        var x = xPos(r.datum), mio = r.betrag_mio_eur || 0;
+        var rad = mio ? 5 + Math.sqrt(mio) * 2.3 : 6;
+        var art = r.art === "Übernahme" ? "uebernahme" : r.art === "Fonds" ? "fonds" : "runde";
+        var dy = ((i % 3) - 1) * 9;
+        return '<button type="button" class="ks-blase ' + art + (mio ? "" : " hohl") + '" data-oeffne-deal="' + esc(r.id) + '" data-tip-deal="' + esc(r.id) + '" style="left:' + x.toFixed(2) + "%;--r:" + rad.toFixed(1) + "px;--dy:" + dy + "px;--v:" + (x / 100 * 1.6).toFixed(2) + 's" aria-label="' + esc(r.unternehmen + ", " + r.runde + ", " + r.betrag + ", " + monatJahr(r.datum)) + '"></button>';
+      }).join("") + "</div></div>";
+    }).join("");
+    h += '<div class="ks-strahl" aria-hidden="true"></div></div>';
+    h += '<div class="ks-legende"><span><i class="ks-l runde"></i>Finanzierungsrunde</span><span><i class="ks-l uebernahme"></i>Übernahme</span><span><i class="ks-l fonds"></i>Fonds</span><span><i class="ks-l hohl"></i>Betrag nicht in Euro genannt</span></div>';
+    ziel.innerHTML = h;
+    if (reduziert.matches || !window.IntersectionObserver) { ziel.classList.add("an"); return; }
+    var io = new IntersectionObserver(function (es) { if (es[0].isIntersecting) { ziel.classList.add("an", "laeuft"); io.disconnect(); } }, { threshold: 0.25 });
+    io.observe(ziel);
+  }
+  function tooltipDeal(r, p) {
+    tipEl.innerHTML = '<span class="tt-kopf"><span class="tt-zeile">' + esc(r.art) + ", " + esc(monatJahr(r.datum)) + "</span></span><strong>" + esc(r.unternehmen) + '</strong><span class="tt-zeile">' + esc(r.runde) + ": " + esc(r.betrag) + "<br>" + esc(r.thema) + "</span>";
+    tipEl.hidden = false;
+    var oben = p.y - p.r > 150;
+    tipEl.classList.toggle("unten", !oben);
+    tipEl.style.left = Math.max(160, Math.min(window.innerWidth - 160, p.x)) + "px";
+    tipEl.style.top = (oben ? p.y - p.r : p.y + p.r) + "px";
   }
   function dealZeile(r) {
     var p = r.datum.split("-");
@@ -1614,7 +1717,9 @@
   /* Materialbild der Branche als Titelbild (erzeugt, keine Fotos) */
   function motivBild(x) {
     if (!window.Motiv) return "";
-    return '<div class="p-motiv">' + window.Motiv.svg(window.Motiv.wahl(x.branchen), x.id) + "</div>";
+    var su = S.startups.indexOf(x) >= 0;
+    if (su) bandHtml(x);
+    return '<div class="p-motiv">' + window.Motiv.svg(window.Motiv.wahl(x.branchen, su ? S.suHaeufig : null), x.id) + "</div>";
   }
   function fakt(icon, html) { return '<div class="p-fakt">' + icon + "<div>" + html + "</div></div>"; }
   function zeile(k, v) { return "<dt>" + esc(k) + "</dt><dd>" + esc(v == null || v === "" ? "k. A." : v) + "</dd>"; }
