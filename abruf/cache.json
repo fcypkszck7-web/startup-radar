@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-07",
+  "geholt": "2026-11-08",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -34196,6 +34196,399 @@
  },
  "https://warsawexpo.eu/en/fair-calendar/mining-resources-expo-poland/": {
   "geholt": "2026-11-07",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-3": {
+  "geholt": "2026-11-08",
+  "events": [
+   {
+    "titel": "Veranstaltung: Verfassungsdebatten: Antike Ursprünge, historische Wirkung, aktuelle Relevanz",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "H22",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-3",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-3",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-08",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.hwkno.de/termine/stolperfallen-bei-kauf-und-werkvertraegen-im-ausland-76,0,evedetail.html?eve=1488": {
+  "geholt": "2026-11-08",
+  "events": [
+   {
+    "titel": "Stolperfallen bei Kauf- und Werkverträgen im Ausland",
+    "start": "2026-12-09",
+    "ende": "2026-12-09",
+    "ort": "online",
+    "land": "",
+    "online": false,
+    "url": "https://www.hwkno.de/termine/stolperfallen-bei-kauf-und-werkvertraegen-im-ausland-76,0,evedetail.html?eve=1488",
+    "veranstalter": "Bayern Handwerk International",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "hwkno",
+    "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Handwerk"
+    ],
+    "schluessel": "2026-12-09|hwkno.de/termine/stolperfallen-bei-kauf-und-werkvertraegen-im-ausland-76,0,evedetail.html",
+    "quellen": [
+     "hwkno"
+    ],
+    "zuerst_gesehen": "2026-11-08",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-11-27&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=landshut-leichtbau-kolloquium&cHash=27942bd5c0a680add7fb57aed3c25196": {
+  "geholt": "2026-11-08",
+  "events": [
+   {
+    "titel": "Landshut Leadership Kolloquium",
+    "start": "2026-11-27",
+    "ende": "2026-11-27",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/landshut-leichtbau-kolloquium",
+    "veranstalter": "",
+    "kurz": "In den vergangnen zehn Jahren diskutierten renommierte Referenten/-innen mit Führungkräften Auswirkungen von disruptiven Veränderungen in einer komplexen Welt sowie Strategien für den Weg in eine erfolgreiche Zukunft. Da",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-27|haw-landshut.de/veranstaltungen/termin/landshut-leichtbau-kolloquium",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-08",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617586": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620769": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/615177": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620770": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617590": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/552250": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620900": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/599075": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617501": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621305": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/investing-in-global-startups-built-from-unlikely-ecosystems": {
+  "geholt": "2026-11-08",
+  "events": [
+   {
+    "titel": "Investing in Global Startups Built from Unlikely Ecosystems",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/investing-in-global-startups-built-from-unlikely-ecosystems",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Bau & Immobilien",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-16|startupticker.ch/index.php/en/events/investing-in-global-startups-built-from-unlikely-ecosystems",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-08",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/women-in-entrepreneurship-%281%29": {
+  "geholt": "2026-11-08",
+  "events": [
+   {
+    "titel": "Women in Entrepreneurship",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "men in Entrepreneurship",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/women-in-entrepreneurship-%281%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-16|startupticker.ch/en/events/women-in-entrepreneurship-%281%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-08",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/droit-des-brevets-a-compter-du-2027-module-avance": {
+  "geholt": "2026-11-08",
+  "events": [
+   {
+    "titel": "Droit des brevets à compter du 2027 - module avancé",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "En ligne",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/index.php/en/events/droit-des-brevets-a-compter-du-2027-module-avance",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-16|startupticker.ch/index.php/en/events/droit-des-brevets-a-compter-du-2027-module-avance",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-08",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794112226-ca31b2a0b": {
+  "geholt": "2026-11-08",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2027-06-10",
+    "ende": "2027-06-10",
+    "ort": "Termin",
+    "land": "",
+    "online": true,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794112226-ca31b2a0b",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2027-06-10|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "intersolar-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/rail-transport-forum/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/estetica-expo/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/pharmacy-expo/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/hair-barber-week-poland/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/spa-wellness-tech/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/labotech/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/senior-care-expo-poland/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/cosmetic-ingredients-sourcing-expo/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-industry-automatica/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/valvespumps/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/tube-technic/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/laser-technica-poland/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/chemtec-poland/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/filtratec-expo/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/coil-expo/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/pneumatics-warsaw/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/water-poland/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/animals-veterinary-days/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/electronics-show/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/battery-forum-poland/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/autotechnika-expo/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/door-tec/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/furnitech-expo/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-floor-expo/": {
+  "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/furniture-contract-expo/": {
+  "geholt": "2026-11-08",
   "events": [],
   "v": 2
  }

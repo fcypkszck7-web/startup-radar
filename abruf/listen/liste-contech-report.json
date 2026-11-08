@@ -2,7 +2,7 @@
  "quelle": "liste-contech-report",
  "name": "starting-up.de – ConTech-Start-up-Report 2026",
  "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
- "abgerufen": "2026-11-07",
+ "abgerufen": "2026-11-08",
  "koepfe": [
   "Highlights des Jahres",
   "Zum Newsletter per QR-Code",
@@ -301,33 +301,38 @@
    "extern": false
   },
   {
-   "text": "Impacc",
-   "url": "https://impacc.org/de/",
+   "text": "professionelle Universalreiniger",
+   "url": "https://www.sandoro.de/products/winterhalter-f-8500-universalreiniger",
    "extern": true
   },
   {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/interview-wenn-der-purpose-toxisch-wird.html",
-   "extern": false
-  },
-  {
-   "text": "HARTLICH Steuerberatung",
-   "url": "https://www.hartlich-steuerberatung.de/index.html",
+   "text": "HACCP-Konzept",
+   "url": "https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/01_Aufgaben/09_BELA/BELA_node.html",
    "extern": true
   },
   {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/fabian-hartlich-vom-start-up-zur-kanzlei-der-zukunft.html",
+   "text": "Starttipps Gastronomie von StartingUp",
+   "url": "https://www.starting-up.de/gruenden/checklisten/starttipps-gastronomie.html",
    "extern": false
   },
   {
-   "text": "Dies ist ein Auszug aus einem aktuellen Artikel unseres Print-Objekts StartingUp: Den vollständigen Artikel lesen Sie in der aktuellen StartingUp - Heft 02/16 -",
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/ideen/gastronomie-und-tourismus/unsichtbar-aber-entscheidend-warum-hygiene-in-der-gastronomie-ueber-vertrauen-entscheidet.html",
+   "extern": false
+  },
+  {
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/richtigstellung.html",
+   "extern": false
+  },
+  {
+   "text": "Dies ist ein Auszug aus einem aktuellen Artikel unseres Print-Objekts StartingUp: Den vollständigen Artikel lesen Sie in der aktuellen StartingUp - Heft 01/16 -",
    "url": "http://www.starting-up.de/abo-service/alle-ausgaben.html",
    "extern": false
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/drew-houston-und-die-dropbox-story.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/joe-gebbia-und-die-airbnb-story.html",
    "extern": false
   },
   {
@@ -351,48 +356,43 @@
    "extern": false
   },
   {
-   "text": "Wellturana",
-   "url": "https://www.wellturana.de/",
+   "text": "spiceboys",
+   "url": "https://www.spiceboys.shop/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wellturana-kuration-statt-code.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiceboys-chai-latte-vibes-statt-kaesefuss.html",
    "extern": false
   },
   {
-   "text": "Elvio Robotics",
-   "url": "https://www.elviorobotics.com/",
+   "text": "Karevo",
+   "url": "https://www.karevo.de/de",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/elvio-robotics-roboter-gegen-den-deutschen-klinik-kollaps.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/karevo-der-125000-euro-befreiungsschlag-von-der-knochenarbeit.html",
    "extern": false
   },
   {
-   "text": "Reflip",
-   "url": "https://www.reflip.net/",
-   "extern": true
-  },
-  {
-   "text": "TTI Technologie-Transfer-Initiative GmbH",
-   "url": "https://www.tti-stuttgart.de/",
+   "text": "Biodiversity Credits",
+   "url": "https://initiatives.weforum.org/financing-for-nature/biodiversitycreditsinitiative",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/reflip-die-europaeische-social-media-hoffnung.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/naturetech-start-ups-und-die-messbarkeits-illusion.html",
    "extern": false
   },
   {
-   "text": "Sheap",
-   "url": "https://www.sheap.app/",
+   "text": "Helmit",
+   "url": "https://www.helmit.org/de",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/sheap-wie-roman-wolf-15-den-prospekt-dschungel-digitalisiert.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/helmit-der-digitale-schutzschild-gegen-cybermobbing.html",
    "extern": false
   },
   {
@@ -451,13 +451,13 @@
    "extern": false
   },
   {
-   "text": "TenderWalls",
-   "url": "https://tenderwalls.de/",
+   "text": "exist women",
+   "url": "https://exist.de/programm/women/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/tenderwalls-bootstrapping-im-tapeten-dschungel.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/drik-17-smartes-gadget-skalierbares-business.html",
    "extern": false
   },
   {
@@ -471,18 +471,18 @@
    "extern": false
   },
   {
-   "text": "Friday/Poppins",
-   "url": "https://www.fridaypoppins.de/",
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/savin-zinsen-statt-strom-schock.html",
+   "extern": false
+  },
+  {
+   "text": "Neurawork",
+   "url": "https://neurawork.ai/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-friday/poppins-im-hr-aufraeumen-will.html",
-   "extern": false
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiritory-vom-trading-floor-zum-flagship-store.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/ki/step-by-step-zum-profitablen-ki-einsatz-im-start-up.html",
    "extern": false
   },
   {

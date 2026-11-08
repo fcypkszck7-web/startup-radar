@@ -1,267 +1,30 @@
 [
  {
-  "titel": "Allt för Hälsan 2026",
-  "start": "2026-11-06",
-  "ende": "2026-11-08",
-  "ort": "Stockholmsmässan",
-  "land": "",
-  "online": false,
-  "url": "https://stockholmsmassan.se/en/calendar/allt-for-halsan-2026/",
-  "veranstalter": "Numera Mässor",
-  "kurz": "Welcome to the most wonderful event of the fall, November 6-8, 2026, Allt för Hälsan to get inspired and meet like-minded people! At Allt för Hälsan, the focus is on exercise, nutrition, yoga, beauty, recovery and person",
-  "methode": "json-ld",
-  "quelle_id": "messe-stockholmsmassan",
-  "quelle_name": "Stockholmsmässan – Kalender",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-06|stockholmsmassan.se/en/calendar/allt-for-halsan-2026",
-  "quellen": [
-   "messe-stockholmsmassan"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "ecomondo-2026",
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Allt för Hälsan 2026",
-  "start": "2026-11-06",
-  "ende": "2026-11-08",
-  "ort": "Stockholmsmässan",
-  "land": "",
-  "online": false,
-  "url": "https://stockholmsmassan.se/kalender/allt-for-halsan-2026/",
-  "veranstalter": "",
-  "kurz": "Välkommen på höstens härligaste event, Allt för hälsan, för att inspireras och möta likasinnade! På Allt för Hälsan ligger fokus på träning, kost, yoga, skönhet, återhämtning och personlig utveckling för att hjälpa dig s",
-  "methode": "ical",
-  "quelle_id": "messe-stockholmsmassan",
-  "quelle_name": "Stockholmsmässan – Kalender",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-06|stockholmsmassan.se/kalender/allt-for-halsan-2026",
-  "quellen": [
-   "messe-stockholmsmassan"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "ecomondo-2026",
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Cake International and Bake International - Day 1",
-  "start": "2026-11-06",
-  "ende": "2026-11-06",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/cake-international-and-bake-international/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-06|thenec.co.uk/events/cake-international-and-bake-international",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Nature-based Solutions International Congress 2026",
-  "start": "2026-11-06",
-  "ende": "2026-11-06",
-  "ort": "Paris, France",
-  "land": "",
-  "online": false,
-  "url": "https://www.climate-kic.org/events/nature-based-solutions-international-congress-2026/",
-  "veranstalter": "Climate KIC",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "climate-kic-events",
-  "quelle_name": "EIT Climate-KIC – Events",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-06|climate-kic.org/events/nature-based-solutions-international-congress-2026",
-  "quellen": [
-   "climate-kic-events"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "ecomondo-2026",
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Peppa Pig Space Adventure - Day 168",
-  "start": "2026-11-06",
-  "ende": "2026-11-06",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/peppa-pig-space-adventure/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-06|thenec.co.uk/events/peppa-pig-space-adventure",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "SPIELWIESN",
-  "start": "2026-11-06",
-  "ende": "2026-11-06",
-  "ort": "Hallen 5, 6, 7",
-  "land": "",
-  "online": false,
-  "url": "https://www.messeaugsburg.de/de/spielwiesn/e179",
-  "veranstalter": "",
-  "kurz": "Messen ✓ Kongresse ✓ Konzerte ✓ Events✓ 7 Hallen✓ 16 Konferenzräume✓ 420.000 Besucher pro Jahr✓ ",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-augsburg",
-  "quelle_name": "Messe Augsburg – Messen und Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-06|messeaugsburg.de/de/spielwiesn/e179",
-  "quellen": [
-   "messe-augsburg"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
- },
- {
-  "titel": "Simply Christmas - Day 2",
-  "start": "2026-11-06",
-  "ende": "2026-11-06",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/simply-christmas/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-06|thenec.co.uk/events/simply-christmas",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Startup Demo Night München",
-  "start": "2026-11-06",
-  "ende": "2026-11-06",
-  "ort": "TonHalle München, München",
+  "titel": "Barcamp Stuttgart 2026",
+  "start": "2026-11-07",
+  "ende": "2026-11-07",
+  "ort": "SDK Versicherung (direkt am S-Bahnhof Fellbach), Fellbach",
   "land": "",
   "online": true,
-  "url": "https://www.baystartup.de/termine/detailview/event-207e5238bbf64b66b1cfb30f22156086?no_cache=1",
-  "veranstalter": "BayStartUP",
-  "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+  "url": "https://it.region-stuttgart.de/termine/barcamp-stuttgart-2025-2/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "Das Stuttgarter Barcamp rund um Social Media, \"Online\", KI, Digitalisierung, Hardware, Netzpolitik, Startups, Business und ähnliche Themen.",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "baystartup",
-  "quelle_name": "BayStartUP – Events",
-  "region_hinweis": "Bayern",
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
   "branchen_vorschlag": [
+   "Software, KI & Daten",
    "Gründung & Innovation"
   ],
-  "schluessel": "2026-11-06|baystartup.de/termine/detailview/event-207e5238bbf64b66b1cfb30f22156086",
+  "schluessel": "2026-11-07|it.region-stuttgart.de/termine/barcamp-stuttgart-2025-2",
   "quellen": [
-   "baystartup"
+   "it-region-stuttgart"
   ],
   "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "schon erfasst: demo-night-muenchen-2026"
- },
- {
-  "titel": "Sthlm Food & Wine 2026",
-  "start": "2026-11-06",
-  "ende": "2026-11-07",
-  "ort": "Stockholmsmässan",
-  "land": "",
-  "online": false,
-  "url": "https://stockholmsmassan.se/en/calendar/sthlm-food-wine-2026/",
-  "veranstalter": "Numera Mässor",
-  "kurz": "At Sthlm Food & Wine, the joy of food meets new knowledge under one roof. Here you’ll find a carefully selected range of beverages, including wine, sparkling wines, beer and spirits, alongside exciting food products, str",
-  "methode": "json-ld",
-  "quelle_id": "messe-stockholmsmassan",
-  "quelle_name": "Stockholmsmässan – Kalender",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Dach & Gebäudehülle"
-  ],
-  "schluessel": "2026-11-06|stockholmsmassan.se/en/calendar/sthlm-food-wine-2026",
-  "quellen": [
-   "messe-stockholmsmassan"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "ecomondo-2026",
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Sthlm Food & Wine 2026",
-  "start": "2026-11-06",
-  "ende": "2026-11-07",
-  "ort": "Stockholmsmässan",
-  "land": "",
-  "online": false,
-  "url": "https://stockholmsmassan.se/kalender/sthlm-food-wine-2026/",
-  "veranstalter": "",
-  "kurz": "På Sthlm Food & Wine möts matglädje och ny kunskap under ett och samma tak. Här hittar du ett noga utvalt dryckessortiment med vin, bubbel, öl och destillat samt spännande matprodukter, streetfood, praliner – allt i värl",
-  "methode": "ical",
-  "quelle_id": "messe-stockholmsmassan",
-  "quelle_name": "Stockholmsmässan – Kalender",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-06|stockholmsmassan.se/kalender/sthlm-food-wine-2026",
-  "quellen": [
-   "messe-stockholmsmassan"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "ecomondo-2026",
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "The Creative Craft Show - Day 2",
-  "start": "2026-11-06",
-  "ende": "2026-11-06",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/the-creative-craft-show/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Handwerk"
-  ],
-  "schluessel": "2026-11-06|thenec.co.uk/events/the-creative-craft-show",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
+  "erfasst_als": "barcamp-stuttgart-2026",
+  "entscheidung": "aufgenommen: barcamp-stuttgart-2026"
  },
  {
   "titel": "Barcamp Stuttgart 2026",
@@ -291,57 +54,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "Barcamp Stuttgart 2026",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "SDK Versicherung (direkt am S-Bahnhof Fellbach), Fellbach",
-  "land": "",
-  "online": true,
-  "url": "https://it.region-stuttgart.de/termine/barcamp-stuttgart-2025-2/",
-  "veranstalter": "IT Region Stuttgart",
-  "kurz": "Das Stuttgarter Barcamp rund um Social Media, \"Online\", KI, Digitalisierung, Hardware, Netzpolitik, Startups, Business und ähnliche Themen.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "it-region-stuttgart",
-  "quelle_name": "IT-Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten",
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-07|it.region-stuttgart.de/termine/barcamp-stuttgart-2025-2",
-  "quellen": [
-   "it-region-stuttgart"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "barcamp-stuttgart-2026",
-  "entscheidung": "aufgenommen: barcamp-stuttgart-2026"
- },
- {
-  "titel": "Buchmesse Augsbuch",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "Tagungscenter",
-  "land": "",
-  "online": false,
-  "url": "https://www.messeaugsburg.de/de/buchmesse-augsbuch/e188",
-  "veranstalter": "",
-  "kurz": "Messen ✓ Kongresse ✓ Konzerte ✓ Events✓ 7 Hallen✓ 16 Konferenzräume✓ 420.000 Besucher pro Jahr✓ ",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-augsburg",
-  "quelle_name": "Messe Augsburg – Messen und Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-07|messeaugsburg.de/de/buchmesse-augsbuch/e188",
-  "quellen": [
-   "messe-augsburg"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
- },
- {
   "titel": "Cake International and Bake International - Day 2",
   "start": "2026-11-07",
   "ende": "2026-11-07",
@@ -363,54 +75,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "DGN Kongress 2026",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "Berlin, Deutschland",
-  "land": "",
-  "online": false,
-  "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgn-kongress-2026-2026",
-  "veranstalter": "",
-  "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-berlin",
-  "quelle_name": "Messe Berlin – Veranstaltungen",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-07|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgn-kongress-2026-2026",
-  "quellen": [
-   "messe-berlin"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "bimexpo-2026",
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
- },
- {
-  "titel": "Herztag - Herz aus dem Takt",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "Landshut",
-  "land": "",
-  "online": false,
-  "url": "https://www.haw-landshut.de/veranstaltungen/termin/herztag-herz-aus-dem-takt",
-  "veranstalter": "",
-  "kurz": "HERZLICHE EINLADUNG ZUM\r\nHERZTAG - HERZ AUS DEM TAKT\r\nSamstag, 7. November 2026\r\n10.00 bis 12.30 Uhr, Hochschule Landshut\r\n",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "hs-landshut",
-  "quelle_name": "Hochschule Landshut – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-07|haw-landshut.de/veranstaltungen/termin/herztag-herz-aus-dem-takt",
-  "quellen": [
-   "hs-landshut"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
  },
  {
   "titel": "Peppa Pig Space Adventure - Day 169",
@@ -582,32 +246,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Deadline Venture Leaders Mobile",
-  "start": "2026-11-08",
-  "ende": "2026-11-08",
-  "ort": "Startup Camp India",
-  "land": "",
-  "online": false,
-  "url": "https://www.startupticker.ch/en/events/deadline-venture-leaders-mobile",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "startupticker",
-  "quelle_name": "Startupticker.ch – Events",
-  "region_hinweis": "Schweiz",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-08|startupticker.ch/en/events/deadline-venture-leaders-mobile",
-  "quellen": [
-   "startupticker"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
  },
  {
   "titel": "PAN Amsterdam",
@@ -837,31 +475,6 @@
   "ort": "Renitenztheater, Stuttgart",
   "land": "",
   "online": false,
-  "url": "https://wrs.region-stuttgart.de/termine/dslam-night-shift-stuttgart/",
-  "veranstalter": "",
-  "kurz": "Während Poetry-Fans zum Poetry Slam gehen und Science-Begeisterte zum Science Slam, bringt der DSLAM IT, Digitalisierung, KI und Cyber-Security auf die Bühne. Unterhaltsam, lehrreich und bewusst auch für Nicht-Nerds konz",
-  "methode": "json-ld",
-  "quelle_id": "wrs-termine",
-  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/dslam-night-shift-stuttgart",
-  "quellen": [
-   "wrs-termine"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "dslam-night-shift-stuttgart-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "DSLAM Night Shift Stuttgart",
-  "start": "2026-11-09",
-  "ende": "2026-11-09",
-  "ort": "Renitenztheater, Stuttgart",
-  "land": "",
-  "online": false,
   "url": "https://it.region-stuttgart.de/termine/dslam-night-shift-stuttgart/",
   "veranstalter": "IT Region Stuttgart",
   "kurz": "Während Poetry-Fans zum Poetry Slam gehen und Science-Begeisterte zum Science Slam, bringt der DSLAM IT, Digitalisierung, KI und Cyber-Security auf die Bühne. Unterhaltsam, lehrreich und bewusst auch für Nicht-Nerds konz",
@@ -880,6 +493,31 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "dslam-night-shift-stuttgart-2026",
   "entscheidung": "aufgenommen: dslam-night-shift-stuttgart-2026"
+ },
+ {
+  "titel": "DSLAM Night Shift Stuttgart",
+  "start": "2026-11-09",
+  "ende": "2026-11-09",
+  "ort": "Renitenztheater, Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/dslam-night-shift-stuttgart/",
+  "veranstalter": "",
+  "kurz": "Während Poetry-Fans zum Poetry Slam gehen und Science-Begeisterte zum Science Slam, bringt der DSLAM IT, Digitalisierung, KI und Cyber-Security auf die Bühne. Unterhaltsam, lehrreich und bewusst auch für Nicht-Nerds konz",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/dslam-night-shift-stuttgart",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": "dslam-night-shift-stuttgart-2026",
+  "entscheidung": ""
  },
  {
   "titel": "Der Reisende. Georg Forster und die Entdeckung der Menschlichkeit",
@@ -1107,31 +745,6 @@
   "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
   "start": "2026-11-09",
   "ende": "2026-11-09",
-  "ort": "Das Gutbrod",
-  "land": "",
-  "online": false,
-  "url": "https://wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie/",
-  "veranstalter": "",
-  "kurz": "Was passiert, wenn Know-how durch einen Cyberangriff, eine ungeschützte Cloud-Freigabe oder einen unbefugten Zugriff in falsche Hände gerät?",
-  "methode": "json-ld",
-  "quelle_id": "wrs-termine",
-  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie",
-  "quellen": [
-   "wrs-termine"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
-  "start": "2026-11-09",
-  "ende": "2026-11-09",
   "ort": "rkshop: Cybersecurity als Schutzschild ...Workshop: ...",
   "land": "",
   "online": false,
@@ -1151,6 +764,31 @@
    "it-region-stuttgart"
   ],
   "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
+  "start": "2026-11-09",
+  "ende": "2026-11-09",
+  "ort": "Das Gutbrod",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie/",
+  "veranstalter": "",
+  "kurz": "Was passiert, wenn Know-how durch einen Cyberangriff, eine ungeschützte Cloud-Freigabe oder einen unbefugten Zugriff in falsche Hände gerät?",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -2830,32 +2468,6 @@
   "ort": "",
   "land": "",
   "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/10/11/2026/pitch-match-2026",
-  "veranstalter": "",
-  "kurz": "Pitch & Match 2026: Online-Event für gezieltes Matchmaking zwischen Unternehmen und Start-ups. Jetzt Challenge für Start-ups einreichen!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-10|digitale-oberpfalz.de/news-events/termine/detail/10/11/2026/pitch-match-2026",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "bimexpo-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Pitch & Match 2026 – Das Online Matching Event für Unternehmen & Start-ups",
-  "start": "2026-11-10",
-  "ende": "2026-11-10",
-  "ort": "",
-  "land": "",
-  "online": true,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/10/11/2026/pitch-match-2026",
   "veranstalter": "",
   "kurz": "Pitch & Match 2026: Online-Event für gezieltes Matchmaking zwischen Unternehmen und Start-ups. Jetzt Challenge für Start-ups einreichen!",
@@ -2870,6 +2482,32 @@
   "schluessel": "2026-11-10|techbase.de/news-termine/events-termine/detail/10/11/2026/pitch-match-2026",
   "quellen": [
    "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "bimexpo-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Pitch & Match 2026 – Das Online Matching Event für Unternehmen & Start-ups",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/10/11/2026/pitch-match-2026",
+  "veranstalter": "",
+  "kurz": "Pitch & Match 2026: Online-Event für gezieltes Matchmaking zwischen Unternehmen und Start-ups. Jetzt Challenge für Start-ups einreichen!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-10|digitale-oberpfalz.de/news-events/termine/detail/10/11/2026/pitch-match-2026",
+  "quellen": [
+   "dgo-termine"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "bimexpo-2026",
@@ -4391,6 +4029,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Veranstaltung: Verfassungsdebatten: Antike Ursprünge, historische Wirkung, aktuelle Relevanz",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "H22",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-3",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-3",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Versicherung und Vorsorge für deine Firma und für dich",
   "start": "2026-11-11",
   "ende": "2026-11-11",
@@ -4666,6 +4328,31 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
+ },
+ {
+  "titel": "Fachvortrag Auditor*in für ISO 50001 Managementsysteme",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "Online-Seminar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/fachvortrag-auditorin-fuer-iso-50001-managementsysteme/",
+  "veranstalter": "",
+  "kurz": "Vom Energieberater zum Lead-Auditor Der Nutzen im Überblick Erfahrung im Energiemanagement und Lust auf neue Aufgaben?Sie übernehmen den Prozess von […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-12|gih.de/veranstaltung/fachvortrag-auditorin-fuer-iso-50001-managementsysteme",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Female Founders & Investors Unpitched",
@@ -6453,6 +6140,30 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
  },
  {
+  "titel": "Droit des brevets à compter du 2027 - module avancé",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "En ligne",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/index.php/en/events/droit-des-brevets-a-compter-du-2027-module-avance",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-16|startupticker.ch/index.php/en/events/droit-des-brevets-a-compter-du-2027-module-avance",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "EEN Healthcare Brokerage Event @MEDICA 2026",
   "start": "2026-11-16",
   "ende": "2026-11-16",
@@ -6536,33 +6247,6 @@
   "ort": "OTH Campus in Weiden, großes Hörsaalgebäude (001 & 002), Weiden",
   "land": "",
   "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/16/11/2026/inspiration-startup-night-2026",
-  "veranstalter": "",
-  "kurz": "KI, Startups & Insider-Einblicke: Besuch die Inspiration & StartUp Night 2026 am 16.11. an der OTH Weiden. Kostenlose Teilnahme – hier anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation",
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-16|digitale-oberpfalz.de/news-events/termine/detail/16/11/2026/inspiration-startup-night-2026",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "startup-night-weiden-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Inspiration & StartUp Night 2026",
-  "start": "2026-11-16",
-  "ende": "2026-11-16",
-  "ort": "OTH Campus in Weiden, großes Hörsaalgebäude (001 & 002), Weiden",
-  "land": "",
-  "online": false,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/16/11/2026/inspiration-startup-night-2026",
   "veranstalter": "",
   "kurz": "KI, Startups & Insider-Einblicke: Besuch die Inspiration & StartUp Night 2026 am 16.11. an der OTH Weiden. Kostenlose Teilnahme – hier anmelden!",
@@ -6578,6 +6262,33 @@
   "schluessel": "2026-11-16|techbase.de/news-termine/events-termine/detail/16/11/2026/inspiration-startup-night-2026",
   "quellen": [
    "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "startup-night-weiden-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Inspiration & StartUp Night 2026",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "OTH Campus in Weiden, großes Hörsaalgebäude (001 & 002), Weiden",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/16/11/2026/inspiration-startup-night-2026",
+  "veranstalter": "",
+  "kurz": "KI, Startups & Insider-Einblicke: Besuch die Inspiration & StartUp Night 2026 am 16.11. an der OTH Weiden. Kostenlose Teilnahme – hier anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-16|digitale-oberpfalz.de/news-events/termine/detail/16/11/2026/inspiration-startup-night-2026",
+  "quellen": [
+   "dgo-termine"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "startup-night-weiden-2026",
@@ -6607,6 +6318,33 @@
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "startup-night-weiden-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Investing in Global Startups Built from Unlikely Ecosystems",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/investing-in-global-startups-built-from-unlikely-ecosystems",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Bau & Immobilien",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-16|startupticker.ch/index.php/en/events/investing-in-global-startups-built-from-unlikely-ecosystems",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
   "entscheidung": ""
  },
  {
@@ -6810,6 +6548,32 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
+ },
+ {
+  "titel": "Women in Entrepreneurship",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "men in Entrepreneurship",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/en/events/women-in-entrepreneurship-%281%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-16|startupticker.ch/en/events/women-in-entrepreneurship-%281%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "#E4s - Translating Research Into A Business Model",
@@ -7423,30 +7187,6 @@
   "ort": "rkshop: Fallstricke im Steuerrecht",
   "land": "",
   "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
-  "veranstalter": "",
-  "kurz": "GmbH-Überführung, Scheinselbstständigkeit & USt. im Ausland: Jetzt für den Workshop am 17.11. in der TechBase Regensburg anmelden & rechtssicher wachsen!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-17|digitale-oberpfalz.de/news-events/termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "workshop-fallstricke-im-steuerrecht-2026",
-  "entscheidung": "aufgenommen: workshop-fallstricke-im-steuerrecht-2026"
- },
- {
-  "titel": "Workshop: Fallstricke im Steuerrecht",
-  "start": "2026-11-17",
-  "ende": "2026-11-17",
-  "ort": "rkshop: Fallstricke im Steuerrecht",
-  "land": "",
-  "online": false,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
   "veranstalter": "",
   "kurz": "GmbH-Überführung, Scheinselbstständigkeit & USt. im Ausland: Jetzt für den Workshop am 17.11. in der TechBase Regensburg anmelden & rechtssicher wachsen!",
@@ -7463,6 +7203,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "workshop-fallstricke-im-steuerrecht-2026",
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
+ },
+ {
+  "titel": "Workshop: Fallstricke im Steuerrecht",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "rkshop: Fallstricke im Steuerrecht",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
+  "veranstalter": "",
+  "kurz": "GmbH-Überführung, Scheinselbstständigkeit & USt. im Ausland: Jetzt für den Workshop am 17.11. in der TechBase Regensburg anmelden & rechtssicher wachsen!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|digitale-oberpfalz.de/news-events/termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "workshop-fallstricke-im-steuerrecht-2026",
+  "entscheidung": "aufgenommen: workshop-fallstricke-im-steuerrecht-2026"
  },
  {
   "titel": "Zero Project Unternehmensdialog - Erfolgsmodell Teil-Qualifizierung",
@@ -7719,32 +7483,6 @@
   "ort": "OTH Regensburg, Regensburg",
   "land": "",
   "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/18/11/2026/hochschulgruendertag-2026",
-  "veranstalter": "",
-  "kurz": "Das OTH Start-up Center und das Verbundprojekt GründungsHUB Ostbayern laden herzlich zum Hochschulgründertag am 18. November 2026 ein. Jetzt kostenlos anmelden.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-18|digitale-oberpfalz.de/news-events/termine/detail/18/11/2026/hochschulgruendertag-2026",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "startup-night-weiden-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Hochschulgründertag 2026",
-  "start": "2026-11-18",
-  "ende": "2026-11-18",
-  "ort": "OTH Regensburg, Regensburg",
-  "land": "",
-  "online": true,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/18/11/2026/hochschulgruendertag-2026",
   "veranstalter": "",
   "kurz": "Das OTH Start-up Center und das Verbundprojekt GründungsHUB Ostbayern laden herzlich zum Hochschulgründertag am 18. November 2026 ein. Jetzt kostenlos anmelden.",
@@ -7759,6 +7497,32 @@
   "schluessel": "2026-11-18|techbase.de/news-termine/events-termine/detail/18/11/2026/hochschulgruendertag-2026",
   "quellen": [
    "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "startup-night-weiden-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Hochschulgründertag 2026",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "OTH Regensburg, Regensburg",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/18/11/2026/hochschulgruendertag-2026",
+  "veranstalter": "",
+  "kurz": "Das OTH Start-up Center und das Verbundprojekt GründungsHUB Ostbayern laden herzlich zum Hochschulgründertag am 18. November 2026 ein. Jetzt kostenlos anmelden.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-18|digitale-oberpfalz.de/news-events/termine/detail/18/11/2026/hochschulgruendertag-2026",
+  "quellen": [
+   "dgo-termine"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "startup-night-weiden-2026",
@@ -9885,32 +9649,6 @@
   "ort": "",
   "land": "",
   "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
-  "veranstalter": "",
-  "kurz": "Wer seine Gründung gut plant, kommt schneller ans Ziel. Welche Überlegungen im Vorfeld wichtig sind und was bei der Gründung beachtet werden muss erfahrt ihr im Webinar der IHK.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-25|digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "webinar-schritt-fuer-schritt-zur-gruendung-2026",
-  "entscheidung": "aufgenommen: webinar-schritt-fuer-schritt-zur-gruendung-2026"
- },
- {
-  "titel": "Webinar: Schritt für Schritt zur Gründung",
-  "start": "2026-11-25",
-  "ende": "2026-11-25",
-  "ort": "",
-  "land": "",
-  "online": true,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
   "veranstalter": "",
   "kurz": "Wer seine Gründung gut plant, kommt schneller ans Ziel. Welche Überlegungen im Vorfeld wichtig sind und was bei der Gründung beachtet werden muss erfahrt ihr im Webinar der IHK.",
@@ -9929,6 +9667,32 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "webinar-schritt-fuer-schritt-zur-gruendung-2026",
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
+ },
+ {
+  "titel": "Webinar: Schritt für Schritt zur Gründung",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
+  "veranstalter": "",
+  "kurz": "Wer seine Gründung gut plant, kommt schneller ans Ziel. Welche Überlegungen im Vorfeld wichtig sind und was bei der Gründung beachtet werden muss erfahrt ihr im Webinar der IHK.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-25|digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "webinar-schritt-fuer-schritt-zur-gruendung-2026",
+  "entscheidung": "aufgenommen: webinar-schritt-fuer-schritt-zur-gruendung-2026"
  },
  {
   "titel": "Workshop \"Fit for the Job\"",
@@ -10490,6 +10254,30 @@
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
  },
  {
+  "titel": "Landshut Leadership Kolloquium",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/landshut-leichtbau-kolloquium",
+  "veranstalter": "",
+  "kurz": "In den vergangnen zehn Jahren diskutierten renommierte Referenten/-innen mit Führungkräften Auswirkungen von disruptiven Veränderungen in einer komplexen Welt sowie Strategien für den Weg in eine erfolgreiche Zukunft. Da",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-27|haw-landshut.de/veranstaltungen/termin/landshut-leichtbau-kolloquium",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "MCL - Day 7",
   "start": "2026-11-27",
   "ende": "2026-11-27",
@@ -10837,33 +10625,6 @@
   "ort": "",
   "land": "",
   "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
-  "veranstalter": "",
-  "kurz": "TechBase Regensburg",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Industrie & Fertigung",
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-28|digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "startup-factory-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "StartUP Factory Regensburg 2026",
-  "start": "2026-11-28",
-  "ende": "2026-11-28",
-  "ort": "",
-  "land": "",
-  "online": false,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/26/11/2026/startup-factory-regensburg-2026",
   "veranstalter": "",
   "kurz": "TechBase Regensburg",
@@ -10879,6 +10640,33 @@
   "schluessel": "2026-11-28|techbase.de/news-termine/events-termine/detail/26/11/2026/startup-factory-regensburg-2026",
   "quellen": [
    "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "startup-factory-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "StartUP Factory Regensburg 2026",
+  "start": "2026-11-28",
+  "ende": "2026-11-28",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
+  "veranstalter": "",
+  "kurz": "TechBase Regensburg",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Industrie & Fertigung",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-28|digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
+  "quellen": [
+   "dgo-termine"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "startup-factory-2026",
@@ -12720,32 +12508,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
-  "start": "2026-12-07",
-  "ende": "2026-12-07",
-  "ort": "Termin",
-  "land": "",
-  "online": true,
-  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794025755-c1bb50c72",
-  "veranstalter": "",
-  "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "intersolar-events",
-  "quelle_name": "The smarter E Europe – Veranstaltungen",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Energie & Solar"
-  ],
-  "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
-  "quellen": [
-   "intersolar-events"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
- },
- {
   "titel": "Winter Funland - Day 3",
   "start": "2026-12-07",
   "ende": "2026-12-07",
@@ -13067,6 +12829,31 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "sv-on-tour-hannover-2026",
   "entscheidung": "aufgenommen: sv-on-tour-hannover-2026"
+ },
+ {
+  "titel": "Stolperfallen bei Kauf- und Werkverträgen im Ausland",
+  "start": "2026-12-09",
+  "ende": "2026-12-09",
+  "ort": "online",
+  "land": "",
+  "online": false,
+  "url": "https://www.hwkno.de/termine/stolperfallen-bei-kauf-und-werkvertraegen-im-ausland-76,0,evedetail.html?eve=1488",
+  "veranstalter": "Bayern Handwerk International",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwkno",
+  "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Handwerk"
+  ],
+  "schluessel": "2026-12-09|hwkno.de/termine/stolperfallen-bei-kauf-und-werkvertraegen-im-ausland-76,0,evedetail.html",
+  "quellen": [
+   "hwkno"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Winter Funland - Day 5",
@@ -14518,6 +14305,32 @@
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
  },
  {
+  "titel": "Businessplan Wettbewerb 2027 | Phase 1: Q&A-Session",
+  "start": "2027-01-07",
+  "ende": "2027-01-07",
+  "ort": "eu01web.zoom.us/meeting/register/1W2puNg4QeKDXAlp6__DVQ",
+  "land": "",
+  "online": true,
+  "url": "https://www.baystartup.de/termine/detailview/event-3e1d8d271b2a45718882186017d60443?no_cache=1",
+  "veranstalter": "BayStartUP",
+  "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "baystartup",
+  "quelle_name": "BayStartUP – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-01-07|baystartup.de/termine/detailview/event-3e1d8d271b2a45718882186017d60443",
+  "quellen": [
+   "baystartup"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "businessplan-wettbewerb-2027-q-a-session-phase-1-2027",
+  "entscheidung": "aufgenommen: businessplan-wettbewerb-2027-q-a-session-phase-1-2027"
+ },
+ {
   "titel": "CES - Consumer Electronics Show",
   "start": "2027-01-09",
   "ende": "2027-01-09",
@@ -14588,6 +14401,32 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
+ },
+ {
+  "titel": "Businessplan Wettbewerb 2027 | Phase 1: Q&A-Session",
+  "start": "2027-01-12",
+  "ende": "2027-01-12",
+  "ort": "eu01web.zoom.us/meeting/register/i_bxz9oDTJCYxknhi1QMJQ",
+  "land": "",
+  "online": true,
+  "url": "https://www.baystartup.de/termine/detailview/event-3937f63f021d40ad8461ee14e2e14d28?no_cache=1",
+  "veranstalter": "BayStartUP",
+  "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "baystartup",
+  "quelle_name": "BayStartUP – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-01-12|baystartup.de/termine/detailview/event-3937f63f021d40ad8461ee14e2e14d28",
+  "quellen": [
+   "baystartup"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": null,
+  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
  },
  {
   "titel": "C!Print Madrid",
@@ -16563,6 +16402,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Angel-Akademie 2027 - Track A: In Startups investieren",
+  "start": "2027-02-19",
+  "ende": "2027-02-19",
+  "ort": "Kloster Holzen, Allmannshofen",
+  "land": "",
+  "online": true,
+  "url": "https://www.baystartup.de/termine/detailview/event-b5e88c4b47f043e1aac1b43849892a78?no_cache=1",
+  "veranstalter": "BayStartUP",
+  "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "baystartup",
+  "quelle_name": "BayStartUP – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-02-19|baystartup.de/termine/detailview/event-b5e88c4b47f043e1aac1b43849892a78",
+  "quellen": [
+   "baystartup"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "elektrotechnik-dortmund-2027",
+  "entscheidung": "aufgenommen: angel-akademie-2027"
+ },
+ {
   "titel": "Angel-Akademie 2027 - Track B: Portfolio-Startups weiterentwickeln",
   "start": "2027-02-19",
   "ende": "2027-02-19",
@@ -16581,6 +16446,32 @@
    "Gründung & Innovation"
   ],
   "schluessel": "2027-02-19|baystartup.de/termine/detailview/event-026e28c184b346c2953b8b9f94ef73b5",
+  "quellen": [
+   "baystartup"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "elektrotechnik-dortmund-2027",
+  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
+ },
+ {
+  "titel": "Angel-Akademie 2027 - Track C: Der Expert-Track",
+  "start": "2027-02-19",
+  "ende": "2027-02-19",
+  "ort": "Kloster Holzen, Allmannshofen",
+  "land": "",
+  "online": true,
+  "url": "https://www.baystartup.de/termine/detailview/event-b14733ec0cc54ad3a9fc3b4f99195722?no_cache=1",
+  "veranstalter": "BayStartUP",
+  "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "baystartup",
+  "quelle_name": "BayStartUP – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-02-19|baystartup.de/termine/detailview/event-b14733ec0cc54ad3a9fc3b4f99195722",
   "quellen": [
    "baystartup"
   ],
@@ -17087,32 +16978,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "Venture Leaders Mobile 2027 (Barcelona)",
-  "start": "2027-02-27",
-  "ende": "2027-02-27",
-  "ort": "Barcelona",
-  "land": "",
-  "online": true,
-  "url": "https://www.startupticker.ch/en/events/venture-leaders-mobile-2027-barcelona",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "startupticker",
-  "quelle_name": "Startupticker.ch – Events",
-  "region_hinweis": "Schweiz",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2027-02-27|startupticker.ch/en/events/venture-leaders-mobile-2027-barcelona",
-  "quellen": [
-   "startupticker"
-  ],
-  "zuerst_gesehen": "2026-11-06",
-  "erfasst_als": "getec-2027",
-  "entscheidung": ""
- },
- {
   "titel": "What University? & What Career? Live - Day 2",
   "start": "2027-02-27",
   "ende": "2027-02-27",
@@ -17280,33 +17145,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "32-leipziger-fachseminar-2027",
   "entscheidung": "aufgenommen: 32-leipziger-fachseminar-2027"
- },
- {
-  "titel": "Digital Real Estate Summit 2027",
-  "start": "2027-03-04",
-  "ende": "2027-03-04",
-  "ort": "Trafo Baden, Brown Boveri Pl. 1, 5400 Baden",
-  "land": "",
-  "online": false,
-  "url": "https://www.startupticker.ch/en/events/digital-real-estate-summit-2027",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "startupticker",
-  "quelle_name": "Startupticker.ch – Events",
-  "region_hinweis": "Schweiz",
-  "branchen_vorschlag": [
-   "Bau & Immobilien",
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2027-03-04|startupticker.ch/en/events/digital-real-estate-summit-2027",
-  "quellen": [
-   "startupticker"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "eltefa-2027",
-  "entscheidung": "aufgenommen: digital-real-estate-summit-2027"
  },
  {
   "titel": "MOTOCYKL PRAHA 2027 - BUSINESS DAY",
@@ -19191,6 +19029,32 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "buildtech-week-2027",
   "entscheidung": "aufgenommen: buildtech-week-2027"
+ },
+ {
+  "titel": "Businessplan Wettbewerb 2027 | Phase 2: Q&A-Session",
+  "start": "2027-04-06",
+  "ende": "2027-04-06",
+  "ort": "eu01web.zoom.us/meeting/register/JBZzijuTSlG8OPBXgAC-Ag",
+  "land": "",
+  "online": true,
+  "url": "https://www.baystartup.de/termine/detailview/event-3f1af284b3494bd395980413b8c7c1ea?no_cache=1",
+  "veranstalter": "BayStartUP",
+  "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "baystartup",
+  "quelle_name": "BayStartUP – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-04-06|baystartup.de/termine/detailview/event-3f1af284b3494bd395980413b8c7c1ea",
+  "quellen": [
+   "baystartup"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": null,
+  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
  },
  {
   "titel": "Battery Business & Development Forum 2027",
@@ -21338,6 +21202,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+  "start": "2027-06-10",
+  "ende": "2027-06-10",
+  "ort": "Termin",
+  "land": "",
+  "online": true,
+  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794112226-ca31b2a0b",
+  "veranstalter": "",
+  "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "intersolar-events",
+  "quelle_name": "The smarter E Europe – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2027-06-10|intersolar.de/konferenz/call-for-abstracts",
+  "quellen": [
+   "intersolar-events"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": "intersolar-2027",
+  "entscheidung": ""
+ },
+ {
   "titel": "EULAR 2027",
   "start": "2027-06-12",
   "ende": "2027-06-12",
@@ -21430,6 +21320,32 @@
   "schluessel": "2027-06-15|startbase.de/events/accelerate-tomorrow-ai-summit-2027-2027-06-estrel-berlin",
   "quellen": [
    "startbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "intergalva-2027",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Businessplan Wettbewerb 2027 | Phase 3: Q&A-Session",
+  "start": "2027-06-15",
+  "ende": "2027-06-15",
+  "ort": "eu01web.zoom.us/meeting/register/IqQ9iwqJSsWxGoWnCjXNyQ",
+  "land": "",
+  "online": true,
+  "url": "https://www.baystartup.de/termine/detailview/event-a9b0e3bdc2914a8ebb9a841874199313?no_cache=1",
+  "veranstalter": "BayStartUP",
+  "kurz": "Die Angebote von BayStartUP ebnen den Weg in Bayerns innovativer Startup-Szene – ob als Gründer*in, wachsendes Unternehmen oder als Kapitalgeber!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "baystartup",
+  "quelle_name": "BayStartUP – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-06-15|baystartup.de/termine/detailview/event-a9b0e3bdc2914a8ebb9a841874199313",
+  "quellen": [
+   "baystartup"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "intergalva-2027",

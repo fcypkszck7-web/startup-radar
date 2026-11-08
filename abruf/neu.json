@@ -126,31 +126,6 @@
   "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
   "start": "2026-11-09",
   "ende": "2026-11-09",
-  "ort": "Das Gutbrod",
-  "land": "",
-  "online": false,
-  "url": "https://wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie/",
-  "veranstalter": "",
-  "kurz": "Was passiert, wenn Know-how durch einen Cyberangriff, eine ungeschützte Cloud-Freigabe oder einen unbefugten Zugriff in falsche Hände gerät?",
-  "methode": "json-ld",
-  "quelle_id": "wrs-termine",
-  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie",
-  "quellen": [
-   "wrs-termine"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
-  "start": "2026-11-09",
-  "ende": "2026-11-09",
   "ort": "rkshop: Cybersecurity als Schutzschild ...Workshop: ...",
   "land": "",
   "online": false,
@@ -170,6 +145,31 @@
    "it-region-stuttgart"
   ],
   "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
+  "start": "2026-11-09",
+  "ende": "2026-11-09",
+  "ort": "Das Gutbrod",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie/",
+  "veranstalter": "",
+  "kurz": "Was passiert, wenn Know-how durch einen Cyberangriff, eine ungeschützte Cloud-Freigabe oder einen unbefugten Zugriff in falsche Hände gerät?",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -643,6 +643,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Veranstaltung: Verfassungsdebatten: Antike Ursprünge, historische Wirkung, aktuelle Relevanz",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "H22",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-3",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-3",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Versicherung und Vorsorge für deine Firma und für dich",
   "start": "2026-11-11",
   "ende": "2026-11-11",
@@ -790,6 +814,31 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Fachvortrag Auditor*in für ISO 50001 Managementsysteme",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "Online-Seminar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/fachvortrag-auditorin-fuer-iso-50001-managementsysteme/",
+  "veranstalter": "",
+  "kurz": "Vom Energieberater zum Lead-Auditor Der Nutzen im Überblick Erfahrung im Energiemanagement und Lust auf neue Aufgaben?Sie übernehmen den Prozess von […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-12|gih.de/veranstaltung/fachvortrag-auditorin-fuer-iso-50001-managementsysteme",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-08",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1151,6 +1200,57 @@
   "entscheidung": ""
  },
  {
+  "titel": "Droit des brevets à compter du 2027 - module avancé",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "En ligne",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/index.php/en/events/droit-des-brevets-a-compter-du-2027-module-avance",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-16|startupticker.ch/index.php/en/events/droit-des-brevets-a-compter-du-2027-module-avance",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Investing in Global Startups Built from Unlikely Ecosystems",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/investing-in-global-startups-built-from-unlikely-ecosystems",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Bau & Immobilien",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-16|startupticker.ch/index.php/en/events/investing-in-global-startups-built-from-unlikely-ecosystems",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Unternehmerische Hochschule: Wie organisieren Hochschulen Selbstwirksamkeit und Innovation?",
   "start": "2026-11-16",
   "ende": "2026-11-16",
@@ -1200,6 +1300,32 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Women in Entrepreneurship",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "men in Entrepreneurship",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/en/events/women-in-entrepreneurship-%281%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-16|startupticker.ch/en/events/women-in-entrepreneurship-%281%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-08",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1789,6 +1915,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Landshut Leadership Kolloquium",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/landshut-leichtbau-kolloquium",
+  "veranstalter": "",
+  "kurz": "In den vergangnen zehn Jahren diskutierten renommierte Referenten/-innen mit Führungkräften Auswirkungen von disruptiven Veränderungen in einer komplexen Welt sowie Strategien für den Weg in eine erfolgreiche Zukunft. Da",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-27|haw-landshut.de/veranstaltungen/termin/landshut-leichtbau-kolloquium",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Offene Sprechstunde Landshut Graduate Center",
   "start": "2026-11-27",
   "ende": "2026-11-27",
@@ -2009,6 +2159,31 @@
    "zdb"
   ],
   "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Stolperfallen bei Kauf- und Werkverträgen im Ausland",
+  "start": "2026-12-09",
+  "ende": "2026-12-09",
+  "ort": "online",
+  "land": "",
+  "online": false,
+  "url": "https://www.hwkno.de/termine/stolperfallen-bei-kauf-und-werkvertraegen-im-ausland-76,0,evedetail.html?eve=1488",
+  "veranstalter": "Bayern Handwerk International",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwkno",
+  "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Handwerk"
+  ],
+  "schluessel": "2026-12-09|hwkno.de/termine/stolperfallen-bei-kauf-und-werkvertraegen-im-ausland-76,0,evedetail.html",
+  "quellen": [
+   "hwkno"
+  ],
+  "zuerst_gesehen": "2026-11-08",
   "erfasst_als": null,
   "entscheidung": ""
  },
