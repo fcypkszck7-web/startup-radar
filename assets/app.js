@@ -32,6 +32,24 @@
     "Industrie & Fertigung": "#bf4f36", "Metall & Oberflächen": "#5d6d7e", "Material & Kreislauf": "#3f8f3c", "Handwerk": "#9a5a2a",
     "Software, KI & Daten": "#5868d0", "Logistik & Handel": "#8a55c2", "Gründung & Innovation": "#178a87"
   };
+  /* Eigene Strich-Icons je Branche (24er Raster) */
+  var BR_ICON = {
+    "": '<rect x="4" y="4" width="7" height="7" rx="1.6"/><rect x="13" y="4" width="7" height="7" rx="1.6"/><rect x="4" y="13" width="7" height="7" rx="1.6"/><rect x="13" y="13" width="7" height="7" rx="1.6"/>',
+    "Bau & Immobilien": '<path d="M4.5 20.5V5.5l8-2.5v17.5M12.5 8.5l7 2.2v9.8M3 20.5h18M7.5 8v.01M7.5 11.5v.01M7.5 15v.01M10 8v.01M10 11.5v.01M10 15v.01M15.5 13v.01M15.5 16.5v.01"/>',
+    "Dach & Gebäudehülle": '<path d="M2.5 12.5L12 4.5l9.5 8M5.5 10.2V20h13v-9.8M9.5 20v-5.5h5V20M8.2 9.6L12 6.4l3.8 3.2"/>',
+    "Energie & Solar": '<circle cx="7" cy="7" r="2.6"/><path d="M7 2.2v1.2M2.2 7h1.2M3.6 3.6l.9.9M10.4 3.6l-.9.9M8.5 21l2.6-9H21l-2.6 9zM9.8 16.5h9.9M14.4 12l-2.6 9M17.7 12l-2.6 9"/>',
+    "Gebäudetechnik": '<path d="M3 9.5h6.5v5H3M21 9.5h-6.5v5H21M9.5 12h5M12 12V6.5M9 6.5h6M3 8v8M21 8v8"/>',
+    "Industrie & Fertigung": '<path d="M3 20.5V11l5 3v-3l5 3v-3l5 3V4.5h3v16zM2 20.5h20M7 17.5h2M12 17.5h2"/>',
+    "Metall & Oberflächen": '<path d="M3 7.5c2-1.6 4-1.6 6 0s4 1.6 6 0 4-1.6 6 0M3 12c2-1.6 4-1.6 6 0s4 1.6 6 0 4-1.6 6 0M3 16.5c2-1.6 4-1.6 6 0s4 1.6 6 0 4-1.6 6 0"/>',
+    "Material & Kreislauf": '<path d="M19.5 12a7.5 7.5 0 0 1-12.8 5.3M4.5 12a7.5 7.5 0 0 1 12.8-5.3M17.5 3v3.8h-3.8M6.5 21v-3.8h3.8"/>',
+    "Handwerk": '<path d="M14.6 6.4a4 4 0 0 0-5.3 5.3L3.5 17.5a1.8 1.8 0 0 0 2.5 2.5l5.8-5.8a4 4 0 0 0 5.3-5.3l-2.4 2.4-2.1-.4-.4-2.1z"/>',
+    "Software, KI & Daten": '<rect x="7" y="7" width="10" height="10" rx="1.6"/><rect x="10" y="10" width="4" height="4" rx=".6"/><path d="M10 3.5V7M14 3.5V7M10 17v3.5M14 17v3.5M3.5 10H7M3.5 14H7M17 10h3.5M17 14h3.5"/>',
+    "Logistik & Handel": '<path d="M2.5 6.5h11v10h-11zM13.5 10h4l3 3.2v3.3h-7"/><circle cx="6.5" cy="18" r="1.8"/><circle cx="17" cy="18" r="1.8"/>',
+    "Gründung & Innovation": '<path d="M9.5 18h5M10.5 21h3M12 3a6 6 0 0 0-3.6 10.8c.7.5 1.1 1.3 1.1 2.2v.5h5V16c0-.9.4-1.7 1.1-2.2A6 6 0 0 0 12 3z"/>'
+  };
+  var BR_KURZ = { "Bau & Immobilien": "Bau", "Dach & Gebäudehülle": "Dach & Hülle", "Energie & Solar": "Energie & Solar", "Gebäudetechnik": "Gebäudetechnik", "Industrie & Fertigung": "Industrie",
+    "Metall & Oberflächen": "Metall", "Material & Kreislauf": "Kreislauf", "Handwerk": "Handwerk", "Software, KI & Daten": "Software & KI", "Logistik & Handel": "Logistik", "Gründung & Innovation": "Gründung" };
+  function brIcon(w) { return '<svg class="br-ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false">' + (BR_ICON[w] || BR_ICON[""]) + "</svg>"; }
   var SU_AKZENT = { "": "alle", Ostbayern: "region", Bayern: "bayern", Deutschland: "de", Europa: "eu" };
   var SUCHFELD_FARBE = {
     "Dach-Solar-Integration": "#d4831c",
@@ -57,6 +75,7 @@
     links: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 5.5L8 12l6.5 6.5"/></svg>',
     rechts: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.5 5.5L16 12l-6.5 6.5"/></svg>',
     unten: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.5 9.5L12 16l6.5-6.5"/></svg>',
+    export: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.5v11M7.5 10l4.5 4.5 4.5-4.5M4.5 15.5v3a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2v-3"/></svg>',
     suche: '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>',
     filter: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>',
     liste: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6.5h12M8 12h12M8 17.5h12"/><circle cx="4.2" cy="6.5" r="1"/><circle cx="4.2" cy="12" r="1"/><circle cx="4.2" cy="17.5" r="1"/></svg>',
@@ -227,6 +246,7 @@
     var zeichne = function () {
       aufraeumen();
       ({ uebersicht: zeigeUebersicht, termine: zeigeTermine, startups: zeigeStartups, kapital: zeigeKapital, archiv: zeigeArchiv, merkliste: zeigeMerkliste, intern: zeigeIntern, quellen: zeigeQuellen })[z.r]();
+      beobachteFilter();
       if (wechsel) window.scrollTo(0, 0);
     };
     var leicht = document.getElementById("ansicht").getElementsByTagName("*").length < 1500;
@@ -245,6 +265,27 @@
     tooltip(null);
   }
   function ansichtRadarWeg() { if (S.ansichtRadar) { S.ansichtRadar.entferne(); S.ansichtRadar = null; } }
+
+  /* Höhe der klebenden Filterleiste als CSS-Variable – die Datumsmarken der Zeitleiste kleben darunter */
+  var filterBeob = window.ResizeObserver ? new ResizeObserver(function (es) {
+    es.forEach(function (e) { document.documentElement.style.setProperty("--filter-h", Math.round(e.target.getBoundingClientRect().height) + "px"); });
+  }) : null;
+  function beobachteFilter() {
+    var fl = $(".filterleiste");
+    if (filterBeob) { filterBeob.disconnect(); if (fl) filterBeob.observe(fl); }
+    if (!fl) document.documentElement.style.setProperty("--filter-h", "0px");
+    else if (!filterBeob) document.documentElement.style.setProperty("--filter-h", fl.offsetHeight + "px");
+  }
+
+  var letzteY = 0;
+  window.addEventListener("scroll", function () {
+    var fl = $(".filterleiste"); if (!fl) return;
+    var y = window.scrollY, weg = !reduziert.matches && y > letzteY && y > 520 && !$(".pop:not([hidden])", fl);
+    if (Math.abs(y - letzteY) < 6) return;
+    fl.classList.toggle("weg", weg);
+    document.documentElement.classList.toggle("filter-weg", weg);
+    letzteY = y;
+  }, { passive: true });
 
   /* Gleitende Markierung unter dem aktiven Bereich der Hauptnavigation */
   function navZeiger() {
@@ -299,6 +340,36 @@
     var b = x.branchen || [], n = max || b.length;
     return b.slice(0, n).map(function (w) { return '<span class="br-tag" style="--f:' + (BRANCHE_FARBE[w] || "#5b6b7b") + '">' + esc(w) + "</span>"; }).join("") +
       (b.length > n ? '<span class="br-mehr">+' + (b.length - n) + "</span>" : "");
+  }
+  /* Kategorie-Leiste mit Icons, waagerecht scrollbar (wie bei Buchungsplattformen) */
+  function kategorieLeiste(liste, aktiv, attr, einheit) {
+    var zahl = {};
+    liste.forEach(function (x) { (x.branchen || []).forEach(function (w) { zahl[w] = (zahl[w] || 0) + 1; }); });
+    var knopf = function (w, label, n) {
+      return '<button type="button" class="kat" ' + attr + '="' + esc(w) + '" aria-pressed="' + ((aktiv || "") === w) + '"' + (w ? ' style="--f:' + BRANCHE_FARBE[w] + '"' : "") +
+        ' aria-label="' + esc((w || "Alle Branchen") + ", " + plural(n, einheit[0], einheit[1])) + '">' + brIcon(w) + '<span class="kat-name">' + esc(label) + '</span><span class="kat-zahl" aria-hidden="true">' + n + "</span></button>";
+    };
+    return '<div class="kat-leiste"><button type="button" class="kat-pfeil links" data-kat-scroll="-1" aria-hidden="true" tabindex="-1">' + I.links + '</button>' +
+      '<div class="kat-spur" role="group" aria-label="Nach Branche filtern">' + knopf("", "Alle", liste.length) +
+      BRANCHEN.filter(function (w) { return zahl[w] || aktiv === w; }).map(function (w) { return knopf(w, BR_KURZ[w] || w, zahl[w] || 0); }).join("") +
+      '</div><button type="button" class="kat-pfeil rechts" data-kat-scroll="1" aria-hidden="true" tabindex="-1">' + I.rechts + "</button></div>";
+  }
+  function bindeKatLeiste(wurzel) {
+    $$(".kat-leiste", wurzel).forEach(function (kl) {
+      var spur = $(".kat-spur", kl);
+      var pruefe = function () {
+        kl.classList.toggle("kann-links", spur.scrollLeft > 4);
+        kl.classList.toggle("kann-rechts", spur.scrollLeft + spur.clientWidth < spur.scrollWidth - 4);
+      };
+      spur.addEventListener("scroll", pruefe, { passive: true });
+      window.addEventListener("resize", pruefe);
+      $$("[data-kat-scroll]", kl).forEach(function (b) {
+        b.addEventListener("click", function () { spur.scrollBy({ left: +b.getAttribute("data-kat-scroll") * spur.clientWidth * .6, behavior: reduziert.matches ? "auto" : "smooth" }); });
+      });
+      var akt = $('[aria-pressed="true"]', spur);
+      if (akt && akt.offsetLeft > spur.clientWidth * .7) spur.scrollLeft = akt.offsetLeft - spur.clientWidth / 2;
+      pruefe();
+    });
   }
   function branchenChips(liste, aktiv, attr) {
     var zahl = {};
@@ -407,33 +478,7 @@
         '<button type="button" class="knopf leise klein" data-hilfe>So funktioniert die Seite</button><button type="button" class="knopf leise klein" id="hinweis-aus">Ausblenden</button></div></div>';
     }
 
-    h += '<div class="breite">';
-    h += '<section class="abschnitt" aria-labelledby="zs-titel"><div class="abschnitt-kopf"><h2 id="zs-titel">Die nächsten 18 Monate</h2><p>Jeder Balken ist ein Termin. Zum Blättern ziehen oder wischen, für Details antippen.</p></div><div id="zs-ueb"></div></section>';
-
-    var fristen = S.events.filter(function (e) { return e.anmeldeschluss && e.anmeldeschluss >= S.heute; })
-      .sort(function (a, b) { return a.anmeldeschluss < b.anmeldeschluss ? -1 : 1; }).slice(0, 5);
-    var quick = S.startups.filter(function (s) { return s.quickwin; }).sort(function (a, b) { return b.relevanz - a.relevanz || a.aufwand - b.aufwand; });
-
-    h += '<section class="abschnitt raster-3">';
-    h += '<div class="block"><h2>Fristen</h2>' + (fristen.length ? '<ul class="fristen">' + fristen.map(function (e) {
-      var n = tageBis(e.anmeldeschluss);
-      return '<li><button type="button" data-oeffne="' + esc(e.id) + '"><span class="countdown' + (n <= 14 ? " dringend" : "") + '"><b>' + n + "</b><small>" + (n === 1 ? "Tag" : "Tage") + "</small></span>" +
-        '<span><span class="f-name">' + esc(e.name) + '</span><span class="f-art">' + esc(e.frist_art || "Anmeldeschluss") + '</span><span class="f-datum">bis ' + esc(langDatum(e.anmeldeschluss)) + "</span></span></button></li>";
-    }).join("") + "</ul>" : "<p>Aktuell sind keine Fristen bekannt. Neue Anmeldeschlüsse erscheinen hier, sobald die Veranstalter sie veröffentlichen.</p>") + "</div>";
-
-    h += '<div class="block"><h2>Neu im Stand vom ' + esc(deKurz(S.meta.stand)) + '</h2><ul class="aenderungen">' +
-      (S.meta.aenderungen || []).map(function (a) { return "<li>" + esc(a) + "</li>"; }).join("") + "</ul></div>";
-
-    h += '<div class="block"><div class="block-kopf"><h2>Start-ups mit schnellem Nutzen</h2></div><p>Hohe Relevanz bei geringem Aufwand.</p><ul class="quick">' + quick.slice(0, 6).map(function (s) {
-      return '<li><button type="button" data-oeffne-su="' + esc(s.id) + '">' + logo(s) + '<span><span class="q-name">' + esc(s.name) + '</span><span class="q-text">' + esc(s.sitz) + ", " + esc(s.suchfeld || (s.branchen || [])[0] || "") + "</span></span>" +
-        '<span class="q-werte">' + mini(s.relevanz, "relevanz") + mini(s.aufwand, "aufwand") + "</span></button></li>";
-    }).join("") + '</ul><p style="margin-top:12px"><a href="#startups">' + (quick.length > 6 ? (quick.length - 6) + " weitere Quick Wins und " : "") + "alle " + S.startups.length + " Start-ups ansehen</a></p></div>";
-    h += "</section>";
-
-    h += kapitalTeaser();
-    h += dranbleibenHtml();
-    h += priorisierungHtml(aktiv);
-    h += "</div>";
+    h += '<div class="breite">' + bentoHtml(aktiv) + "</div>";
 
     $("#ansicht").innerHTML = h;
 
@@ -447,7 +492,7 @@
     S.heldRadar = radar;
     heldAktualisieren(true);
 
-    zeitstrahl($("#zs-ueb"), aktiv, { monate: 18, kappe: 560 });
+    bindeBento();
 
     $$("[data-fenster]").forEach(function (b) {
       b.addEventListener("click", function () {
@@ -462,6 +507,80 @@
     $$("[data-kopiere]").forEach(function (b) { b.addEventListener("click", function () { kopiere(b.getAttribute("data-kopiere") === "abo" ? site() + "events.ics" : (S.hinweisText || ""), b); }); });
   }
 
+  /* ---------- Übersicht als Kachel-Raster ---------- */
+  function montag(s) { var d = dt(s); d.setDate(d.getDate() - (d.getDay() + 6) % 7); return iso(d); }
+  function bentoHtml(aktiv) {
+    var h = '<div class="bento">';
+    // Diese Woche
+    var tage = [];
+    for (var i = 0; i < 7; i++) {
+      var s = addTage(S.heute, i);
+      tage.push({ s: s, l: aktiv.filter(function (e) { return e.start <= s && e.ende >= s; }) });
+    }
+    var woche = aktiv.filter(function (e) { return e.start <= addTage(S.heute, 6); });
+    var maxT = Math.max.apply(null, tage.map(function (t) { return t.l.length; }).concat([1]));
+    h += '<section class="kachel k4 k-woche" aria-labelledby="kw-titel"><div class="k-kopf"><h2 id="kw-titel">Nächste 7 Tage</h2><a href="#termine" class="k-link">Alle Termine' + I.rechts + "</a></div>" +
+      '<p class="k-zahl">' + woche.length + "<small>" + (woche.length === 1 ? "Termin" : "Termine") + "</small></p>" +
+      '<div class="k-tage">' + tage.map(function (t, i) {
+        var d = dt(t.s), a = t.l.filter(function (e) { return e.prioritaet === "A"; }).length;
+        return '<div class="k-tag' + (i === 0 ? " heute" : "") + '" title="' + esc(langDatum(t.s) + ": " + plural(t.l.length, "Termin", "Termine")) + '"><span class="k-saeule"><i style="height:' + (t.l.length / maxT * 100).toFixed(0) + '%"' + (a ? ' class="mit-a"' : "") + "></i></span><b>" + t.l.length + "</b><span>" + (i === 0 ? "heute" : WTAG[d.getDay()]) + "</span></div>";
+      }).join("") + "</div></section>";
+    // Fristen
+    var fristen = S.events.filter(function (e) { return e.anmeldeschluss && e.anmeldeschluss >= S.heute; })
+      .sort(function (x, y) { return x.anmeldeschluss < y.anmeldeschluss ? -1 : 1; }).slice(0, 3);
+    h += '<section class="kachel k4 k-fristen" aria-labelledby="kf-titel"><div class="k-kopf"><h2 id="kf-titel">Fristen</h2></div>' + (fristen.length ? '<ul class="k-liste">' + fristen.map(function (e) {
+      var n = tageBis(e.anmeldeschluss);
+      return '<li><button type="button" data-oeffne="' + esc(e.id) + '"><span class="countdown' + (n <= 14 ? " dringend" : "") + '"><b>' + n + "</b><small>" + (n === 1 ? "Tag" : "Tage") + '</small></span><span><span class="kl-name">' + esc(kurzname(e)) + '</span><span class="kl-sub">' + esc(e.frist_art || "Anmeldeschluss") + " bis " + esc(deKurz(e.anmeldeschluss)) + "</span></span></button></li>";
+    }).join("") + "</ul>" : '<p class="k-leer">Aktuell sind keine Fristen bekannt. Neue Anmeldeschlüsse erscheinen hier, sobald die Veranstalter sie veröffentlichen.</p>') + "</section>";
+    // Quick Wins
+    var quick = S.startups.filter(function (s) { return s.quickwin; }).sort(function (x, y) { return y.relevanz - x.relevanz || x.aufwand - y.aufwand; });
+    h += '<section class="kachel k4 k-quick" aria-labelledby="kq-titel"><div class="k-kopf"><h2 id="kq-titel">Start-ups mit schnellem Nutzen</h2><a href="#startups" class="k-link">Alle ' + S.startups.length + I.rechts + "</a></div>" +
+      '<div class="k-logos">' + quick.slice(0, 7).map(function (s) { return '<button type="button" data-oeffne-su="' + esc(s.id) + '" aria-label="' + esc(s.name) + '">' + logo(s) + "</button>"; }).join("") + (quick.length > 7 ? '<span class="k-mehr">+' + (quick.length - 7) + "</span>" : "") + "</div>" +
+      '<ul class="k-liste kompakt">' + quick.slice(0, 3).map(function (s) {
+        return '<li><button type="button" data-oeffne-su="' + esc(s.id) + '"><span><span class="kl-name">' + esc(s.name) + '</span><span class="kl-sub">' + esc(s.loesung) + "</span></span></button></li>";
+      }).join("") + "</ul></section>";
+    // Jahresband: Termine je Woche über 18 Monate
+    var ab = montag(S.heute), wochen = [];
+    for (var w = 0; w < 78; w++) wochen.push({ s: addTage(ab, w * 7), A: 0, B: 0, C: 0 });
+    aktiv.forEach(function (e) {
+      var k = Math.floor((dt(montag(e.start < S.heute ? S.heute : e.start)) - dt(ab)) / (7 * 86400000));
+      if (k >= 0 && k < wochen.length) wochen[k][e.prioritaet]++;
+    });
+    var maxW = Math.max.apply(null, wochen.map(function (x) { return x.A + x.B + x.C; }).concat([1]));
+    h += '<section class="kachel k12 k-jahr" aria-labelledby="kj-titel"><div class="k-kopf"><h2 id="kj-titel">Die nächsten 18 Monate</h2><p class="k-text">Jede Säule ist eine Woche. Antippen zeigt die Termine des Monats.</p></div>' +
+      '<div class="jb" role="group" aria-label="Termine je Woche">' + wochen.map(function (x, i) {
+        var n = x.A + x.B + x.C, d = dt(x.s), neuM = i === 0 || d.getDate() <= 7;
+        var hh = function (v) { return (v / maxW * 100).toFixed(1) + "%"; };
+        return '<button type="button" class="jb-w' + (neuM ? " neu-m" : "") + '" data-jb="' + x.s.slice(0, 7) + '" aria-label="' + esc("Woche ab " + langDatum(x.s, true) + ": " + plural(n, "Termin", "Termine") + (x.A ? ", davon " + x.A + " mit Priorität A" : "")) + '" style="--v:' + (i * 12) + 'ms">' +
+          '<span class="jb-s"><i class="c" style="height:' + hh(x.C) + '"></i><i class="b" style="height:' + hh(x.B) + '"></i><i class="a" style="height:' + hh(x.A) + '"></i></span>' +
+          (neuM ? '<span class="jb-m">' + MON_KURZ[d.getMonth()] + (d.getMonth() === 0 || i === 0 ? " " + String(d.getFullYear()).slice(2) : "") + "</span>" : "") + "</button>";
+      }).join("") + '</div><div class="jb-leg"><span><i class="a"></i>A</span><span><i class="b"></i>B</span><span><i class="c"></i>C</span><button type="button" class="k-link" data-jb-zeit>Als Zeitstrahl ansehen' + I.rechts + "</button></div></section>";
+    // Kapital
+    var deals = S.runden.slice(0, 3);
+    h += '<section class="kachel k6 k-kapital" aria-labelledby="kk-titel"><div class="k-kopf"><h2 id="kk-titel">Neu bei Finanzierungen</h2><a href="#kapital" class="k-link">Alle Deals' + I.rechts + "</a></div>" +
+      '<ul class="k-liste">' + deals.map(function (r) {
+        return '<li><button type="button" data-oeffne-deal="' + esc(r.id) + '"><span class="kk-betrag">' + esc(r.betrag.replace(/^über /, "> ")) + '</span><span><span class="kl-name">' + esc(r.unternehmen) + '</span><span class="kl-sub">' + esc(r.runde) + ", " + esc(monatJahr(r.datum)) + " · " + esc(r.thema) + "</span></span></button></li>";
+      }).join("") + "</ul></section>";
+    // Neu im Stand
+    h += '<section class="kachel k6 k-neu" aria-labelledby="kn-titel"><div class="k-kopf"><h2 id="kn-titel">Neu im Stand vom ' + esc(deKurz(S.meta.stand)) + '</h2></div><ul class="aenderungen" tabindex="0" aria-label="Änderungen im aktuellen Stand">' +
+      (S.meta.aenderungen || []).map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul></section>";
+    h += "</div>";
+    h += dranbleibenHtml();
+    h += '<details class="prio-details">' + '<summary><span>So wird priorisiert</span><small>Vier Kriterien, gewichteter Gesamtscore, Schwellen für A, B und C</small></summary>' + priorisierungHtml(aktiv) + "</details>";
+    return h;
+  }
+  function bindeBento() {
+    $$("[data-jb]").forEach(function (b) {
+      b.addEventListener("click", function () { S.t = neuerFilter("liste"); S.t.monat = b.getAttribute("data-jb"); location.hash = "#termine"; });
+    });
+    var z = $("[data-jb-zeit]");
+    if (z) z.addEventListener("click", function () { S.t.ansicht = "zeitstrahl"; location.hash = "#termine"; });
+    var jb = $(".jb");
+    if (jb && !reduziert.matches && window.IntersectionObserver) {
+      var io = new IntersectionObserver(function (es) { if (es[0].isIntersecting) { jb.classList.add("an"); io.disconnect(); } }, { threshold: .3 });
+      io.observe(jb);
+    } else if (jb) jb.classList.add("an");
+  }
   function heldAktualisieren(erst) {
     var liste = heldListe();
     S.druck = { art: "events", liste: liste, titel: "Termine der nächsten " + S.fenster + " Monate" };
@@ -480,8 +599,9 @@
 
     var visier = liste.slice(0, 6);
     $("#visier").innerHTML = visier.length ? visier.map(function (e) {
-      return '<li><button type="button" data-oeffne="' + esc(e.id) + '" data-kontext="held"><span class="v-datum">' + esc(deKurz(e.start)) + "<small>" + esc(relativ(e)) + "</small></span>" +
-        '<span><span class="v-name">' + esc(e.name) + '</span><span class="v-ort">' + esc(e.ort) + (entfernung(e) && !e.online && entfernung(e) !== "in Regensburg" ? ", " + esc(entfernung(e)) : "") + "</span></span>" +
+      var d0 = dt(e.start < S.heute ? S.heute : e.start);
+      return '<li><button type="button" data-oeffne="' + esc(e.id) + '" data-kontext="held"><span class="v-datum' + (laeuft(e) ? " live" : "") + '"><b>' + d0.getDate() + "</b>" + MON_KURZ[d0.getMonth()] + "</span>" +
+        '<span><span class="v-name">' + esc(e.name) + '</span><span class="v-ort">' + esc(relativ(e)) + " · " + esc(e.online ? "Online" : e.ort) + (entfernung(e) && !e.online && entfernung(e) !== "in Regensburg" ? ", " + esc(entfernung(e)) : "") + "</span></span>" +
         schild(e.prioritaet, e.gesamt) + "</button></li>";
     }).join("") : '<li class="v-leer">Keine Termine in dieser Auswahl.</li>';
     $$("#visier button").forEach(function (b) {
@@ -733,24 +853,25 @@
         rechts: '<div class="kb-radar"><div class="radar" id="radar-kopf"></div></div>' });
     }
 
-    h += '<div class="filterleiste' + (S.filterOffen ? " offen" : "") + '" role="search"><div class="breite">' +
-      '<label class="suchfeld">' + I.suche + '<span class="vh">In der Liste suchen</span><input class="feld" type="search" id="f-q" placeholder="Suchen, z. B. Solar, München, Pitch" value="' + esc(f.q) + '"></label>' +
+    h += '<div class="filterleiste" role="search"><div class="breite fl-innen">' +
+      '<div id="f-branchen">' + kategorieLeiste(basis, f.branche, "data-f-branche", ["Termin", "Termine"]) + "</div>" +
+      '<div class="fl-werkzeug"><label class="suchfeld">' + I.suche + '<span class="vh">In der Liste suchen</span><input class="feld" type="search" id="f-q" placeholder="Suchen: Thema, Ort, Veranstalter" value="' + esc(f.q) + '"></label>' +
       prioWahl(f.prio, "liste") +
-      '<button type="button" class="knopf leise filter-knopf" id="filter-knopf" aria-expanded="' + !!S.filterOffen + '">' + I.filter + 'Filter<span id="filter-zahl"></span></button>' +
-      '<div class="filter-mehr">' +
-      '<label><span class="vh">Format</span><select class="feld" id="f-kat"><option value="">Alle Formate</option>' + kats.map(function (k) { return "<option" + (k === f.kat ? " selected" : "") + ">" + esc(k) + "</option>"; }).join("") + "</select></label>" +
-      '<label><span class="vh">Monat</span><select class="feld" id="f-monat"><option value="">Alle Monate</option>' + monate.map(function (m) { return '<option value="' + m + '"' + (m === f.monat ? " selected" : "") + ">" + esc(monatLabel(m)) + "</option>"; }).join("") + "</select></label>" +
+      '<div class="pop-anker"><button type="button" class="knopf leise filter-knopf" id="filter-knopf" data-pop="filter-pop" aria-expanded="false" aria-controls="filter-pop">' + I.filter + 'Filter<span class="zahl-badge" id="filter-zahl" hidden></span></button>' +
+      '<div class="pop rechts pop-filter" id="filter-pop" hidden role="group" aria-label="Weitere Filter"><p class="pop-titel">Weitere Filter</p>' +
+      '<label class="pop-feld"><span>Format</span><select class="feld" id="f-kat"><option value="">Alle Formate</option>' + kats.map(function (k) { return "<option" + (k === f.kat ? " selected" : "") + ">" + esc(k) + "</option>"; }).join("") + "</select></label>" +
+      '<label class="pop-feld"><span>Monat</span><select class="feld" id="f-monat"><option value="">Alle Monate</option>' + monate.map(function (m) { return '<option value="' + m + '"' + (m === f.monat ? " selected" : "") + ">" + esc(monatLabel(m)) + "</option>"; }).join("") + "</select></label>" +
       '<label class="schalter"><input type="checkbox" id="f-merk"' + (f.merk ? " checked" : "") + "> Nur Merkliste</label>" +
       '<label class="schalter"><input type="checkbox" id="f-best"' + (f.best ? " checked" : "") + "> Nur bestätigte Termine</label>" +
-      '<button type="button" class="knopf leise klein" id="f-reset" hidden>Filter zurücksetzen</button>' +
-      '</div></div><div class="breite branchen-zeile" id="f-branchen">' + branchenChips(basis, f.branche, "data-f-branche") + "</div></div>";
+      '<div class="pop-fuss"><button type="button" class="knopf leise klein" id="f-reset" hidden>Zurücksetzen</button><button type="button" class="knopf klein" data-pop-zu>Fertig</button></div></div></div>' +
+      "</div></div></div>";
 
-    h += '<div class="breite"><div class="ergebnis-kopf"><span class="anzahl" id="anzahl"></span>' +
+    h += '<div class="breite"><div class="aktiv-filter" id="aktiv-filter" aria-live="polite"></div><div class="ergebnis-kopf"><span class="anzahl" id="anzahl"></span>' +
       '<div class="segment" role="group" aria-label="Ansicht">' + ansichten.map(function (a) {
         return '<button type="button" data-ansicht="' + a[0] + '" aria-pressed="' + (f.ansicht === a[0]) + '">' + a[2] + a[1] + "</button>";
       }).join("") + "</div>" +
       downloadsHtml("liste", true) + "</div>" +
-      '<div id="ergebnis"></div></div>';
+      '<div class="liste-layout"><div id="ergebnis"></div><aside class="seiten-spalte" id="seiten-spalte" aria-label="Monatskalender der Auswahl"></aside></div></div>';
     $("#ansicht").innerHTML = h;
     if (art === "termine") kopfRadar(umfang("termine"));
 
@@ -768,10 +889,19 @@
       if (art === "archiv") S.a = neu; else S.t = neu;
       listenSeite(art);
     });
-    $("#filter-knopf").addEventListener("click", function () {
-      S.filterOffen = !S.filterOffen;
-      $(".filterleiste").classList.toggle("offen", S.filterOffen);
-      this.setAttribute("aria-expanded", S.filterOffen);
+    bindeKatLeiste($(".filterleiste"));
+    $("#aktiv-filter").addEventListener("click", function (ev) {
+      var b = ev.target.closest("[data-weg]"); if (!b) return;
+      var w = b.getAttribute("data-weg");
+      if (w === "alle") { $("#f-reset").click(); return; }
+      if (w === "q") { f.q = ""; $("#f-q").value = ""; }
+      if (w === "prio") { f.prio.A = f.prio.B = f.prio.C = true; $$("[data-prio-liste]").forEach(function (x) { x.setAttribute("aria-pressed", "true"); }); }
+      if (w === "branche") { f.branche = ""; $$("[data-f-branche]").forEach(function (x) { x.setAttribute("aria-pressed", x.getAttribute("data-f-branche") === ""); }); }
+      if (w === "kat") { f.kat = ""; $("#f-kat").value = ""; }
+      if (w === "monat") { f.monat = ""; $("#f-monat").value = ""; }
+      if (w === "merk") { f.merk = false; $("#f-merk").checked = false; }
+      if (w === "best") { f.best = false; $("#f-best").checked = false; }
+      aktualisiereListe(art, true);
     });
     $$("[data-ansicht]").forEach(function (b) {
       b.addEventListener("click", function () {
@@ -817,11 +947,13 @@
   }
 
   function downloadsHtml(quelle, mitIcs) {
-    return '<div class="downloads"><span class="dl-label">Auswahl herunterladen:</span>' +
-      '<button type="button" class="knopf leise klein" data-dl="xlsx" data-quelle="' + quelle + '">' + I.excel + "Excel</button>" +
-      (mitIcs ? '<button type="button" class="knopf leise klein" data-dl="ics" data-quelle="' + quelle + '">' + I.kal + "Kalender</button>" : "") +
-      '<button type="button" class="knopf leise klein" data-dl="csv" data-quelle="' + quelle + '">' + I.datei + "CSV</button>" +
-      '<button type="button" class="knopf leise klein" data-dl="druck" data-quelle="' + quelle + '">' + I.druck + "Drucken</button></div>";
+    var id = "dl-pop-" + quelle;
+    return '<div class="pop-anker downloads"><button type="button" class="knopf leise" data-pop="' + id + '" aria-expanded="false" aria-controls="' + id + '">' + I.export + "Exportieren</button>" +
+      '<div class="pop pop-menue rechts" id="' + id + '" hidden><p class="pop-titel">Aktuelle Auswahl herunterladen</p>' +
+      '<button type="button" class="pop-eintrag" data-dl="xlsx" data-quelle="' + quelle + '">' + I.excel + "<span><b>Excel</b><small>Tabelle mit allen Angaben</small></span></button>" +
+      (mitIcs ? '<button type="button" class="pop-eintrag" data-dl="ics" data-quelle="' + quelle + '">' + I.kal + "<span><b>Kalenderdatei</b><small>Für Outlook und andere Kalender</small></span></button>" : "") +
+      '<button type="button" class="pop-eintrag" data-dl="csv" data-quelle="' + quelle + '">' + I.datei + "<span><b>CSV</b><small>Zum Weiterverarbeiten</small></span></button>" +
+      '<button type="button" class="pop-eintrag" data-dl="druck" data-quelle="' + quelle + '">' + I.druck + "<span><b>Drucken</b><small>Übersicht als Liste</small></span></button></div></div>";
   }
 
   function aktualisiereListe(art, animiert) {
@@ -831,11 +963,16 @@
     var titel = art === "archiv" ? "Archiv" : "Termine – " + (f.rubrik ? (f.rubrik === "eu" ? "Europa" : RUBRIK[f.rubrik]) : "alle Rubriken");
     S.druck = { art: "events", liste: liste, titel: titel };
     $("#anzahl").innerHTML = plural(liste.length, "Termin", "Termine") + (liste.length !== umfang(art).length ? "<small>von " + umfang(art).length + "</small>" : "");
-    var nf = aktiveFilter(f);
-    $("#filter-zahl").textContent = nf ? " (" + nf + ")" : "";
+    var nf = aktiveFilter(f), npop = (f.kat ? 1 : 0) + (f.monat ? 1 : 0) + (f.merk ? 1 : 0) + (f.best ? 1 : 0);
+    $("#filter-zahl").textContent = npop || "";
+    $("#filter-zahl").hidden = !npop;
     $("#f-reset").hidden = !(nf || f.q.trim());
+    $("#aktiv-filter").innerHTML = aktivFilterHtml(f);
     var ziel = $("#ergebnis");
     ansichtRadarWeg(); tooltip(null);
+    var mitSeite = f.ansicht === "liste" && liste.length > 0;
+    $(".liste-layout").classList.toggle("mit-seite", mitSeite);
+    if (mitSeite) seitenKalender($("#seiten-spalte"), liste, art); else $("#seiten-spalte").innerHTML = "";
     if (f.ansicht === "zeitstrahl") return zeitstrahl(ziel, liste, { monate: 18 });
     if (f.ansicht === "kalender") return kalender(ziel, liste, art);
     if (f.ansicht === "radar") return radarAnsicht(ziel, liste);
@@ -843,23 +980,95 @@
     if (animiert) flip(ziel, neuZeichnen); else neuZeichnen();
   }
 
+  /* Seitenspalte: kleiner Monatskalender – Punkte zeigen Tage mit Terminen, Antippen springt zum Tag in der Liste */
+  function seitenKalender(ziel, liste, art, ym) {
+    var monate = uniq(liste.map(function (e) { return (art !== "archiv" && e.start < S.heute ? S.heute : e.start).slice(0, 7); })).sort();
+    if (art === "archiv") monate.reverse();
+    ym = ym || (S.skMonat && monate.indexOf(S.skMonat) >= 0 ? S.skMonat : monate[0]);
+    S.skMonat = ym;
+    var idx = monate.indexOf(ym), p = ym.split("-"), y = +p[0], m = +p[1];
+    var tage = new Date(y, m, 0).getDate(), versatz = (new Date(y, m - 1, 1).getDay() + 6) % 7;
+    var proTag = {};
+    liste.forEach(function (e) {
+      var k = art !== "archiv" && e.start < S.heute ? S.heute : e.start;
+      if (k.slice(0, 7) !== ym) return;
+      var r = { A: 3, B: 2, C: 1 }[e.prioritaet];
+      proTag[k] = Math.max(proTag[k] || 0, r);
+    });
+    var anz = { A: 0, B: 0, C: 0 };
+    liste.forEach(function (e) { anz[e.prioritaet]++; });
+    var h = '<div class="sk-karte"><div class="sk-kopf"><button type="button" class="icon-knopf" data-sk="' + (monate[idx - 1] || "") + '"' + (idx <= 0 ? " disabled" : "") + ' aria-label="Vorheriger Monat">' + I.links + "</button>" +
+      "<b>" + esc(monatLabel(ym)) + '</b><button type="button" class="icon-knopf" data-sk="' + (monate[idx + 1] || "") + '"' + (idx >= monate.length - 1 ? " disabled" : "") + ' aria-label="Nächster Monat">' + I.rechts + "</button></div>" +
+      '<div class="sk-raster">' + ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"].map(function (w) { return '<span class="sk-wt" aria-hidden="true">' + w + "</span>"; }).join("");
+    for (var i = 0; i < versatz; i++) h += "<span></span>";
+    for (var t = 1; t <= tage; t++) {
+      var s = y + "-" + pad(m) + "-" + pad(t), r = proTag[s];
+      h += r ? '<button type="button" class="sk-tag hat p' + r + (s === S.heute ? " heute" : "") + '" data-sk-tag="' + s + '" aria-label="' + esc(langDatum(s)) + ', zu den Terminen springen">' + t + "</button>"
+        : '<span class="sk-tag' + (s === S.heute ? " heute" : "") + '">' + t + "</span>";
+    }
+    h += "</div></div>";
+    var n = liste.length || 1;
+    h += '<div class="sk-karte sk-mix"><p class="sk-titel">In dieser Auswahl</p><p class="sk-zahl">' + plural(liste.length, "Termin", "Termine") + "</p>" +
+      '<div class="sk-balken" aria-hidden="true"><i class="a" style="width:' + (anz.A / n * 100) + '%"></i><i class="b" style="width:' + (anz.B / n * 100) + '%"></i><i class="c" style="width:' + (anz.C / n * 100) + '%"></i></div>' +
+      '<ul class="sk-leg"><li><i class="a"></i>Priorität A<b>' + anz.A + "</b></li><li><i class=\"b\"></i>B<b>" + anz.B + '</b></li><li><i class="c"></i>C<b>' + anz.C + "</b></li></ul></div>";
+    ziel.innerHTML = h;
+    $$("[data-sk]", ziel).forEach(function (b) { b.addEventListener("click", function () { var z = b.getAttribute("data-sk"); if (z) seitenKalender(ziel, liste, art, z); }); });
+    $$("[data-sk-tag]", ziel).forEach(function (b) {
+      b.addEventListener("click", function () {
+        var s = b.getAttribute("data-sk-tag");
+        var g = $('[data-id="tag-' + s + '"]') || (s === S.heute ? $('[data-id="tag-laeuft"]') : null);
+        if (!g) return;
+        g.scrollIntoView({ block: "start", behavior: reduziert.matches ? "auto" : "smooth" });
+        g.classList.remove("blitz"); void g.offsetWidth; g.classList.add("blitz");
+      });
+    });
+  }
+  function aktivFilterHtml(f) {
+    var c = [];
+    var chip = function (weg, text) { return '<button type="button" class="af-chip" data-weg="' + weg + '" aria-label="' + esc(text) + ' entfernen"><span>' + esc(text) + "</span>" + I.x + "</button>"; };
+    if (f.q.trim()) c.push(chip("q", "Suche: „" + f.q.trim() + "“"));
+    if (!(f.prio.A && f.prio.B && f.prio.C)) c.push(chip("prio", "Priorität " + ["A", "B", "C"].filter(function (p) { return f.prio[p]; }).join(", ")));
+    if (f.branche) c.push(chip("branche", f.branche));
+    if (f.kat) c.push(chip("kat", f.kat));
+    if (f.monat) c.push(chip("monat", monatLabel(f.monat)));
+    if (f.merk) c.push(chip("merk", "Nur Merkliste"));
+    if (f.best) c.push(chip("best", "Nur bestätigte"));
+    if (c.length > 1) c.push('<button type="button" class="af-alle" data-weg="alle">Alle zurücksetzen</button>');
+    return c.join("");
+  }
   function listeHtml(liste, art, f) {
     if (!liste.length) {
       return '<div class="leer"><h2>' + (art === "archiv" && !umfang("archiv").length ? "Noch nichts im Archiv" : "Kein Termin passt zu den Filtern") + "</h2><p>" +
         (art === "archiv" && !umfang("archiv").length ? "Vergangene Veranstaltungen landen hier automatisch nach ihrem letzten Tag." : "Suchbegriff kürzen oder Filter zurücksetzen.") + "</p>" +
         (art === "archiv" && !umfang("archiv").length ? '<a class="knopf leise" href="#termine">Kommende Termine ansehen</a>' : "") + "</div>";
     }
+    /* Zeitleiste: Monat, darin Tage mit großer Datumsmarke links und Karten rechts */
     var gruppen = function (l) {
-      var h = "", aktM = null, puffer = [];
+      var h = "", aktM = null, monat = [];
+      var tagHtml = function (tag, evs) {
+        var lauf = tag === "laeuft", d = lauf ? null : dt(tag), n = lauf ? 0 : tageBis(tag);
+        var rel = lauf ? "" : art === "archiv" ? "" : n === 0 ? "heute" : n === 1 ? "morgen" : n < 7 ? "in " + n + " Tagen" : "";
+        return '<div class="tag-gruppe' + (lauf ? " laeuft" : "") + '" data-id="tag-' + esc(tag) + '">' +
+          '<div class="tag-datum" aria-hidden="true">' + (lauf ? '<span class="td-live"></span><span class="td-wt">läuft</span>'
+            : '<span class="td-wt">' + WTAG[d.getDay()] + '</span><span class="td-tag">' + d.getDate() + "</span>" + (rel ? '<span class="td-rel">' + rel + "</span>" : "")) + "</div>" +
+          '<h3 class="vh">' + (lauf ? "Läuft gerade" : esc(langDatum(tag))) + '</h3><ul class="ev-liste">' + evs.map(zeileHtml).join("") + "</ul></div>";
+      };
       var flush = function () {
-        if (!puffer.length) return;
-        h += '<h2 class="monat-kopf" data-id="monat-' + esc(aktM) + '">' + esc(monatLabel(aktM)) + "<span>" + plural(puffer.length, "Termin", "Termine") + '</span></h2><ul class="zeilen">' + puffer.map(zeileHtml).join("") + "</ul>";
-        puffer = [];
+        if (!monat.length) return;
+        var tage = [], proTag = {};
+        monat.forEach(function (e) {
+          var k = art !== "archiv" && e.start < S.heute ? "laeuft" : e.start;
+          if (!proTag[k]) { proTag[k] = []; tage.push(k); }
+          proTag[k].push(e);
+        });
+        h += '<h2 class="monat-kopf" data-id="monat-' + esc(aktM) + '">' + esc(monatLabel(aktM)) + "<span>" + plural(monat.length, "Termin", "Termine") + "</span></h2>" +
+          '<div class="zeitleiste">' + tage.map(function (t) { return tagHtml(t, proTag[t]); }).join("") + "</div>";
+        monat = [];
       };
       l.forEach(function (e) {
         var m = (art !== "archiv" && e.start < S.heute ? S.heute : e.start).slice(0, 7);
         if (m !== aktM) { flush(); aktM = m; }
-        puffer.push(e);
+        monat.push(e);
       });
       flush();
       return h;
@@ -871,19 +1080,42 @@
     return gruppen(liste);
   }
 
+  /* Termin als Karte: Text links, Materialbild rechts, Merken und Kalender direkt auf dem Bild */
+  function motivStile() {
+    if (!window.Motiv || document.getElementById("motiv-baender")) return;
+    var st = document.createElement("style"); st.id = "motiv-baender"; st.textContent = window.Motiv.bandStile(); document.head.appendChild(st);
+  }
+  function evBildKlasse(e) {
+    if (!window.Motiv) return "";
+    motivStile();
+    if (!S.evHaeufig) { S.evHaeufig = {}; S.events.forEach(function (x) { (x.branchen || []).forEach(function (b) { S.evHaeufig[b] = (S.evHaeufig[b] || 0) + 1; }); }); }
+    return window.Motiv.bandKlasse(e.branchen, S.evHaeufig);
+  }
+  function dauerText(e) {
+    if (e.start === e.ende) return "";
+    var n = Math.round((dt(e.ende) - dt(e.start)) / 86400000) + 1;
+    return n <= 31 ? n + " Tage" : "bis " + deKurz(e.ende);
+  }
   function zeileHtml(e) {
-    var d = datumsBlock(e), bald = !vorbei(e) && tageBis(e.start) <= 30;
-    var ent = entfernung(e);
-    return '<li class="zeile prio-' + e.prioritaet + " rb-" + e.rubrik + '" data-id="' + esc(e.id) + '">' +
-      '<button type="button" class="zeile-knopf" data-oeffne="' + esc(e.id) + '" data-kontext="liste">' +
-      '<span class="z-datum"><span class="z-tag">' + esc(d.tag) + '</span><span class="z-mon">' + esc(d.unter) + "</span></span>" +
-      '<span class="z-haupt"><span class="z-titel">' + esc(e.name) + "</span>" +
-      '<span class="z-meta"><span>' + I.ort + esc(e.ort) + (ent && !e.online && ent !== "in Regensburg" ? ", " + esc(ent) : "") + "</span><span>" + esc(e.kategorie) + "</span>" +
-      (e.rubrik === "noneu" ? '<span class="nicht-eu-marke">außerhalb der EU</span>' : "") + branchenTags(e, 2) + "</span>" +
-      '<span class="z-grund">' + esc(e.begruendung || e.fokus || "") + "</span></span>" +
-      '<span class="z-rechts">' + schild(e.prioritaet, e.gesamt) + status(e) + '<span class="z-wann' + (bald ? " bald" : "") + '">' + esc(relativ(e)) + "</span></span>" +
+    var ent = entfernung(e), dauer = dauerText(e), lauf = laeuft(e), frist = e.anmeldeschluss && e.anmeldeschluss >= S.heute ? tageBis(e.anmeldeschluss) : null;
+    var ober = [esc(e.kategorie || e.format)];
+    if (dauer) ober.push(esc(dauer));
+    if (lauf) ober.unshift('<span class="ev-live">läuft</span>');
+    var br = (e.branchen || []).slice(0, 3);
+    return '<li class="ev prio-' + e.prioritaet + " rb-" + e.rubrik + (e.status === "geschätzt" ? " geschaetzt" : "") + '" data-id="' + esc(e.id) + '">' +
+      '<button type="button" class="ev-knopf" data-oeffne="' + esc(e.id) + '" data-kontext="liste">' +
+      '<span class="ev-text"><span class="ev-ober">' + ober.join('<i aria-hidden="true">·</i>') + "</span>" +
+      '<span class="ev-titel">' + esc(e.name) + "</span>" +
+      '<span class="ev-ort">' + (e.online ? I.welt : I.ort) + "<span>" + esc(e.online ? "Online" : e.ort) + (ent && !e.online && ent !== "in Regensburg" ? '<span class="ev-km">' + esc(ent) + "</span>" : "") + "</span></span>" +
+      '<span class="ev-fuss">' + br.map(function (w) { return '<span class="ev-br" style="--f:' + BRANCHE_FARBE[w] + '">' + brIcon(w) + esc(BR_KURZ[w] || w) + "</span>"; }).join("") +
+      ((e.branchen || []).length > 3 ? '<span class="ev-br mehr">+' + ((e.branchen || []).length - 3) + "</span>" : "") +
+      (e.rubrik === "noneu" ? '<span class="ev-marke">außerhalb der EU</span>' : "") +
+      (e.status === "geschätzt" ? '<span class="ev-marke schaetz" title="Aus dem Vorjahr abgeleitet – vor der Planung prüfen">Datum geschätzt</span>' : "") +
+      (frist != null && frist <= 45 ? '<span class="ev-marke frist">Anmeldung noch ' + plural(frist, "Tag", "Tage") + "</span>" : "") + "</span></span>" +
+      '<span class="ev-bild ' + evBildKlasse(e) + '" aria-hidden="true"></span>' +
+      '<span class="ev-schild">' + schild(e.prioritaet, e.gesamt) + "</span>" +
       "</button>" +
-      '<div class="z-aktionen">' + sternKnopf(e.id, e.name) + (vorbei(e) ? "" : icsKnopf(e)) + "</div></li>";
+      '<div class="ev-aktionen">' + sternKnopf(e.id, e.name) + (vorbei(e) ? "" : icsKnopf(e)) + "</div></li>";
   }
 
   /* Sanftes Umsortieren beim Filtern (FLIP) */
@@ -971,10 +1203,10 @@
       reiter: '<div class="reiter" role="tablist" aria-label="Region" id="su-reiter">' + regionTabs() + "</div>",
       unten: '<p class="kb-link"><a href="#kapital">Finanzierungen und Investoren ansehen</a> · <a href="#quellen">Quellen der Recherche</a></p>',
       rechts: '<div class="kb-radar"><div class="radar" id="radar-kopf"></div></div>' });
-    h += '<div class="filterleiste" role="search"><div class="breite">' +
-      '<label class="suchfeld">' + I.suche + '<span class="vh">Start-ups durchsuchen</span><input class="feld" type="search" id="s-q" placeholder="Suchen, z. B. EPD, Zoll, Sensor, Investor" value="' + esc(sf.q) + '"></label>' +
-      '<label class="schalter"><input type="checkbox" id="s-merk"' + (sf.merk ? " checked" : "") + "> Nur Merkliste</label></div>" +
-      '<div class="breite branchen-zeile" id="s-branchen">' + branchenChips(suUmfang(null, ""), sf.branche, "data-s-branche") + "</div></div>";
+    h += '<div class="filterleiste" role="search"><div class="breite fl-innen">' +
+      '<div id="s-branchen">' + kategorieLeiste(suUmfang(null, ""), sf.branche, "data-s-branche", ["Start-up", "Start-ups"]) + "</div>" +
+      '<div class="fl-werkzeug"><label class="suchfeld">' + I.suche + '<span class="vh">Start-ups durchsuchen</span><input class="feld" type="search" id="s-q" placeholder="Suchen: Lösung, Ort, Investor" value="' + esc(sf.q) + '"></label>' +
+      '<label class="schalter"><input type="checkbox" id="s-merk"' + (sf.merk ? " checked" : "") + "> Nur Merkliste</label></div></div></div>";
     h += '<div class="breite"><div class="su-raster"><div class="matrix-block"><h2>Relevanz und Aufwand</h2><p>Grobe Einordnung, nach der die Liste sortiert ist – kein Auswahlkriterium. Oben links: hohe Relevanz bei geringem Aufwand.</p>' +
       '<div class="matrix-wrap"><div class="achse-y">Relevanz, oben hoch</div><div class="matrix" id="matrix"></div><div class="achse-x">Umsetzungsaufwand, links gering</div></div>' +
       '<div class="matrix-legende"><span><span class="m-chip prio-A" style="padding:1px 6px">A</span>Priorität A</span><span><span class="m-chip prio-B" style="padding:1px 6px">B</span>B</span><span><span class="m-chip" style="padding:1px 6px">C</span>C</span><span><i class="ost-punkt"></i>Sitz in Ostbayern</span></div></div>';
@@ -987,6 +1219,7 @@
     $("#s-merk").addEventListener("change", function () { S.s.merk = this.checked; aktualisiereStartups(true); });
     bindeSuBranchen();
     bindeRegionTabs();
+    bindeKatLeiste($(".filterleiste"));
     aktualisiereStartups(false, true);
   }
   function bindeSuBranchen() {
@@ -1047,14 +1280,14 @@
     var m = "";
     for (var r = 5; r >= 1; r--) {
       for (var a = 1; a <= 5; a++) {
-        var hier = basis.filter(function (s) { return s.relevanz === r && s.aufwand === a; });
-        var viel = hier.length > 6;
+        var hier = basis.filter(function (s) { return s.relevanz === r && s.aufwand === a; }).sort(function (x, y) { return (ids[y.id] ? 1 : 0) - (ids[x.id] ? 1 : 0); });
+        var viel = hier.length > 11;
         m += '<div class="m-zelle' + (r >= 4 && a <= 2 ? " quick" : "") + '" role="group" aria-label="Relevanz ' + r + ", Aufwand " + a + '">' +
           (r === 5 && a === 1 ? '<span class="quick-label">Quick Wins</span>' : "") +
           (r === 5 && a === 1 && hier.length ? '<span style="height:16px"></span>' : "") +
           hier.map(function (s, i) {
-            return '<button type="button" class="m-chip prio-' + s.prioritaet + (s.region === "Ostbayern" ? " ost" : "") + (ids[s.id] ? "" : " aus") + (viel && i >= 5 ? " m-weg" : "") + '" data-oeffne-su="' + esc(s.id) + '" data-su-chip="' + esc(s.id) + '" style="animation-delay:' + ((5 - r) * 60 + a * 40 + i * 30) + 'ms" title="' + esc(s.name + ", " + s.sitz + ", Relevanz " + r + ", Aufwand " + a) + '">' + esc(s.name) + "</button>";
-          }).join("") + (viel ? '<button type="button" class="m-mehr" aria-expanded="false" data-m-mehr>+' + (hier.length - 5) + " weitere</button>" : "") +
+            return '<button type="button" class="m-chip prio-' + s.prioritaet + (s.region === "Ostbayern" ? " ost" : "") + (ids[s.id] ? "" : " aus") + (viel && i >= 10 ? " m-weg" : "") + '" data-oeffne-su="' + esc(s.id) + '" data-su-chip="' + esc(s.id) + '" style="animation-delay:' + ((5 - r) * 50 + a * 40 + i * 22) + 'ms" aria-label="' + esc(s.name + ", " + s.sitz + ", Relevanz " + r + ", Aufwand " + a) + '">' + logo(s) + "</button>";
+          }).join("") + (viel ? '<button type="button" class="m-mehr" aria-expanded="false" data-m-mehr>+' + (hier.length - 10) + "</button>" : "") +
           '<span class="m-koord" aria-hidden="true">' + r + "/" + a + "</span></div>";
       }
     }
@@ -1065,8 +1298,14 @@
         var z = b.closest(".m-zelle"), auf = !z.classList.contains("offen");
         z.classList.toggle("offen", auf);
         b.setAttribute("aria-expanded", auf ? "true" : "false");
-        b.textContent = auf ? "weniger" : "+" + $$(".m-weg", z).length + " weitere";
+        b.textContent = auf ? "–" : "+" + $$(".m-weg", z).length;
       });
+    });
+    $$(".m-chip", mx).forEach(function (c) {
+      var s = findeStartup(c.getAttribute("data-su-chip"));
+      var zeige = function () { var b = c.getBoundingClientRect(); tooltipStartup(s, { x: b.left + b.width / 2, y: b.top + b.height / 2, r: b.height / 2 + 4 }); };
+      c.addEventListener("mouseenter", zeige); c.addEventListener("focus", zeige);
+      c.addEventListener("mouseleave", function () { tooltip(null); }); c.addEventListener("blur", function () { tooltip(null); });
     });
     if (erst && !reduziert.matches) mx.classList.add("reveal");
     var zeichne = function () {
@@ -1082,9 +1321,7 @@
   /* Materialband oben auf den Start-up-Karten: ein SVG-Bild je Branche, einmal als Stil angelegt */
   function bandHtml(s) {
     if (!window.Motiv) return "";
-    if (!document.getElementById("motiv-baender")) {
-      var st = document.createElement("style"); st.id = "motiv-baender"; st.textContent = window.Motiv.bandStile(); document.head.appendChild(st);
-    }
+    motivStile();
     if (!S.suHaeufig) {
       S.suHaeufig = {};
       S.startups.forEach(function (x) { (x.branchen || []).forEach(function (b) { S.suHaeufig[b] = (S.suHaeufig[b] || 0) + 1; }); });
@@ -1617,11 +1854,11 @@
     }
     if (ev.length) {
       h += '<div class="ergebnis-kopf"><span class="anzahl">' + plural(ev.length, "Termin", "Termine") + "</span>" + downloadsHtml("merk-ev", true) + "</div>" +
-        '<ul class="zeilen">' + ev.map(zeileHtml).join("") + "</ul>";
+        '<ul class="ev-liste">' + ev.map(zeileHtml).join("") + "</ul>";
     }
     if (su.length) {
       h += '<div class="ergebnis-kopf" style="margin-top:28px"><span class="anzahl">' + plural(su.length, "Start-up", "Start-ups") + "</span>" + downloadsHtml("merk-su", false) + "</div>" +
-        '<ul class="zeilen">' + su.map(suZeileHtml).join("") + "</ul>";
+        '<ul class="zeilen su-karten">' + su.map(suZeileHtml).join("") + "</ul>";
     }
     h += "</div>";
     $("#ansicht").innerHTML = h;
@@ -1724,38 +1961,42 @@
   function fakt(icon, html) { return '<div class="p-fakt">' + icon + "<div>" + html + "</div></div>"; }
   function zeile(k, v) { return "<dt>" + esc(k) + "</dt><dd>" + esc(v == null || v === "" ? "k. A." : v) + "</dd>"; }
 
+  function pKachel(icon, titel, haupt, unter) {
+    return '<div class="p-kachel">' + icon + '<span class="pk-titel">' + esc(titel) + '</span><strong>' + haupt + "</strong>" + (unter ? "<span>" + unter + "</span>" : "") + "</div>";
+  }
   function panelEvent(e) {
     var sc = e.scores, ent = entfernung(e);
-    var h = panelKopf(e.rubrik === "noneu" ? "Veranstaltung außerhalb der EU" : "Veranstaltung, " + (e.rubrik === "eu" ? "EU" : RUBRIK[e.rubrik]), e.id, e.name) + '<div class="p-inhalt">' + motivBild(e);
-    h += '<div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">' + schild(e.prioritaet, e.gesamt, true) + status(e) + "</div>";
-    h += '<h2 id="panel-titel">' + esc(e.name) + "</h2>";
-    h += '<div class="p-fakten">' +
-      fakt(I.kal, "<strong>" + esc(zeitraumLang(e)) + "</strong><br>" + esc(relativ(e)) + (e.status === "geschätzt" ? ", Datum aus dem Vorjahr abgeleitet" : "")) +
-      fakt(I.ort, "<strong>" + esc(e.ort) + "</strong><br>" + esc(e.region) + (ent && !e.online ? ", " + esc(ent === "in Regensburg" ? "in Regensburg" : ent + " von Regensburg") : "")) +
-      fakt(I.leute, esc(e.format) + ", " + esc(e.veranstalter)) +
-      (e.kosten ? fakt(I.euro, esc(e.kosten)) : "") + "</div>";
-    h += '<div class="p-branchen">' + branchenTags(e) + "</div>";
-    h += '<div class="p-aktionen">' + (vorbei(e) ? "" : '<button type="button" class="knopf signal" data-ics="' + esc(e.id) + '">' + I.kalPlus + "In Kalender speichern</button>") +
-      '<a class="knopf leise" href="' + esc(e.quelle) + '" target="_blank" rel="noopener noreferrer">' + I.link + "Quelle öffnen</a></div>";
+    var h = panelKopf(e.rubrik === "noneu" ? "Veranstaltung außerhalb der EU" : "Veranstaltung, " + (e.rubrik === "eu" ? "EU" : RUBRIK[e.rubrik]), e.id, e.name) + '<div class="p-inhalt">';
+    h += '<div class="p-titelbild">' + motivBild(e) + '<div class="p-titel-auf"><div class="p-badges">' + schild(e.prioritaet, e.gesamt) +
+      (e.status === "geschätzt" ? '<span class="p-pille schaetz">Datum geschätzt</span>' : '<span class="p-pille ok">bestätigt</span>') +
+      (laeuft(e) ? '<span class="p-pille live">läuft gerade</span>' : "") + '</div><h2 id="panel-titel">' + esc(e.name) + "</h2></div></div>";
+    h += '<div class="p-kacheln">' +
+      pKachel(I.kal, "Wann", esc(zeitraumLang(e)), esc(relativ(e)) + (e.status === "geschätzt" ? ", aus dem Vorjahr abgeleitet" : "")) +
+      pKachel(e.online ? I.welt : I.ort, "Wo", esc(e.online ? "Online" : e.ort), esc(e.region) + (ent && !e.online ? ", " + esc(ent === "in Regensburg" ? "in Regensburg" : ent + " von Regensburg") : "")) +
+      pKachel(I.leute, "Format", esc(e.format), esc(e.veranstalter)) +
+      pKachel(I.euro, e.kosten ? "Kosten" : "Anmeldung", esc(e.kosten || e.anmeldung || "k. A."), e.kosten && e.anmeldung ? esc(e.anmeldung) : "") + "</div>";
+    h += '<div class="p-branchen">' + (e.branchen || []).map(function (w) { return '<span class="ev-br" style="--f:' + BRANCHE_FARBE[w] + '">' + brIcon(w) + esc(w) + "</span>"; }).join("") + "</div>";
     if (e.anmeldeschluss && e.anmeldeschluss >= S.heute) {
       var n = tageBis(e.anmeldeschluss);
       h += '<div class="frist-box"><span class="countdown' + (n <= 14 ? " dringend" : "") + '"><b>' + n + "</b><small>" + (n === 1 ? "Tag" : "Tage") + "</small></span><div><strong>" + esc(e.frist_art || "Anmeldeschluss") + "</strong><br>bis " + esc(langDatum(e.anmeldeschluss)) + "</div></div>";
     }
-    if (e.begruendung || e.fokus || (e.rolle || []).length) h += '<section class="p-abschnitt"><h3>' + (e.begruendung ? "Warum relevant" : "Worum es geht") + "</h3><p>" + esc(e.begruendung || e.fokus) + '</p><div class="rollen">' + (e.rolle || []).map(function (r) { return '<span class="rolle">' + esc(r) + "</span>"; }).join("") + "</div></section>";
+    if (e.begruendung || e.fokus || (e.rolle || []).length) h += '<section class="p-abschnitt p-warum"><h3>' + I.info + (e.begruendung ? "Warum relevant" : "Worum es geht") + "</h3><p>" + esc(e.begruendung || e.fokus) + '</p><div class="rollen">' + (e.rolle || []).map(function (r) { return '<span class="rolle">' + esc(r) + "</span>"; }).join("") + "</div></section>";
     var bar = function (name, gew, wert, hinweis) {
       return '<div class="sc"><span>' + name + "<small>" + gew + (hinweis ? ", " + hinweis : "") + '</small></span><span class="sc-bar"><i style="width:' + wert * 20 + '%"></i></span><b>' + wert + "</b></div>";
     };
     h += '<section class="p-abschnitt"><h3>Bewertung</h3><div class="scores">' +
       bar("Relevanz", "40 %", sc.relevanz) + bar("Zugang", "30 %", sc.zugang) + bar("Aufwand", "20 %", sc.aufwand, "5 = gering") + bar("Verlässlichkeit", "10 %", sc.verlaesslichkeit) +
       '</div><div class="sc-gesamt">Gesamtscore ' + schild(e.prioritaet, e.gesamt) + "</div></section>";
-    h += '<section class="p-abschnitt"><h3>Alle Angaben</h3><dl class="angaben">' +
+    h += '<details class="p-mehr"><summary>Alle Angaben</summary><dl class="angaben">' +
       zeile("Veranstalter", e.veranstalter) + zeile("Format", e.format + " (" + e.kategorie + ")") + zeile("Branchen", (e.branchen || []).join(", ")) + zeile("Ort", e.ort) + zeile("Land / Bundesland", e.region) +
       zeile("Rubrik", RUBRIK[e.rubrik]) + zeile("Start und Ende", de(e.start) + (e.ende !== e.start ? " – " + de(e.ende) : "")) + zeile("Turnus", e.turnus) +
       zeile("Üblicher Zeitraum", e.zeitraum) + zeile("Terminstatus", e.status) +
       zeile("Anmeldeschluss", e.anmeldeschluss ? de(e.anmeldeschluss) + (e.frist_art ? " – " + e.frist_art : "") : "") + zeile("Anmeldung", e.anmeldung) +
       zeile("Kosten", e.kosten) + zeile("Zielgruppe", e.zielgruppe) + zeile("Themenfokus", e.fokus) + zeile("Empfohlene Rolle", (e.rolle || []).join(", ")) +
       '<dt>Quelle</dt><dd><a href="' + esc(e.quelle) + '" target="_blank" rel="noopener noreferrer">' + esc(kurzUrl(e.quelle)) + "</a></dd>" + zeile("Zuletzt geprüft", de(e.geprueft)) +
-      "</dl></section></div>";
+      "</dl></details></div>";
+    h += '<div class="p-leiste"><a class="knopf signal" href="' + esc(e.quelle) + '" target="_blank" rel="noopener noreferrer">' + I.link + "Zur Veranstaltung</a>" +
+      (vorbei(e) ? "" : '<button type="button" class="knopf leise" data-ics="' + esc(e.id) + '">' + I.kalPlus + "In Kalender</button>") + "</div>";
     return h;
   }
   function investorProfil(name) {
@@ -1779,13 +2020,11 @@
     var runden = S.runden.filter(function (r) { return r.startup_id === s.id && r.art === "Finanzierungsrunde"; });
     var h = panelKopf("Start-up, " + s.region, s.id, s.name) + '<div class="p-inhalt">' + motivBild(s);
     h += '<div class="p-logo-zeile">' + logo(s, true) + '<div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">' + schild(s.prioritaet, null, true) + (s.quickwin ? '<span class="quick-badge">Quick Win</span>' : "") + suchfeldTag(s.suchfeld) + "</div></div>";
-    h += '<div class="p-branchen">' + branchenTags(s) + "</div>";
+    h += '<div class="p-branchen">' + (s.branchen || []).map(function (w) { return '<span class="ev-br" style="--f:' + BRANCHE_FARBE[w] + '">' + brIcon(w) + esc(w) + "</span>"; }).join("") + "</div>";
     h += '<h2 id="panel-titel">' + esc(s.name) + "</h2>";
     h += '<div class="p-fakten">' + fakt(I.ort, "<strong>" + esc(s.sitz) + "</strong>" + (s.land && s.land !== "DE" ? ", " + esc(LAND[s.land] || s.land) : "") + (s.gruendung && s.gruendung !== "k. A." ? ", gegründet " + esc(s.gruendung) : "")) +
       (s.reifegrad ? fakt(I.rakete, esc(s.reifegrad)) : "") + "</div>";
-    h += '<div class="p-aktionen">' + (s.website ? '<a class="knopf" href="' + esc(s.website) + '" target="_blank" rel="noopener noreferrer">' + I.link + "Website</a>" : "") +
-      '<a class="knopf leise" href="' + esc(s.quelle) + '" target="_blank" rel="noopener noreferrer">' + I.link + "Quelle öffnen</a></div>";
-    h += '<section class="p-abschnitt"><h3>Lösung</h3><p>' + esc(s.loesung) + "</p></section>";
+    h += '<section class="p-abschnitt p-warum"><h3>' + I.info + "Lösung</h3><p>" + esc(s.loesung) + "</p></section>";
     if (s.mehrwert || s.kooperation) h += '<section class="p-abschnitt"><h3>Möglicher Mehrwert</h3>' + (s.mehrwert ? "<p>" + esc(s.mehrwert) + "</p>" : "") + (s.kooperation ? "<p><strong>Mögliche Kooperation:</strong> " + esc(s.kooperation) + "</p>" : "") + "</section>";
     h += '<section class="p-abschnitt"><h3>Finanzierung und Investoren</h3><p>' + esc(s.finanzierung || "Keine öffentlichen Angaben erfasst.") + "</p>" +
       (runden.length ? '<ol class="rundenzeit">' + runden.map(rundeZeit).join("") + "</ol>" : "") +
@@ -1793,13 +2032,15 @@
       geteilteInvestoren(s) + "</section>";
     var bar = function (name, hinweis, wert) { return '<div class="sc"><span>' + name + "<small>" + hinweis + '</small></span><span class="sc-bar"><i style="width:' + wert * 20 + '%"></i></span><b>' + wert + "</b></div>"; };
     h += '<section class="p-abschnitt"><h3>Einordnung</h3><div class="scores">' + bar("Relevanz", "5 = sehr relevant", s.relevanz) + bar("Aufwand", "1 = gering", s.aufwand) + "</div></section>";
-    h += '<section class="p-abschnitt"><h3>Alle Angaben</h3><dl class="angaben">' +
+    h += '<details class="p-mehr"><summary>Alle Angaben</summary><dl class="angaben">' +
       zeile("Sitz", s.sitz) + zeile("Land", LAND[s.land] || s.land) + zeile("Region", s.region) + zeile("Branchen", (s.branchen || []).join(", ")) + zeile("Gründungsjahr", s.gruendung) + zeile("Suchfeld", s.suchfeld) + zeile("Reifegrad", s.reifegrad) +
       zeile("Finanzierung", s.finanzierung) + zeile("Anbindung", s.anbindung) + zeile("Mögliche Kooperationsform", s.kooperation) +
       zeile("Bewertung", "Relevanz " + s.relevanz + "/5, Umsetzungsaufwand " + s.aufwand + "/5 (1 = gering), Priorität " + s.prioritaet) +
       "<dt>Website</dt><dd>" + (s.website ? '<a href="' + esc(s.website) + '" target="_blank" rel="noopener noreferrer">' + esc(kurzUrl(s.website)) + "</a>" : "k. A.") + "</dd>" +
       '<dt>Quelle</dt><dd><a href="' + esc(s.quelle) + '" target="_blank" rel="noopener noreferrer">' + esc(kurzUrl(s.quelle)) + "</a></dd>" + zeile("Zuletzt geprüft", de(s.geprueft)) +
-      "</dl></section></div>";
+      "</dl></details></div>";
+    h += '<div class="p-leiste">' + (s.website ? '<a class="knopf signal" href="' + esc(s.website) + '" target="_blank" rel="noopener noreferrer">' + I.link + "Website</a>" : "") +
+      '<a class="knopf leise" href="' + esc(s.quelle) + '" target="_blank" rel="noopener noreferrer">' + I.datei + "Quelle</a></div>";
     return h;
   }
   /* Investoren, die auch bei anderen Unternehmen im Radar beteiligt sind */
@@ -1910,6 +2151,8 @@
       });
       treffer.sort(function (a, b) { return b.p - a.p || (a.x.start && b.x.start ? (a.x.start < b.x.start ? -1 : 1) : 0); });
       treffer = treffer.slice(0, 30);
+      var reihe = { event: 0, su: 1, deal: 2, inv: 3 };
+      treffer.sort(function (a, b) { return reihe[a.typ] - reihe[b.typ]; });
     }
     sucheListe = treffer;
     if (sucheAuswahl >= treffer.length) sucheAuswahl = 0;
@@ -1918,19 +2161,23 @@
       w.forEach(function (x) { if (x.length < 2) return; var re = new RegExp("(" + esc(x).replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig"); h = h.replace(re, "<mark>$1</mark>"); });
       return h;
     };
+    var GRUPPE = { event: "Termine", su: "Start-ups", inv: "Investoren", deal: "Deals" };
+    var letzte = null;
     sucheTreffer.innerHTML = treffer.length ? treffer.map(function (t, i) {
       var x = t.x;
-      var sub = t.typ === "event" ? zeitraum(x) + ", " + x.ort + (vorbei(x) ? " (vorbei)" : "")
-        : t.typ === "su" ? x.sitz + ", " + (x.suchfeld || (x.branchen || [])[0] || "")
-        : t.typ === "inv" ? x.typ + ", " + x.sitz
-        : monatJahr(x.datum) + ", " + x.runde + ", " + x.betrag;
+      var sub = t.typ === "event" ? x.ort + (vorbei(x) ? " · vorbei" : " · " + relativ(x))
+        : t.typ === "su" ? x.sitz + " · " + (x.loesung || "")
+        : t.typ === "inv" ? x.typ + " · " + x.sitz
+        : x.runde + " · " + x.betrag + " · " + monatJahr(x.datum);
       var name = t.typ === "deal" ? x.unternehmen : x.name;
-      var art = { event: "Termin", su: "Start-up", inv: "Investor", deal: "Deal" }[t.typ];
+      var bild = t.typ === "event" ? '<span class="st-datum"><b>' + dt(x.start).getDate() + "</b>" + MON_KURZ[dt(x.start).getMonth()] + "</span>"
+        : t.typ === "su" ? logo(x) : '<span class="st-icon">' + (t.typ === "inv" ? I.leute : I.euro) + "</span>";
       var rechts = t.typ === "event" || t.typ === "su" ? schild(x.prioritaet) : "";
-      return '<li role="option" id="st-' + i + '" data-i="' + i + '" aria-selected="' + (i === sucheAuswahl) + '"><span class="st-art">' + art + "</span>" +
-        '<span><span class="st-name">' + mark(name) + '</span><span class="st-sub">' + esc(sub) + "</span></span>" + rechts + "</li>";
+      var kopf = "";
+      if (t.typ !== letzte) { kopf = '<li class="st-gruppe" role="presentation">' + (w.length ? GRUPPE[t.typ] : t.typ === "event" ? "Als Nächstes" : "Quick Wins") + "</li>"; letzte = t.typ; }
+      return kopf + '<li role="option" id="st-' + i + '" data-i="' + i + '" aria-selected="' + (i === sucheAuswahl) + '">' + bild +
+        '<span class="st-text"><span class="st-name">' + mark(name) + '</span><span class="st-sub">' + esc(sub) + "</span></span>" + rechts + "</li>";
     }).join("") : '<li class="suche-leer" role="presentation">Nichts gefunden. Anderen Begriff versuchen, zum Beispiel einen Ort oder ein Thema.</li>';
-    if (!w.length && treffer.length) sucheTreffer.insertAdjacentHTML("afterbegin", '<li class="st-art" role="presentation" style="display:block;padding:6px 10px 2px;width:auto;cursor:default">Als Nächstes und Quick Wins</li>');
     sucheFeld.setAttribute("aria-activedescendant", treffer.length ? "st-" + sucheAuswahl : "");
   }
   function sucheWaehle(i) {
@@ -1940,11 +2187,13 @@
     oeffnePanel(t.typ, t.x.id, ids);
   }
   sucheFeld.addEventListener("input", function () { sucheAuswahl = 0; sucheRendern(); });
-  sucheFeld.addEventListener("keydown", function (ev) {
+  var sucheTasten = function (ev) {
     if (ev.key === "ArrowDown") { sucheAuswahl = Math.min(sucheListe.length - 1, sucheAuswahl + 1); markiereSuche(); ev.preventDefault(); }
     if (ev.key === "ArrowUp") { sucheAuswahl = Math.max(0, sucheAuswahl - 1); markiereSuche(); ev.preventDefault(); }
     if (ev.key === "Enter") { sucheWaehle(sucheAuswahl); ev.preventDefault(); }
-  });
+  };
+  sucheFeld.addEventListener("keydown", sucheTasten);
+  sucheTreffer.addEventListener("keydown", sucheTasten);
   function markiereSuche() {
     $$("li[data-i]", sucheTreffer).forEach(function (li) { var an = +li.getAttribute("data-i") === sucheAuswahl; li.setAttribute("aria-selected", an); if (an) li.scrollIntoView({ block: "nearest" }); });
     sucheFeld.setAttribute("aria-activedescendant", "st-" + sucheAuswahl);
@@ -1958,6 +2207,39 @@
     var tippt = /INPUT|SELECT|TEXTAREA/.test((ev.target.tagName || "")) || ev.target.isContentEditable;
     if ((ev.ctrlKey || ev.metaKey) && (ev.key === "k" || ev.key === "K")) { ev.preventDefault(); suche.open ? suche.close() : oeffneSuche(); }
     else if (ev.key === "/" && !tippt && !suche.open) { ev.preventDefault(); oeffneSuche(); }
+  });
+
+  /* ---------- Aufklappmenüs (Filter, Export): data-pop öffnet das Menü mit dieser ID ---------- */
+  function schliessePops(ausser) {
+    $$(".pop:not([hidden])").forEach(function (p) {
+      if (p === ausser) return;
+      p.hidden = true;
+      var k = $('[data-pop="' + p.id + '"]'); if (k) k.setAttribute("aria-expanded", "false");
+    });
+  }
+  document.addEventListener("click", function (ev) {
+    var k = ev.target.closest("[data-pop]");
+    if (k) {
+      var p = document.getElementById(k.getAttribute("data-pop"));
+      if (!p) return;
+      var auf = p.hidden;
+      schliessePops(p);
+      p.hidden = !auf; k.setAttribute("aria-expanded", auf ? "true" : "false");
+      if (auf) { var erstes = $("select, input, .pop-eintrag", p); if (erstes) erstes.focus({ preventScroll: true }); }
+      return;
+    }
+    if (ev.target.closest("[data-pop-zu]")) {
+      var pz = ev.target.closest(".pop"); schliessePops();
+      var kk = pz && $('[data-pop="' + pz.id + '"]'); if (kk) kk.focus();
+      return;
+    }
+    if (ev.target.closest(".pop-eintrag")) { setTimeout(schliessePops, 0); return; }
+    if (!ev.target.closest(".pop")) schliessePops();
+  });
+  document.addEventListener("keydown", function (ev) {
+    if (ev.key !== "Escape") return;
+    var offen = $(".pop:not([hidden])"); if (!offen) return;
+    schliessePops(); var k = $('[data-pop="' + offen.id + '"]'); if (k) k.focus();
   });
 
   /* ============================================================

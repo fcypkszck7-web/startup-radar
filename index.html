@@ -85,8 +85,8 @@
     <input type="search" id="suche-feld" placeholder="Termin, Ort, Thema oder Start-up suchen" autocomplete="off" aria-controls="suche-treffer" aria-autocomplete="list">
     <button type="button" class="esc-knopf" id="suche-zu">Esc</button>
   </div>
-  <ul id="suche-treffer" class="suche-treffer" role="listbox" aria-label="Treffer"></ul>
-  <p class="suche-fuss">Pfeiltasten zum Auswählen, Enter zum Öffnen. Schnell erreichbar mit Strg+K oder /.</p>
+  <ul id="suche-treffer" class="suche-treffer" role="listbox" aria-label="Treffer" tabindex="0"></ul>
+  <p class="suche-fuss"><span><kbd>↑</kbd><kbd>↓</kbd> auswählen</span><span><kbd>↵</kbd> öffnen</span><span><kbd>Esc</kbd> schließen</span><span class="sf-rechts"><kbd>Strg</kbd><kbd>K</kbd> öffnet die Suche überall</span></p>
 </dialog>
 
 <div id="tooltip" class="tooltip" role="tooltip" hidden></div>
