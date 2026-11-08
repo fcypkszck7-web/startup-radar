@@ -21,10 +21,10 @@
   --solar-hell: #77a0ff;
   --c-grau: #8794a1;
 
-  --grund: #eef1f4;
-  --flaeche: #ffffff;
-  --flaeche-2: #f6f8fa;
-  --hover: #eaf0f6;
+  --grund: #dfe5eb;
+  --flaeche: #f6f8fa;
+  --flaeche-2: #eef2f5;
+  --hover: #e4ebf1;
   --text: #1d2935;
   --text-2: #4b5967;
   --text-3: #5d6976;
@@ -53,20 +53,20 @@
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --grund: #121a22; --flaeche: #1a242f; --flaeche-2: #16202a; --hover: #223040;
-    --text: #e6ebef; --text-2: #b4bfca; --text-3: #8f9caa; --linie: #2c3a49; --linie-2: #243241;
+    --grund: #1a2430; --flaeche: #223040; --flaeche-2: #1e2b38; --hover: #2b3b4d;
+    --text: #e8edf1; --text-2: #b6c2cd; --text-3: #95a3b1; --linie: #34475b; --linie-2: #2c3d4f;
     --link: #8fb0ff; --ok: #5fc59a; --warn-text: #f5c533; --signal-weich: rgba(245, 184, 0, .14);
     --schatten: 0 18px 50px -12px rgba(0, 0, 0, .6); --fokus: #8fb0ff; --solar: #4d7be0;
-    --kante: rgba(255, 255, 255, .08); --e1: 0 1px 2px rgba(0,0,0,.3); --e2: 0 1px 2px rgba(0,0,0,.3), 0 16px 34px -14px rgba(0,0,0,.65); --e3: 0 28px 60px -16px rgba(0,0,0,.7);
+    --kante: rgba(255, 255, 255, .09); --e1: 0 1px 2px rgba(0,0,0,.3); --e2: 0 1px 2px rgba(0,0,0,.3), 0 16px 34px -14px rgba(0,0,0,.65); --e3: 0 28px 60px -16px rgba(0,0,0,.7);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --grund: #121a22; --flaeche: #1a242f; --flaeche-2: #16202a; --hover: #223040;
-  --text: #e6ebef; --text-2: #b4bfca; --text-3: #8f9caa; --linie: #2c3a49; --linie-2: #243241;
+  --grund: #1a2430; --flaeche: #223040; --flaeche-2: #1e2b38; --hover: #2b3b4d;
+  --text: #e8edf1; --text-2: #b6c2cd; --text-3: #95a3b1; --linie: #34475b; --linie-2: #2c3d4f;
   --link: #8fb0ff; --ok: #5fc59a; --warn-text: #f5c533; --signal-weich: rgba(245, 184, 0, .14);
   --schatten: 0 18px 50px -12px rgba(0, 0, 0, .6); --fokus: #8fb0ff; --solar: #4d7be0;
-  --kante: rgba(255, 255, 255, .08); --e1: 0 1px 2px rgba(0,0,0,.3); --e2: 0 1px 2px rgba(0,0,0,.3), 0 16px 34px -14px rgba(0,0,0,.65); --e3: 0 28px 60px -16px rgba(0,0,0,.7);
+  --kante: rgba(255, 255, 255, .09); --e1: 0 1px 2px rgba(0,0,0,.3); --e2: 0 1px 2px rgba(0,0,0,.3), 0 16px 34px -14px rgba(0,0,0,.65); --e3: 0 28px 60px -16px rgba(0,0,0,.7);
     color-scheme: dark;
 }
 
@@ -1585,3 +1585,29 @@ html.filter-weg { --filter-h: 0px !important; }
 .visier { border-top: 0; }
 :root[data-theme="dark"] .ev-live { color: #ff8a75; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .ev-live { color: #ff8a75; } }
+
+/* ---------- Seitenhintergrund im Ton der Köpfe: Schiefer mit feinem Raster und Lichtschein ---------- */
+body {
+  background:
+    radial-gradient(1100px 520px at 85% 0%, color-mix(in srgb, var(--solar) 10%, transparent), transparent 70%),
+    radial-gradient(900px 480px at 0% 30%, color-mix(in srgb, var(--signal) 4%, transparent), transparent 70%),
+    var(--grund);
+}
+main { position: relative; }
+main::before {
+  content: ""; position: absolute; inset: 0; pointer-events: none; z-index: 0;
+  background-image: linear-gradient(color-mix(in srgb, var(--text) 3.5%, transparent) 1px, transparent 1px), linear-gradient(90deg, color-mix(in srgb, var(--text) 3.5%, transparent) 1px, transparent 1px);
+  background-size: 48px 48px;
+  -webkit-mask-image: linear-gradient(180deg, #000, rgba(0,0,0,.35) 900px, rgba(0,0,0,.15)); mask-image: linear-gradient(180deg, #000, rgba(0,0,0,.35) 900px, rgba(0,0,0,.15));
+}
+main > * { position: relative; z-index: 1; }
+/* Kopf und Inhalt gehen ineinander über: kein harter Kantenwechsel mehr */
+.kopfband { background: radial-gradient(circle at 82% 55%, color-mix(in srgb, var(--ak) 16%, transparent) 0, transparent 46%), var(--schiefer); }
+:root[data-theme="dark"] .kopfband::after { opacity: .7; }
+:root[data-theme="dark"] .filterleiste { background: color-mix(in srgb, #1d2935 86%, transparent); border-bottom-color: rgba(255,255,255,.08); }
+:root[data-theme="dark"] .hilfe-hinweis { background: color-mix(in srgb, var(--signal) 10%, #1d2935); border-bottom-color: rgba(255,255,255,.06); }
+:root[data-theme="dark"] .ev, :root[data-theme="dark"] .kachel, :root[data-theme="dark"] .sk-karte, :root[data-theme="dark"] .zeilen:not(.su-karten) > .zeile, :root[data-theme="dark"] ul.su-karten > .su-zeile, :root[data-theme="dark"] .tag-datum, :root[data-theme="dark"] .ks, :root[data-theme="dark"] .matrix, :root[data-theme="dark"] .inv-karte, :root[data-theme="dark"] .netz, :root[data-theme="dark"] .dranbleiben, :root[data-theme="dark"] .prio-details, :root[data-theme="dark"] .zs {
+  background: linear-gradient(180deg, rgba(255,255,255,.025), rgba(255,255,255,0) 60%), var(--flaeche);
+}
+:root[data-theme="dark"] .ev:hover, :root[data-theme="dark"] .kachel:hover { border-color: rgba(255,255,255,.16); }
+:root[data-theme="dark"] .leer { background: var(--flaeche); border-color: var(--linie); }

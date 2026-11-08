@@ -2283,15 +2283,10 @@
     var jetzt = document.documentElement.getAttribute("data-theme") || (window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
     var neu = jetzt === "dark" ? "light" : "dark";
     document.documentElement.setAttribute("data-theme", neu);
-    store.set("radar-theme", neu);
+    store.set("radar-theme-2", neu);
     toast(neu === "dark" ? "Dunkles Farbschema" : "Helles Farbschema");
   });
-  // Ohne eigene Wahl folgt die Seite dem Farbschema des Systems – auch wenn es sich ändert.
-  if (window.matchMedia) {
-    var sysDunkel = matchMedia("(prefers-color-scheme: dark)");
-    var folgeSystem = function () { if (!store.get("radar-theme", null)) document.documentElement.setAttribute("data-theme", sysDunkel.matches ? "dark" : "light"); };
-    if (sysDunkel.addEventListener) sysDunkel.addEventListener("change", folgeSystem); else if (sysDunkel.addListener) sysDunkel.addListener(folgeSystem);
-  }
+  // Standard ist das Schiefer-Farbschema der Seitenköpfe; Hell lässt sich oben umschalten und bleibt in diesem Browser gespeichert.
 
   /* ============================================================
      Herunterladen & Drucken
