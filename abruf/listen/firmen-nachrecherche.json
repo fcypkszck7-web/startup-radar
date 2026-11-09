@@ -125,12 +125,6 @@
    "kurz": "Greenlyte's LiquidSolar™ platform produces 99% pure carbon and hydrogen for e-SAF, e-methanol, and synthetic fuels. Scalable, modular, fossil-free and independent production using only sun, air and water to revolutionize the energy transition."
   },
   {
-   "website": "https://tenderwalls.de/",
-   "name": "TenderWalls",
-   "kurz": "Entdecke hochwertige Design-Tapeten für dein Zuhause. Von zeitlosen Uni-Tapeten bis zu ausdrucksstarken Mustern – bestelle Muster bequem nach Hause und finde deinen Lieblingslook.",
-   "impressum": "https://tenderwalls.de/policies/legal-notice"
-  },
-  {
    "website": "https://abstract.build/de",
    "name": "abstract",
    "kurz": "Abstract verbindet BIM, Anforderungen, Reviews und Workflows - von bereinigten Daten bis zur Umsetzung.",
@@ -188,6 +182,42 @@
    "sitz": "München",
    "land": "DE",
    "impressum": "https://www.kertos.io/impressum"
+  },
+  {
+   "website": "https://www.bimeto.de/",
+   "name": "bimeto - Blitzschnell vom digitalen Aufmaß zu präzisen BIM-Modellen & CAD-Plänen – mit bimeto!",
+   "kurz": "Unsere Software verwandelt unübersichtliche Gebäudedaten in präzise, verständliche Planungsgrundlagen – schnell, zuverlässig und ohne Umwege.",
+   "impressum": "https://www.bimeto.de/imprint"
+  },
+  {
+   "website": "https://www.powerio.com/de/",
+   "name": "Gebäudeautomation 4.0 mit powerIO®",
+   "kurz": "powerIO® kombiniert Leistung und Daten in nur einem System. Es ermöglicht einen komplett dezentralen Aufbau der Gebäudeinstallation und revolutioniert Ihre Arbeitsweise!",
+   "impressum": "https://www.powerio.com/de/impressum"
+  },
+  {
+   "website": "https://diafania.de/de",
+   "fehler": "PermissionError"
+  },
+  {
+   "website": "https://www.natstruct.de/",
+   "name": "NatStruct AG",
+   "kurz": "NatStruct bedient die steigende Nachfrage nach nachhaltigen Materialien in globalen Märkten mit Naturfasern aus landwirtschaftliche Reststoffen."
+  },
+  {
+   "website": "https://www.3d-bautec.com/",
+   "name": "3D-bautec.",
+   "kurz": "3D-Bautec. solutions UG(haftungsbeschränkt) ist ein Unternehmen für innovativen 3D-Druck im Bauwesen und Design. Es werden Bauteile, architektonische Elemente sowie individuelle Design- und Dekorobjekte wie Vasen und Lampen gefertigt. 3D-Bautec. verbindet moderne 3D-Drucktechnologie mit Architektur,",
+   "impressum": "https://www.3d-bautec.com/impressum"
+  },
+  {
+   "website": "https://melt-ing.com/",
+   "fehler": "URLError"
+  },
+  {
+   "website": "https://nanolope.de/",
+   "name": "Effiziente Energiespeicherung mit Nanolope",
+   "kurz": "Wir entwickeln thermische Energiespeicher für den Bestand, um ihn energieeffizienter und wirtschaftlicher zu machen. Jetzt entdecken!"
   }
  ]
 }
