@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-08",
+  "geholt": "2026-11-09",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -34589,6 +34589,495 @@
  },
  "https://warsawexpo.eu/en/fair-calendar/furniture-contract-expo/": {
   "geholt": "2026-11-08",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/11-11-2026_colloquium-praehistoricum-3": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620761": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621281": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620616": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620766": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621324": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "\"Georgia on my Mind\" - Photographien von Heike Bogenberger",
+    "start": "2026-11-08",
+    "ende": "2026-11-08",
+    "ort": "Kulturraum Vor der Grieb, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/621324",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/621324",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/619600": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "49. Grenzland-Filmtage zu Gast in den Kinos im Andreasstadel",
+    "start": "2026-11-08",
+    "ende": "2026-11-08",
+    "ort": "Künstlerhaus Andreas-Stadel - Kino Wintergarten, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/619600",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/619600",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/619385": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "Ausstellung InterCultureLab: Fatemeh Shiri, Mahla Atarhayetehrani und Lena Frauenknecht in der Stadelgalerie \"Stadel temporär\"",
+    "start": "2026-11-08",
+    "ende": "2026-11-08",
+    "ort": "Künstlerhaus Andreas-Stadel, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/619385",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/619385",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621331": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": ",,Himmelslandschaft Georgien,, / Photographien von Peter Geiger",
+    "start": "2026-11-08",
+    "ende": "2026-11-08",
+    "ort": "Kulturraum Vor der Grieb, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/621331",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/621331",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621332": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "\" Gedanken an Kolchis\" / Malerei von Ana Margvelashvili",
+    "start": "2026-11-08",
+    "ende": "2026-11-08",
+    "ort": "Kulturraum Vor der Grieb, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/621332",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/621332",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617455": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "Fotoausstellung \"Tschornobyl 1986–2026: Schatten einer Ära\"",
+    "start": "2026-11-10",
+    "ende": "2026-11-10",
+    "ort": "Evangelisches Bildungswerk Regensburg e.V., Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/617455",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-10|regensburg.de/veranstaltungen/detail/617455",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": "bimexpo-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794199223-c23aca40a": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2027-06-10",
+    "ende": "2027-06-10",
+    "ort": "Termin",
+    "land": "",
+    "online": true,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794199223-c23aca40a",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2027-06-10|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "intersolar-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://wrs.region-stuttgart.de/termine/vom-zuckerhut-ins-schwabenlaendle-migrantinnen-und-migranten-aus-brasilien-erzaehlen/": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "Vom Zuckerhut ins Schwabenländle – Migrantinnen und Migranten aus Brasilien erzählen",
+    "start": "2026-11-11",
+    "ende": "2026-11-11",
+    "ort": "Hauptstaatsarchiv Stuttgart, Stuttgart",
+    "land": "",
+    "online": false,
+    "url": "https://wrs.region-stuttgart.de/termine/vom-zuckerhut-ins-schwabenlaendle-migrantinnen-und-migranten-aus-brasilien-erzaehlen/",
+    "veranstalter": "",
+    "kurz": "Podiumsgespräch im Rahmen der Ausstellung „Aufbruch in ein fremdes Land – 200 Jahre deutschsprachige Einwanderung nach Brasilien“",
+    "methode": "json-ld",
+    "quelle_id": "wrs-termine",
+    "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-11|wrs.region-stuttgart.de/termine/vom-zuckerhut-ins-schwabenlaendle-migrantinnen-und-migranten-aus-brasilien-erzaehlen",
+    "quellen": [
+     "wrs-termine"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals/": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "KI Schulungs­programm für ESG Professionals",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Stuttgart",
+    "land": "",
+    "online": true,
+    "url": "https://it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals/",
+    "veranstalter": "IT Region Stuttgart",
+    "kurz": "KI Tools können die Aufgaben von Nachhaltigkeitsverantwortlichen unterstützen.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "it-region-stuttgart",
+    "quelle_name": "IT-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Software, KI & Daten",
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-25|it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals",
+    "quellen": [
+     "it-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.viparis.com/en/news-events/events/open-source-experience-2": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/jimmy-car-2026": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "Jimmy Carr",
+    "start": "2026-12-13",
+    "ende": "2026-12-13",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/jimmy-car-2026",
+    "veranstalter": "",
+    "kurz": "Britse comedian Jimmy Carr komt op bezoek bij de RAI",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-13|rai.nl/agenda/jimmy-car-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/window-tech-expo/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/amsterdamse-winterparadijs-2026": {
+  "geholt": "2026-11-09",
+  "events": [
+   {
+    "titel": "Het Amsterdamse Winterparadijs",
+    "start": "2026-12-17",
+    "ende": "2026-12-17",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/amsterdamse-winterparadijs-2026",
+    "veranstalter": "",
+    "kurz": "Het Amsterdamse Winterparadijs keert terug naar de RAI Amsterdam. Van 17 dec t/m 2 jan beleef je het grootste winterevenement van Nederland: 55.000 m² vol winterse activiteiten, attracties, shows en ijspret voor jong en ",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-17|rai.nl/agenda/amsterdamse-winterparadijs-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-09",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/glass-tech-poland/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/bath-ceramics-expo/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/photonics-expo-poland/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/hydrogeology-forum/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/geotech-expo/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/compressortech-expo-poland/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-food-expo/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/cold-tech-poland/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/bakery-tech-poland/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/post-delivery-logistics-expo/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/drinktech-expo-poland/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/food-ingredients-insupplements-expo/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/wind-energy-expo/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/biurotech-expo/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/energetica-expo/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-auto-tuning-show/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-modular-home-trade-fair/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-housing-fair/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/aluminium-tech/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/beauty-days/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/warsaw-ecotech-week/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/recycling-tech/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/wodkan-tech/": {
+  "geholt": "2026-11-09",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/trends-expo/": {
+  "geholt": "2026-11-09",
   "events": [],
   "v": 2
  }

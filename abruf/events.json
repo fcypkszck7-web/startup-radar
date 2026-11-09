@@ -1,348 +1,123 @@
 [
  {
-  "titel": "Barcamp Stuttgart 2026",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "SDK Versicherung (direkt am S-Bahnhof Fellbach), Fellbach",
+  "titel": "\" Gedanken an Kolchis\" / Malerei von Ana Margvelashvili",
+  "start": "2026-11-08",
+  "ende": "2026-11-08",
+  "ort": "Kulturraum Vor der Grieb, Regensburg",
   "land": "",
-  "online": true,
-  "url": "https://it.region-stuttgart.de/termine/barcamp-stuttgart-2025-2/",
-  "veranstalter": "IT Region Stuttgart",
-  "kurz": "Das Stuttgarter Barcamp rund um Social Media, \"Online\", KI, Digitalisierung, Hardware, Netzpolitik, Startups, Business und ähnliche Themen.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "it-region-stuttgart",
-  "quelle_name": "IT-Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten",
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-07|it.region-stuttgart.de/termine/barcamp-stuttgart-2025-2",
-  "quellen": [
-   "it-region-stuttgart"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "barcamp-stuttgart-2026",
-  "entscheidung": "aufgenommen: barcamp-stuttgart-2026"
- },
- {
-  "titel": "Barcamp Stuttgart 2026",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "SDK Versicherung (direkt am S-Bahnhof Fellbach), Fellbach",
-  "land": "",
-  "online": true,
-  "url": "https://wrs.region-stuttgart.de/termine/barcamp-stuttgart-2025-2/",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/621332",
   "veranstalter": "",
-  "kurz": "Das Stuttgarter Barcamp rund um Social Media, \"Online\", KI, Digitalisierung, Hardware, Netzpolitik, Startups, Business und ähnliche Themen.",
+  "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "wrs-termine",
-  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten",
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-07|wrs.region-stuttgart.de/termine/barcamp-stuttgart-2025-2",
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/621332",
   "quellen": [
-   "wrs-termine"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "barcamp-stuttgart-2026",
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Cake International and Bake International - Day 2",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/cake-international-and-bake-international/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-07|thenec.co.uk/events/cake-international-and-bake-international",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Peppa Pig Space Adventure - Day 169",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/peppa-pig-space-adventure/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-07|thenec.co.uk/events/peppa-pig-space-adventure",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Simply Christmas - Day 3",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/simply-christmas/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-07|thenec.co.uk/events/simply-christmas",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "The Creative Craft Show - Day 3",
-  "start": "2026-11-07",
-  "ende": "2026-11-07",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/the-creative-craft-show/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Handwerk"
-  ],
-  "schluessel": "2026-11-07|thenec.co.uk/events/the-creative-craft-show",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "101 Dalmatiërs - de Musical",
+  "titel": "\"Georgia on my Mind\" - Photographien von Heike Bogenberger",
   "start": "2026-11-08",
   "ende": "2026-11-08",
-  "ort": "",
+  "ort": "Kulturraum Vor der Grieb, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.rai.nl/agenda/dalmatiers-2026",
-  "veranstalter": "",
-  "kurz": "Een musical waarvan je gaat kwispelen!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-rai",
-  "quelle_name": "RAI Amsterdam – Agenda",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-08|rai.nl/agenda/dalmatiers-2026",
-  "quellen": [
-   "messe-rai"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Studien- und Weiterbildungsberatung, Kultur, Fremdbranche)"
- },
- {
-  "titel": "Bazaar Berlin 2026",
-  "start": "2026-11-08",
-  "ende": "2026-11-08",
-  "ort": "Berlin, Deutschland",
-  "land": "",
-  "online": false,
-  "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bazaar-berlin-2026-2026",
-  "veranstalter": "",
-  "kurz": "Internationale Verkaufsmesse für Kunsthandwerk, Design, Naturwaren sowie für fair gehandelte und sozial produzierte Erzeugnisse",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-berlin",
-  "quelle_name": "Messe Berlin – Veranstaltungen",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Handwerk",
-   "Logistik & Handel"
-  ],
-  "schluessel": "2026-11-08|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bazaar-berlin-2026-2026",
-  "quellen": [
-   "messe-berlin"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "bimexpo-2026",
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
- },
- {
-  "titel": "CANNAFEST 2026",
-  "start": "2026-11-08",
-  "ende": "2026-11-08",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.pvaexpo.cz/en/event/515",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/621324",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "messe-pva-prag",
-  "quelle_name": "PVA Expo Praha – Kalender",
-  "region_hinweis": "Europa",
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-08|pvaexpo.cz/en/event/515",
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/621324",
   "quellen": [
-   "messe-pva-prag"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "groundbreakers-summit-2026",
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Cake International and Bake International - Day 3",
+  "titel": ",,Himmelslandschaft Georgien,, / Photographien von Peter Geiger",
   "start": "2026-11-08",
   "ende": "2026-11-08",
-  "ort": "The NEC",
+  "ort": "Kulturraum Vor der Grieb, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.thenec.co.uk/events/cake-international-and-bake-international/",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/621331",
   "veranstalter": "",
   "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-08|thenec.co.uk/events/cake-international-and-bake-international",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "PAN Amsterdam",
-  "start": "2026-11-08",
-  "ende": "2026-11-08",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.rai.nl/agenda/pan-amsterdam-2026",
-  "veranstalter": "",
-  "kurz": "PAN Amsterdam, Kunst, Antiek, Design",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "messe-rai",
-  "quelle_name": "RAI Amsterdam – Agenda",
-  "region_hinweis": "Europa",
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-08|rai.nl/agenda/pan-amsterdam-2026",
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/621331",
   "quellen": [
-   "messe-rai"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-05",
+  "zuerst_gesehen": "2026-11-09",
   "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Studien- und Weiterbildungsberatung, Kultur, Fremdbranche)"
+  "entscheidung": ""
  },
  {
-  "titel": "Peppa Pig Space Adventure - Day 170",
+  "titel": "49. Grenzland-Filmtage zu Gast in den Kinos im Andreasstadel",
   "start": "2026-11-08",
   "ende": "2026-11-08",
-  "ort": "The NEC",
+  "ort": "Künstlerhaus Andreas-Stadel - Kino Wintergarten, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.thenec.co.uk/events/peppa-pig-space-adventure/",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619600",
   "veranstalter": "",
   "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-08|thenec.co.uk/events/peppa-pig-space-adventure",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Simply Christmas - Day 4",
-  "start": "2026-11-08",
-  "ende": "2026-11-08",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/simply-christmas/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-08|thenec.co.uk/events/simply-christmas",
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/619600",
   "quellen": [
-   "messe-nec"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-04",
+  "zuerst_gesehen": "2026-11-09",
   "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
+  "entscheidung": ""
  },
  {
-  "titel": "The Creative Craft Show - Day 4",
+  "titel": "Ausstellung InterCultureLab: Fatemeh Shiri, Mahla Atarhayetehrani und Lena Frauenknecht in der Stadelgalerie \"Stadel temporär\"",
   "start": "2026-11-08",
   "ende": "2026-11-08",
-  "ort": "The NEC",
+  "ort": "Künstlerhaus Andreas-Stadel, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.thenec.co.uk/events/the-creative-craft-show/",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619385",
   "veranstalter": "",
   "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Handwerk"
-  ],
-  "schluessel": "2026-11-08|thenec.co.uk/events/the-creative-craft-show",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/619385",
   "quellen": [
-   "messe-nec"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-04",
+  "zuerst_gesehen": "2026-11-09",
   "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
+  "entscheidung": ""
  },
  {
   "titel": "dena Kongress 2026",
@@ -475,6 +250,31 @@
   "ort": "Renitenztheater, Stuttgart",
   "land": "",
   "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/dslam-night-shift-stuttgart/",
+  "veranstalter": "",
+  "kurz": "Während Poetry-Fans zum Poetry Slam gehen und Science-Begeisterte zum Science Slam, bringt der DSLAM IT, Digitalisierung, KI und Cyber-Security auf die Bühne. Unterhaltsam, lehrreich und bewusst auch für Nicht-Nerds konz",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/dslam-night-shift-stuttgart",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": "dslam-night-shift-stuttgart-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "DSLAM Night Shift Stuttgart",
+  "start": "2026-11-09",
+  "ende": "2026-11-09",
+  "ort": "Renitenztheater, Stuttgart",
+  "land": "",
+  "online": false,
   "url": "https://it.region-stuttgart.de/termine/dslam-night-shift-stuttgart/",
   "veranstalter": "IT Region Stuttgart",
   "kurz": "Während Poetry-Fans zum Poetry Slam gehen und Science-Begeisterte zum Science Slam, bringt der DSLAM IT, Digitalisierung, KI und Cyber-Security auf die Bühne. Unterhaltsam, lehrreich und bewusst auch für Nicht-Nerds konz",
@@ -493,31 +293,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "dslam-night-shift-stuttgart-2026",
   "entscheidung": "aufgenommen: dslam-night-shift-stuttgart-2026"
- },
- {
-  "titel": "DSLAM Night Shift Stuttgart",
-  "start": "2026-11-09",
-  "ende": "2026-11-09",
-  "ort": "Renitenztheater, Stuttgart",
-  "land": "",
-  "online": false,
-  "url": "https://wrs.region-stuttgart.de/termine/dslam-night-shift-stuttgart/",
-  "veranstalter": "",
-  "kurz": "Während Poetry-Fans zum Poetry Slam gehen und Science-Begeisterte zum Science Slam, bringt der DSLAM IT, Digitalisierung, KI und Cyber-Security auf die Bühne. Unterhaltsam, lehrreich und bewusst auch für Nicht-Nerds konz",
-  "methode": "json-ld",
-  "quelle_id": "wrs-termine",
-  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/dslam-night-shift-stuttgart",
-  "quellen": [
-   "wrs-termine"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "dslam-night-shift-stuttgart-2026",
-  "entscheidung": ""
  },
  {
   "titel": "Der Reisende. Georg Forster und die Entdeckung der Menschlichkeit",
@@ -745,6 +520,31 @@
   "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
   "start": "2026-11-09",
   "ende": "2026-11-09",
+  "ort": "Das Gutbrod",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie/",
+  "veranstalter": "",
+  "kurz": "Was passiert, wenn Know-how durch einen Cyberangriff, eine ungeschützte Cloud-Freigabe oder einen unbefugten Zugriff in falsche Hände gerät?",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
+  "start": "2026-11-09",
+  "ende": "2026-11-09",
   "ort": "rkshop: Cybersecurity als Schutzschild ...Workshop: ...",
   "land": "",
   "online": false,
@@ -764,31 +564,6 @@
    "it-region-stuttgart"
   ],
   "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
-  "start": "2026-11-09",
-  "ende": "2026-11-09",
-  "ort": "Das Gutbrod",
-  "land": "",
-  "online": false,
-  "url": "https://wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie/",
-  "veranstalter": "",
-  "kurz": "Was passiert, wenn Know-how durch einen Cyberangriff, eine ungeschützte Cloud-Freigabe oder einen unbefugten Zugriff in falsche Hände gerät?",
-  "methode": "json-ld",
-  "quelle_id": "wrs-termine",
-  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie",
-  "quellen": [
-   "wrs-termine"
-  ],
-  "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1973,6 +1748,30 @@
    "geb-energieberater"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": "bimexpo-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Fotoausstellung \"Tschornobyl 1986–2026: Schatten einer Ära\"",
+  "start": "2026-11-10",
+  "ende": "2026-11-10",
+  "ort": "Evangelisches Bildungswerk Regensburg e.V., Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/617455",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-10|regensburg.de/veranstaltungen/detail/617455",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-09",
   "erfasst_als": "bimexpo-2026",
   "entscheidung": ""
  },
@@ -4073,6 +3872,29 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Vom Zuckerhut ins Schwabenländle – Migrantinnen und Migranten aus Brasilien erzählen",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "Hauptstaatsarchiv Stuttgart, Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/vom-zuckerhut-ins-schwabenlaendle-migrantinnen-und-migranten-aus-brasilien-erzaehlen/",
+  "veranstalter": "",
+  "kurz": "Podiumsgespräch im Rahmen der Ausstellung „Aufbruch in ein fremdes Land – 200 Jahre deutschsprachige Einwanderung nach Brasilien“",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|wrs.region-stuttgart.de/termine/vom-zuckerhut-ins-schwabenlaendle-migrantinnen-und-migranten-aus-brasilien-erzaehlen",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-09",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -9397,6 +9219,33 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
  },
  {
+  "titel": "KI Schulungs­programm für ESG Professionals",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "Stuttgart",
+  "land": "",
+  "online": true,
+  "url": "https://it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "KI Tools können die Aufgaben von Nachhaltigkeitsverantwortlichen unterstützen.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Material & Kreislauf"
+  ],
+  "schluessel": "2026-11-25|it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals",
+  "quellen": [
+   "it-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "LfA-Finanzierungssprechtag in Landshut",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -13393,6 +13242,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Jimmy Carr",
+  "start": "2026-12-13",
+  "ende": "2026-12-13",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/jimmy-car-2026",
+  "veranstalter": "",
+  "kurz": "Britse comedian Jimmy Carr komt op bezoek bij de RAI",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-13|rai.nl/agenda/jimmy-car-2026",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Winter Funland - Day 9",
   "start": "2026-12-13",
   "ende": "2026-12-13",
@@ -13676,6 +13549,30 @@
    "bayern-innovativ"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Het Amsterdamse Winterparadijs",
+  "start": "2026-12-17",
+  "ende": "2026-12-17",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/amsterdamse-winterparadijs-2026",
+  "veranstalter": "",
+  "kurz": "Het Amsterdamse Winterparadijs keert terug naar de RAI Amsterdam. Van 17 dec t/m 2 jan beleef je het grootste winterevenement van Nederland: 55.000 m² vol winterse activiteiten, attracties, shows en ijspret voor jong en ",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-17|rai.nl/agenda/amsterdamse-winterparadijs-2026",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-09",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -21208,7 +21105,7 @@
   "ort": "Termin",
   "land": "",
   "online": true,
-  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794112226-ca31b2a0b",
+  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794199223-c23aca40a",
   "veranstalter": "",
   "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
   "methode": "detailseite-text",

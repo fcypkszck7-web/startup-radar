@@ -1,5 +1,125 @@
 [
  {
+  "titel": "\" Gedanken an Kolchis\" / Malerei von Ana Margvelashvili",
+  "start": "2026-11-08",
+  "ende": "2026-11-08",
+  "ort": "Kulturraum Vor der Grieb, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/621332",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/621332",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "\"Georgia on my Mind\" - Photographien von Heike Bogenberger",
+  "start": "2026-11-08",
+  "ende": "2026-11-08",
+  "ort": "Kulturraum Vor der Grieb, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/621324",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/621324",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": ",,Himmelslandschaft Georgien,, / Photographien von Peter Geiger",
+  "start": "2026-11-08",
+  "ende": "2026-11-08",
+  "ort": "Kulturraum Vor der Grieb, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/621331",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/621331",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "49. Grenzland-Filmtage zu Gast in den Kinos im Andreasstadel",
+  "start": "2026-11-08",
+  "ende": "2026-11-08",
+  "ort": "Künstlerhaus Andreas-Stadel - Kino Wintergarten, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619600",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/619600",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Ausstellung InterCultureLab: Fatemeh Shiri, Mahla Atarhayetehrani und Lena Frauenknecht in der Stadelgalerie \"Stadel temporär\"",
+  "start": "2026-11-08",
+  "ende": "2026-11-08",
+  "ort": "Künstlerhaus Andreas-Stadel, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619385",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-08|regensburg.de/veranstaltungen/detail/619385",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "159th SICTIC Investor Day online",
   "start": "2026-11-09",
   "ende": "2026-11-09",
@@ -126,6 +246,31 @@
   "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
   "start": "2026-11-09",
   "ende": "2026-11-09",
+  "ort": "Das Gutbrod",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie/",
+  "veranstalter": "",
+  "kurz": "Was passiert, wenn Know-how durch einen Cyberangriff, eine ungeschützte Cloud-Freigabe oder einen unbefugten Zugriff in falsche Hände gerät?",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
+  "start": "2026-11-09",
+  "ende": "2026-11-09",
   "ort": "rkshop: Cybersecurity als Schutzschild ...Workshop: ...",
   "land": "",
   "online": false,
@@ -145,31 +290,6 @@
    "it-region-stuttgart"
   ],
   "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Workshop: Cybersecurity als Schutzschild der IP-Strategie",
-  "start": "2026-11-09",
-  "ende": "2026-11-09",
-  "ort": "Das Gutbrod",
-  "land": "",
-  "online": false,
-  "url": "https://wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie/",
-  "veranstalter": "",
-  "kurz": "Was passiert, wenn Know-how durch einen Cyberangriff, eine ungeschützte Cloud-Freigabe oder einen unbefugten Zugriff in falsche Hände gerät?",
-  "methode": "json-ld",
-  "quelle_id": "wrs-termine",
-  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-09|wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schutzschild-der-ip-strategie",
-  "quellen": [
-   "wrs-termine"
-  ],
-  "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -687,6 +807,29 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Vom Zuckerhut ins Schwabenländle – Migrantinnen und Migranten aus Brasilien erzählen",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "Hauptstaatsarchiv Stuttgart, Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/vom-zuckerhut-ins-schwabenlaendle-migrantinnen-und-migranten-aus-brasilien-erzaehlen/",
+  "veranstalter": "",
+  "kurz": "Podiumsgespräch im Rahmen der Ausstellung „Aufbruch in ein fremdes Land – 200 Jahre deutschsprachige Einwanderung nach Brasilien“",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-11|wrs.region-stuttgart.de/termine/vom-zuckerhut-ins-schwabenlaendle-migrantinnen-und-migranten-aus-brasilien-erzaehlen",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-09",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1738,6 +1881,33 @@
   "entscheidung": ""
  },
  {
+  "titel": "KI Schulungs­programm für ESG Professionals",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "Stuttgart",
+  "land": "",
+  "online": true,
+  "url": "https://it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "KI Tools können die Aufgaben von Nachhaltigkeitsverantwortlichen unterstützen.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Material & Kreislauf"
+  ],
+  "schluessel": "2026-11-25|it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals",
+  "quellen": [
+   "it-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "LfA-Finanzierungssprechtag in Landshut",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -2215,6 +2385,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Jimmy Carr",
+  "start": "2026-12-13",
+  "ende": "2026-12-13",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/jimmy-car-2026",
+  "veranstalter": "",
+  "kurz": "Britse comedian Jimmy Carr komt op bezoek bij de RAI",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-13|rai.nl/agenda/jimmy-car-2026",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-09",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "MASTERS EXPO",
   "start": "2026-12-14",
   "ende": "2026-12-14",
@@ -2263,6 +2457,30 @@
    "bayern-innovativ"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Het Amsterdamse Winterparadijs",
+  "start": "2026-12-17",
+  "ende": "2026-12-17",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/amsterdamse-winterparadijs-2026",
+  "veranstalter": "",
+  "kurz": "Het Amsterdamse Winterparadijs keert terug naar de RAI Amsterdam. Van 17 dec t/m 2 jan beleef je het grootste winterevenement van Nederland: 55.000 m² vol winterse activiteiten, attracties, shows en ijspret voor jong en ",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-17|rai.nl/agenda/amsterdamse-winterparadijs-2026",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-09",
   "erfasst_als": null,
   "entscheidung": ""
  },

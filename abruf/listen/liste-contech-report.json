@@ -2,12 +2,13 @@
  "quelle": "liste-contech-report",
  "name": "starting-up.de – ConTech-Start-up-Report 2026",
  "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
- "abgerufen": "2026-11-08",
+ "abgerufen": "2026-11-09",
  "koepfe": [
   "Highlights des Jahres",
   "Zum Newsletter per QR-Code",
   "Frage des Monats",
-  "22.06.2026"
+  "22.06.2026",
+  "Geld ist nichts für die Bank"
  ],
  "links": [
   {
@@ -301,23 +302,13 @@
    "extern": false
   },
   {
-   "text": "professionelle Universalreiniger",
-   "url": "https://www.sandoro.de/products/winterhalter-f-8500-universalreiniger",
+   "text": "HAGER Executive Consulting",
+   "url": "https://hager-consulting.com/",
    "extern": true
-  },
-  {
-   "text": "HACCP-Konzept",
-   "url": "https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/01_Aufgaben/09_BELA/BELA_node.html",
-   "extern": true
-  },
-  {
-   "text": "Starttipps Gastronomie von StartingUp",
-   "url": "https://www.starting-up.de/gruenden/checklisten/starttipps-gastronomie.html",
-   "extern": false
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/gastronomie-und-tourismus/unsichtbar-aber-entscheidend-warum-hygiene-in-der-gastronomie-ueber-vertrauen-entscheidet.html",
+   "url": "https://www.starting-up.de/ideen/unternehmer-typen/interview-der-bruch-zeigt-sich-zuerst-im-vertrieb.html",
    "extern": false
   },
   {
@@ -326,23 +317,13 @@
    "extern": false
   },
   {
-   "text": "Dies ist ein Auszug aus einem aktuellen Artikel unseres Print-Objekts StartingUp: Den vollständigen Artikel lesen Sie in der aktuellen StartingUp - Heft 01/16 -",
+   "text": "Dies ist ein Auszug aus einem aktuellen Artikel unseres Print-Objekts StartingUp: Den vollständigen Artikel lesen Sie in der aktuellen StartingUp - Heft 02/16 -",
    "url": "http://www.starting-up.de/abo-service/alle-ausgaben.html",
    "extern": false
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/joe-gebbia-und-die-airbnb-story.html",
-   "extern": false
-  },
-  {
-   "text": "digitalen",
-   "url": "https://www.leovegas.de/de-de/",
-   "extern": true
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/daniel-ek-und-die-spotify-story.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/drew-houston-und-die-dropbox-story.html",
    "extern": false
   },
   {
@@ -366,13 +347,13 @@
    "extern": false
   },
   {
-   "text": "Karevo",
-   "url": "https://www.karevo.de/de",
+   "text": "Order Right",
+   "url": "https://orderright.de/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/karevo-der-125000-euro-befreiungsschlag-von-der-knochenarbeit.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-order-right-mit-ki-das-gastro-sterben-bekaempft.html",
    "extern": false
   },
   {
@@ -396,93 +377,58 @@
    "extern": false
   },
   {
-   "text": "1KOMMA5°",
-   "url": "https://1komma5.com/de/",
-   "extern": true
-  },
-  {
-   "text": "Voltfang",
-   "url": "https://voltfang.de/",
-   "extern": true
-  },
-  {
-   "text": "phelas",
-   "url": "https://www.phelas.com/de",
-   "extern": true
-  },
-  {
-   "text": "Entrix",
-   "url": "https://www.entrixenergy.com/de",
-   "extern": true
-  },
-  {
-   "text": "suena",
-   "url": "https://www.suena.energy/",
-   "extern": true
-  },
-  {
-   "text": "Ecoplanet",
-   "url": "https://www.ecoplanet.tech/",
-   "extern": true
-  },
-  {
-   "text": "Reverion",
-   "url": "https://reverion.com/",
-   "extern": true
-  },
-  {
-   "text": "Cylib",
-   "url": "https://www.cylib.de/de",
-   "extern": true
-  },
-  {
-   "text": "Greenlyte Carbon Technologies",
-   "url": "https://www.greenlyte.tech/",
-   "extern": true
-  },
-  {
-   "text": "Proxima Fusion",
-   "url": "https://www.proximafusion.com/",
+   "text": "Nomado24",
+   "url": "https://www.nomado24.de/de",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/gridtech-start-up-report-2026.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/nomado24-ki-gegen-fake-remote.html",
    "extern": false
   },
   {
-   "text": "exist women",
-   "url": "https://exist.de/programm/women/",
+   "text": "QOODA",
+   "url": "https://www.qooda.io/",
+   "extern": true
+  },
+  {
+   "text": "BayStartUP-Wettbewerb",
+   "url": "https://www.baystartup.de/businessplan-wettbewerbe",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/drik-17-smartes-gadget-skalierbares-business.html",
-   "extern": false
-  },
-  {
-   "text": "Pfandpirat",
-   "url": "https://pfandpirat.com/",
-   "extern": true
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/pfandpirat-bootstrapping-auf-der-strasse.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/qooda-satelliten-blackout-als-geschaeftsmodell.html",
    "extern": false
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/savin-zinsen-statt-strom-schock.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/b2b-edtech-start-up-report.html",
    "extern": false
   },
   {
-   "text": "Neurawork",
-   "url": "https://neurawork.ai/",
+   "text": "Friday/Poppins",
+   "url": "https://www.fridaypoppins.de/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/ki/step-by-step-zum-profitablen-ki-einsatz-im-start-up.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-friday/poppins-im-hr-aufraeumen-will.html",
+   "extern": false
+  },
+  {
+   "text": "BlueBranch",
+   "url": "https://www.bluebranch.de/",
+   "extern": true
+  },
+  {
+   "text": "App-Kosten-Rechner",
+   "url": "https://www.bluebranch.de/app-entwicklung-kosten-kalkulator",
+   "extern": true
+  },
+  {
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/apps/von-der-vibe-coding-idee-zur-launchfaehigen-app.html",
    "extern": false
   },
   {
