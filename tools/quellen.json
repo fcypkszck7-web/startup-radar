@@ -766,7 +766,9 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Verband",
-   "url": "https://pvaustria.at/veranstaltungen/"
+   "url": "https://pvaustria.at/veranstaltungen/",
+   "aktiv": false,
+   "notiz": "2026-11-09: Server beendet die Verbindung bei jedem Abruf – deaktiviert, per Websuche abdecken."
   },
   {
    "id": "messe-wels",
@@ -1092,7 +1094,9 @@
    "art": "events",
    "region": "Österreich",
    "typ": "Medien",
-   "url": "https://brutkasten.com/events"
+   "url": "https://brutkasten.com/events",
+   "aktiv": false,
+   "notiz": "2026-11-09: HTTP 403 (Abruf gesperrt) – deaktiviert, wird per Websuche abgedeckt."
   },
   {
    "id": "i2c-tuwien",
@@ -1142,7 +1146,9 @@
    "art": "events",
    "region": "Deutschland",
    "typ": "Kompetenzzentrum",
-   "url": "https://handwerkdigital.de/veranstaltungen"
+   "url": "https://handwerkdigital.de/veranstaltungen",
+   "aktiv": false,
+   "notiz": "2026-11-09: Seite liefert 404; Mittelstand-Digital-Netzwerk 2026 neu aufgestellt – deaktiviert, per Websuche abdecken."
   },
   {
    "id": "intersolar-events",
@@ -1263,7 +1269,6 @@
     "https://reverion.com/",
     "https://www.cylib.de/de",
     "https://www.greenlyte.tech/",
-    "https://tenderwalls.de/",
     "http://www.abstract.build",
     "http://www.aestico.ch",
     "http://www.de-solutions.info",
@@ -1273,7 +1278,14 @@
     "https://www.themobbot.com/",
     "http://www.voliro.ch",
     "https://www.kodex-ai.com/",
-    "https://kertos.io/"
+    "https://kertos.io/",
+    "https://bimeto.de/",
+    "https://www.powerio.com/de",
+    "https://diafania.de/de",
+    "https://natstruct.de/",
+    "https://3d-bautec.com/",
+    "https://melt-ing.com/",
+    "https://nanolope.de/"
    ],
    "notiz": "Websites aus Listen und Berichten, deren Sitz und Kurzbeschreibung automatisch aus Website und Impressum gelesen werden."
   },
@@ -2049,7 +2061,22 @@
     "https://www.fiber-elements.com/",
     "https://hashlynk.com/",
     "https://duramea.com/",
-    "https://www.pulpstack.com/"
+    "https://www.pulpstack.com/",
+    "https://refinemysite.ai/",
+    "https://metroc.ai/en",
+    "https://talpa-inspection.ch/",
+    "https://layered.ch/",
+    "https://aithon-robotics.ch/",
+    "https://myceen.com/",
+    "https://foldcast.com/",
+    "https://xploragroup.ai/en/homepage-en",
+    "https://carbonaide.com/",
+    "https://hempstatic.at/",
+    "https://wallrus.fr/",
+    "https://impactbuild.ch/",
+    "https://pelicad.com/",
+    "https://aiina-robotics.com/en",
+    "https://planlabs.com/"
    ],
    "notiz": "Europa-Erweiterung: Websites aus Ranglisten; Sitz wird aus dem Impressum gelesen, vor Aufnahme prüfen, ob Website und Start-up zusammenpassen"
   }

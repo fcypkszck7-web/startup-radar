@@ -1269,6 +1269,52 @@
   ]
  },
  {
+  "id": "reebuild",
+  "name": "reebuild",
+  "sitz": "Wien",
+  "region": "Europa",
+  "land": "AT",
+  "loesung": "KI-Plattform, die Rechnungsprüfung, Kostenkontrolle und Materialverwaltung von Bauunternehmen automatisiert.",
+  "branchen": [
+   "Bau & Immobilien",
+   "Software, KI & Daten"
+  ],
+  "relevanz": 3,
+  "aufwand": 2,
+  "quelle": "https://www.startbase.de/news/reebuild-holt-sich-3-millionen-euro-fuer-ki-automatisierung-in-der-baubranche/",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "reifegrad": "Seed",
+  "finanzierung": "3 Mio. € Seed (Okt. 2026), Lead Fortino Ventures",
+  "herkunft": "websuche",
+  "gruendung": "",
+  "suchfeld": "",
+  "mehrwert": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "fokus": true,
+  "investoren_alle": [
+   "Fortino Ventures",
+   "Rise PropTech",
+   "CuriosityVC"
+  ],
+  "runden_ids": [
+   "reebuild-seed-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-10-13",
+   "runde": "Seed",
+   "betrag": "3 Mio. €"
+  }
+ },
+ {
   "id": "cloover",
   "name": "Cloover",
   "sitz": "Berlin",
@@ -1361,6 +1407,42 @@
   ]
  },
  {
+  "id": "enerkii",
+  "name": "Enerkii",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "loesung": "Errichtet und betreibt Solar-, Speicher- und Ladeanlagen bei Industrie- und Gewerbekunden und finanziert sie aus den erzielten Einsparungen.",
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "relevanz": 3,
+  "aufwand": 3,
+  "quelle": "https://www.munich-startup.de/en/news/enerkii-secures-fresh-capital",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "gruendung": "2024",
+  "reifegrad": "Pre-Seed",
+  "finanzierung": "Pre-Seed (Juli 2025), Lead World Fund",
+  "herkunft": "websuche",
+  "suchfeld": "",
+  "mehrwert": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "fokus": true,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
+ },
+ {
   "id": "enter",
   "name": "Enter",
   "sitz": "Berlin",
@@ -1431,6 +1513,42 @@
    "Bau & Immobilien",
    "Handwerk"
   ]
+ },
+ {
+  "id": "pionierkraft",
+  "name": "PIONIERKRAFT",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "loesung": "Hardware-, Software- und Servicepaket, mit dem Eigentümer kleiner Mehrfamilienhäuser selbst erzeugten Solarstrom im Haus teilen.",
+  "branchen": [
+   "Energie & Solar",
+   "Gebäudetechnik"
+  ],
+  "relevanz": 3,
+  "aufwand": 3,
+  "quelle": "https://www.starting-up.de/news/news-investments/pionierkraft-energie-start-up-sichert-sich-hohen-siebenstelligen-betrag.html",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "gruendung": "2019",
+  "reifegrad": "Series A",
+  "finanzierung": "Series A, hoher siebenstelliger Betrag",
+  "herkunft": "websuche",
+  "suchfeld": "",
+  "mehrwert": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "fokus": true,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
  },
  {
   "id": "planradar",
@@ -1649,6 +1767,93 @@
    "Software, KI & Daten",
    "Bau & Immobilien"
   ]
+ },
+ {
+  "id": "wallround",
+  "name": "WALLROUND",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "loesung": "Sanierungsdienstleister, der Gebäudeanalyse, Planung, Einkauf, Ausführung und Qualitätssicherung digital gestützt aus einer Hand anbietet.",
+  "branchen": [
+   "Bau & Immobilien",
+   "Dach & Gebäudehülle",
+   "Handwerk"
+  ],
+  "relevanz": 3,
+  "aufwand": 3,
+  "quelle": "https://www.starting-up.de/news/news-investments/42-mio-eur-seed-runde-fuer-berliner-proptech-start-up-wallround.html",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "gruendung": "2024",
+  "reifegrad": "Seed",
+  "finanzierung": "4,2 Mio. € Seed, Lead Revent",
+  "herkunft": "websuche",
+  "suchfeld": "",
+  "mehrwert": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "fokus": true,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
+ },
+ {
+  "id": "nuuenergy",
+  "name": "nuuEnergy",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "loesung": "Baut regionale Installationszentren für Wärmepumpen aus eigenen Handwerksbetrieben mit digitaler Planung auf.",
+  "branchen": [
+   "Gebäudetechnik",
+   "Handwerk",
+   "Energie & Solar"
+  ],
+  "relevanz": 3,
+  "aufwand": 3,
+  "quelle": "https://www.starting-up.de/news/news-investments/43-mio-euro-seed-finanzierung-fuer-nuuenergy.html",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "gruendung": "2023",
+  "reifegrad": "Seed",
+  "finanzierung": "4,3 Mio. € Seed (Feb. 2026), Lead Amberra",
+  "herkunft": "websuche",
+  "suchfeld": "",
+  "mehrwert": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "B",
+  "quickwin": false,
+  "fokus": true,
+  "investoren_alle": [
+   "Amberra",
+   "EnjoyVenture",
+   "HTGF",
+   "Vireo Ventures",
+   "better ventures",
+   "Bynd Venture Capital"
+  ],
+  "runden_ids": [
+   "nuuenergy-seed-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-02-17",
+   "runde": "Seed",
+   "betrag": "4,3 Mio. €"
+  }
  },
  {
   "id": "resoniks",
@@ -2087,6 +2292,54 @@
   "letzte_runde": null
  },
  {
+  "id": "co-reactive",
+  "name": "Co-reactive",
+  "sitz": "Düsseldorf",
+  "region": "Deutschland",
+  "land": "DE",
+  "loesung": "Bindet CO₂ in natürlichen Mineralien und Industrieschlacken und stellt daraus emissionsarme Zementersatzstoffe her.",
+  "branchen": [
+   "Material & Kreislauf",
+   "Bau & Immobilien"
+  ],
+  "relevanz": 2,
+  "aufwand": 3,
+  "quelle": "https://www.starting-up.de/news/news-investments/co-reactive-65-mio-eur-seed-finanzierung-fuer-co2-negative-baustofftechnologie.html",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "gruendung": "2024",
+  "reifegrad": "Seed",
+  "finanzierung": "6,5 Mio. € Seed (Jan. 2026), Lead HTGF",
+  "herkunft": "websuche",
+  "suchfeld": "",
+  "mehrwert": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": [
+   51.2601,
+   6.734
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [
+   "HTGF",
+   "NRW.Bank",
+   "HBG Ventures",
+   "AFI Ventures",
+   "Evercurious VC"
+  ],
+  "runden_ids": [
+   "co-reactive-seed-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-01-28",
+   "runde": "Seed",
+   "betrag": "6,5 Mio. €"
+  }
+ },
+ {
   "id": "fuenf-prozent",
   "name": "Fünf Prozent",
   "sitz": "Stuttgart",
@@ -2237,6 +2490,41 @@
    "Bau & Immobilien",
    "Handwerk"
   ]
+ },
+ {
+  "id": "mycolutions",
+  "name": "MycoLutions",
+  "sitz": "Hamburg",
+  "region": "Deutschland",
+  "land": "DE",
+  "loesung": "Entwickelt biobasierte Werkstoffe aus Pilzmyzel.",
+  "branchen": [
+   "Material & Kreislauf"
+  ],
+  "relevanz": 2,
+  "aufwand": 3,
+  "quelle": "https://mycolutions.de/impressum/",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "website": "https://mycolutions.de",
+  "herkunft": "abruf:liste-groundbreakers",
+  "gruendung": "",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "finanzierung": "",
+  "anbindung": "",
+  "kooperation": "",
+  "geo": [
+   53.5511,
+   9.9937
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
  },
  {
   "id": "reworth-blocks",
@@ -2517,6 +2805,42 @@
   "geo": [
    50.947,
    6.983
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
+ },
+ {
+  "id": "cylib",
+  "name": "cylib",
+  "sitz": "Aachen",
+  "region": "Deutschland",
+  "land": "DE",
+  "loesung": "Recyclingverfahren, das Altbatterien und Produktionsschrott von der Entladung bis zur hydrometallurgischen Rückgewinnung zu marktfähigen Rohstoffen verarbeitet.",
+  "branchen": [
+   "Material & Kreislauf",
+   "Energie & Solar"
+  ],
+  "relevanz": 2,
+  "aufwand": 3,
+  "quelle": "https://www.cylib.de/de/imprint",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "website": "https://www.cylib.de",
+  "herkunft": "abruf:firmen-nachrecherche",
+  "gruendung": "",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "finanzierung": "",
+  "anbindung": "",
+  "kooperation": "",
+  "geo": [
+   50.7753,
+   6.0839
   ],
   "prioritaet": "C",
   "quickwin": false,
@@ -2951,6 +3275,42 @@
   "geo": [
    48.1374,
    11.5755
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
+ },
+ {
+  "id": "gnu-energy",
+  "name": "GNU Energy",
+  "sitz": "Hamburg",
+  "region": "Deutschland",
+  "land": "DE",
+  "loesung": "Planungsbüro für Wärmepumpen in bestehenden Nichtwohngebäuden – von der Bestandsaufnahme bis zur Ausschreibung.",
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar"
+  ],
+  "relevanz": 1,
+  "aufwand": 3,
+  "quelle": "https://www.starting-up.de/news/gruenderin-der-woche/gruenderin-der-woche-gnu-energy.html",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "gruendung": "2026",
+  "reifegrad": "Gründung",
+  "finanzierung": "eigenfinanziert",
+  "herkunft": "websuche",
+  "suchfeld": "",
+  "mehrwert": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": [
+   53.5511,
+   9.9937
   ],
   "prioritaet": "C",
   "quickwin": false,
@@ -3820,6 +4180,41 @@
   "geo": [
    49.974,
    8.056
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
+ },
+ {
+  "id": "kiutra",
+  "name": "kiutra",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "loesung": "Kryostate und Kühltechnik für Quantentechnologien, von Testsystemen bis zu skalierbaren Kühlarchitekturen.",
+  "branchen": [
+   "Industrie & Fertigung"
+  ],
+  "relevanz": 1,
+  "aufwand": 3,
+  "quelle": "https://kiutra.com/legal-notice",
+  "geprueft": "2026-11-09",
+  "investoren_weitere": [],
+  "website": "https://kiutra.com",
+  "herkunft": "abruf:firmen-bayern-listen",
+  "gruendung": "",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "finanzierung": "",
+  "anbindung": "",
+  "kooperation": "",
+  "geo": [
+   48.1374,
+   11.5755
   ],
   "prioritaet": "C",
   "quickwin": false,

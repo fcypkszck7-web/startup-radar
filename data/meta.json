@@ -1,18 +1,17 @@
 {
  "titel": "Start-up- & Event-Radar",
  "site_url": "https://fcypkszck7-web.github.io/startup-radar/",
- "stand": "2026-11-05",
+ "stand": "2026-11-09",
  "aenderungen": [
-  "Am 05.11.2026: bessere Lesbarkeit und Bedienbarkeit – stärkere Kontraste in hell und dunkel, Farbschema folgt automatisch dem System, schnellere Seitenwechsel, Online-Termine unter dem Radar gebündelt, volle Felder der Start-up-Matrix eingeklappt. Außerdem 13 Termine aus Kalendern, die erst jetzt automatisch lesbar sind (u. a. OTH Regensburg, Gründerland Bayern, Bundesverband Wärmepumpe).",
-  "Europa-Erweiterung am 04.11.2026: 93 weitere Termine. Deutschland, Österreich und die Schweiz werden in voller Breite erfasst, das übrige Europa mit den wichtigen Fachmessen, Kongressen und Start-up-Events – u. a. Batibouw, REBUILD, MIPIM, MADE expo, Nordbygg, ROOF EXPO Warschau, MCE, LAMIERA, EMO Milano, Global Industrie, Pollutec, Ecomondo, R+T, LogiMAT, automatica und European Coatings Show. Termine aus dem Messeverzeichnis sind als „geschätzt“ markiert, bis der Veranstalter sie bestätigt.",
-  "Neue Quellen für den nächtlichen Abruf: Kalender großer europäischer Messeplätze (u. a. Madrid, Barcelona, Mailand, Paris, Brüssel, Prag, Warschau, Stockholm, Birmingham), europäische Verbände und Programme sowie ein europaweites Messeverzeichnis je Branche – insgesamt jetzt rund 170 Quellen.",
-  "Termine und Start-ups lassen sich nach Branche filtern; die Bewertung dient nur noch zum Sortieren. Erfasst werden auch Vorträge, Webinare, Workshops und Fachtagungen (Aufholrecherche: 151 zusätzliche Termine in Deutschland, Österreich und der Schweiz)."
+  "Wöchentliche Aktualisierung am 09.11.2026: 90 neue Termine, davon 89 aus dem Kalenderabruf (u. a. dena Kongress, Bitkom Data Centre Summit, KEDi Convention, SEMICON Europa, CWIEME Berlin 2027, FusionX:Global 2027, METEC und THERMPROCESS 2027, parts2clean 2027, Solarplaza-Konferenzen 2027) und 1 aus der Websuche (Future Forward Wien).",
+  "10 neue Start-ups (u. a. reebuild, WALLROUND, Co-reactive, nuuEnergy, PIONIERKRAFT, cylib) und 2 neue Finanzierungsrunden.",
+  "6 geschätzte Messetermine bestätigt (EnergyDecentral, ROOF EXPO, GENERA, Future Battery Forum, ARCHITECT@WORK Frankfurt, BIMEXPO); 145 Kandidaten aus dem Abruf abgelehnt; 3 nicht abrufbare Kalender auf Websuche umgestellt."
  ],
  "anzahl": {
-  "events_aktiv": 313,
+  "events_aktiv": 403,
   "events_archiv": 41,
-  "startups": 105,
-  "runden": 49,
+  "startups": 115,
+  "runden": 51,
   "investoren": 13
  }
 }

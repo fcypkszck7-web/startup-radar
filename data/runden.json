@@ -55,7 +55,7 @@
   "art": "Finanzierungsrunde",
   "runde": "Seed",
   "unternehmen": "reebuild",
-  "startup_id": null,
+  "startup_id": "reebuild",
   "sitz": "Wien",
   "land": "AT",
   "thema": "Digitale Planung und Vertrieb",
@@ -501,6 +501,59 @@
   "kurz": "Zusammenschluss der PV-Planungssoftware mit Eturnity (Schweiz) gegen neue Aktien, verbunden mit frischem Kapital; beide Marken laufen vorerst weiter.",
   "quelle": "https://www.startupticker.ch/en/news/solar-monkey-and-eturnity-merge-and-attract-fresh-capital",
   "geprueft": "2026-11-02"
+ },
+ {
+  "id": "nuuenergy-seed-2026",
+  "datum": "2026-02-17",
+  "art": "Finanzierungsrunde",
+  "runde": "Seed",
+  "unternehmen": "nuuEnergy",
+  "startup_id": "nuuenergy",
+  "sitz": "München",
+  "land": "DE",
+  "thema": "Wärmepumpen-Installation",
+  "betrag": "4,3 Mio. €",
+  "betrag_mio_eur": 4.3,
+  "lead": [
+   "Amberra"
+  ],
+  "investoren": [
+   "Amberra",
+   "EnjoyVenture",
+   "HTGF",
+   "Vireo Ventures",
+   "better ventures",
+   "Bynd Venture Capital"
+  ],
+  "kurz": "Regionale Wärmepumpen-Installationszentren aus eigenen Handwerksbetrieben.",
+  "quelle": "https://www.starting-up.de/news/news-investments/43-mio-euro-seed-finanzierung-fuer-nuuenergy.html",
+  "geprueft": "2026-11-09"
+ },
+ {
+  "id": "co-reactive-seed-2026",
+  "datum": "2026-01-28",
+  "art": "Finanzierungsrunde",
+  "runde": "Seed",
+  "unternehmen": "Co-reactive",
+  "startup_id": "co-reactive",
+  "sitz": "Düsseldorf",
+  "land": "DE",
+  "thema": "CO₂-arme Baustoffe",
+  "betrag": "6,5 Mio. €",
+  "betrag_mio_eur": 6.5,
+  "lead": [
+   "HTGF"
+  ],
+  "investoren": [
+   "HTGF",
+   "NRW.Bank",
+   "HBG Ventures",
+   "AFI Ventures",
+   "Evercurious VC"
+  ],
+  "kurz": "Zementersatz aus mineralisiertem CO₂.",
+  "quelle": "https://www.starting-up.de/news/news-investments/co-reactive-65-mio-eur-seed-finanzierung-fuer-co2-negative-baustofftechnologie.html",
+  "geprueft": "2026-11-09"
  },
  {
   "id": "robco-c-2026",
