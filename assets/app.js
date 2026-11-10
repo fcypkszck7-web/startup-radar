@@ -230,10 +230,14 @@
     if (TITEL[h]) return { r: h, rub: null };
     return { r: "uebersicht", rub: null };
   }
+  var NAV_REIHE = ["uebersicht", "termine", "startups", "kapital", "archiv", "quellen", "intern", "merkliste"];
+  /* Kacheln und Start-up-Karten neigen sich zum Mauszeiger, ein Lichtreflex wandert mit */
+  if (window.Bewegung) { window.Bewegung.neigen(".bento > .kachel"); window.Bewegung.neigen("ul.su-karten > .su-zeile"); }
   function routen() {
     if (!S.geladen) return;
     var z = leseHash();
     var wechsel = z.r !== S.route;
+    var richtung = NAV_REIHE.indexOf(z.r) >= NAV_REIHE.indexOf(S.route) ? 1 : -1, mitKamera = wechsel && S.schonGezeichnet;
     if (z.r === "termine") { if (S.t.rubrik !== z.rub) S.t.monat = ""; S.t.rubrik = z.rub; }
     S.route = z.r;
     $$("[data-nav]").forEach(function (a) {
@@ -248,6 +252,8 @@
       ({ uebersicht: zeigeUebersicht, termine: zeigeTermine, startups: zeigeStartups, kapital: zeigeKapital, archiv: zeigeArchiv, merkliste: zeigeMerkliste, intern: zeigeIntern, quellen: zeigeQuellen })[z.r]();
       beobachteFilter();
       if (wechsel) window.scrollTo(0, 0);
+      /* Kamerafahrt: Kopffoto fährt aus der Klickrichtung ins Bild, Überschrift steigt Buchstabe für Buchstabe auf */
+      if (mitKamera && window.Bewegung) window.Bewegung.kamera({ bild: $("#kopfband .kb-bild"), titel: $("#kopfband h1"), text: $("#kopfband .kb-intro"), dir: richtung });
     };
     var leicht = document.getElementById("ansicht").getElementsByTagName("*").length < 1500;
     if (wechsel && leicht && document.startViewTransition && !reduziert.matches && S.schonGezeichnet) {
@@ -259,6 +265,7 @@
     S.schonGezeichnet = true;
   }
   function aufraeumen() {
+    if (S.leit) S.leit.neu(null);
     S.radare.forEach(function (r) { r.entferne(); });
     S.radare = [];
     ansichtRadarWeg();
@@ -288,19 +295,27 @@
   }, { passive: true });
 
   /* Gleitende Markierung unter dem aktiven Bereich der Hauptnavigation */
-  function navZeiger() {
+  function navZeiger(sofort) {
     var nav = $(".hauptnav"); if (!nav) return;
     var z = $(".nav-zeiger", nav);
     if (!z) { z = document.createElement("span"); z.className = "nav-zeiger"; z.setAttribute("aria-hidden", "true"); nav.appendChild(z); }
     var akt = $("a.aktiv", nav);
     if (!akt || !akt.offsetWidth) { z.style.opacity = "0"; return; }
-    z.style.width = (akt.offsetWidth - 24) + "px";
-    z.style.transform = "translateX(" + (akt.offsetLeft + 12) + "px)";
+    var l = akt.offsetLeft + 12, r = nav.clientWidth - akt.offsetLeft - akt.offsetWidth + 12;
+    var still = sofort || !z.classList.contains("bereit") || z.style.opacity === "0";
+    if (window.Bewegung) {
+      /* Gummiband: die vordere Kante eilt voraus, die hintere zieht nach */
+      z.style.width = "auto"; z.style.transform = "none";
+      window.Bewegung.gleite(z, l, r, still);
+    } else {
+      z.style.width = (akt.offsetWidth - 24) + "px";
+      z.style.transform = "translateX(" + l + "px)";
+    }
     z.style.opacity = "1";
     if (!z.classList.contains("bereit")) requestAnimationFrame(function () { requestAnimationFrame(function () { z.classList.add("bereit"); }); });
   }
-  window.addEventListener("resize", function () { navZeiger(); });
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { navZeiger(); });
+  window.addEventListener("resize", function () { navZeiger(true); });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { navZeiger(true); });
 
   /* ---------- Dunkler Seitenkopf für Unterseiten ---------- */
   /* Kopfbilder: mit KI erzeugte Fotos (ElevenLabs), lokal gespeichert – keine Personen, keine Marken, keine externen Abrufe */
@@ -469,8 +484,8 @@
       prioWahl(S.heldPrio, "held") + "</div></div>" +
       '<div class="held-radar"><div class="radar" id="radar-held"></div>' +
       '<div class="radar-legende" id="held-legende"></div></div>' +
-      '<div class="held-visier"><div class="visier-kopf"><h2>Als Nächstes</h2><a href="#termine">Alle ' + aktiv.length + " Termine</a></div>" +
-      '<ol class="visier" id="visier"></ol></div>' +
+      '<div class="held-visier"><div class="bw-gehaeuse visier-tafel"><div class="visier-kopf"><h2><span class="vt-led" aria-hidden="true"></span>Als Nächstes</h2><a href="#termine">Alle ' + aktiv.length + " Termine</a></div>" +
+      (window.Bewegung ? '<div id="visier"></div>' : '<ol class="visier" id="visier"></ol>') + "</div></div>" +
       "</div></section>";
 
     if (!store.get("radar-hilfe-aus", false)) {
@@ -490,6 +505,13 @@
     });
     S.radare.push(radar);
     S.heldRadar = radar;
+    /* Fallblatt-Anzeige wie auf einer Abfahrtstafel: jede Zeile öffnet den Termin */
+    S.tafel = window.Bewegung ? new window.Bewegung.Tafel($("#visier"), {
+      zeilen: 6, element: "button",
+      spalten: [{ k: "d", n: 5 }, { k: "n", rest: true, min: 8 }, { k: "p", n: 1, klasse: function (ch) { return ch !== " " ? "bw-p-" + ch : ""; } }],
+      titel: { d: "Datum", n: "Termin", p: "Prio" },
+      hover: function (d, an) { if (S.heldRadar && d.attr) S.heldRadar.fokus(an ? d.attr["data-oeffne"] : null); }
+    }) : null;
     heldAktualisieren(true);
 
     bindeBento();
@@ -598,13 +620,22 @@
     $("#held-sub").innerHTML = sub;
 
     var visier = liste.slice(0, 6);
-    $("#visier").innerHTML = visier.length ? visier.map(function (e) {
+    if (S.tafel && $("#visier")) {
+      var zeilen = visier.map(function (e) {
+        var d0 = dt(e.start < S.heute ? S.heute : e.start);
+        return { d: laeuft(e) ? "läuft" : pad(d0.getDate()) + "." + pad(d0.getMonth() + 1), n: kurzname(e), p: e.prioritaet,
+          label: kurzname(e) + ", " + relativ(e) + ", " + (e.online ? "online" : e.ort) + ", Priorität " + e.prioritaet,
+          attr: { "data-oeffne": e.id, "data-kontext": "held" } };
+      });
+      if (!zeilen.length) zeilen = [{ d: "", n: "Keine Termine", p: "", label: "Keine Termine in dieser Auswahl" }];
+      S.tafel.zeige(zeilen);
+    } else $("#visier").innerHTML = visier.length ? visier.map(function (e) {
       var d0 = dt(e.start < S.heute ? S.heute : e.start);
       return '<li><button type="button" data-oeffne="' + esc(e.id) + '" data-kontext="held"><span class="v-datum' + (laeuft(e) ? " live" : "") + '"><b>' + d0.getDate() + "</b>" + MON_KURZ[d0.getMonth()] + "</span>" +
         '<span><span class="v-name">' + esc(e.name) + '</span><span class="v-ort">' + esc(relativ(e)) + " · " + esc(e.online ? "Online" : e.ort) + (entfernung(e) && !e.online && entfernung(e) !== "in Regensburg" ? ", " + esc(entfernung(e)) : "") + "</span></span>" +
         schild(e.prioritaet, e.gesamt) + "</button></li>";
     }).join("") : '<li class="v-leer">Keine Termine in dieser Auswahl.</li>';
-    $$("#visier button").forEach(function (b) {
+    if (!S.tafel) $$("#visier button").forEach(function (b) {
       var id = b.getAttribute("data-oeffne");
       b.addEventListener("mouseenter", function () { S.heldRadar.fokus(id); });
       b.addEventListener("mouseleave", function () { S.heldRadar.fokus(null); });
@@ -956,13 +987,22 @@
       '<button type="button" class="pop-eintrag" data-dl="druck" data-quelle="' + quelle + '">' + I.druck + "<span><b>Drucken</b><small>Übersicht als Liste</small></span></button></div></div>";
   }
 
+  /* Trefferzahl: rollt beim Filtern wie ein Zählwerk */
+  function anzahlSetzen(el, n, ein, mehr, gesamt) {
+    if (!el) return;
+    var z = $(".anz-n", el);
+    if (!z) { el.innerHTML = '<span class="anz-n"></span> <span class="anz-w"></span><small class="anz-von"></small>'; z = $(".anz-n", el); }
+    if (window.Bewegung) window.Bewegung.zahl(z, n); else z.textContent = n;
+    $(".anz-w", el).textContent = n === 1 ? ein : mehr;
+    var v = $(".anz-von", el); v.textContent = gesamt != null && n !== gesamt ? "von " + gesamt : ""; v.hidden = gesamt == null || n === gesamt;
+  }
   function aktualisiereListe(art, animiert) {
     var f = filterVon(art);
     var liste = filtere(umfang(art), f);
     S.liste = liste;
     var titel = art === "archiv" ? "Archiv" : "Termine – " + (f.rubrik ? (f.rubrik === "eu" ? "Europa" : RUBRIK[f.rubrik]) : "alle Rubriken");
     S.druck = { art: "events", liste: liste, titel: titel };
-    $("#anzahl").innerHTML = plural(liste.length, "Termin", "Termine") + (liste.length !== umfang(art).length ? "<small>von " + umfang(art).length + "</small>" : "");
+    anzahlSetzen($("#anzahl"), liste.length, "Termin", "Termine", umfang(art).length);
     var nf = aktiveFilter(f), npop = (f.kat ? 1 : 0) + (f.monat ? 1 : 0) + (f.merk ? 1 : 0) + (f.best ? 1 : 0);
     $("#filter-zahl").textContent = npop || "";
     $("#filter-zahl").hidden = !npop;
@@ -973,11 +1013,16 @@
     var mitSeite = f.ansicht === "liste" && liste.length > 0;
     $(".liste-layout").classList.toggle("mit-seite", mitSeite);
     if (mitSeite) seitenKalender($("#seiten-spalte"), liste, art); else $("#seiten-spalte").innerHTML = "";
+    if (S.leit) S.leit.neu(null);
     if (f.ansicht === "zeitstrahl") return zeitstrahl(ziel, liste, { monate: 18 });
     if (f.ansicht === "kalender") return kalender(ziel, liste, art);
     if (f.ansicht === "radar") return radarAnsicht(ziel, liste);
     var neuZeichnen = function () { ziel.innerHTML = listeHtml(liste, art, f); };
     if (animiert) flip(ziel, neuZeichnen); else neuZeichnen();
+    if (window.Bewegung) {
+      if (!S.leit) S.leit = new window.Bewegung.Leitlinie({ gruppe: ".tag-gruppe", zahl: ".td-tag", kopf: .42 });
+      S.leit.neu(ziel);
+    }
   }
 
   /* Seitenspalte: kleiner Monatskalender – Punkte zeigen Tage mit Terminen, Antippen springt zum Tag in der Liste */
@@ -1120,6 +1165,7 @@
 
   /* Sanftes Umsortieren beim Filtern (FLIP) */
   function flip(container, aendern) {
+    if (window.Bewegung) return window.Bewegung.flip(container, "data-id", aendern);
     if (reduziert.matches || !Element.prototype.animate) { aendern(); return; }
     var vorher = {};
     $$("[data-id]", container).forEach(function (el) { vorher[el.getAttribute("data-id")] = el.getBoundingClientRect(); });
@@ -1275,7 +1321,7 @@
     S.suListe = l;
     S.druck = { art: "startups", liste: l, titel: "Start-ups" + (S.s.branche ? " – " + S.s.branche : "") + (S.s.region ? " – " + S.s.region : "") };
     var basis = suUmfang();
-    $("#s-anzahl").innerHTML = plural(l.length, "Start-up", "Start-ups") + (l.length !== basis.length ? "<small>von " + basis.length + "</small>" : "");
+    anzahlSetzen($("#s-anzahl"), l.length, "Start-up", "Start-ups", basis.length);
     var ids = {}; l.forEach(function (s) { ids[s.id] = true; });
     var m = "";
     for (var r = 5; r >= 1; r--) {
@@ -1397,7 +1443,7 @@
     var l = dealsGefiltert();
     S.dealListe = l;
     S.druck = { art: "runden", liste: l, titel: "Kapital – Deals" };
-    $("#d-anzahl").innerHTML = plural(l.length, "Deal", "Deals") + (l.length !== S.runden.length ? "<small>von " + S.runden.length + "</small>" : "");
+    anzahlSetzen($("#d-anzahl"), l.length, "Deal", "Deals", S.runden.length);
     var zeichne = function () { $("#d-liste").innerHTML = l.length ? l.map(dealZeile).join("") : '<li class="leer" style="border:0">Kein Deal passt zu den Filtern.</li>'; };
     if (animiert) flip($("#d-liste"), zeichne); else zeichne();
     var drin = {}; l.forEach(function (r) { drin[r.id] = true; });
@@ -1750,7 +1796,7 @@
     var s = iSammlung(), l = iGefiltert();
     S.iListe = l;
     S.druck = { art: "intern", liste: l, titel: s.titel };
-    $("#i-anzahl").innerHTML = plural(l.length, s.einzahl || "Eintrag", s.mehrzahl || "Einträge") + (l.length !== s.liste.length ? "<small>von " + s.liste.length + "</small>" : "");
+    anzahlSetzen($("#i-anzahl"), l.length, s.einzahl || "Eintrag", s.mehrzahl || "Einträge", s.liste.length);
     var zeichne = function () { $("#i-liste").innerHTML = l.length ? l.map(function (x) { return iZeile(s, x); }).join("") : '<li class="leer" style="border:0">Kein Eintrag passt zu den Filtern.</li>'; };
     if (animiert) flip($("#i-liste"), zeichne); else zeichne();
   }
@@ -1865,9 +1911,21 @@
   }
   function zeigeMerkZahl(pop) {
     var n = merk.size, el = $("#merk-zahl");
-    el.hidden = !n; el.textContent = n;
+    el.hidden = !n;
+    if (window.Bewegung) window.Bewegung.zahl(el, n, !pop); else el.textContent = n;
     $(".merk-link").classList.toggle("hat", n > 0);
-    if (pop && n) { el.classList.remove("pop"); void el.offsetWidth; el.classList.add("pop"); }
+    if (pop && n) {
+      if (window.Bewegung) window.Bewegung.stoss(el);
+      else { el.classList.remove("pop"); void el.offsetWidth; el.classList.add("pop"); }
+    }
+  }
+  /* Von wo der Termin in die Merkliste fliegt und wohin */
+  function merkQuelle(knopf) {
+    var k = knopf && (knopf.closest("[data-id]") || knopf.closest(".panel"));
+    return (k && $(".ev-bild, .su-band, .p-titelbild .p-motiv, .p-motiv", k)) || knopf;
+  }
+  function merkZiel() {
+    return $$(".merk-link, .unternav [data-nav=merkliste]").filter(function (x) { return x.offsetWidth > 0; })[0] || null;
   }
   function umschalteMerk(id, knopf) {
     var an = !merk.has(id);
@@ -1879,8 +1937,13 @@
       b.title = an ? "Von der Merkliste nehmen" : "Merken";
       b.setAttribute("aria-label", (an ? "Von der Merkliste nehmen: " : "Merken: ") + name);
     });
-    if (knopf && an && !reduziert.matches) { knopf.classList.remove("wackel"); void knopf.offsetWidth; knopf.classList.add("wackel"); }
-    zeigeMerkZahl(an);
+    if (knopf && an && !reduziert.matches && window.Bewegung) {
+      window.Bewegung.funken(knopf);
+      window.Bewegung.flug(merkQuelle(knopf), merkZiel(), function () { zeigeMerkZahl(true); });
+    } else {
+      if (knopf && an && !reduziert.matches) { knopf.classList.remove("wackel"); void knopf.offsetWidth; knopf.classList.add("wackel"); }
+      zeigeMerkZahl(an);
+    }
     toast(an ? "Auf der Merkliste: " + name : "Von der Merkliste genommen");
     if (S.route === "merkliste" && !$("#panel").open) zeigeMerkliste();
     else if ((S.route === "termine" && S.t.merk) || (S.route === "archiv" && S.a.merk)) aktualisiereListe(S.route, true);
@@ -1914,8 +1977,35 @@
     var zu = $("[data-panel-zu]", panelInhalt); if (zu && !richtung) zu.focus({ preventScroll: true });
   }
   var schliessToken = 0;
+  /* Karte wächst zur Detailansicht: Materialbild, Logo und Name wandern mit (View Transitions, sonst normales Einblenden) */
+  function morphTeile(wurzel, imPanel) {
+    if (!wurzel) return {};
+    if (imPanel) return { "bw-bild": $(".p-titelbild .p-motiv", wurzel) || $(".p-motiv", wurzel), "bw-titel": $("#panel-titel", wurzel), "bw-logo": $(".p-logo-zeile .logo", wurzel) };
+    return { "bw-bild": $(".ev-bild, .su-band", wurzel), "bw-titel": $(".ev-titel, .z-titel", wurzel), "bw-logo": $(".zeile-knopf > .logo", wurzel) };
+  }
+  function oeffneMitMorph(karte, typ, id, kontext) {
+    if (!window.Bewegung || panel.open || reduziert.matches || !document.startViewTransition) return oeffnePanel(typ, id, kontext);
+    panel.classList.add("bw-ohne");
+    S.panelMorph = window.Bewegung.morph(morphTeile(karte, false), function () {
+      oeffnePanel(typ, id, kontext);
+      $$(".p-inhalt > *:not(.p-titelbild):not(.p-motiv)", panelInhalt).slice(0, 8).forEach(function (x, n) {
+        window.Bewegung.anim(x, [{ opacity: 0, transform: "translateY(16px)" }, { opacity: 1, transform: "none" }], { duration: 480, delay: 140 + n * 45, easing: "cubic-bezier(.2, .7, .2, 1)", fill: "backwards" });
+      });
+    }, function () { return morphTeile(panelInhalt, true); });
+    if (!S.panelMorph) panel.classList.remove("bw-ohne");
+  }
+  function morphZurueck() {
+    if (!S.panelMorph || !S.panel || !window.Bewegung || !document.startViewTransition || reduziert.matches) return false;
+    var karte = $$("#ansicht [data-id]").filter(function (x) { return x.getAttribute("data-id") === S.panel.id; })[0];
+    var ziel = morphTeile(karte, false), quelle = morphTeile(panelInhalt, true);
+    var sicht = function (x) { if (!x) return false; var r = x.getBoundingClientRect(); return r.width > 0 && r.bottom > 0 && r.top < window.innerHeight; };
+    if (!sicht(ziel["bw-bild"]) || !sicht(quelle["bw-bild"])) return false;
+    S.panelMorph = false;
+    return window.Bewegung.morph(quelle, function () { if (panel.open) panel.close(); }, function () { return ziel; });
+  }
   function schliessePanel() {
     if (!panel.open || panel.classList.contains("schliesst")) return;
+    if (morphZurueck()) return;
     var token = ++schliessToken;
     var fertig = function () {
       if (token !== schliessToken) return;
@@ -1932,6 +2022,7 @@
   }
   panel.addEventListener("cancel", function (ev) { ev.preventDefault(); schliessePanel(); });
   panel.addEventListener("close", function () {
+    panel.classList.remove("bw-ohne"); S.panelMorph = false;
     document.documentElement.classList.remove("gesperrt");
     if (S.route === "merkliste") zeigeMerkliste();
     if (S.panelVorher && S.panelVorher.focus && document.contains(S.panelVorher)) S.panelVorher.focus({ preventScroll: true });
@@ -2257,15 +2348,17 @@
     }
     if (t.hasAttribute("data-oeffne")) {
       var id = t.getAttribute("data-oeffne"), k = t.getAttribute("data-kontext");
+      var karte = t.closest(".ev");
       var kontext = k === "held" ? heldListe().map(function (x) { return x.id; })
         : k === "liste" ? S.liste.map(function (x) { return x.id; })
         : k === "zs" ? $$("[data-kontext=zs]", t.closest(".zs")).map(function (x) { return x.getAttribute("data-oeffne"); }).sort(function (a, b) { return nachStart(findeEvent(a), findeEvent(b)); })
         : S.route === "merkliste" ? (S.merkEv || []).map(function (x) { return x.id; }) : null;
-      return oeffnePanel("event", id, kontext);
+      return karte ? oeffneMitMorph(karte, "event", id, kontext) : oeffnePanel("event", id, kontext);
     }
     if (t.hasAttribute("data-oeffne-su")) {
       var kont = S.route === "startups" ? S.suListe.map(function (x) { return x.id; }) : S.route === "merkliste" ? (S.merkSu || []).map(function (x) { return x.id; }) : S.startups.filter(function (s) { return s.quickwin; }).map(function (x) { return x.id; });
-      return oeffnePanel("su", t.getAttribute("data-oeffne-su"), kont);
+      var suKarte = t.closest(".su-zeile");
+      return suKarte ? oeffneMitMorph(suKarte, "su", t.getAttribute("data-oeffne-su"), kont) : oeffnePanel("su", t.getAttribute("data-oeffne-su"), kont);
     }
     if (t.hasAttribute("data-oeffne-deal")) {
       var dk = S.route === "kapital" && S.dealListe ? S.dealListe : S.runden;

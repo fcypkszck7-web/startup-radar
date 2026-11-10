@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:bim-weeks-bayern-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261201
 SUMMARY:[B] BIM Weeks Bayern 2026
@@ -36,134 +36,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:159th-sictic-investor-day-online-2026@startup-radar
-DTSTAMP:20261109T055452Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:[C] 159th SICTIC Investor Day online
-LOCATION:Online\, Online
-DESCRIPTION:Investorentag · Startupticker.ch – Events\nPriorität C (Ges
- amtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Gründung & Innovation
- \nWarum relevant: Online-Pitchtag eines Schweizer Business-Angel-Netzwerks
-  für Start-ups\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die 
- Veranstalterseite\nQuelle: https://www.startupticker.ch/index.php/en/event
- s/159th-sictic-investor-day-online\nRadar: https://fcypkszck7-web.github.i
- o/startup-radar/
-URL:https://www.startupticker.ch/index.php/en/events/159th-sictic-investor-
- day-online
-CATEGORIES:Sonstiges
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:159th SICTIC Investor Day online in 30 Tagen
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:159th SICTIC Investor Day online in 7 Tagen
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dslam-night-shift-stuttgart-2026@startup-radar
-DTSTAMP:20261109T055452Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:[C] DSLAM Night Shift Stuttgart
-LOCATION:Renitenztheater\, Stuttgart\, Baden-Württemberg
-DESCRIPTION:Vortragsabend · IT Region Stuttgart\nPriorität C (Gesamtscore
-  2\,4)\nTerminstatus: bestätigt\nBranchen: Software\, KI & Daten\nWarum r
- elevant: DSLAM: Kurzvorträge zu IT und Digitalisierung im Slam-Format\nEm
- pfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\n
- Quelle: https://it.region-stuttgart.de/termine/dslam-night-shift-stuttgart
- /\nRadar: https://fcypkszck7-web.github.io/startup-radar/
-URL:https://it.region-stuttgart.de/termine/dslam-night-shift-stuttgart/
-CATEGORIES:Vortrag & Webinar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:DSLAM Night Shift Stuttgart in 30 Tagen
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:DSLAM Night Shift Stuttgart in 7 Tagen
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:female-founders-edition-in-zurich-women-ai-how-to-lead-chang-2026@start
- up-radar
-DTSTAMP:20261109T055452Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:[C] Female Founders Edition in Zurich: Women & AI: How to Lead Chan
- ge & Build the Future
-LOCATION:Zürich\, Schweiz (Zürich)
-DESCRIPTION:Netzwerktreffen · Startupticker.ch – Events\nPriorität C (G
- esamtscore 2\,5)\nTerminstatus: bestätigt\nBranchen: Gründung & Innovati
- on\, Software\, KI & Daten\nWarum relevant: Female Founders: Frauen und KI
- \nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstaltersei
- te\nQuelle: https://www.startupticker.ch/index.php/en/events/female-founde
- rs-edition-in-zurich-women-ai-how-to-lead-change-build-the-future\nRadar: 
- https://fcypkszck7-web.github.io/startup-radar/
-URL:https://www.startupticker.ch/index.php/en/events/female-founders-editio
- n-in-zurich-women-ai-how-to-lead-change-build-the-future
-CATEGORIES:Netzwerk
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Female Founders Edition in Zurich: Women & AI: How to Lead Chan
- ge & Build the Future in 30 Tagen
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Female Founders Edition in Zurich: Women & AI: How to Lead Chan
- ge & Build the Future in 7 Tagen
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:female-founders-night-drei-gruenderinnen-drei-geschichten-be-2026@start
- up-radar
-DTSTAMP:20261109T055452Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:[C] Female Founders Night: Drei Gründerinnen\, drei Geschichten be
- im Start-up Talk in Göppingen
-LOCATION:Stuttgart\, Baden-Württemberg
-DESCRIPTION:Netzwerktreffen · Start-up-Region Stuttgart – Termine\nPrior
- ität C (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Gründung 
- & Innovation\nWarum relevant: Gründerinnen erzählen ihre Geschichte\nEmp
- fohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQ
- uelle: https://www.startup-region-stuttgart.de/termine/female-founders-nig
- ht-drei-gruenderinnen-drei-geschichten-beim-start-up-talk-in-goeppingen/\n
- Radar: https://fcypkszck7-web.github.io/startup-radar/
-URL:https://www.startup-region-stuttgart.de/termine/female-founders-night-d
- rei-gruenderinnen-drei-geschichten-beim-start-up-talk-in-goeppingen/
-CATEGORIES:Netzwerk
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Female Founders Night: Drei Gründerinnen\, drei Geschichten be
- im Start-up Talk in Göppingen in 30 Tagen
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Female Founders Night: Drei Gründerinnen\, drei Geschichten be
- im Start-up Talk in Göppingen in 7 Tagen
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:web-summit-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Web Summit 2026
@@ -191,41 +65,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:workshop-cybersecurity-als-schutzschild-der-ip-strategie-2026@startup-r
- adar
-DTSTAMP:20261109T055452Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:[C] Workshop: Cybersecurity als Schutzschild der IP-Strategie
-LOCATION:Das Gutbrod\, Stuttgart\, Baden-Württemberg
-DESCRIPTION:Workshop · Wirtschaftsförderung Region Stuttgart – Termine\
- nPriorität C (Gesamtscore 2\,7)\nTerminstatus: bestätigt\nBranchen: Soft
- ware\, KI & Daten\nWarum relevant: Schutz von Know-how und geistigem Eigen
- tum durch IT-Sicherheit\nEmpfohlene Rolle: Besuch\nAnmeldung: Anmeldung ü
- ber die Veranstalterseite\nQuelle: https://wrs.region-stuttgart.de/termine
- /workshop-cybersecurity-als-schutzschild-der-ip-strategie/\nRadar: https:/
- /fcypkszck7-web.github.io/startup-radar/
-URL:https://wrs.region-stuttgart.de/termine/workshop-cybersecurity-als-schu
- tzschild-der-ip-strategie/
-CATEGORIES:Workshop & Seminar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Workshop: Cybersecurity als Schutzschild der IP-Strategie in 30
-  Tagen
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Workshop: Cybersecurity als Schutzschild der IP-Strategie in 7 
- Tagen
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:dena-kongress-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261111
 SUMMARY:[B] dena Kongress 2026
@@ -255,70 +96,8 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kuwi-webinar-power-pitch-praesentationen-so-verkaufst-du-dei-2026@start
- up-radar
-DTSTAMP:20261109T055452Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:[C] kuwi.webinar "Power-Pitch-Präsentationen - So verkaufst Du Dei
- ne Ideen"
-LOCATION:Online\, Online
-DESCRIPTION:Webinar · Universität Passau – Veranstaltungen\nPriorität 
- C (Gesamtscore 2\,8)\nTerminstatus: bestätigt\nBranchen: Gründung & Inno
- vation\nWarum relevant: Pitch-Präsentationen überzeugend gestalten\nEmpf
- ohlene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQu
- elle: https://www.uni-passau.de/veranstaltungskalender/detail/event/kuwiwe
- binar-power-pitch-praesentationen-so-verkaufst-du-deine-ideen\nRadar: http
- s://fcypkszck7-web.github.io/startup-radar/
-URL:https://www.uni-passau.de/veranstaltungskalender/detail/event/kuwiwebin
- ar-power-pitch-praesentationen-so-verkaufst-du-deine-ideen
-CATEGORIES:Vortrag & Webinar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:kuwi.webinar "Power-Pitch-Präsentationen - So verkaufst Du Dei
- ne Ideen" in 30 Tagen
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:kuwi.webinar "Power-Pitch-Präsentationen - So verkaufst Du Dei
- ne Ideen" in 7 Tagen
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pv-magazine-webinar-mit-pvcase-2026@startup-radar
-DTSTAMP:20261109T055452Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:[C] pv magazine Webinar mit PVcase
-LOCATION:Online\, Online
-DESCRIPTION:Webinar · pv-magazine-webinare\nPriorität C (Gesamtscore 2\,8
- )\nTerminstatus: bestätigt\nBranchen: Energie & Solar\, Software\, KI & D
- aten\nWarum relevant: Planungssoftware für Photovoltaik-Projekte\nEmpfohl
- ene Rolle: Besuch\nAnmeldung: Anmeldung über die Veranstalterseite\nQuell
- e: https://www.pv-magazine.de/events/webinare/\nRadar: https://fcypkszck7-
- web.github.io/startup-radar/
-URL:https://www.pv-magazine.de/events/webinare/
-CATEGORIES:Vortrag & Webinar
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:pv magazine Webinar mit PVcase in 30 Tagen
-TRIGGER:-P30D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:pv magazine Webinar mit PVcase in 7 Tagen
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:10-jahre-tz-puls-gemeinsam-zukunft-produzieren-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[B] 10 Jahre TZ PULS – Gemeinsam Zukunft Produzieren
@@ -347,7 +126,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:16-maschinenbau-gipfel-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] 16. Maschinenbau-Gipfel
@@ -375,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-sovereignty-charting-switzerland-s-path-amid-us-and-chine-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[C] AI Sovereignty: Charting Switzerland’s Path Amid US and Chine
@@ -408,7 +187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:adhesives-bonding-expo-europe-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Adhesives & Bonding Expo Europe 2026 (Termin geschätzt)
@@ -438,7 +217,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:antragstraining-foerderprogramm-kmu-innovativ-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[C] Antragstraining Förderprogramm KMU-Innovativ
@@ -468,7 +247,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bimexpo-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] BIMEXPO 2026
@@ -497,7 +276,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:baubq-stammtisch-neu-gedacht-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[A] BauBQ – Stammtisch neu gedacht
@@ -527,7 +306,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:construtec-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] CONSTRUTEC 2026
@@ -555,7 +334,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:elmia-subcontractor-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Elmia Subcontractor 2026
@@ -585,7 +364,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:energy-decentral-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] EnergyDecentral 2026
@@ -614,7 +393,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:enlit-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Enlit Europe 2026
@@ -644,7 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:inspiration-talk-was-olympia-fuer-muenchen-in-gang-setzen-ka-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[C] Inspiration & Talk Was Olympia für München in Gang setzen kan
@@ -675,7 +454,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pitch-match-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[A] Pitch & Match 2026
@@ -710,7 +489,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:power-packaging-for-ai-data-centers-from-grid-to-core-2026@startup-rada
  r
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[C] Power Packaging for AI Data Centers from Grid to Core
@@ -742,7 +521,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:praxisworkshop-ai-fuer-unternehmen-ai4b-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[C] Praxisworkshop AI für Unternehmen (AI4B)
@@ -770,7 +549,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:semicon-europa-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] SEMICON Europa 2026
@@ -800,7 +579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stammtisch-karlsruhe-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[C] Stammtisch Karlsruhe
@@ -828,7 +607,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:veteco-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] VETECO 2026
@@ -857,7 +636,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-heizen-mit-der-sonne-solarthermie-pv-und-pvt-im-verg-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:[C] Webinar: Heizen mit der Sonne: Solarthermie\, PV und PVT im Ver
@@ -890,7 +669,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:courage-26-investing-in-sustainable-futures-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Courage’26 – Investing in Sustainable Futures
@@ -920,7 +699,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruenderseminar-im-landkreis-cham-teil-i-ii-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Gründerseminar im Landkreis Cham Teil I/II
@@ -950,7 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gruenderstammtisch-stuttgart-ein-zwangloses-treffen-fuer-gru-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Gründerstammtisch Stuttgart – Ein zwangloses Treffen für Gr
@@ -985,7 +764,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:krisenvorsorge-beim-stromausfall-alles-ueber-notstromaggrega-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Krisenvorsorge beim Stromausfall - Alles über Notstromaggregat
@@ -1018,7 +797,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:logistics-automation-madrid-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Logistics & Automation Madrid 2026
@@ -1046,7 +825,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:matchmaking-erlangen-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[B] Matchmaking: Mittelstand & Startups
@@ -1076,7 +855,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:praktische-anwendung-der-neuen-din-en-1090-schweissen-im-sta-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[B] Praktische Anwendung der neuen DIN EN 1090 (Schweißen im Stahl
@@ -1110,7 +889,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:softwarepark-impulse-neue-rollen-neue-regeln-softwareentwick-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Softwarepark Impulse – Neue Rollen\, neue Regeln: Softwareent
@@ -1143,7 +922,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-summit-finland-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Solarplaza Summit Finland 2026
@@ -1171,7 +950,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-im-handwerk-frag-uns-einfach-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Startup im Handwerk – frag uns einfach!
@@ -1201,7 +980,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:vortrag-bau-einfach-gemeinsam-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:[C] Vortrag „bau einfach – gemeinsam“
@@ -1229,7 +1008,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-trifft-mittelstand-bw-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[B] #StartupTrifftMittelstand 2026
@@ -1261,7 +1040,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:activate-pitch-fruehstueck-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] ACTIVATE Pitch Frühstück
@@ -1289,7 +1068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:business-leaders-evening-your-ai-your-data-under-your-roof-2026@startup
  -radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] BUSINESS LEADERS’ EVENING · Your AI\, your data\, under your
@@ -1322,7 +1101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bitkom-data-centre-summit-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Bitkom Data Centre Summit 2026
@@ -1350,7 +1129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ecosystem-event-engineering-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Ecosystem Event Engineering
@@ -1381,7 +1160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fachvortrag-auditor-in-fuer-iso-50001-managementsysteme-2026@startup-ra
  dar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Fachvortrag Auditor*in für ISO 50001 Managementsysteme
@@ -1414,7 +1193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gih-stammtisch-in-hude-netzwerktreffen-unter-energieberatern-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] GIH-Stammtisch in Hude – Netzwerktreffen unter Energieberater
@@ -1446,7 +1225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gw-thementag-haustueren-starkes-design-smarte-features-2026@startup-rad
  ar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] GW-Thementag Haustüren: Starkes Design\, smarte Features
@@ -1478,7 +1257,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruenderseminar-im-landkreis-cham-teil-ii-ii-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Gründerseminar im Landkreis Cham Teil II/II
@@ -1508,7 +1287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:handwerk-trifft-forschung-universitaet-der-bundeswehr-2026@startup-rada
  r
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Handwerk trifft Forschung: Universität der Bundeswehr
@@ -1542,7 +1321,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ki-praxiswerkstatt-1-mit-ki-wissen-sichern-know-how-erhalten-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] KI-Praxiswerkstatt #1: Mit KI Wissen sichern – Know-how erhal
@@ -1575,7 +1354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:online-stammtisch-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Online Stammtisch
@@ -1604,7 +1383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:online-stammtisch-mit-der-firma-oros-energy-batteriespeicher-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Online Stammtisch mit der Firma OROS ENERGY – Batteriespeiche
@@ -1635,7 +1414,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:opportunity-hunters-talks-2026-1112@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Opportunity Hunters Talks
@@ -1663,7 +1442,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:protect-the-edge-ip-strategy-for-startups-scaleups-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Protect the Edge: IP Strategy for Startups & Scaleups
@@ -1695,7 +1474,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:recovery-construction-forum-5-0-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Recovery Construction Forum 5.0
@@ -1723,7 +1502,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sensorik-vor-ort-fraunhofer-emft-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Sensorik vor Ort: Fraunhofer EMFT
@@ -1751,7 +1530,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sustainability-safari-mit-novaziun-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Sustainability Safari mit Novaziun
@@ -1782,7 +1561,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-energieberatung-im-baudenkmal-fachwissen-foerderung-2026@startu
  p-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[C] Webinar: Energieberatung im Baudenkmal - Fachwissen\, Förderun
@@ -1815,7 +1594,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:innovationstag-bauen-der-zukunft-berlin-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] Innovationstag „Bauen der Zukunft“ Berlin 2026
@@ -1848,7 +1627,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shestartup-frauen-gruenden-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] SheStartup - Frauen gründen
@@ -1877,7 +1656,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:starting-with-a-brigk-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] Starting with a brigk
@@ -1908,7 +1687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-am-freitag-carbon-management-strategien-fuer-eine-kl-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:[C] Webinar am Freitag - Carbon Management: Strategien für eine kl
@@ -1941,7 +1720,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deadline-basel-goes-circular-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:[C] Basel Goes Circular: Bewerbungsschluss
@@ -1970,7 +1749,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deadline-basel-goes-circular-2026-frist@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Frist: Basel Goes Circular: Bewerbungsschluss – Anmeldeschluss
@@ -1987,7 +1766,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:alfinah-anwendungsworkshop-regionaler-co2-zertifikatehandel-2026@startu
  p-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[C] AlFinaH Anwendungsworkshop: Regionaler CO2-Zertifikatehandel zw
@@ -2023,7 +1802,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:digital-days-wien-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Digital Days 2026
@@ -2052,7 +1831,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:innovation-coffee-hochschule-fuer-angewandte-wissenschaften-2026@startu
  p-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[C] Innovation Coffee Hochschule für angewandte Wissenschaften Cob
@@ -2086,7 +1865,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-night-weiden-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[C] Inspiration & StartUp Night 2026
@@ -2118,7 +1897,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:leg-reiner-wasserstoff-aus-guelle-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[C] LEG: Reiner Wasserstoff aus Gülle
@@ -2147,7 +1926,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e4s-translating-research-into-a-business-model-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] #E4s - Translating Research Into A Business Model
@@ -2177,7 +1956,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:axel-demo-day-2026-11@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[B] AXEL Energie-Accelerator: Demo Day #17
@@ -2209,7 +1988,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bayerisch-schwaben-vernetzt-sich-neues-energieeffizienz-netz-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] Bayerisch-Schwaben vernetzt sich – Neues Energieeffizienz-Net
@@ -2244,7 +2023,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cybersecurity-region-stuttgart-meetup-meets-ki-summit-stuttg-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] Cybersecurity Region Stuttgart Meetup meets KI Summit Stuttgart
@@ -2277,7 +2056,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:formnext-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
 SUMMARY:[C] Formnext 2026
@@ -2306,7 +2085,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:geschaeftsmodelle-zukunftsfit-gestalten-wien-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] Geschäftsmodelle zukunftsfit gestalten
@@ -2335,7 +2114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:it-sicherheit-im-handwerk-grundlagen-und-nuetzliche-tipps-2026@startup-
  radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] IT-Sicherheit im Handwerk: Grundlagen und nützliche Tipps
@@ -2367,7 +2146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kww-spezial-kleine-waermeplanung-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] KWW-Spezial: Die kleine Wärmeplanung
@@ -2396,7 +2175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:power-transmission-distribution-technology-expo-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261120
 SUMMARY:[C] Power Transmission & Distribution Technology Expo
@@ -2424,7 +2203,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:strascheg-ideen-award-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] Strascheg Ideen Award 2026
@@ -2452,7 +2231,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-energieberatung-moeglichst-rechtssicher-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] Webinar: Energieberatung – möglichst rechtssicher
@@ -2482,7 +2261,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:webinarreihe-foerdermittel-startup-und-gruendung-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] Webinarreihe #Fördermittel: Startup und Gründung
@@ -2512,7 +2291,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:workshop-fallstricke-im-steuerrecht-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] Workshop: Fallstricke im Steuerrecht
@@ -2542,7 +2321,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pv-magazine-webinar-mit-prolux-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[C] pv magazine Webinar mit Prolux
@@ -2569,7 +2348,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:businessplan-so-gehst-du-richtig-vor-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Businessplan - So gehst du richtig vor
@@ -2599,7 +2378,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:businessplan-fuer-bank-und-gruendung-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Businessplan für Bank und Gründung
@@ -2629,7 +2408,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruendungstag-deggendorf-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[B] Deggendorfer Gründungstag mit Gründungspreis 2026
@@ -2659,7 +2438,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:digitale-sprechstunde-selbststaendigkeit-bauwesen-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Digitale Sprechstunde: Der Schritt in die Selbstständigkeit
@@ -2690,7 +2469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:grundlagen-zur-anwendung-der-neuen-maschinenverordnung-eu-20-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Grundlagen zur Anwendung der neuen Maschinenverordnung (EU) 202
@@ -2724,7 +2503,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hochschulgruendertag-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[B] Hochschulgründertag 2026
@@ -2756,7 +2535,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:klimafestival-bauwende-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:[B] Klimafestival für die Bauwende 2026
@@ -2785,7 +2564,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:prozesse-2-0-wie-ki-dein-team-upgradet-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Prozesse 2.0: Wie KI dein Team upgradet
@@ -2814,7 +2593,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slush-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:[B] Slush 2026
@@ -2843,7 +2622,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:the-power-of-the-female-economy-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] The Power of the Female Economy
@@ -2872,7 +2651,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-cybercrime-und-ki-angriff-und-verteidigung-teil-1-2026@startup-
  radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Webinar: Cybercrime und KI - Angriff und Verteidigung (Teil 1)
@@ -2906,7 +2685,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-das-all-in-one-system-huawei-luterra-s2-kompakt-inte-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Webinar: Das All-in-One-System Huawei Luterra S2 – kompakt\, 
@@ -2939,7 +2718,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zollseminar-fuer-einsteiger-und-auffrischer-teil-2-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[C] Zollseminar für Einsteiger und Auffrischer - Teil 2
@@ -2971,7 +2750,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bwp-schulung-einfuehrung-zur-nutzung-von-waermepumpen-in-lie-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] BWP-Schulung: Einführung zur Nutzung von Wärmepumpen in Liege
@@ -3002,7 +2781,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:get-nord-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261122
 SUMMARY:[C] GET Nord 2026
@@ -3031,7 +2810,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:it-sicherheit-im-handwerk-grundlagen-und-nuetzliche-tipps-2026-1119@sta
  rtup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[C] IT-Sicherheit im Handwerk: Grundlagen und nützliche Tipps
@@ -3064,7 +2843,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ki-praxiswerkstatt-2-mit-ki-arbeit-neu-gestalten-aufgaben-au-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[C] KI-Praxiswerkstatt #2: Mit KI Arbeit neu gestalten – Aufgaben
@@ -3099,7 +2878,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:opportunity-hunters-talks-2026-1119@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[C] Opportunity Hunters Talks
@@ -3127,7 +2906,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rehva-brussels-summit-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[C] REHVA Brussels Summit 2026
@@ -3156,7 +2935,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-seminar-bess-czechia-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[C] Solarplaza Seminar BESS Czechia 2026
@@ -3184,7 +2963,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:textiltreff-oberfranken-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[C] TextilTreff Oberfranken
@@ -3214,7 +2993,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:women-startup-award-2026-pitch-night@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[C] Women Startup Award 2026 – Pitch Night
@@ -3242,7 +3021,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruenderwerkstatt-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:[B] GründerWerkstatt
@@ -3272,7 +3051,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lets-get-visible-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:[C] Let's get visible
@@ -3299,7 +3078,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wie-komme-ich-auf-neue-und-kreative-ideen-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:[C] Wie komme ich auf neue und kreative Ideen?
@@ -3330,7 +3109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aerospace-materials-round-table-fuer-start-ups-und-mehr-2026@startup-ra
  dar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[C] Aerospace Materials Round Table für Start-ups und mehr
@@ -3363,7 +3142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kanada-besucht-die-techbase-innovations-und-kooperationspote-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[B] Kanada besucht die TechBase: Innovations- und Kooperationspoten
@@ -3398,7 +3177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tagung-kommunale-klimaanpassung-impulse-aus-der-praxis-2026@startup-rad
  ar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[C] Tagung Kommunale Klimaanpassung – Impulse aus der Praxis
@@ -3428,7 +3207,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:23-partnercircle-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[C] 23. PartnerCircle
@@ -3458,7 +3237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bim-world-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261126
 SUMMARY:[A] BIM World MUNICH 2026
@@ -3490,7 +3269,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:e-mobilitaet-in-handwerk-und-gewerbe-warum-sinnvoll-und-wie-2026@startu
  p-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[C] E-Mobilität in Handwerk und Gewerbe – warum sinnvoll und wie
@@ -3523,7 +3302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:future-battery-forum-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261126
 SUMMARY:[C] Future Battery Forum 2026
@@ -3552,7 +3331,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:genera-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] GENERA 2026
@@ -3582,7 +3361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hochhaeuser-vor-der-unbequemen-zukunftsfrage-was-ist-moeglic-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[C] Hochhäuser vor der unbequemen Zukunftsfrage: Was ist möglich 
@@ -3617,7 +3396,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kedi-convention-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[C] KEDi Convention 2026
@@ -3648,7 +3427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kick-off-workshop-serielle-sanierung-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[B] Kick-off-Workshop: Einstieg in die serielle Sanierung
@@ -3679,7 +3458,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:matelec-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] MATELEC 2026
@@ -3707,7 +3486,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:roof-expo-warschau-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] ROOF EXPO 2026 (mit FACADE EXPO)
@@ -3736,7 +3515,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sps-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] SPS – Smart Production Solutions 2026
@@ -3767,7 +3546,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-summit-norway-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[C] Solarplaza Summit Norway 2026
@@ -3796,7 +3575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:unternehmerreise-im-bereich-denkmalpflege-und-denkmalgerecht-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] Unternehmerreise im Bereich Denkmalpflege und denkmalgerechte S
@@ -3830,7 +3609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wanna-be-a-startup-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:[C] Wanna be a Startup
@@ -3857,7 +3636,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:materialflusskongress-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[B] 4. Bayerischer Materialflusskongress
@@ -3891,7 +3670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:beratersprechtag-in-regensburg-handwerksleistungen-in-der-sc-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[B] Beratersprechtag in Regensburg: Handwerksleistungen in der Schw
@@ -3925,7 +3704,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:jahrestagung-gebaeudeforum-klimaneutral-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[C] Jahrestagung des Gebäudeforums klimaneutral 2026
@@ -3954,7 +3733,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ki-schulungs-programm-fuer-esg-professionals-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[C] KI Schulungs­programm für ESG Professionals
@@ -3984,7 +3763,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lfa-finanzierungssprechtag-in-landshut-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[C] LfA-Finanzierungssprechtag in Landshut
@@ -4014,7 +3793,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:offshore-energy-exhibition-conference-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] Offshore Energy Exhibition & Conference 2026
@@ -4043,7 +3822,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-night-muenchen-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[B] Startup Demo Night München
@@ -4071,7 +3850,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:venturecon-muenchen-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[C] VentureCon München 2026
@@ -4099,7 +3878,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-schritt-fuer-schritt-zur-gruendung-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[C] Webinar: Schritt für Schritt zur Gründung
@@ -4129,7 +3908,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pv-fachtagung-at-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] Österreichische Fachtagung für Photovoltaik & Stromspeicherun
@@ -4163,7 +3942,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b2b-demoday-augsburg-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] B2B-DemoDay 2026 Augsburg
@@ -4192,7 +3971,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:city-demo-day-kreislaufwirtschaft-muenchen-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] City Demo Day: Start-ups und Stadtverwaltung für Kreislaufwirt
@@ -4224,7 +4003,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:future-forward-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] Future Forward 2026
@@ -4255,7 +4034,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:foerdermittel-fuer-produzierende-unternehmen-gezielt-angehen-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] Fördermittel für produzierende Unternehmen - gezielt angehen
@@ -4286,7 +4065,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:infoveranstaltung-bautechnischer-konstrukteur-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] Infoveranstaltung: Bautechnische/r Konstrukteur/in
@@ -4314,7 +4093,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:innovation-coffee-mit-neue-materialien-bayreuth-gmbh-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] Innovation Coffee mit Neue Materialien Bayreuth GmbH
@@ -4346,7 +4125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ki-praxiswerkstatt-3-mit-ki-erfolgreich-arbeiten-mitarbeiten-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] KI-Praxiswerkstatt #3: Mit KI erfolgreich arbeiten – Mitarbei
@@ -4381,7 +4160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-seminar-bess-ireland-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] Solarplaza Seminar BESS Ireland 2026
@@ -4408,7 +4187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-factory-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261129
 SUMMARY:[B] StartUP Factory Regensburg 2026
@@ -4441,7 +4220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-bodengleiche-duschen-in-neubau-und-sanierung-normger-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[C] Webinar: Bodengleiche Duschen in Neubau und Sanierung – normg
@@ -4474,7 +4253,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pv-magazine-webinar-mit-schweizer-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:[B] pv magazine Webinar mit Schweizer
@@ -4502,7 +4281,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b-impuls-produktionsskalierung-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[C] B³ Impuls - Produktionsskalierung
@@ -4533,7 +4312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stillgelegt-und-dann-neue-chancen-fuer-kraftwerksstandorte-u-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:[C] Stillgelegt – und dann? Neue Chancen für Kraftwerksstandorte
@@ -4567,7 +4346,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hi-tech-match-2026-11@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[B] Hi Tech! Match – internationale ConTech-Start-ups
@@ -4600,7 +4379,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tiefengeothermie-technologie-und-anwendung-in-der-praxis-2026@startup-r
  adar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[C] Tiefengeothermie - Technologie und Anwendung in der Praxis
@@ -4633,7 +4412,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:trinationaler-erfahrungsaustausch-die-zukunft-des-einfamilie-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261202
 SUMMARY:[C] Trinationaler Erfahrungsaustausch: Die Zukunft des Einfamilienh
@@ -4665,7 +4444,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bwp-schulung-beratung-zum-einsatz-von-waermepumpen-im-bestan-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261212
 SUMMARY:[C] BWP-Schulung: Beratung zum Einsatz von Wärmepumpen im Bestand
@@ -4696,7 +4475,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:co-transportinfrastrukturbedarf-in-bayern-vom-zielbild-zur-u-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[C] CO₂-Transportinfrastrukturbedarf in Bayern: Vom Zielbild zur 
@@ -4729,7 +4508,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fish-founders-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[C] FISH & FOUNDERS 2026
@@ -4757,7 +4536,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gluehwerk-gluehwein-meets-gruenderaustausch-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[C] GLÜHWERK –  Glühwein meets Gründeraustausch
@@ -4786,7 +4565,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:heat-pump-forum-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[C] Heat Pump Forum 2026
@@ -4815,7 +4594,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kamingespraech-transformation-im-dialog-energie-nachhaltigke-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[C] Kamingespräch Transformation. Im Dialog. Energie & Nachhaltigk
@@ -4848,7 +4627,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:konferenz-artenschutz-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[C] Konferenz Artenschutz 2026
@@ -4878,7 +4657,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:munich-impact-co-founder-matching-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:[C] Munich Impact Co-Founder Matching
@@ -4906,7 +4685,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:valve-world-expo-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] VALVE WORLD EXPO
@@ -4935,7 +4714,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:architect-at-work-frankfurt-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] ARCHITECT@WORK Frankfurt 2026
@@ -4965,7 +4744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cash-frage-geklaert-bootstrappen-oder-venture-capital-2026@startup-rada
  r
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:[C] Cash-Frage geklärt: Bootstrappen oder Venture Capital
@@ -4996,7 +4775,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:energiesprong-on-tour-heidenheim-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:[C] Energiesprong on tour: Heidenheim
@@ -5026,7 +4805,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gemeinsames-forschungskolloquium-der-fakultaeten-emi-und-mb-2026@startu
  p-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:[C] Gemeinsames Forschungskolloquium der Fakultäten EMI und MB/UT
@@ -5059,7 +4838,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kooperationsforum-bordnetze-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:[C] Kooperationsforum Bordnetze 2026
@@ -5089,7 +4868,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:online-seminar-ausbildung-wir-beantworten-ihre-fragen-2026@startup-rada
  r
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:[C] Online-Seminar: "Ausbildung - Wir beantworten Ihre Fragen"
@@ -5121,7 +4900,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:materials-next-2-dezember-2026-nuernberg-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:[B] materials.next 2. Dezember 2026 Nürnberg
@@ -5151,7 +4930,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sustainable-solutions-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] sustainable solutions
@@ -5182,7 +4961,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:from-data-strategy-to-adoption-building-trusted-foundations-2026@startu
  p-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] From Data Strategy to Adoption: Building Trusted Foundations fo
@@ -5216,7 +4995,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:innovation-coffee-sandler-ag-in-kooperation-mit-phoenix-non-2026@startu
  p-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] Innovation Coffee Sandler AG in Kooperation mit Phoenix Non Wov
@@ -5250,7 +5029,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:renewable-hydrogen-summit-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] Renewable Hydrogen Summit 2026
@@ -5279,7 +5058,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tk-praesenz-tutorial-wie-gehe-ich-waehrend-meines-pitches-so-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] TK Präsenz-Tutorial: Wie gehe ich während meines Pitches souv
@@ -5311,7 +5090,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:webinar-kommunale-waermeplanung-und-dann-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] Webinar: Kommunale Wärmeplanung … und dann?
@@ -5340,7 +5119,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-vdi-4646-grosswaermepumpen-sicher-planen-und-bewerte-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:[C] Webinar: VDI 4646 - Großwärmepumpen sicher planen und bewerte
@@ -5373,7 +5152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bwp-schulung-oberflaechengewaesser-als-waermequelle-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[C] BWP-Schulung: Oberflächengewässer als Wärmequelle
@@ -5402,7 +5181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruenderwettbewerb-nordhessen-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[C] Gründerwettbewerb Nordhessen
@@ -5432,7 +5211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:werksfruehstueck-community-breakfast-2026-1204@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:[C] WERKSFRÜHSTÜCK – Community Breakfast
@@ -5460,7 +5239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:schlussfeier-deutsche-meisterschaft-im-handwerk-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:[C] Schlussfeier Deutsche Meisterschaft im Handwerk
@@ -5490,7 +5269,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:helden-der-transformation-unternehmen-zeigen-wie-wandel-geli-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:[C] Helden der Transformation – Unternehmen zeigen\, wie Wandel g
@@ -5523,7 +5302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-summit-energy-storage-germany-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:[C] Solarplaza Summit Energy Storage Germany 2026
@@ -5552,7 +5331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:webinar-effizient-foerdern-richtig-beraten-die-neue-beg-im-u-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:[C] Webinar: Effizient fördern\, richtig beraten: Die neue BEG im 
@@ -5586,7 +5365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ki-meets-kmu-von-der-idee-zur-anwendung-mehrwert-durch-ki-in-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:[C] KI meets KMU - Von der Idee zur Anwendung - Mehrwert durch KI i
@@ -5619,7 +5398,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sv-on-tour-hannover-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:[C] SV on Tour: Hannover
@@ -5647,7 +5426,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-xmas-meets-community-punsch-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:[C] Startup Xmas meets Community Punsch
@@ -5674,7 +5453,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stolperfallen-bei-kauf-und-werkvertraegen-im-ausland-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:[C] Stolperfallen bei Kauf- und Werkverträgen im Ausland
@@ -5707,7 +5486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:expertenrunde-einrohr-heizung-und-waermepumpe-so-geht-s-2026@startup-ra
  dar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[C] Expertenrunde: Einrohr-Heizung und Wärmepumpe – so geht’s
@@ -5738,7 +5517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:holzfeuerung-im-wandel-was-schornsteinfeger-jetzt-wissen-mue-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[C] Holzfeuerung im Wandel – was Schornsteinfeger jetzt wissen m
@@ -5771,7 +5550,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ideenpitch-region-nuernberg-x-mas-edition-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[B] IdeenPitch Region Nürnberg: X-Mas Edition!
@@ -5800,7 +5579,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ki-com-summit-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[C] KI-Com Summit 2026
@@ -5829,7 +5608,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sensorik-vor-ort-gefasoft-laserschweissen-und-inline-oberfla-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[B] Sensorik vor Ort: GEFASOFT – Laserschweißen und Inline-Oberf
@@ -5862,7 +5641,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:textalks-forschung-kennenlernen-im-netzwerk-textile-innovati-2026@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[C] TexTalks - Forschung kennenlernen im Netzwerk Textile Innovatio
@@ -5896,7 +5675,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultimate-demo-day-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[A] Ultimate Demo Day 2026
@@ -5925,7 +5704,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b-impuls-spezial-batteriepass-teil-1-2026@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:[C] B³ Impuls Spezial – Batteriepass Teil 1
@@ -5955,7 +5734,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:businessplan-wettbewerb-2027-q-a-session-phase-1-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:[C] Businessplan Wettbewerb 2027 – Q&A-Session Phase 1
@@ -5985,7 +5764,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bau-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
 SUMMARY:[A] BAU 2027 – inkl. Future Lab & Start-up Area
@@ -6017,7 +5796,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dld-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270117
 SUMMARY:[C] DLD Munich 2027
@@ -6046,7 +5825,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sensorik-vor-ort-recendt-laser-ultraschall-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:[B] Sensorik vor Ort: RECENDT – Laser-Ultraschall
@@ -6074,7 +5853,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winterfest-der-niederbayerischen-gruenderzentren-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:[B] Winterfest der niederbayerischen Gründerzentren
@@ -6102,7 +5881,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hyvolution-paris-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270122
 SUMMARY:[C] Hyvolution Paris 2027 (Termin geschätzt)
@@ -6132,7 +5911,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:baumag-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270125
 SUMMARY:[C] BAUMAG 2027 (Termin geschätzt)
@@ -6164,7 +5943,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:grundlagen-zur-anwendung-der-neuen-maschinenverordnung-eu-20-2027@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:[C] Grundlagen zur Anwendung der neuen Maschinenverordnung (EU) 202
@@ -6198,7 +5977,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b-impuls-spezial-batteriepass-teil-2-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:[C] B³ Impuls Spezial – Batteriepass Teil 2
@@ -6229,7 +6008,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wie-fuehre-ich-meine-eigene-markt-und-wettbewerbsanalyse-dur-2027@start
  up-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:[C] Wie führe ich meine eigene Markt- und Wettbewerbsanalyse durch
@@ -6262,7 +6041,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:budma-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270130
 SUMMARY:[C] BUDMA 2027 (Termin geschätzt)
@@ -6292,7 +6071,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:klimahouse-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270131
 SUMMARY:[B] Klimahouse 2027 inkl. Future Hub
@@ -6322,7 +6101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:35-bayerischer-ingenieuretag-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:[B] 35. Bayerischer Ingenieuretag
@@ -6349,7 +6128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bouwbeurs-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270206
 SUMMARY:[C] Bouwbeurs 2027 (Termin geschätzt)
@@ -6380,7 +6159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:for-therm-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270214
 SUMMARY:[C] FOR THERM 2027 (Termin geschätzt)
@@ -6409,7 +6188,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:st-echy-solar-emeslo-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270214
 SUMMARY:[C] STŘECHY – SOLAR – ŘEMESLO 2027 (Termin geschätzt)
@@ -6438,7 +6217,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:batibouw-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270222
 SUMMARY:[C] Batibouw 2027
@@ -6469,7 +6248,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:r-t-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 SUMMARY:[B] R+T 2027 (Termin geschätzt)
@@ -6500,7 +6279,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e-world-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270219
 SUMMARY:[B] E-world energy & water 2027
@@ -6532,7 +6311,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:elektrotechnik-dortmund-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270219
 SUMMARY:[C] ELEKTROTECHNIK 2027 (Termin geschätzt)
@@ -6563,7 +6342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eurocis-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270219
 SUMMARY:[C] EuroCIS 2027 (Termin geschätzt)
@@ -6593,7 +6372,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:angel-akademie-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:[C] Angel-Akademie 2027
@@ -6622,7 +6401,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:industry-subcontratacion-bilbao-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270226
 SUMMARY:[C] +INDUSTRY / Subcontratación 2027 (Termin geschätzt)
@@ -6653,7 +6432,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:energiekongress-regensburg-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270225
 SUMMARY:[A] 8. Regensburger Energiekongress (Termin geschätzt)
@@ -6687,7 +6466,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fusionx-global-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270227
 SUMMARY:[C] FusionX:Global 2027
@@ -6715,7 +6494,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:packaging-innovations-empack-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270226
 SUMMARY:[C] Packaging Innovations & Empack 2027
@@ -6743,7 +6522,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tiger-winter-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:[B] Tiger der TechBase – Winter-Edition 2027 (Termin geschätzt)
@@ -6775,7 +6554,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tag-der-forschung-thd-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:[B] 14. Tag der Forschung der TH Deggendorf
@@ -6805,7 +6584,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:geotherm-expo-congress-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270227
 SUMMARY:[C] GeoTHERM expo & congress 2027
@@ -6833,7 +6612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:getec-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270301
 SUMMARY:[C] GETEC 2027
@@ -6862,7 +6641,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4yfn-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] 4YFN 2027 (parallel zum MWC)
@@ -6892,7 +6671,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cables-europe-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] Cables Europe 2027 (Termin geschätzt)
@@ -6922,7 +6701,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:energy-systems-expo-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] Energy Systems Expo 2027
@@ -6950,7 +6729,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:grindtec-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270306
 SUMMARY:[C] GrindTec 2027 (Termin geschätzt)
@@ -6981,7 +6760,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:jec-world-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] JEC World 2027 (Termin geschätzt)
@@ -7012,7 +6791,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wsed-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270306
 SUMMARY:[B] World Sustainable Energy Days & Energiesparmesse Wels 2027
@@ -7046,7 +6825,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:z-zuliefermesse-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270306
 SUMMARY:[C] Z – Die Zuliefermesse 2027 (Termin geschätzt)
@@ -7076,7 +6855,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eltefa-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] eltefa 2027
@@ -7104,7 +6883,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intec-z-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270306
 SUMMARY:[B] intec und Z 2027 (Termin geschätzt)
@@ -7135,7 +6914,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:energiesparmesse-wels-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270308
 SUMMARY:[B] Energiesparmesse Wels 2027
@@ -7164,7 +6943,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mecspe-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270306
 SUMMARY:[C] MECSPE 2027 (Termin geschätzt)
@@ -7195,7 +6974,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hy-fcell-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] hy-fcell 2027
@@ -7223,7 +7002,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:32-leipziger-fachseminar-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] 32. Leipziger Fachseminar
@@ -7252,7 +7031,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bauindustrie-meets-startups-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:[B] Bauindustrie meets Startups 2027 (Termin geschätzt)
@@ -7283,7 +7062,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:digital-real-estate-summit-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:[C] Digital Real Estate Summit 2027
@@ -7311,7 +7090,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pv-symposium-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270312
 SUMMARY:[B] 42. PV-Symposium
@@ -7339,7 +7118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ideenreich-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:[B] Prämierung Businessplan-Wettbewerb Ideenreich 2027
@@ -7368,7 +7147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:key-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270313
 SUMMARY:[B] KEY – The Energy Transition Expo 2027
@@ -7397,7 +7176,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:salz-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270312
 SUMMARY:[B] SALZ – Festival für Innovation und Technologie 2027 (Termin 
@@ -7431,7 +7210,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-summit-sweden-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:[C] Solarplaza Summit Sweden 2027
@@ -7458,7 +7237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zukunft-handwerk-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270312
 SUMMARY:[A] ZUKUNFT HANDWERK 2027 (parallel zur IHM)
@@ -7488,7 +7267,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:salon-bois-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270314
 SUMMARY:[C] Salon Bois 2027 (Termin geschätzt)
@@ -7518,7 +7297,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bauz-kongress-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270318
 SUMMARY:[C] BauZ! Kongress 2027
@@ -7547,7 +7326,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:global-industrie-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270319
 SUMMARY:[C] Global Industrie 2027 (Termin geschätzt)
@@ -7577,7 +7356,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ish-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:[B] ISH 2027 mit Startup@ISH
@@ -7609,7 +7388,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mipim-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:[C] MIPIM 2027
@@ -7639,7 +7418,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:logimat-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270319
 SUMMARY:[C] LogiMAT 2027 (Termin geschätzt)
@@ -7670,7 +7449,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-night-nuernberg-2027-03@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:[B] Nürnberger Startup Demo Night 2027 (Prämierung Phase 1 BPW No
@@ -7701,7 +7480,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rebuild-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270319
 SUMMARY:[C] REBUILD 2027
@@ -7731,7 +7510,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:seminar-von-der-idee-zum-produkt-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:[C] Seminar: Von der Idee zum Produkt
@@ -7761,7 +7540,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solar-solutions-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270319
 SUMMARY:[B] Solar Solutions International 2027 (Termin geschätzt)
@@ -7791,7 +7570,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xponential-europe-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270319
 SUMMARY:[C] XPONENTIAL Europe
@@ -7821,7 +7600,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:coiltech-deutschland-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:[C] Coiltech Deutschland 2027
@@ -7849,7 +7628,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intralogistex-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270319
 SUMMARY:[C] IntraLogisteX 2027
@@ -7877,7 +7656,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:renexpo-interhydro-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270319
 SUMMARY:[C] RENEXPO INTERHYDRO 2027 (Termin geschätzt)
@@ -7907,7 +7686,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-summit-energy-storage-spain-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:[C] Solarplaza Summit Energy Storage Spain 2027
@@ -7934,7 +7713,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:start-summit-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270320
 SUMMARY:[B] START Summit 2027
@@ -7963,7 +7742,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:start-summit-2027-frist@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Frist: START Summit 2027 – Frühbucherpreis für Tickets (First R
@@ -7980,7 +7759,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bausymposium-thd-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:[B] Deggendorfer Bau- und Umweltsymposium 2027 (Termin geschätzt)
@@ -8011,7 +7790,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bepositive-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270326
 SUMMARY:[C] BePOSITIVE 2027 (Termin geschätzt)
@@ -8042,7 +7821,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sitl-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270326
 SUMMARY:[C] SITL Europe 2027 (Termin geschätzt)
@@ -8073,7 +7852,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-summit-baltics-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:[C] Solarplaza Summit Baltics 2027
@@ -8100,7 +7879,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:advanced-factories-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270403
 SUMMARY:[C] Advanced Factories 2027 (Termin geschätzt)
@@ -8130,7 +7909,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:internationale-passivhaustagung-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270404
 SUMMARY:[C] Internationale Passivhaustagung 2027
@@ -8159,7 +7938,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hannover-messe-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
 SUMMARY:[B] Hannover Messe 2027
@@ -8191,7 +7970,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:siliconpv-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270410
 SUMMARY:[C] SiliconPV 2027 (Termin geschätzt)
@@ -8221,7 +8000,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:buildtech-week-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270408
 SUMMARY:[C] BuildTech Week 2027
@@ -8250,7 +8029,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stom-kielce-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270410
 SUMMARY:[C] STOM 2027 – Blech\, Laser\, Schweißen\, Oberflächen (Termin
@@ -8285,7 +8064,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:battery-business-development-forum-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:[C] Battery Business & Development Forum 2027
@@ -8315,7 +8094,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-summit-energy-storage-the-netherlands-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 SUMMARY:[C] Solarplaza Summit Energy Storage The Netherlands 2027
@@ -8345,7 +8124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zvo-seminar-grundlagen-der-galvano-und-oberflaechentechnik-2027@startup
  -radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270416
 SUMMARY:[C] ZVO-Seminar: Grundlagen der Galvano- und Oberflächentechnik
@@ -8377,7 +8156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:construction-summit-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270416
 SUMMARY:[B] Construction Summit & Proptech Summit 2027
@@ -8407,7 +8186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-factory-ndb-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270418
 SUMMARY:[C] StartUP Factory Niederbayern 2027 (Termin geschätzt)
@@ -8439,7 +8218,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:commercial-vehicle-show-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270423
 SUMMARY:[C] Commercial Vehicle Show 2027
@@ -8467,7 +8246,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urban-steel-expo-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270424
 SUMMARY:[B] Urban Steel Expo
@@ -8497,7 +8276,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fachforum-handwerk-beratung-und-planung-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270423
 SUMMARY:[C] Fachforum Handwerk\, Beratung und Planung
@@ -8525,7 +8304,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tektonica-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270425
 SUMMARY:[C] Tektónica 2027 (Termin geschätzt)
@@ -8557,7 +8336,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:von-der-projektidee-zur-umsetzung-crashkurs-agiles-arbeiten-2027@startu
  p-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:[C] Von der Projektidee zur Umsetzung - Crashkurs agiles Arbeiten
@@ -8589,7 +8368,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:changenow-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270429
 SUMMARY:[C] ChangeNOW 2027 (Termin geschätzt)
@@ -8619,7 +8398,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:transport-logistic-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270430
 SUMMARY:[C] transport logistic 2027
@@ -8648,7 +8427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cwieme-berlin-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270430
 SUMMARY:[C] CWIEME Berlin 2027
@@ -8678,7 +8457,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:european-coatings-show-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270430
 SUMMARY:[B] European Coatings Show 2027 (Termin geschätzt)
@@ -8709,7 +8488,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:24-norddeutscher-galvanotag-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
 SUMMARY:[C] 24. Norddeutscher Galvanotag
@@ -8739,7 +8518,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ligna-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:[C] LIGNA 2027 (Termin geschätzt)
@@ -8770,7 +8549,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:viennaup-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:[B] ViennaUP 2027 inkl. Connect Day
@@ -8802,7 +8581,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:38-control-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270515
 SUMMARY:[B] 38. Control
@@ -8830,7 +8609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ecosummit-berlin-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:[B] Ecosummit.AI Berlin 2027
@@ -8860,7 +8639,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:elfack-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270515
 SUMMARY:[C] Elfack 2027 (Termin geschätzt)
@@ -8891,7 +8670,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:futurebuild-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:[B] Futurebuild 2027
@@ -8920,7 +8699,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lamiera-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270515
 SUMMARY:[B] LAMIERA 2027
@@ -8950,7 +8729,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sensor-test-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:[B] SENSOR+TEST 2027
@@ -8979,7 +8758,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:smart-automation-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:[C] SMART Automation Austria 2027
@@ -9008,7 +8787,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:interzum-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270515
 SUMMARY:[C] interzum 2027
@@ -9036,7 +8815,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:48-ulmer-gespraech-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270514
 SUMMARY:[C] 48. Ulmer Gespräch
@@ -9066,7 +8845,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solar-storage-live-spain-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270514
 SUMMARY:[C] Solar & Storage Live Spain 2027 (Termin geschätzt)
@@ -9097,7 +8876,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:construmat-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270521
 SUMMARY:[C] Construmat 2027 (Termin geschätzt)
@@ -9130,7 +8909,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-hydrogen-summit-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270521
 SUMMARY:[C] World Hydrogen Summit & Exhibition 2027 (Termin geschätzt)
@@ -9161,7 +8940,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-days-bern-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:[C] Swiss Startup Days 2027 (Termin geschätzt)
@@ -9191,7 +8970,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:berliner-energietage-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270528
 SUMMARY:[C] Berliner ENERGIETAGE 2027 (Termin geschätzt)
@@ -9221,7 +9000,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sps-italia-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270528
 SUMMARY:[C] SPS Italia 2027 (Termin geschätzt)
@@ -9252,7 +9031,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-night-muenchen-2027-06@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 SUMMARY:[B] Startup Demo Night München 2027 (Prämierung Phase 2 Münchene
@@ -9283,7 +9062,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:london-tech-week-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270612
 SUMMARY:[C] London Tech Week 2027 (Termin geschätzt)
@@ -9312,7 +9091,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eusew-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270611
 SUMMARY:[C] EU Sustainable Energy Week 2027 (Termin geschätzt)
@@ -9344,7 +9123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intersolar-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270611
 SUMMARY:[A] Intersolar Europe / The smarter E Europe 2027
@@ -9374,7 +9153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intersolar-2027-frist@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Frist: Intersolar Europe / The smarter E Europe 2027 – Vortragsei
@@ -9392,7 +9171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sil-barcelona-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270612
 SUMMARY:[C] SIL Barcelona 2027 (Termin geschätzt)
@@ -9423,7 +9202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:entrepreneurship-day-passau-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
 SUMMARY:[C] Entrepreneurship Day (E'Day) 2027 der Universität Passau (Term
@@ -9458,7 +9237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:the-founder-bootcamp-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270613
 SUMMARY:[C] The Founder Bootcamp
@@ -9487,7 +9266,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intergalva-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
 SUMMARY:[B] Intergalva 2027
@@ -9516,7 +9295,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:vivatech-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270620
 SUMMARY:[B] VivaTech 2027
@@ -9545,7 +9324,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hinterland-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
 SUMMARY:[B] Hinterland of Things 2027 (Termin geschätzt)
@@ -9575,7 +9354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gifa-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270626
 SUMMARY:[C] GIFA
@@ -9604,7 +9383,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:metec-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270626
 SUMMARY:[C] METEC 2027 (Termin geschätzt)
@@ -9634,7 +9413,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thermprocess-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270626
 SUMMARY:[C] THERMPROCESS 2027 (Termin geschätzt)
@@ -9664,7 +9443,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:installer-show-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270625
 SUMMARY:[C] InstallerSHOW 2027 (Termin geschätzt)
@@ -9695,7 +9474,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tech-in-construction-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270625
 SUMMARY:[B] Tech in Construction 2027 (Termin geschätzt)
@@ -9726,7 +9505,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:automatica-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270626
 SUMMARY:[B] automatica 2027 (Termin geschätzt)
@@ -9756,7 +9535,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bdew-kongress-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270625
 SUMMARY:[C] BDEW Kongress 2027
@@ -9783,7 +9562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:denk-summit-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 SUMMARY:[B] DENK.summit 2027 (Termin geschätzt)
@@ -9814,7 +9593,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dcw-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270625
 SUMMARY:[C] Digital Construction Week 2027
@@ -9843,7 +9622,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fiec-conference-general-assembly-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
 SUMMARY:[C] FIEC Conference & General Assembly 2027
@@ -9873,7 +9652,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:groundbreakers-demo-day-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
 SUMMARY:[A] GROUNDBREAKERS Demo Day 2027 (Termin geschätzt)
@@ -9902,7 +9681,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-summit-france-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
 SUMMARY:[C] Solarplaza Summit France 2027
@@ -9929,7 +9708,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:isarc-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270702
 SUMMARY:[C] ISARC 2027 – Symposium Automation and Robotics in Constructio
@@ -9963,7 +9742,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deutscher-grosswaermepumpen-kongress-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270701
 SUMMARY:[C] Deutscher Großwärmepumpen-Kongress 2027
@@ -9991,7 +9770,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:innovationskongress-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:[A] 4. Regensburger Innovationskongress
@@ -10024,7 +9803,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solarplaza-summit-italy-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:[C] Solarplaza Summit Italy 2027
@@ -10051,7 +9830,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wearedevelopers-world-congress-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270717
 SUMMARY:[C] WeAreDevelopers World Congress 2027 (Termin geschätzt)
@@ -10081,7 +9860,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tiger-sommer-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:[B] Tiger der TechBase – Sommer-Edition 2027 (Termin geschätzt)
@@ -10113,7 +9892,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wie-nutze-ich-ki-um-schneller-auf-bessere-ideen-zu-kommen-2027@startup-
  radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270724
 SUMMARY:[C] Wie nutze ich KI\, um schneller auf bessere Ideen zu kommen?
@@ -10145,7 +9924,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sindex-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270903
 SUMMARY:[C] SINDEX 2027 (Termin geschätzt)
@@ -10177,7 +9956,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:itm-industry-europe-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270907
 DTEND;VALUE=DATE:20270910
 SUMMARY:[C] ITM Industry Europe 2027 (Termin geschätzt)
@@ -10208,7 +9987,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:husum-wind-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270918
 SUMMARY:[C] HUSUM WIND 2027 (Termin geschätzt)
@@ -10238,7 +10017,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:imhx-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270917
 SUMMARY:[C] IMHX 2027 (Termin geschätzt)
@@ -10269,7 +10048,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:chemical-recycling-europe-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270917
 SUMMARY:[C] Chemical Recycling Europe 2027 (Termin geschätzt)
@@ -10299,7 +10078,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:for-arch-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270919
 SUMMARY:[B] FOR ARCH 2027 (Termin geschätzt)
@@ -10330,7 +10109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b2b-matchday-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 SUMMARY:[A] B2B Matchday 2027 (Mittelstand & Start-ups) (Termin geschätzt)
@@ -10362,7 +10141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zvo-oberflaechentage-2027-berlin-hotel-moa-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
 SUMMARY:[C] ZVO-Oberflächentage 2027\, Berlin (Hotel MOA) (Termin geschät
@@ -10394,7 +10173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:efa-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270921
 DTEND;VALUE=DATE:20270924
 SUMMARY:[C] efa 2027
@@ -10422,7 +10201,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nufam-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270926
 SUMMARY:[C] NUFAM 2027 (Termin geschätzt)
@@ -10452,7 +10231,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bits-pretzels-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270927
 DTEND;VALUE=DATE:20270930
 SUMMARY:[B] Bits & Pretzels 2027
@@ -10481,7 +10260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:metal-expo-paris-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270928
 DTEND;VALUE=DATE:20271002
 SUMMARY:[C] Metal Expo 2027 (Termin geschätzt)
@@ -10512,7 +10291,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:by-cz-innovationstag-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20270930
 SUMMARY:[B] Bayerisch-Tschechischer Innovationstag 2027 (Termin geschätzt)
@@ -10544,7 +10323,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:emo-milano-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271009
 SUMMARY:[C] EMO Milano 2027
@@ -10575,7 +10354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:expo-real-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271007
 SUMMARY:[B] EXPO REAL 2027 mit Bereich Transform & Beyond
@@ -10607,7 +10386,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solid-konferenz-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271005
 DTEND;VALUE=DATE:20271006
 SUMMARY:[B] 12. Internationale SOLID Konferenz 2027
@@ -10636,7 +10415,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:msv-brno-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271005
 DTEND;VALUE=DATE:20271009
 SUMMARY:[C] MSV Brno 2027 – Internationale Maschinenbaumesse (Termin gesc
@@ -10667,7 +10446,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:parts2clean-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271005
 DTEND;VALUE=DATE:20271008
 SUMMARY:[B] parts2clean 2027 (Termin geschätzt)
@@ -10697,7 +10476,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:smart-country-convention-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271008
 SUMMARY:[C] Smart Country Convention
@@ -10727,7 +10506,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:31-fakuma-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271016
 SUMMARY:[C] 31. Fakuma
@@ -10755,7 +10534,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pollutec-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271016
 SUMMARY:[C] Pollutec 2027
@@ -10788,7 +10567,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-trifft-handwerk-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271013
 SUMMARY:[A] Startup trifft Handwerk 2027 (Termin geschätzt)
@@ -10820,7 +10599,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:austrian-innovation-forum-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271015
 SUMMARY:[C] 17. Austrian Innovation Forum
@@ -10848,7 +10627,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aircon-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271014
 SUMMARY:[B] AIR.CON 2027 (Termin geschätzt)
@@ -10882,7 +10661,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a-a-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271019
 DTEND;VALUE=DATE:20271023
 SUMMARY:[C] A+A
@@ -10912,7 +10691,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:artibat-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271023
 SUMMARY:[C] ArtiBat 2027 (Termin geschätzt)
@@ -10943,7 +10722,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:demo-night-nuernberg-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 SUMMARY:[B] Startup Demo Night Nürnberg 2027 (Termin geschätzt)
@@ -10972,7 +10751,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:saie-bari-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271024
 SUMMARY:[C] SAIE Bari 2027 (Termin geschätzt)
@@ -11003,7 +10782,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:oiw-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271029
 SUMMARY:[C] Oslo Innovation Week 2027 (Termin geschätzt)
@@ -11032,7 +10811,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:blechexpo-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271030
 SUMMARY:[B] Blechexpo / Schweisstec 2027
@@ -11061,7 +10840,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:off-grid-expo-conference-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271028
 SUMMARY:[C] OFF-GRID Expo + Conference 2027
@@ -11089,7 +10868,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:groundbreakers-summit-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:[A] GROUNDBREAKERS Summit 2027
@@ -11119,7 +10898,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruendernacht-landshut-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:[B] Landshuter Gründernacht 2027 mit Landshuter Gründerpreis (Ter
@@ -11154,7 +10933,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b2b-demoday-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:[A] Startup meets Mittelstand: B2B-DemoDay 2027 (Termin geschätzt)
@@ -11187,7 +10966,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ecomondo-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271102
 DTEND;VALUE=DATE:20271106
 SUMMARY:[C] Ecomondo 2027 (Termin geschätzt)
@@ -11217,7 +10996,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:smart-city-expo-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271102
 DTEND;VALUE=DATE:20271105
 SUMMARY:[C] Smart City Expo World Congress 2027 (Termin geschätzt)
@@ -11249,7 +11028,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:modular-build-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271104
 DTEND;VALUE=DATE:20271105
 SUMMARY:[C] Modular Build
@@ -11278,7 +11057,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271108
 DTEND;VALUE=DATE:20271112
 SUMMARY:[C] Web Summit 2027 (Termin geschätzt)
@@ -11307,7 +11086,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ssw-europe-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271116
 DTEND;VALUE=DATE:20271119
 SUMMARY:[C] Stainless Steel World Europe 2027 (Termin geschätzt)
@@ -11338,7 +11117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gruendungstag-deggendorf-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
 SUMMARY:[B] Deggendorfer Gründungstag mit Gründungspreis 2027 (Termin ges
@@ -11368,7 +11147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hochschulgruendertag-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271118
 SUMMARY:[B] Hochschulgründertag 2027 (Termin geschätzt)
@@ -11400,7 +11179,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:made-expo-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271121
 SUMMARY:[C] MADE expo 2027 (Termin geschätzt)
@@ -11430,7 +11209,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:slush-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271117
 DTEND;VALUE=DATE:20271119
 SUMMARY:[B] Slush 2027 (Termin geschätzt)
@@ -11459,7 +11238,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bim-world-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271123
 DTEND;VALUE=DATE:20271125
 SUMMARY:[A] BIM World MUNICH 2027 (Termin geschätzt)
@@ -11489,7 +11268,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sps-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271123
 DTEND;VALUE=DATE:20271126
 SUMMARY:[B] SPS – Smart Production Solutions 2027
@@ -11521,7 +11300,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-factory-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271128
 SUMMARY:[B] StartUP Factory Regensburg 2027 (Termin geschätzt)
@@ -11553,7 +11332,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultimate-demo-day-2027@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20271209
 DTEND;VALUE=DATE:20271210
 SUMMARY:[A] Ultimate Demo Day 2027 (Termin geschätzt)
@@ -11582,7 +11361,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:euroguss-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280121
 SUMMARY:[B] EUROGUSS 2028 (Termin geschätzt)
@@ -11613,7 +11392,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:swissbau-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280118
 DTEND;VALUE=DATE:20280122
 SUMMARY:[B] Swissbau 2028
@@ -11645,7 +11424,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:klimahouse-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280126
 DTEND;VALUE=DATE:20280130
 SUMMARY:[B] Klimahouse 2028 (Termin geschätzt)
@@ -11674,7 +11453,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:vsk-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280201
 DTEND;VALUE=DATE:20280205
 SUMMARY:[C] VSK 2028 (Termin geschätzt)
@@ -11705,7 +11484,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aqua-therm-praha-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280229
 DTEND;VALUE=DATE:20280304
 SUMMARY:[B] Aqua-Therm Praha 2028 (Termin geschätzt)
@@ -11736,7 +11515,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wsed-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280301
 DTEND;VALUE=DATE:20280304
 SUMMARY:[B] World Sustainable Energy Days & Energiesparmesse Wels 2028 (Ter
@@ -11770,7 +11549,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:light-building-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280305
 DTEND;VALUE=DATE:20280311
 SUMMARY:[B] Light + Building 2028
@@ -11802,7 +11581,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dach-holz-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280307
 DTEND;VALUE=DATE:20280311
 SUMMARY:[A] DACH+HOLZ International 2028
@@ -11834,7 +11613,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:faf-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280307
 DTEND;VALUE=DATE:20280311
 SUMMARY:[B] FAF – Farbe\, Ausbau & Fassade 2028 (Termin geschätzt)
@@ -11865,7 +11644,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:internationale-eisenwarenmesse-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280307
 DTEND;VALUE=DATE:20280311
 SUMMARY:[C] Internationale Eisenwarenmesse 2028
@@ -11893,7 +11672,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mce-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280307
 DTEND;VALUE=DATE:20280311
 SUMMARY:[C] MCE – Mostra Convegno Expocomfort 2028
@@ -11923,7 +11702,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zukunft-handwerk-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280308
 DTEND;VALUE=DATE:20280310
 SUMMARY:[A] ZUKUNFT HANDWERK 2028 (Termin geschätzt)
@@ -11953,7 +11732,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:esef-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280314
 DTEND;VALUE=DATE:20280318
 SUMMARY:[C] ESEF Maakindustrie 2028 (Termin geschätzt)
@@ -11984,7 +11763,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eurocoat-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280321
 DTEND;VALUE=DATE:20280324
 SUMMARY:[C] EUROCOAT 2028 (Termin geschätzt)
@@ -12015,7 +11794,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shk-essen-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280321
 DTEND;VALUE=DATE:20280325
 SUMMARY:[C] SHK Essen 2028
@@ -12043,7 +11822,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:holz-handwerk-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280328
 DTEND;VALUE=DATE:20280401
 SUMMARY:[C] HOLZ-HANDWERK 2028 (Termin geschätzt)
@@ -12073,7 +11852,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mach-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280403
 DTEND;VALUE=DATE:20280408
 SUMMARY:[C] MACH 2028 (Termin geschätzt)
@@ -12104,7 +11883,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tube-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280403
 DTEND;VALUE=DATE:20280408
 SUMMARY:[C] Tube
@@ -12134,7 +11913,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bauma-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280403
 DTEND;VALUE=DATE:20280410
 SUMMARY:[B] bauma 2028 mit Start-up Area
@@ -12164,7 +11943,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:digitalbau-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280424
 DTEND;VALUE=DATE:20280427
 SUMMARY:[B] digitalBAU 2028
@@ -12194,7 +11973,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ifh-intherm-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280425
 DTEND;VALUE=DATE:20280429
 SUMMARY:[B] IFH/Intherm 2028
@@ -12222,7 +12001,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:intertool-schweissen-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280425
 DTEND;VALUE=DATE:20280429
 SUMMARY:[B] Intertool und Schweissen 2028 (Termin geschätzt)
@@ -12253,7 +12032,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nordbygg-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280425
 DTEND;VALUE=DATE:20280429
 SUMMARY:[C] Nordbygg 2028 (Termin geschätzt)
@@ -12284,7 +12063,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:paintexpo-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280425
 DTEND;VALUE=DATE:20280429
 SUMMARY:[C] PaintExpo 2028
@@ -12313,7 +12092,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:optatec-2028@startup-radar
-DTSTAMP:20261109T055452Z
+DTSTAMP:20261110T085203Z
 DTSTART;VALUE=DATE:20280509
 DTEND;VALUE=DATE:20280512
 SUMMARY:[C] Optatec 2028

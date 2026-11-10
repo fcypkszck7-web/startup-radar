@@ -1611,3 +1611,22 @@ main > * { position: relative; z-index: 1; }
 }
 :root[data-theme="dark"] .ev:hover, :root[data-theme="dark"] .kachel:hover { border-color: rgba(255,255,255,.16); }
 :root[data-theme="dark"] .leer { background: var(--flaeche); border-color: var(--linie); }
+
+/* ---------- Bewegung (assets/bewegung.css, bewegung.js) ---------- */
+/* Fallblatt im Seitenkopf der Übersicht */
+.visier-tafel .visier-kopf { margin-bottom: 12px; }
+.visier-tafel .visier-kopf h2 { display: flex; align-items: center; gap: 10px; color: #f3f0e6; }
+.vt-led { width: 8px; height: 8px; border-radius: 50%; background: var(--signal); box-shadow: 0 0 10px rgba(245, 184, 0, .9); }
+.visier-tafel .bw-tafel { --bw-zw: 17px; --bw-zh: 27px; --bw-zf: 19px; --bw-zg: 9px; }
+@media (max-width: 600px) { .visier-tafel .bw-tafel { --bw-zw: 14px; --bw-zh: 23px; --bw-zf: 16px; --bw-zg: 7px; } }
+/* Detailansicht wächst aus der Karte: eigenes Einschieben aus, solange der Übergang läuft */
+.panel.bw-ohne[open]:not(.schliesst), .panel.bw-ohne[open]:not(.schliesst)::backdrop { animation: none; }
+/* Zeitleiste füllt sich beim Scrollen, der aktuelle Tag rastet ein */
+.tag-gruppe::after { content: ""; position: absolute; left: 36px; top: 54px; bottom: -2px; width: 2px; margin-left: -.25px; border-radius: 2px; pointer-events: none;
+  background: linear-gradient(var(--signal), #ffd34d); transform-origin: 50% 0; transform: scaleY(var(--bw-ll, 0)); box-shadow: 0 0 10px rgba(245, 184, 0, .45); }
+.tag-gruppe.bw-ll-jetzt .tag-datum { border-color: rgba(245, 184, 0, .6); box-shadow: 0 0 0 3px rgba(245, 184, 0, .14), var(--e1); }
+.tag-gruppe.bw-ll-jetzt .td-tag { color: var(--signal); }
+:root[data-theme="light"] .tag-gruppe.bw-ll-jetzt .td-tag { color: var(--warn-text); }
+@media (max-width: 760px) { .tag-gruppe::after { left: 24px; } }
+.anzahl .anz-von[hidden] { display: none; }
+:root[data-theme="light"] { --bw-glanz: rgba(255, 255, 255, .6); }
