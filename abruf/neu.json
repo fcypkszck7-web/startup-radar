@@ -1,5 +1,306 @@
 [
  {
+  "titel": "Gastvortrag: „Interkulturelle Zusammenarbeit im europäischen Energiesektor am Beispiel der ENTSO-E“",
+  "start": "2026-11-11",
+  "ende": "2026-11-11",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/gastvortrag-interkulturelle-zusammenarbeit-im-europaeischen-energiesektor-am-beispiel-der-entso-e",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-11|uni-passau.de/veranstaltungskalender/detail/event/gastvortrag-interkulturelle-zusammenarbeit-im-europaeischen-energiesektor-am-beispiel-der-entso-e",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "KI konkret: So setzen regionale Betriebe KI ein!",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "ZD.BB | Danziger Str. 6 | 71034 Böblingen",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/ki-konkret-so-setzen-regionale-betriebe-ki-ein/",
+  "veranstalter": "",
+  "kurz": "Praxisbeispiele, Impulse und Networking",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-12|wrs.region-stuttgart.de/termine/ki-konkret-so-setzen-regionale-betriebe-ki-ein",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Wir basteln bunte Fenstersterne",
+  "start": "2026-11-14",
+  "ende": "2026-11-14",
+  "ort": "Stadtteilbücherei Candis, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/611071",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Dach & Gebäudehülle"
+  ],
+  "schluessel": "2026-11-14|regensburg.de/veranstaltungen/detail/611071",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Boosting Life Sciences Innovation with AI",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Campus Biotech, Ch. des Mines 9, 1202 Genève",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/boosting-life-sciences-innovation-with-ai",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-17|startupticker.ch/en/events/boosting-life-sciences-innovation-with-ai",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Brevets : Recherche en brevet",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Lausanne",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/brevets-recherche-en-brevet",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|startupticker.ch/en/events/brevets-recherche-en-brevet",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "From Start-Up to Scale-Up: IP, Partnership and the Entrepreneurial Journey",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "VISCHER, Schützengasse 1, 8001 Zürich",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/from-start-up-to-scale-up-ip-partnership-and-the-entrepreneurial-journey",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-17|startupticker.ch/en/events/from-start-up-to-scale-up-ip-partnership-and-the-entrepreneurial-journey",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "IP-Workshop: Designrecht – die heimliche Königin der Schutzrechte?",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-designrecht-die-heimliche-koenigin-der-schutzrechte-%284%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|startupticker.ch/index.php/en/events/ip-workshop-designrecht-die-heimliche-koenigin-der-schutzrechte-%284%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Infobites Existenzgründung: Bleib dran! Wie du deine Motivation findest… und behältst.",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Online",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/infobites-existenzgruendung-bleib-dran-wie-du-deine-motivation-findest-und-behaeltst/",
+  "veranstalter": "",
+  "kurz": "Sich selbstständig zu machen ist nur ein erster Schritt. Über Jahre motiviert und erfolgreich in der Selbständigkeit zu bleiben ist mindestens ein Lauf über die Mittelstrecke. Wie auch du die Selbständigkeit über die Lan",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-17|startup-region-stuttgart.de/termine/infobites-existenzgruendung-bleib-dran-wie-du-deine-motivation-findest-und-behaeltst",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Building the Future: Wood, Bioeconomy and the New Bauhaus (Brussels)",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://ectp.info/event/building-the-future-wood-bioeconomy-and-the-new-bauhaus-brussels/",
+  "veranstalter": "",
+  "kurz": "Registration link: https://www.eventbrite.fi/e/thinkforest-building-the-future-wood-bioeconomy-and-the-new-bauhaus-tickets-2003592730793     The European Forest Institute (EFI) facilitates the ThinkForest event series, a",
+  "methode": "ical",
+  "quelle_id": "ectp-events",
+  "quelle_name": "ECTP (European Construction, built environment and energy efficient building Technology Platform) – Events",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-19|ectp.info/event/building-the-future-wood-bioeconomy-and-the-new-bauhaus-brussels",
+  "quellen": [
+   "ectp-events"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Digitale Infrastrukturen für KI – Basis für die nächste Generation von KI",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.bayern-innovativ.de/events-termine/digitalisierung/detail/digitale-infrastrukturen-fuer-ki-basis-fuer-die-naechste-generation-von-ki/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "bayern-innovativ",
+  "quelle_name": "Bayern Innovativ – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Bau & Immobilien"
+  ],
+  "schluessel": "2026-11-19|bayern-innovativ.de/events-termine/digitalisierung/detail/digitale-infrastrukturen-fuer-ki-basis-fuer-die-naechste-generation-von-ki",
+  "quellen": [
+   "bayern-innovativ"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Schnittmuster - von Schutz und Berührung Isolde von Reusner & Franziska Lauber",
+  "start": "2026-11-21",
+  "ende": "2026-11-21",
+  "ort": "Sigismundkapelle im Thon-Dittmer-Palais, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619482",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-21|regensburg.de/veranstaltungen/detail/619482",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Zamp Wimmer: EINS NULL NULL EINS / Tausend + eine Nacht",
+  "start": "2026-11-21",
+  "ende": "2026-11-21",
+  "ort": "artspace Erdel, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619857",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-21|regensburg.de/veranstaltungen/detail/619857",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Produkt-FMEA als Werkzeug für robuste Batteriesysteme – proaktive Risikoerkennung in der Transformation",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -52,6 +353,86 @@
   "entscheidung": ""
  },
  {
+  "titel": "TecNet Connected Car",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "AI xpress, 71032 Böblingen",
+  "land": "",
+  "online": false,
+  "url": "https://it.region-stuttgart.de/termine/tecnet-connected-car-3/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "Das TecNet ConnectedCar bringt am 25. November Akteur*innen der Automobilindustrie in der Region Stuttgart zusammen, um sich über aktuelle Entwicklungen und Innovationen rund um automatisiertes Fahren und vernetzte Fahrz",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Industrie & Fertigung",
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-25|it.region-stuttgart.de/termine/tecnet-connected-car-3",
+  "quellen": [
+   "it-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Hackathon",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/hackathon",
+  "veranstalter": "",
+  "kurz": "Hackathon",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-27|haw-landshut.de/veranstaltungen/termin/hackathon",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Kemnather Gründungsnacht",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "ort": "Kemnath",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/kemnather-gruendungsnacht/",
+  "veranstalter": "",
+  "kurz": "Die Kemnather Gründungsnacht feiert Premiere. Mit diesem neuen Veranstaltungsformat schafft der Campus Kemnath eine Bühne für Innovation, Unternehmertum und zukunftsweisende Ideen. Zugleich ist die Kemnather Gründungsnac",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-aw",
+  "quelle_name": "OTH Amberg-Weiden – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-27|oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/kemnather-gruendungsnacht",
+  "quellen": [
+   "oth-aw"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Landshut Leadership Kolloquium",
   "start": "2026-11-27",
   "ende": "2026-11-27",
@@ -72,6 +453,80 @@
    "hs-landshut"
   ],
   "zuerst_gesehen": "2026-11-08",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Workshop „How to Find Your Research Topic“",
+  "start": "2026-11-30",
+  "ende": "2026-11-30",
+  "ort": "rkshop „How to Find Your Research Topic“",
+  "land": "",
+  "online": true,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/workshop-how-to-find-your-research-topic",
+  "veranstalter": "",
+  "kurz": "Am 30. November 2026 von 17:30 bis 18:30 Uhr bietet das Strascheg Center for Entrepreneurship online einen einstündigen, kostenlosen Workshop „How to Find Your Research Topic“ an. Melden Sie sich an!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-30|haw-landshut.de/veranstaltungen/termin/workshop-how-to-find-your-research-topic",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Fuels of the Future",
+  "start": "2027-01-19",
+  "ende": "2027-01-19",
+  "ort": "CityCube Berlin",
+  "land": "",
+  "online": false,
+  "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fuels-of-the-future-2027",
+  "veranstalter": "",
+  "kurz": "24th International Conference on Renewable Mobility",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-berlin",
+  "quelle_name": "Messe Berlin – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-01-19|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fuels-of-the-future-2027",
+  "quellen": [
+   "messe-berlin"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Unser Dorf hat Zukunft",
+  "start": "2027-01-22",
+  "ende": "2027-01-22",
+  "ort": "CityCube Berlin",
+  "land": "",
+  "online": false,
+  "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/unser-dorf-hat-zukunft-2027",
+  "veranstalter": "",
+  "kurz": "Abschlussveranstaltung zum 28. Bundeswettbewerb „Unser Dorf hat Zukunft“",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-berlin",
+  "quelle_name": "Messe Berlin – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-01-22|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/unser-dorf-hat-zukunft-2027",
+  "quellen": [
+   "messe-berlin"
+  ],
+  "zuerst_gesehen": "2026-11-10",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -120,6 +575,57 @@
    "bayern-innovativ"
   ],
   "zuerst_gesehen": "2026-11-06",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Seminar: Vom Produkt zum Markt",
+  "start": "2027-04-06",
+  "ende": "2027-04-06",
+  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/6/4/2027/seminar-von-der-idee-zum-produkt-1",
+  "veranstalter": "",
+  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-06|digitale-oberpfalz.de/news-events/termine/detail/6/4/2027/seminar-von-der-idee-zum-produkt-1",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Solarplaza Summit | Romania",
+  "start": "2027-05-11",
+  "ende": "2027-05-11",
+  "ort": "Edition",
+  "land": "",
+  "online": true,
+  "url": "https://www.solarplaza.com/event/solarplaza-summit-romania/",
+  "veranstalter": "",
+  "kurz": "\n  \n    Looking for industry insights and exclusive content from expert speakers? Join our\n    upcoming\n    event Solarplaza Summit Romania! Get ahead of the curve and reconnect with the industry's top leaders. Don't mis",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "solarplaza-events",
+  "quelle_name": "Solarplaza – Konferenzen",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "schluessel": "2027-05-11|solarplaza.com/event/solarplaza-summit-romania",
+  "quellen": [
+   "solarplaza-events"
+  ],
+  "zuerst_gesehen": "2026-11-10",
   "erfasst_als": null,
   "entscheidung": ""
  },
