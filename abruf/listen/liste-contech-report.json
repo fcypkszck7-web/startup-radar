@@ -2,15 +2,12 @@
  "quelle": "liste-contech-report",
  "name": "starting-up.de – ConTech-Start-up-Report 2026",
  "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
- "abgerufen": "2026-11-10",
+ "abgerufen": "2026-11-11",
  "koepfe": [
   "Highlights des Jahres",
   "Zum Newsletter per QR-Code",
   "Frage des Monats",
-  "22.06.2026",
-  "Drei klassische Fehler begünstigen den Wildwuchs",
-  "To-Dos für Gründer*innen: So gelingt der strukturierte Rollout",
-  "Fazit"
+  "22.06.2026"
  ],
  "links": [
   {
@@ -137,11 +134,6 @@
    "text": "SportTech-Start-up-Report 2026",
    "url": "https://www.starting-up.de/geschaeftsideen/trends/sporttech-start-up-report-2026.html",
    "extern": false
-  },
-  {
-   "text": "dena Energiewende-Kongress 2026, Berlin",
-   "url": "https://www.dena.de/dena-energiewende-kongress/",
-   "extern": true
   },
   {
    "text": "Web Summit Lissabon 2026",
@@ -304,23 +296,8 @@
    "extern": false
   },
   {
-   "text": "Brandenburg Labs",
-   "url": "https://brandenburg-labs.com/",
-   "extern": true
-  },
-  {
-   "text": "Prof. Dr.-Ing. Karlheinz Brandenburg",
-   "url": "https://de.wikipedia.org/wiki/Karlheinz_Brandenburg",
-   "extern": true
-  },
-  {
-   "text": "Bundesagentur für Sprunginnovationen (SPRIND)",
-   "url": "https://www.sprind.org/",
-   "extern": true
-  },
-  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/prof-karlheinz-brandenburg-vom-mp3-triumph-zur-audio-ar.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/richtigstellung.html",
    "extern": false
   },
   {
@@ -344,53 +321,28 @@
    "extern": false
   },
   {
-   "text": "BobDaHacker",
-   "url": "https://bobdahacker.com/blog/tldv-hack",
-   "extern": true
-  },
-  {
-   "text": "Neurawork",
-   "url": "https://www.google.com/search?q=https://neurawork.de/",
-   "extern": true
-  },
-  {
-   "text": "Gartner",
-   "url": "https://www.gartner.com/en/information-technology",
-   "extern": true
-  },
-  {
-   "text": "IBM Cost of a Data Breach Report",
-   "url": "https://www.ibm.com/reports/data-breach",
-   "extern": true
-  },
-  {
-   "text": "EU AI Act",
-   "url": "https://artificialintelligenceact.eu/de/das-gesetz/",
+   "text": "Immoly",
+   "url": "https://immoly.ai/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/ki/shadow-ki-alarmstufe-rot-fuer-start-ups.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/immoly-ki-statt-aktenordner.html",
    "extern": false
   },
   {
-   "text": "spiceboys",
-   "url": "https://www.spiceboys.shop/",
-   "extern": true
-  },
-  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiceboys-chai-latte-vibes-statt-kaesefuss.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/in-orbit-economy-der-wahre-milliardenmarkt-im-all.html",
    "extern": false
   },
   {
-   "text": "Elvio Robotics",
-   "url": "https://www.elviorobotics.com/",
+   "text": "Karevo",
+   "url": "https://www.karevo.de/de",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/elvio-robotics-roboter-gegen-den-deutschen-klinik-kollaps.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/karevo-der-125000-euro-befreiungsschlag-von-der-knochenarbeit.html",
    "extern": false
   },
   {
@@ -409,18 +361,13 @@
    "extern": false
   },
   {
-   "text": "LYBS",
-   "url": "https://lybs.eu/",
-   "extern": true
-  },
-  {
-   "text": "Sonica",
-   "url": "https://www.sonica.studio/",
+   "text": "Helmit",
+   "url": "https://www.helmit.org/de",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/sonica-ki-sound-ohne-abmahnrisiko.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/helmit-der-digitale-schutzschild-gegen-cybermobbing.html",
    "extern": false
   },
   {
@@ -479,28 +426,28 @@
    "extern": false
   },
   {
-   "text": "TenderWalls",
-   "url": "https://tenderwalls.de/",
+   "text": "exist women",
+   "url": "https://exist.de/programm/women/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/tenderwalls-bootstrapping-im-tapeten-dschungel.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/drik-17-smartes-gadget-skalierbares-business.html",
    "extern": false
   },
   {
-   "text": "Pfandpirat",
-   "url": "https://pfandpirat.com/",
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/b2b-edtech-start-up-report.html",
+   "extern": false
+  },
+  {
+   "text": "CoTrainer",
+   "url": "https://www.cotrainer.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/pfandpirat-bootstrapping-auf-der-strasse.html",
-   "extern": false
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/savin-zinsen-statt-strom-schock.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/cotrainer-vom-ascheplatz-in-die-cloud.html",
    "extern": false
   },
   {

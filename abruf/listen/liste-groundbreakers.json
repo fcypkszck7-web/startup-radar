@@ -2,7 +2,7 @@
  "quelle": "liste-groundbreakers",
  "name": "GROUNDBREAKERS – Start-ups",
  "url": "https://groundbreakers.io/en",
- "abgerufen": "2026-11-10",
+ "abgerufen": "2026-11-11",
  "koepfe": [
   "What brings you here?",
   "From pitch deck to paying customer",
@@ -492,7 +492,7 @@
    "extern": false
   },
   {
-   "text": "+1 more events View All >",
+   "text": "+2 more events View All >",
    "url": "https://www.groundbreakers.io/en",
    "extern": false
   },
@@ -2210,6 +2210,11 @@
    "text": "Register Now >",
    "url": "https://wrs.region-stuttgart.de/termine/hi-tech-match-3-2-2/",
    "extern": true
+  },
+  {
+   "text": "More on the Hi Tech! Batch >",
+   "url": "https://www.groundbreakers.io/en",
+   "extern": false
   },
   {
    "text": "More on the Hi Tech! Batch >",

@@ -26,6 +26,29 @@
   "entscheidung": ""
  },
  {
+  "titel": "Dürnitz Night Call",
+  "start": "2026-11-12",
+  "ende": "1970-01-01",
+  "ort": "Landesmuseum Württemberg",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/duernitz-night-call-7-2-2/",
+  "veranstalter": "",
+  "kurz": "Dürnitz Night Call ist eine Kooperation zwischen dem Pop-Büro Region Stuttgart und dem Landesmuseum Württemberg und bringt frische DJ-Sets, Sonderführungen und Special Drinks in die altehrwürdigen Mauern des Alten Schlos",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-12|wrs.region-stuttgart.de/termine/duernitz-night-call-7-2-2",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "KI konkret: So setzen regionale Betriebe KI ein!",
   "start": "2026-11-12",
   "ende": "2026-11-12",
@@ -51,28 +74,251 @@
   "entscheidung": ""
  },
  {
-  "titel": "Wir basteln bunte Fenstersterne",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "Stadtteilbücherei Candis, Regensburg",
+  "titel": "Seminar: \"Geschichte des Nahostkonflikts und Formen des Antisemitismus\"",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "",
   "land": "",
   "online": false,
-  "url": "https://www.regensburg.de/veranstaltungen/detail/611071",
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/seminar-geschichte-des-nahostkonflikts-und-formen-des-antisemitismus",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "regensburg-wirtschaft",
-  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-12|uni-passau.de/veranstaltungskalender/detail/event/seminar-geschichte-des-nahostkonflikts-und-formen-des-antisemitismus",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Tutorial: Ausländische Beschäftigte im Startup – Was muss ich als Gründer beachten?",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "eu01web.zoom.us/webinar/register/WN_DF5GS5NFSHmahm_-nXYMgg",
+  "land": "",
+  "online": true,
+  "url": "https://www.techbase.de/news-termine/events-termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
+  "veranstalter": "",
+  "kurz": "Online, 13:30 - 14:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "techbase-events",
+  "quelle_name": "TechBase Regensburg – Veranstaltungen",
   "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [
-   "Dach & Gebäudehülle"
+   "Gründung & Innovation"
   ],
-  "schluessel": "2026-11-14|regensburg.de/veranstaltungen/detail/611071",
+  "schluessel": "2026-11-12|techbase.de/news-termine/events-termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
   "quellen": [
-   "regensburg-wirtschaft"
+   "techbase-events"
   ],
-  "zuerst_gesehen": "2026-11-10",
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Tutorial: Ausländische Beschäftigte im Startup – Was muss ich als Gründer beachten?",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "eu01web.zoom.us/webinar/register/WN_DF5GS5NFSHmahm_-nXYMgg",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
+  "veranstalter": "",
+  "kurz": "Online, 13:30 - 14:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-12|digitale-oberpfalz.de/news-events/termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: Terrains: Kritische Perspektiven und Methoden in Geographie, Anthropologie und Geschichte",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "H8",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/12-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-4",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-12|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/12-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-4",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Campusführung am Standort Prüfeninger Straße für alle Beschäftigten",
+  "start": "2026-11-13",
+  "ende": "2026-11-13",
+  "ort": "Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/campusfuehrung-am-standort-pruefeninger-strasse-fuer-alle-beschaeftigten",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-13|oth-regensburg.de/termine/detailansicht/campusfuehrung-am-standort-pruefeninger-strasse-fuer-alle-beschaeftigten",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "EXTERN Energieberater-Expertentreff njumi",
+  "start": "2026-11-13",
+  "ende": "2026-11-13",
+  "ort": "Handwerkskammer Dresden: njumii &#8211; Das Bildungszentrum des Handwerks, Am Lagerplatz 8, 01099 Dresden",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/extern-energieberater-expertentreff-njumi/",
+  "veranstalter": "",
+  "kurz": "Baugutachten - Prüftechnische Untersuchungen zur Ursachenklärung und Beweissicherung an Praxisbeispielen (Mirko Lehmann, Sachverständigenbüro Lehmann) Praxisbeispiel: Wie sich Prozesse in der […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Material & Kreislauf",
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-13|gih.de/veranstaltung/extern-energieberater-expertentreff-njumi",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Vertiefungsmodul Energieberatung Wohngebäude (WG – 40 UE)",
+  "start": "2026-11-13",
+  "ende": "2026-11-13",
+  "ort": "Online sowie Präsenz Parkhotel Laim, Zschokkestr. 55, 80686 München",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/vertiefungsmodul-energieberatung-wohngebaeude-wg-40-ue/",
+  "veranstalter": "",
+  "kurz": "Ihr Schlüssel zur Expertenliste! – Effizient vorbereitet für die Prüfung Wann brauchen Sie das Vertiefungsmodul Energieberatung Wohngebäude (WG)? Wenn Sie […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-13|gih.de/veranstaltung/vertiefungsmodul-energieberatung-wohngebaeude-wg-40-ue",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Präsenz-Infoveranstaltung zum berufsbegleitenden Bachelor Betriebswirtschaft (B.A.) inkl. Schnuppervorlesung",
+  "start": "2026-11-14",
+  "ende": "2026-11-14",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/praesenz-infoveranstaltung-zum-berufsbegleitenden-bachelor-betriebswirtschaft-inkl-schnuppervorlesung",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-14|oth-regensburg.de/termine/detailansicht/praesenz-infoveranstaltung-zum-berufsbegleitenden-bachelor-betriebswirtschaft-inkl-schnuppervorlesung",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Energieausweise nach GEG – Grundlagen, Vorgehen und typische Fehler",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "Online-Seminar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/energieausweise-nach-geg-%c2%84grundlagen-vorgehen-und-typische-fehler%c2%93-2/",
+  "veranstalter": "",
+  "kurz": "Energieausweise in der Praxis „Verstehen – Prüfung – Erstellung“ Der Nutzen im Überblick Das Seminar vermittelt den Teilnehmenden einen klaren, […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-16|gih.de/veranstaltung/energieausweise-nach-geg-%c2%84grundlagen-vorgehen-und-typische-fehler%c2%93-2",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Pyrolyse als Bestandteil der kommunalen Wärmeplanung",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "Das Gutbrod",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/pyrolyse-als-bestandteil-der-kommunalen-waermeplanung/",
+  "veranstalter": "",
+  "kurz": "Das Verfahren der Pyrolyse und seine vielfältigen Anwendungsmöglichkeiten finden bei der Energiegewinnung immer größeres Interesse. Erfahren Sie bei unserer Infoveranstaltung mehr über die Verfahrensweise der Pyrolyse se",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-16|wrs.region-stuttgart.de/termine/pyrolyse-als-bestandteil-der-kommunalen-waermeplanung",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-11",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -203,6 +449,306 @@
   "entscheidung": ""
  },
  {
+  "titel": "Introduction to Horizon Europe: Three Pillars, Diverse Funding Opportunities",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Via La Santa 1, 6900 Lugano - Viganello",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/introduction-to-horizon-europe-three-pillars-diverse-funding-opportunities",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|startupticker.ch/en/events/introduction-to-horizon-europe-three-pillars-diverse-funding-opportunities",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Klug gründen: Der 360°Leitfaden für dein Business, Compliance und Technologie",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/klug-gruenden-der-3600leitfaden-fuer-dein-business-compliance-und-technologie",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-17|startupticker.ch/index.php/en/events/klug-gruenden-der-3600leitfaden-fuer-dein-business-compliance-und-technologie",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Meet the expert - Unlock Non-Dilutive Funding for Your Innovation. Opportunities through Horizon Europe 2027",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "EPFL Campus, KNOVA, building J",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/meet-the-expert-unlock-non-dilutive-funding-for-your-innovation-opportunities-through-horizon-europe-2027",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-17|startupticker.ch/en/events/meet-the-expert-unlock-non-dilutive-funding-for-your-innovation-opportunities-through-horizon-europe-2027",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Moodle-Basis-Schulung \"Erste Schritte - Teil 2\" Termin 1",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/moodle-basis-schulung-erste-schritte-teil-2-termin-1",
+  "veranstalter": "",
+  "kurz": "Erste Schritte mit Moodle - Teil 2 - Moodle-Basis-Schulung für Dozierende und Mitarbeitende",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|haw-landshut.de/veranstaltungen/termin/moodle-basis-schulung-erste-schritte-teil-2-termin-1",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "The Superyacht Forum",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.rai.nl/agenda/thesuperyachtforum2027",
+  "veranstalter": "",
+  "kurz": "The Superyacht Forum brengt jaarlijks de wereldwijde superjachtindustrie samen voor inspirerende gesprekken, innovatieve inzichten en waardevolle netwerkmogelijkheden. Het forum geeft richting aan richting van de industr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-rai",
+  "quelle_name": "RAI Amsterdam – Agenda",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [
+   "Industrie & Fertigung"
+  ],
+  "schluessel": "2026-11-17|rai.nl/agenda/thesuperyachtforum2027",
+  "quellen": [
+   "messe-rai"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Vorbereitung zur Firmengründung",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Bahnhofstrasse 11, 7302 Landquart",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/vorbereitung-zur-firmengruendung-%2833%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-17|startupticker.ch/en/events/vorbereitung-zur-firmengruendung-%2833%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Ask the Expert: IPO Readiness Workshop",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "Zurich",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/ask-the-expert-ipo-readiness-workshop-%284%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-18|startupticker.ch/en/events/ask-the-expert-ipo-readiness-workshop-%284%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Dok.Info: Promovieren an der OTH Regensburg",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/dokinfo-promovieren-an-der-oth-regensburg",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-18|oth-regensburg.de/termine/detailansicht/dokinfo-promovieren-an-der-oth-regensburg",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "From Code To Conformity: Medical Device software Workshop",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "Biopôle, Lausanne",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/from-code-to-conformity-medical-device-software-workshop",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-18|startupticker.ch/en/events/from-code-to-conformity-medical-device-software-workshop",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Moodle-Basis-Schulung \"Erste Schritte - Teil 2\" Termin 2",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/moodle-basis-schulung-erste-schritte-teil-2-termin-1-2",
+  "veranstalter": "",
+  "kurz": "Erste Schritte mit Moodle - Teil 2 - Moodle-Basis-Schulung für Dozierende und Mitarbeitende",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-18|haw-landshut.de/veranstaltungen/termin/moodle-basis-schulung-erste-schritte-teil-2-termin-1-2",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Offene Sprechstunde Forschungsdatenmanagement",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "?",
+  "land": "",
+  "online": false,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-forschungsdatenmanagement-20261118",
+  "veranstalter": "",
+  "kurz": "Die offene Sprechstunde bietet die Möglichkeit, erste Fragen rund um das Forschungsdatenmanagement zu klären und sich über die Unterstützungsangebote der Hochschule zu informieren. Gemeinsam kann besprochen werden, welch",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-18|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-forschungsdatenmanagement-20261118",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Viertes MINT-Initiativen-Treffen OÖ – Fortschritt durch Vernetzung",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "Gunskirchen",
+  "land": "",
+  "online": false,
+  "url": "https://www.biz-up.at/veranstaltung/viertes-mint-initiativen-treffen-ooe-fortschritt-durch-vernetzung-18-11-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "business-upper-austria",
+  "quelle_name": "Business Upper Austria – Veranstaltungen",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-18|biz-up.at/veranstaltung/viertes-mint-initiativen-treffen-ooe-fortschritt-durch-vernetzung-18-11-2026",
+  "quellen": [
+   "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Building the Future: Wood, Bioeconomy and the New Bauhaus (Brussels)",
   "start": "2026-11-19",
   "ende": "2026-11-19",
@@ -253,37 +799,138 @@
   "entscheidung": ""
  },
  {
-  "titel": "Schnittmuster - von Schutz und Berührung Isolde von Reusner & Franziska Lauber",
-  "start": "2026-11-21",
-  "ende": "2026-11-21",
-  "ort": "Sigismundkapelle im Thon-Dittmer-Palais, Regensburg",
+  "titel": "Hybrid-Veranstaltung: \"Vorsicht Krise! Rechtliche Werkzeuge zur Vorbeugung\"",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "Hybrid: online via Microsoft Teams und in der Handwerkskammer für München und Oberbayern",
   "land": "",
   "online": false,
-  "url": "https://www.regensburg.de/veranstaltungen/detail/619482",
-  "veranstalter": "",
+  "url": "https://www.hwk-muenchen.de/termine/hybrid-veranstaltung-vorsicht-krise-rechtliche-werkzeuge-zur-vorbeugung-74,0,evedetail.html?eve=5161",
+  "veranstalter": "Rechtsberater der Handwerkskammer für München und Oberbayern",
   "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "regensburg-wirtschaft",
-  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|regensburg.de/veranstaltungen/detail/619482",
-  "quellen": [
-   "regensburg-wirtschaft"
+  "methode": "json-ld",
+  "quelle_id": "hwk-muenchen",
+  "quelle_name": "Handwerkskammer für München und Oberbayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Handwerk"
   ],
-  "zuerst_gesehen": "2026-11-10",
+  "schluessel": "2026-11-19|hwk-muenchen.de/termine/hybrid-veranstaltung-vorsicht-krise-rechtliche-werkzeuge-zur-vorbeugung-74,0,evedetail.html",
+  "quellen": [
+   "hwk-muenchen"
+  ],
+  "zuerst_gesehen": "2026-11-11",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Zamp Wimmer: EINS NULL NULL EINS / Tausend + eine Nacht",
-  "start": "2026-11-21",
-  "ende": "2026-11-21",
-  "ort": "artspace Erdel, Regensburg",
+  "titel": "„Gewalt gegen Frauen geht auch Männer etwas an“",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "rkshop-Flyer.pdf",
   "land": "",
   "online": false,
-  "url": "https://www.regensburg.de/veranstaltungen/detail/619857",
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/gewalt-gegen-frauen-geht-auch-maenner-etwas-an",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-19|oth-regensburg.de/termine/detailansicht/gewalt-gegen-frauen-geht-auch-maenner-etwas-an",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "CIRCULAR REPUBLIC Textilforum",
+  "start": "2026-11-23",
+  "ende": "2026-11-23",
+  "ort": "Munich Urban Colab, München",
+  "land": "",
+  "online": false,
+  "url": "https://www.unternehmertum.de/events/circular-repubic-textilforum",
+  "veranstalter": "UnternehmerTUM",
+  "kurz": "CIRCULAR REPUBLIC lädt euch zum jährlichen Textil-Forum ein. Die Erweiterte Herstellerverantwortung (Extended Producer Responsibility, EPR) kommt in…",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "unternehmertum",
+  "quelle_name": "UnternehmerTUM – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Material & Kreislauf"
+  ],
+  "schluessel": "2026-11-23|unternehmertum.de/events/circular-repubic-textilforum",
+  "quellen": [
+   "unternehmertum"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "10 Jahre berufsbegleitender Bachelor Soziale Arbeit",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "Raum D 001 , zentrales Hörsaalgebäude D , Galgenbergstraße 30, 93053 Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/10-jahre-berufsbegleitender-bachelor-soziale-arbeit",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-24|oth-regensburg.de/termine/detailansicht/10-jahre-berufsbegleitender-bachelor-soziale-arbeit",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoabend zum berufsbegleitenden Hochschulzertifikat Künstliche Intelligenz",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-kuenstliche-intelligenz",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-24|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-hochschulzertifikat-kuenstliche-intelligenz",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Buchclub Regensburg im AKUSO FORUM",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "AKUSO Regensburg, Regensburg",
+  "land": "",
+  "online": true,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/618737",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
@@ -292,11 +939,11 @@
   "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
   "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|regensburg.de/veranstaltungen/detail/619857",
+  "schluessel": "2026-11-25|regensburg.de/veranstaltungen/detail/618737",
   "quellen": [
    "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-10",
+  "zuerst_gesehen": "2026-11-11",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -457,28 +1104,152 @@
   "entscheidung": ""
  },
  {
-  "titel": "Workshop „How to Find Your Research Topic“",
+  "titel": "KI Roundtable",
   "start": "2026-11-30",
   "ende": "2026-11-30",
-  "ort": "rkshop „How to Find Your Research Topic“",
+  "ort": "Röhrer Weg 8",
   "land": "",
-  "online": true,
-  "url": "https://www.haw-landshut.de/veranstaltungen/termin/workshop-how-to-find-your-research-topic",
-  "veranstalter": "",
-  "kurz": "Am 30. November 2026 von 17:30 bis 18:30 Uhr bietet das Strascheg Center for Entrepreneurship online einen einstündigen, kostenlosen Workshop „How to Find Your Research Topic“ an. Melden Sie sich an!",
+  "online": false,
+  "url": "https://it.region-stuttgart.de/termine/ki-roundtable-dialog-und-austausch-fuer-fuehrungskraefte-und-geschaeftsfuehrer-in-der-region-boeblingen-11_26/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "Ein Event für Führungskräfte und Geschäftsführer*innen in der Region Böblingen",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "hs-landshut",
-  "quelle_name": "Hochschule Landshut – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-30|it.region-stuttgart.de/termine/ki-roundtable-dialog-und-austausch-fuer-fuehrungskraefte-und-geschaeftsfuehrer-in-der-region-boeblingen-11_26",
+  "quellen": [
+   "it-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "EIT Awards 2026",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.eit.europa.eu/news-events/events/eit-awards-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "eit-manufacturing-events",
+  "quelle_name": "EIT (alle Innovationsgemeinschaften) – Events",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-02|eit.europa.eu/news-events/events/eit-awards-2026",
+  "quellen": [
+   "eit-manufacturing-events"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Pitching Night Kapitalbrücke beider Basel",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "Basel, tba",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/en/events/pitching-night-kapitalbruecke-beider-basel",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
   "branchen_vorschlag": [
    "Gründung & Innovation"
   ],
-  "schluessel": "2026-11-30|haw-landshut.de/veranstaltungen/termin/workshop-how-to-find-your-research-topic",
+  "schluessel": "2026-12-02|startupticker.ch/en/events/pitching-night-kapitalbruecke-beider-basel",
   "quellen": [
-   "hs-landshut"
+   "startupticker"
   ],
-  "zuerst_gesehen": "2026-11-10",
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Tutorial: Finanzierung innovativer Unternehmen",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "eu01web.zoom.us/webinar/register/WN_78CUd16gTzm0LwOnmd2NCw",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
+  "veranstalter": "",
+  "kurz": "Online, 17:00 - 19:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-02|digitale-oberpfalz.de/news-events/termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "ECO Webinar: New Data, Insights and Trends from Europe's Construction Ecosystem",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://ectp.info/event/eco-webinar/",
+  "veranstalter": "",
+  "kurz": "The European Construction Observatory (ECO) is organising a webinar on 3 December 2026, from 10:00 to 11:30 CET, to present its latest publications, data and insights on developments across Europe’s construction ecosyste",
+  "methode": "ical",
+  "quelle_id": "ectp-events",
+  "quelle_name": "ECTP (European Construction, built environment and energy efficient building Technology Platform) – Events",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [
+   "Bau & Immobilien",
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-12-03|ectp.info/event/eco-webinar",
+  "quellen": [
+   "ectp-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: Ausstellung „human nature“",
+  "start": "2026-12-31",
+  "ende": "2026-12-31",
+  "ort": "Städtische Galerie im Leeren Beutel, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/12-11-2026_ausstellung-human-nature",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-31|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/12-11-2026_ausstellung-human-nature",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-11",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -531,6 +1302,55 @@
   "entscheidung": ""
  },
  {
+  "titel": "Créer son entreprise",
+  "start": "2027-02-13",
+  "ende": "2027-02-13",
+  "ort": "Colab Sàrl, Route de la Fonderie 2, 1700 Fribourg",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/creer-son-entreprise-%28109%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-02-13|startupticker.ch/en/events/creer-son-entreprise-%28109%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Auslandsgeschäft 360° - Das Handwerk Spezial",
+  "start": "2027-02-23",
+  "ende": "2027-02-23",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.hwkno.de/termine/auslandsgeschaeft-360-das-handwerk-spezial-76,0,evedetail.html?eve=1837",
+  "veranstalter": "Handwerkskammer Frankfurt-Rhein-Main, Handwerkskammer zu Leipzig",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwkno",
+  "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Handwerk"
+  ],
+  "schluessel": "2027-02-23|hwkno.de/termine/auslandsgeschaeft-360-das-handwerk-spezial-76,0,evedetail.html",
+  "quellen": [
+   "hwkno"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Fit für den EU-Markt: Produktsicherheit und CE-Kennzeichnung",
   "start": "2027-03-18",
   "ende": "2027-03-18",
@@ -575,30 +1395,6 @@
    "bayern-innovativ"
   ],
   "zuerst_gesehen": "2026-11-06",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Seminar: Vom Produkt zum Markt",
-  "start": "2027-04-06",
-  "ende": "2027-04-06",
-  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
-  "land": "",
-  "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/6/4/2027/seminar-von-der-idee-zum-produkt-1",
-  "veranstalter": "",
-  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-04-06|digitale-oberpfalz.de/news-events/termine/detail/6/4/2027/seminar-von-der-idee-zum-produkt-1",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-10",
   "erfasst_als": null,
   "entscheidung": ""
  },
