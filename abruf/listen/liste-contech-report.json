@@ -2,7 +2,7 @@
  "quelle": "liste-contech-report",
  "name": "starting-up.de – ConTech-Start-up-Report 2026",
  "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
- "abgerufen": "2026-11-11",
+ "abgerufen": "2026-11-12",
  "koepfe": [
   "Highlights des Jahres",
   "Zum Newsletter per QR-Code",
@@ -82,7 +82,7 @@
   },
   {
    "text": "Kontakt",
-   "url": "https://www.starting-up.de/media/mediadaten-online.html",
+   "url": "https://www.starting-up.de/media/ansprechpartnerinnen.html",
    "extern": false
   },
   {
@@ -296,6 +296,26 @@
    "extern": false
   },
   {
+   "text": "professionelle Universalreiniger",
+   "url": "https://www.sandoro.de/products/winterhalter-f-8500-universalreiniger",
+   "extern": true
+  },
+  {
+   "text": "HACCP-Konzept",
+   "url": "https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/01_Aufgaben/09_BELA/BELA_node.html",
+   "extern": true
+  },
+  {
+   "text": "Starttipps Gastronomie von StartingUp",
+   "url": "https://www.starting-up.de/gruenden/checklisten/starttipps-gastronomie.html",
+   "extern": false
+  },
+  {
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/ideen/gastronomie-und-tourismus/unsichtbar-aber-entscheidend-warum-hygiene-in-der-gastronomie-ueber-vertrauen-entscheidet.html",
+   "extern": false
+  },
+  {
    "text": "Weiterlesen",
    "url": "https://www.starting-up.de/geschaeftsideen/trends/richtigstellung.html",
    "extern": false
@@ -311,128 +331,83 @@
    "extern": false
   },
   {
-   "text": "digitalen",
-   "url": "https://www.leovegas.de/de-de/",
-   "extern": true
-  },
-  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/daniel-ek-und-die-spotify-story.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/travis-kalanick-und-die-uber-story.html",
    "extern": false
   },
   {
-   "text": "Immoly",
-   "url": "https://immoly.ai/",
+   "text": "Spark e-Fuels",
+   "url": "https://www.sparkefuels.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/immoly-ki-statt-aktenordner.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spark-e-fuels-vom-labor-pitch-zum-e-kerosin-hoffnungstraeger.html",
    "extern": false
   },
   {
+   "text": "spiceboys",
+   "url": "https://www.spiceboys.shop/",
+   "extern": true
+  },
+  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/in-orbit-economy-der-wahre-milliardenmarkt-im-all.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiceboys-chai-latte-vibes-statt-kaesefuss.html",
    "extern": false
   },
   {
-   "text": "Karevo",
-   "url": "https://www.karevo.de/de",
+   "text": "Elvio Robotics",
+   "url": "https://www.elviorobotics.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/karevo-der-125000-euro-befreiungsschlag-von-der-knochenarbeit.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/elvio-robotics-roboter-gegen-den-deutschen-klinik-kollaps.html",
    "extern": false
   },
   {
-   "text": "Reflip",
-   "url": "https://www.reflip.net/",
-   "extern": true
-  },
-  {
-   "text": "TTI Technologie-Transfer-Initiative GmbH",
-   "url": "https://www.tti-stuttgart.de/",
+   "text": "Biodiversity Credits",
+   "url": "https://initiatives.weforum.org/financing-for-nature/biodiversitycreditsinitiative",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/reflip-die-europaeische-social-media-hoffnung.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/naturetech-start-ups-und-die-messbarkeits-illusion.html",
    "extern": false
   },
   {
-   "text": "Helmit",
-   "url": "https://www.helmit.org/de",
+   "text": "Sheap",
+   "url": "https://www.sheap.app/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/helmit-der-digitale-schutzschild-gegen-cybermobbing.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/sheap-wie-roman-wolf-15-den-prospekt-dschungel-digitalisiert.html",
    "extern": false
   },
   {
-   "text": "1KOMMA5°",
-   "url": "https://1komma5.com/de/",
-   "extern": true
-  },
-  {
-   "text": "Voltfang",
-   "url": "https://voltfang.de/",
-   "extern": true
-  },
-  {
-   "text": "phelas",
-   "url": "https://www.phelas.com/de",
-   "extern": true
-  },
-  {
-   "text": "Entrix",
-   "url": "https://www.entrixenergy.com/de",
-   "extern": true
-  },
-  {
-   "text": "suena",
-   "url": "https://www.suena.energy/",
-   "extern": true
-  },
-  {
-   "text": "Ecoplanet",
-   "url": "https://www.ecoplanet.tech/",
-   "extern": true
-  },
-  {
-   "text": "Reverion",
-   "url": "https://reverion.com/",
-   "extern": true
-  },
-  {
-   "text": "Cylib",
-   "url": "https://www.cylib.de/de",
-   "extern": true
-  },
-  {
-   "text": "Greenlyte Carbon Technologies",
-   "url": "https://www.greenlyte.tech/",
-   "extern": true
-  },
-  {
-   "text": "Proxima Fusion",
-   "url": "https://www.proximafusion.com/",
+   "text": "MeNotPause",
+   "url": "https://www.menotpause.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/gridtech-start-up-report-2026.html",
+   "url": "https://www.starting-up.de/ideen/unternehmer-typen/dr-saskia-appelhoff-reichweite-ist-nicht-wachstum.html",
    "extern": false
   },
   {
-   "text": "exist women",
-   "url": "https://exist.de/programm/women/",
+   "text": "QOODA",
+   "url": "https://www.qooda.io/",
+   "extern": true
+  },
+  {
+   "text": "BayStartUP-Wettbewerb",
+   "url": "https://www.baystartup.de/businessplan-wettbewerbe",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/drik-17-smartes-gadget-skalierbares-business.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/qooda-satelliten-blackout-als-geschaeftsmodell.html",
    "extern": false
   },
   {
@@ -441,28 +416,18 @@
    "extern": false
   },
   {
-   "text": "CoTrainer",
-   "url": "https://www.cotrainer.com/",
+   "text": "Friday/Poppins",
+   "url": "https://www.fridaypoppins.de/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/cotrainer-vom-ascheplatz-in-die-cloud.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-friday/poppins-im-hr-aufraeumen-will.html",
    "extern": false
   },
   {
-   "text": "BlueBranch",
-   "url": "https://www.bluebranch.de/",
-   "extern": true
-  },
-  {
-   "text": "App-Kosten-Rechner",
-   "url": "https://www.bluebranch.de/app-entwicklung-kosten-kalkulator",
-   "extern": true
-  },
-  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/apps/von-der-vibe-coding-idee-zur-launchfaehigen-app.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiritory-vom-trading-floor-zum-flagship-store.html",
    "extern": false
   },
   {
@@ -892,7 +857,7 @@
   },
   {
    "text": "Kontakt",
-   "url": "https://www.starting-up.de/media/mediadaten-online.html",
+   "url": "https://www.starting-up.de/media/ansprechpartnerinnen.html",
    "extern": false
   },
   {
@@ -1327,7 +1292,7 @@
   },
   {
    "text": "Kontakt",
-   "url": "https://www.starting-up.de/media/mediadaten-online.html",
+   "url": "https://www.starting-up.de/media/ansprechpartnerinnen.html",
    "extern": false
   },
   {
