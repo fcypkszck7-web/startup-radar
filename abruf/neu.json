@@ -1,53 +1,5 @@
 [
  {
-  "titel": "Dürnitz Night Call",
-  "start": "2026-11-12",
-  "ende": "1970-01-01",
-  "ort": "Landesmuseum Württemberg",
-  "land": "",
-  "online": false,
-  "url": "https://wrs.region-stuttgart.de/termine/duernitz-night-call-7-2-2/",
-  "veranstalter": "",
-  "kurz": "Dürnitz Night Call ist eine Kooperation zwischen dem Pop-Büro Region Stuttgart und dem Landesmuseum Württemberg und bringt frische DJ-Sets, Sonderführungen und Special Drinks in die altehrwürdigen Mauern des Alten Schlos",
-  "methode": "json-ld",
-  "quelle_id": "wrs-termine",
-  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-12|wrs.region-stuttgart.de/termine/duernitz-night-call-7-2-2",
-  "quellen": [
-   "wrs-termine"
-  ],
-  "zuerst_gesehen": "2026-11-11",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "KI konkret: So setzen regionale Betriebe KI ein!",
-  "start": "2026-11-12",
-  "ende": "2026-11-12",
-  "ort": "ZD.BB | Danziger Str. 6 | 71034 Böblingen",
-  "land": "",
-  "online": false,
-  "url": "https://wrs.region-stuttgart.de/termine/ki-konkret-so-setzen-regionale-betriebe-ki-ein/",
-  "veranstalter": "",
-  "kurz": "Praxisbeispiele, Impulse und Networking",
-  "methode": "json-ld",
-  "quelle_id": "wrs-termine",
-  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-12|wrs.region-stuttgart.de/termine/ki-konkret-so-setzen-regionale-betriebe-ki-ein",
-  "quellen": [
-   "wrs-termine"
-  ],
-  "zuerst_gesehen": "2026-11-10",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "Seminar: \"Geschichte des Nahostkonflikts und Formen des Antisemitismus\"",
   "start": "2026-11-12",
   "ende": "2026-11-12",
@@ -78,32 +30,6 @@
   "ort": "eu01web.zoom.us/webinar/register/WN_DF5GS5NFSHmahm_-nXYMgg",
   "land": "",
   "online": true,
-  "url": "https://www.techbase.de/news-termine/events-termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
-  "veranstalter": "",
-  "kurz": "Online, 13:30 - 14:30 Uhr",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "techbase-events",
-  "quelle_name": "TechBase Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-12|techbase.de/news-termine/events-termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
-  "quellen": [
-   "techbase-events"
-  ],
-  "zuerst_gesehen": "2026-11-11",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Tutorial: Ausländische Beschäftigte im Startup – Was muss ich als Gründer beachten?",
-  "start": "2026-11-12",
-  "ende": "2026-11-12",
-  "ort": "eu01web.zoom.us/webinar/register/WN_DF5GS5NFSHmahm_-nXYMgg",
-  "land": "",
-  "online": true,
   "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
   "veranstalter": "",
   "kurz": "Online, 13:30 - 14:30 Uhr",
@@ -118,6 +44,32 @@
   "schluessel": "2026-11-12|digitale-oberpfalz.de/news-events/termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
   "quellen": [
    "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Tutorial: Ausländische Beschäftigte im Startup – Was muss ich als Gründer beachten?",
+  "start": "2026-11-12",
+  "ende": "2026-11-12",
+  "ort": "eu01web.zoom.us/webinar/register/WN_DF5GS5NFSHmahm_-nXYMgg",
+  "land": "",
+  "online": true,
+  "url": "https://www.techbase.de/news-termine/events-termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
+  "veranstalter": "",
+  "kurz": "Online, 13:30 - 14:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "techbase-events",
+  "quelle_name": "TechBase Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-12|techbase.de/news-termine/events-termine/detail/12/11/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-1",
+  "quellen": [
+   "techbase-events"
   ],
   "zuerst_gesehen": "2026-11-11",
   "erfasst_als": null,
@@ -343,6 +295,55 @@
   "entscheidung": ""
  },
  {
+  "titel": "Von anderen Kulturen lernen: Syrischer Kochkurs",
+  "start": "2026-11-14",
+  "ende": "2026-11-14",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/von-anderen-kulturen-lernen-syrischer-kochkurs",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-14|uni-passau.de/veranstaltungskalender/detail/event/von-anderen-kulturen-lernen-syrischer-kochkurs",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Ausführung von Sonnenschutz im Detail  Bauteilanschlüsse optimiert auf Schall-, Wärme- und Feuchteschutz mit IVRSA",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "Online über GoTo Webinar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/ausfuehrung-von-sonnenschutz-im-detail-%c2%96-bauteilanschluesse-optimiert-auf-schall-waerme-und-feuchteschutz-mit-ivrsa/",
+  "veranstalter": "",
+  "kurz": "Im Fokus dieses Vortrages steht die Erläuterung von Fensteranschlussdetails unter Berücksichtigung des Einbaus von Sonnenschutzanlagen. Aspekte des Wärmeschutzes, des Schallschutzes, […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Dach & Gebäudehülle"
+  ],
+  "schluessel": "2026-11-16|gih.de/veranstaltung/ausfuehrung-von-sonnenschutz-im-detail-%c2%96-bauteilanschluesse-optimiert-auf-schall-waerme-und-feuchteschutz-mit-ivrsa",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Cross-Border Innovation in the European Health Data Space",
   "start": "2026-11-16",
   "ende": "2026-11-16",
@@ -366,6 +367,32 @@
    "eit-manufacturing-events"
   ],
   "zuerst_gesehen": "2026-11-12",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Effektiver Einsatz von Generativer KI in der Energieberatung",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "Online-Seminar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/effektiver-einsatz-von-generativer-ki-in-der-energieberatung-2/",
+  "veranstalter": "",
+  "kurz": "KI als Werkzeug für moderne Energieberatende (Aufbauseminar zu Teil 1: KI in der Praxis - Effizienter Arbeiten für Energieberater) Der Nutzen […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar",
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-16|gih.de/veranstaltung/effektiver-einsatz-von-generativer-ki-in-der-energieberatung-2",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -395,6 +422,29 @@
   "entscheidung": ""
  },
  {
+  "titel": "Online-Infoveranstaltung unseres Fördermitgliedes CLAGE",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "Online",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/online-infoverantsaltung-unseres-foerdermitgliedes-clage/",
+  "veranstalter": "",
+  "kurz": "Unser Fördermitglied CLAGE stellt sich den Mitgliedern des GIH-NRW vor. Frau Lea Welzel bringt Euch unter anderem folgende Inhalte rüber: […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-16|gih.de/veranstaltung/online-infoverantsaltung-unseres-foerdermitgliedes-clage",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Pyrolyse als Bestandteil der kommunalen Wärmeplanung",
   "start": "2026-11-16",
   "ende": "2026-11-16",
@@ -416,6 +466,29 @@
    "wrs-termine"
   ],
   "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Vertiefungsmodul Nichtwohngebäude (80 UE)",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "Online Seminar über moodle-Plattform und teils in Präsenz",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/vertiefungsmodul-nichtwohngebaeude-80-ue/",
+  "veranstalter": "",
+  "kurz": "Neue Geschäftsfelder in Zeiten sinkender Förderquoten bei BEG und iSFP Der Nutzen im Überblick Mit diesem Lehrgang erweitern Sie Ihre […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-16|gih.de/veranstaltung/vertiefungsmodul-nichtwohngebaeude-80-ue",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -646,6 +719,31 @@
   "entscheidung": ""
  },
  {
+  "titel": "Softwareeingaben iSFP mit Hottgenroth",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Kölnerstraße 33, 57635 Weyerbusch",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/softwareeingaben-isfp-mit-hottgenroth/",
+  "veranstalter": "",
+  "kurz": "Die Firma Hottgenroth bietet am 17.11.2026 die Möglichkeit, an einer Schulung für die Softwareeingaben iSFP mit der Hottgenroth Software teilzunehmen. […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-17|gih.de/veranstaltung/softwareeingaben-isfp-mit-hottgenroth",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "The Superyacht Forum",
   "start": "2026-11-17",
   "ende": "2026-11-17",
@@ -692,6 +790,31 @@
    "uni-regensburg"
   ],
   "zuerst_gesehen": "2026-11-12",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Vom Gebäudeenergiegesetz (GEG) zum Gebäudemodernisierungsgesetz (GModG)  aktueller Stand und Auswirkung auf die Praxis",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Online-Seminar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/vom-gebaeudeenergiegesetz-geg-zum-gebaeudemodernisierungsgesetz-gmodg-%c2%96-aktueller-stand-und-auswirkung-auf-die-praxis-4/",
+  "veranstalter": "",
+  "kurz": "Gebäudeenergiegesetz (GEG) und Gebäudemodernisierungsgesetz (GModG) 2026 – Auswirkungen auf die Praxis Der Nutzen im Überblick Das neue Gebäudemodernisierungsgesetz (GModG) soll […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-17|gih.de/veranstaltung/vom-gebaeudeenergiegesetz-geg-zum-gebaeudemodernisierungsgesetz-gmodg-%c2%96-aktueller-stand-und-auswirkung-auf-die-praxis-4",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -772,6 +895,33 @@
   "entscheidung": ""
  },
  {
+  "titel": "Aufzeichnung: Leistungselektronik für solare Dachanlagen planen",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://events.gentner.de/de/aufzeichnung-leistungselektronik-fuer-solare-dachanlagen-planen",
+  "veranstalter": "Gentner Events",
+  "kurz": "Perfekt abgestimmt zur optimalen Solaranlage: Im Webinar erfahren Sie, wie moderne Leistungselektronik und Speicherlösungen effizient geplant und nahtlos integriert werden.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gentner-events",
+  "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar",
+   "Dach & Gebäudehülle"
+  ],
+  "schluessel": "2026-11-18|events.gentner.de/de/aufzeichnung-leistungselektronik-fuer-solare-dachanlagen-planen",
+  "quellen": [
+   "gentner-events"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Dok.Info: Promovieren an der OTH Regensburg",
   "start": "2026-11-18",
   "ende": "2026-11-18",
@@ -844,6 +994,32 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "HR & AI Day: Wie Künstliche Intelligenz Personalarbeit, Führung und Recruiting neu definiert",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "hive Göppingen, Göppingen",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrung-und-recruiting-neu-definiert/",
+  "veranstalter": "",
+  "kurz": "Der HR & AI Day bringt HR-Verantwortliche, Führungskräfte und Tech-Gründer*innen zusammen.",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-18|wrs.region-stuttgart.de/termine/hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrung-und-recruiting-neu-definiert",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -947,6 +1123,29 @@
   "entscheidung": ""
  },
  {
+  "titel": "Sprechstunde des Welcome Service Region Stuttgart im Rems-Murr-Kreis",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "vhs Unteres Remstal e.V., Waiblingen",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/sprechstunde-des-welcome-service-region-stuttgart-im-rems-murr-kreis-18-11/",
+  "veranstalter": "",
+  "kurz": "Beratung für internationale Fachkräfte, Studierende und Unternehmen der Region Stuttgart",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-18|wrs.region-stuttgart.de/termine/sprechstunde-des-welcome-service-region-stuttgart-im-rems-murr-kreis-18-11",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Startfeld Investors Day",
   "start": "2026-11-18",
   "ende": "2026-11-18",
@@ -969,6 +1168,104 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-12",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: Kritische Perspektiven auf Bildung für nachhaltige Entwicklung: Theoretische Grundlagen und Praxisanwendungen",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "digital über Zoom",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/18-11-2026_kritische-perspektiven-auf-bildung-fuer-nachhaltige-entwicklung-theoretische-grundlagen-und-praxisanwendungen-1",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Material & Kreislauf"
+  ],
+  "schluessel": "2026-11-18|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/18-11-2026_kritische-perspektiven-auf-bildung-fuer-nachhaltige-entwicklung-theoretische-grundlagen-und-praxisanwendungen-1",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: Sprache - die BAS!S für Inklusion",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "online via Zoom",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/18-11-2026_sprache-die-bass-fuer-inklusion-4",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-18|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/18-11-2026_sprache-die-bass-fuer-inklusion-4",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: Verfassungsdebatten: Antike Ursprünge, historische Wirkung, aktuelle Relevanz",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "H22",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/18-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-4",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-18|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/18-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-4",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: Wo Europa endet, und immer wieder beginnt | Buchvorstellung & Fotoprojektion von Christian Muhrbeck und Ilija Trojanow",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "KunstKnoten e.V., Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/18-11-2026_wo-europa-endet-und-immer-wieder-beginnt-buchvorstellung-fotoprojektion-von-christian-muhrbeck-und-ilija-trojanow",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-18|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/18-11-2026_wo-europa-endet-und-immer-wieder-beginnt-buchvorstellung-fotoprojektion-von-christian-muhrbeck-und-ilija-trojanow",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1021,28 +1318,25 @@
   "entscheidung": ""
  },
  {
-  "titel": "Abschlussveranstaltung: Netzdienliche Speicher",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
+  "titel": "Willkommen in Baden-Württemberg: Arbeit und Sozialrecht",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "Online",
   "land": "",
   "online": false,
-  "url": "https://www.unternehmertum.de/events/netzdienliche-speicher/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Energie & Solar"
-  ],
-  "schluessel": "2026-11-19|unternehmertum.de/events/netzdienliche-speicher",
+  "url": "https://wrs.region-stuttgart.de/termine/willkommen-in-baden-wuerttemberg-arbeit-und-sozialrecht-2/",
+  "veranstalter": "",
+  "kurz": "Online-Veranstaltungsreihe für spanischsprachige Fachkräfte und junge Zuwanderer (auf Spanisch)",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-18|wrs.region-stuttgart.de/termine/willkommen-in-baden-wuerttemberg-arbeit-und-sozialrecht-2",
   "quellen": [
-   "unternehmertum"
+   "wrs-termine"
   ],
-  "zuerst_gesehen": "2026-11-12",
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1094,6 +1388,56 @@
   "entscheidung": ""
  },
  {
+  "titel": "CONDA.ch Apéro & Pitch - Jubiläumsedition 5 Jahre!",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "Impact Hub Zürich - Viadukt Bogen D Zürich, ZH",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/conda-ch-apero-pitch-jubilaeumsedition-5-jahre",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-19|startupticker.ch/en/events/conda-ch-apero-pitch-jubilaeumsedition-5-jahre",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Campus Impuls: Design Thinking",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "startup space, Wiesenstrasse 10A, 8952 Schlieren",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/campus-impuls-design-thinking-%281%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-19|startupticker.ch/en/events/campus-impuls-design-thinking-%281%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "CaringCampus: Barrierefrei",
   "start": "2026-11-19",
   "ende": "2026-11-19",
@@ -1110,30 +1454,6 @@
   "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
   "schluessel": "2026-11-19|haw-landshut.de/veranstaltungen/termin/caringcampus-barrierefrei",
-  "quellen": [
-   "hs-landshut"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "CaringCampus: LGBTIQ+",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.haw-landshut.de/veranstaltungen/termin/caringcampus-lgbtiq",
-  "veranstalter": "",
-  "kurz": "Wo fühlen wir uns (un)sicher? Campusrundgang zu Sicherheit und Wohlbefinden der Queeren Community",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "hs-landshut",
-  "quelle_name": "Hochschule Landshut – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|haw-landshut.de/veranstaltungen/termin/caringcampus-lgbtiq",
   "quellen": [
    "hs-landshut"
   ],
@@ -1195,6 +1515,31 @@
   "entscheidung": ""
  },
  {
+  "titel": "Existenzgründung im Nebenerwerb (LB)",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "IHK Bezirkskammer Ludwigsburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/existenzgruendung-im-nebenerwerb-lb/",
+  "veranstalter": "",
+  "kurz": "Möchten Sie Ihre Geschäftsidee risikofrei testen oder zusätzliche Einkommensquellen erschließen? Die Gründung im Nebenerwerb bietet eine ideale Lösung für diejenigen, die aktuell nicht in Vollzeit selbstständig sein könn",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-19|startup-region-stuttgart.de/termine/existenzgruendung-im-nebenerwerb-lb",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "FONGIT Networking Café+Croissant",
   "start": "2026-11-19",
   "ende": "2026-11-19",
@@ -1215,6 +1560,32 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-12",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Founder’s Roundtable Sales & Networking",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "Hochschule Luzern Walter-von-Moos-Promenade 1 6005 Luzern Bistro im EG, Eingang Trakt A",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/founder-s-roundtable-sales-networking",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-19|startupticker.ch/en/events/founder-s-roundtable-sales-networking",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1292,6 +1663,55 @@
    "unternehmertum"
   ],
   "zuerst_gesehen": "2026-11-12",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Informationsveranstaltung Existenzgründung aus der Arbeitslosigkeit",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "IHK Region Stuttgart Bezirkskammer Rems-Murr, Waiblingen",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/informationsveranstaltung-existenzgruendung-aus-der-arbeitslosigkeit/",
+  "veranstalter": "",
+  "kurz": "Sie beziehen Arbeitslosengeld I und möchten sich selbstständig machen? Der Gründungszuschuss der Agentur für Arbeit kann Sie beim Start in die Selbstständigkeit finanziell unterstützen. In der gemeinsamen Informationsver",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-19|startup-region-stuttgart.de/termine/informationsveranstaltung-existenzgruendung-aus-der-arbeitslosigkeit",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "KMU Leaders Campus - Design Thinking",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "startup space Schlieren, Wiesenstrasse 10 A, 8952 Schlieren",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/kmu-leaders-campus-design-thinking",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-19|startupticker.ch/index.php/en/events/kmu-leaders-campus-design-thinking",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1420,6 +1840,106 @@
   "entscheidung": ""
  },
  {
+  "titel": "Einführung in den Förderdschungel: Überblick über Fördermittelprogramme für die Umsetzung der Digitalen Transformation",
+  "start": "2026-11-20",
+  "ende": "2026-11-20",
+  "ort": "Online",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerdermittelprogramme-fuer-die-umsetzung-der-digitalen-transformation-2/",
+  "veranstalter": "",
+  "kurz": "In diesem kompakten Webinar gibt bwcon einen Überblick über aktuelle Fördermöglichkeiten auf Landes-, Bundes- und EU-Ebene und zeigt praxisnah, wie Start-ups und Unternehmen die passende Förderung finden und erfolgreich ",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-20|startup-region-stuttgart.de/termine/einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerdermittelprogramme-fuer-die-umsetzung-der-digitalen-transformation-2",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "SECA Workshop Private Equity",
+  "start": "2026-11-21",
+  "ende": "2026-11-21",
+  "ort": "Lenz und Staehelin, Brandschenkestrasse 24, Zürich",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/seca-workshop-private-equity",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-21|startupticker.ch/en/events/seca-workshop-private-equity",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Deadline International Innovation Management by HEIG-VD",
+  "start": "2026-11-22",
+  "ende": "2026-11-22",
+  "ort": "Startup Camp India",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/en/events/deadline-international-innovation-management-by-heig-vd",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-22|startupticker.ch/en/events/deadline-international-innovation-management-by-heig-vd",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Deadline Talent Kick Program",
+  "start": "2026-11-22",
+  "ende": "2026-11-22",
+  "ort": "Startup Camp India",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/deadline-talent-kick-program",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-22|startupticker.ch/en/events/deadline-talent-kick-program",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "CIRCULAR REPUBLIC Textilforum",
   "start": "2026-11-23",
   "ende": "2026-11-23",
@@ -1446,6 +1966,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "IP Workshop: Patenting in Life Science",
+  "start": "2026-11-23",
+  "ende": "2026-11-23",
+  "ort": "Remote",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-patenting-in-life-science-%2815%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-23|startupticker.ch/index.php/en/events/ip-workshop-patenting-in-life-science-%2815%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "10 Jahre berufsbegleitender Bachelor Soziale Arbeit",
   "start": "2026-11-24",
   "ende": "2026-11-24",
@@ -1466,6 +2010,31 @@
    "oth-regensburg"
   ],
   "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Handwerk trifft Unternehmen: Zu Besuch bei HiPP",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "HiPP, Pfaffenhofen an der Ilm",
+  "land": "",
+  "online": false,
+  "url": "https://www.hwk-muenchen.de/termine/handwerk-trifft-unternehmen-zu-besuch-bei-hipp-74,0,evedetail.html?eve=5170",
+  "veranstalter": "Technologieberater der Handwerkskammer für München und Oberbayern",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwk-muenchen",
+  "quelle_name": "Handwerkskammer für München und Oberbayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Handwerk"
+  ],
+  "schluessel": "2026-11-24|hwk-muenchen.de/termine/handwerk-trifft-unternehmen-zu-besuch-bei-hipp-74,0,evedetail.html",
+  "quellen": [
+   "hwk-muenchen"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1542,6 +2111,30 @@
    "oth-regensburg"
   ],
   "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Business Baukasten Baustein 11",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "360° BASE, Würzburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.gruenderland.bayern/veranstaltungen/event/business-baukasten-baustein-11/",
+  "veranstalter": "",
+  "kurz": "Present like a Leader\r\n\r\n",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gruenderland-bayern",
+  "quelle_name": "Gründerland Bayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-25|gruenderland.bayern/veranstaltungen/event/business-baukasten-baustein-11",
+  "quellen": [
+   "gruenderland-bayern"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1670,6 +2263,30 @@
    "it-region-stuttgart"
   ],
   "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Infoveranstaltung Vorstudium beING",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/infoveranstaltung-vorstudium-being-1",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|oth-regensburg.de/termine/detailansicht/infoveranstaltung-vorstudium-being-1",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1825,6 +2442,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Webinar: Wärmepumpe oder Klimaanlage? Welche Lösung passt zu Ihrem Gebäude?",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://events.gentner.de/de/webinar-waermepumpe-oder-klimaanlage-welche-loesung-passt-zu-ihrem-gebaeude",
+  "veranstalter": "Gentner Events",
+  "kurz": "Wärmepumpe oder Klimaanlage? Erfahren Sie im Webinar, welche Lösung zu Ihrem Gebäude passt – zum Heizen, Kühlen oder für beides.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gentner-events",
+  "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gebäudetechnik"
+  ],
+  "schluessel": "2026-11-27|events.gentner.de/de/webinar-waermepumpe-oder-klimaanlage-welche-loesung-passt-zu-ihrem-gebaeude",
+  "quellen": [
+   "gentner-events"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "ESPC - Microsoft 365 and AI Conference",
   "start": "2026-11-30",
   "ende": "2026-11-30",
@@ -1877,6 +2520,129 @@
   "entscheidung": ""
  },
  {
+  "titel": "Open Mic: Next in Health series",
+  "start": "2026-11-30",
+  "ende": "2026-11-30",
+  "ort": "Novartis Pavillon, St. Johanns-Hafen-Weg, 5, 4056 Basel",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/open-mic-next-in-health-series",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-30|startupticker.ch/index.php/en/events/open-mic-next-in-health-series",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "#E4s - The Innovation Ecosystem of TU Wien",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.eventbrite.at/e/e4s-the-innovation-ecosystem-of-tu-wien-registration-2003289628205?aff=oddtdtcreator#new_tab",
+  "veranstalter": "",
+  "kurz": "Around the world, universities are hubs of innovation, paving the way for groundbreaking research to reach society. TU Wien is a key driver in the Austrian innovation ecosystem, offering dedicated service units that supp",
+  "methode": "ical",
+  "quelle_id": "i2c-tuwien",
+  "quelle_name": "TU Wien Innovation Incubation Center – Events",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-01|eventbrite.at/e/e4s-the-innovation-ecosystem-of-tu-wien-registration-2003289628205",
+  "quellen": [
+   "i2c-tuwien"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Hackergarten Stuttgart 2026.12",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "codecentric AG Industriestraße 3, Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://it.region-stuttgart.de/termine/hackergarten-stuttgart-2026-02-2-2-2-2-2-2-2-2-2-2/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "IT-Begeisterte arbeiten gemeinsam an Open-Source-Projekten",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-12-01|it.region-stuttgart.de/termine/hackergarten-stuttgart-2026-02-2-2-2-2-2-2-2-2-2-2",
+  "quellen": [
+   "it-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "InnovativeLehre@OTH Regensburg",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "Regensburg",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/innovativelehreoth-regensburg-4",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-01|oth-regensburg.de/termine/detailansicht/innovativelehreoth-regensburg-4",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Kompakter Einstieg in Open Access an der OTH Regensburg",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/kompakter-einstieg-in-open-access-an-der-oth-regensburg-2",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-01|oth-regensburg.de/termine/detailansicht/kompakter-einstieg-in-open-access-an-der-oth-regensburg-2",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Workshop: Zukunft sichern: Rohstoffstrategien für die Umweltsensorik",
   "start": "2026-12-01",
   "ende": "2026-12-01",
@@ -1901,6 +2667,32 @@
    "bayern-innovativ"
   ],
   "zuerst_gesehen": "2026-11-12",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Co-InnovationsprojektTruck Charging",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "men Start-up",
+  "land": "",
+  "online": false,
+  "url": "https://www.unternehmertum.de/events/final-event-truck-charging/",
+  "veranstalter": "UnternehmerTUM",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "unternehmertum",
+  "quelle_name": "UnternehmerTUM – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-02|unternehmertum.de/events/final-event-truck-charging",
+  "quellen": [
+   "unternehmertum"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -2029,6 +2821,104 @@
   "entscheidung": ""
  },
  {
+  "titel": "A3F Startup Breakfast - Christmas Pitch Edition",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "ort": "Westhive Zurich, Hardturmstrasse 161, 8005 Zürich, Hall of Fame",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/a3f-startup-breakfast-christmas-pitch-edition",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-04|startupticker.ch/en/events/a3f-startup-breakfast-christmas-pitch-edition",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Opportunity Hunters Talks",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "ort": "men Start-up",
+  "land": "",
+  "online": false,
+  "url": "https://www.unternehmertum.de/events/opportunity-hunters-talks/",
+  "veranstalter": "UnternehmerTUM",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "unternehmertum",
+  "quelle_name": "UnternehmerTUM – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-10|unternehmertum.de/events/opportunity-hunters-talks",
+  "quellen": [
+   "unternehmertum"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "CreativeTechHUB-FOKUS | Die KKW-Richtlinie im Überblick",
+  "start": "2026-12-16",
+  "ende": "2026-12-16",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.bayern-innovativ.de/events-termine/kreativwirtschaft/detail/creativetechhub-fokus-die-kkw-richtlinie-im-ueberblick-12-2026/",
+  "veranstalter": "",
+  "kurz": "In der Infoveranstaltung werden alle wichtigen Informationen zu den Förderzwecken, förderfähigen Kosten sowie dem Ablauf der Antragstellung erläutert. Die KKW-Richtlinie unterstützt gezielt Maßnahmen zur Förderung der Ku",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "bayern-innovativ",
+  "quelle_name": "Bayern Innovativ – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-16|bayern-innovativ.de/events-termine/kreativwirtschaft/detail/creativetechhub-fokus-die-kkw-richtlinie-im-ueberblick-12-2026",
+  "quellen": [
+   "bayern-innovativ"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "CreativeTechHUB-FOKUS | Die KKW-Richtlinie im Überblick",
+  "start": "2026-12-16",
+  "ende": "2026-12-16",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.bayern-innovativ.de/events-termine/innovationsmanagement/detail/creativetechhub-fokus-die-kkw-richtlinie-im-ueberblick-12-2026/",
+  "veranstalter": "",
+  "kurz": "In der Infoveranstaltung werden alle wichtigen Informationen zu den Förderzwecken, förderfähigen Kosten sowie dem Ablauf der Antragstellung erläutert. Die KKW-Richtlinie unterstützt gezielt Maßnahmen zur Förderung der Ku",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "bayern-innovativ",
+  "quelle_name": "Bayern Innovativ – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-16|bayern-innovativ.de/events-termine/innovationsmanagement/detail/creativetechhub-fokus-die-kkw-richtlinie-im-ueberblick-12-2026",
+  "quellen": [
+   "bayern-innovativ"
+  ],
+  "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Veranstaltung: Ausstellung „human nature“",
   "start": "2026-12-31",
   "ende": "2026-12-31",
@@ -2049,6 +2939,32 @@
    "uni-regensburg"
   ],
   "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Workshop Brewery 2030+",
+  "start": "2027-01-13",
+  "ende": "2027-01-13",
+  "ort": "rkshop Brewery 2030+",
+  "land": "",
+  "online": true,
+  "url": "https://www.tum-venture-labs.de/events/workshop-brewery-2030/",
+  "veranstalter": "TUM Venture Labs",
+  "kurz": "The TUM Venture Labs support scientists and students with a large ecosystem on their entrepreneurial journey in numerous technology-based domains.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "tum-venture-labs",
+  "quelle_name": "TUM Venture Labs – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-01-13|tum-venture-labs.de/events/workshop-brewery-2030",
+  "quellen": [
+   "tum-venture-labs"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -2147,6 +3063,30 @@
    "uni-regensburg"
   ],
   "zuerst_gesehen": "2026-11-12",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Assurance et prévoyance pour ton entreprise et pour toi-même",
+  "start": "2027-02-13",
+  "ende": "2027-02-13",
+  "ort": "En ligne",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/index.php/en/events/assurance-et-prevoyance-pour-ton-entreprise-et-pour-toi-meme-%2823%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-02-13|startupticker.ch/index.php/en/events/assurance-et-prevoyance-pour-ton-entreprise-et-pour-toi-meme-%2823%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-13",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -2398,32 +3338,6 @@
    "solarplaza-events"
   ],
   "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "AgriFood Demo Day 2026 & Symposium",
-  "start": "2027-10-21",
-  "ende": "2027-10-21",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/agrifood-demo-day-2026/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2027-10-21|unternehmertum.de/events/agrifood-demo-day-2026",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-12",
   "erfasst_als": null,
   "entscheidung": ""
  }

@@ -2,14 +2,14 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-12",
+ "abgerufen": "2026-11-13",
  "koepfe": [
   "Top Beiträge",
-  "121,6 g aus dem All und plötzlich erzählen die Bausteine des Lebens eine andere Geschichte",
-  "24 Stunden in der Luft: Airbus pulverisiert 21 Jahre alten Boeing-Rekord",
-  "Vier Stockwerke, 18 Tage, 0 Maurer: Das steckt hinter Österreichs Rekord-Druckhaus",
-  "Freundlich kündigen: So führen Sie das Gespräch mit Ihrem Chef",
-  "Neuer Master in Regensburg: Autoelektronik trifft KI und Cybersecurity",
+  "1257 t Asphalt an einem Tag: Dieser Straßenfertiger fährt elektrisch",
+  "Riesen-Crash im Hafen: 366 m langes Containerschiff bringt Kran zu Fall",
+  "150.000 Bilder pro Sekunde: Forscher machen selbst Ultraschall sichtbar",
+  "Liebesschlösser verhindern Tests, dann versagt die Brücke gleich zweimal",
+  "Wenn das Stromnetz voll ist: Industriebatterien sollen Ökostrom retten",
   "Bautechnik und mehr",
   "1. Bauprojekt-Management",
   "2. Baustoffe und -elemente",
@@ -33,12 +33,12 @@
   "Historische Entwicklung der Digitalisierung im Bauwesen",
   "Top Stellenanzeigen",
   "Weitere Artikel",
-  "121,6 g aus dem All und plötzlich erzählen die Bausteine des Lebens eine andere Geschichte",
-  "24 Stunden in der Luft: Airbus pulverisiert 21 Jahre alten Boeing-Rekord",
-  "Vier Stockwerke, 18 Tage, 0 Maurer: Das steckt hinter Österreichs Rekord-Druckhaus",
-  "Freundlich kündigen: So führen Sie das Gespräch mit Ihrem Chef",
-  "Neuer Master in Regensburg: Autoelektronik trifft KI und Cybersecurity",
-  "46 Jahre für ein Gleis: Das lange Warten der Niederländer auf die deutsche Bahn",
+  "1257 t Asphalt an einem Tag: Dieser Straßenfertiger fährt elektrisch",
+  "Riesen-Crash im Hafen: 366 m langes Containerschiff bringt Kran zu Fall",
+  "150.000 Bilder pro Sekunde: Forscher machen selbst Ultraschall sichtbar",
+  "Liebesschlösser verhindern Tests, dann versagt die Brücke gleich zweimal",
+  "Wenn das Stromnetz voll ist: Industriebatterien sollen Ökostrom retten",
+  "Ethereum in der Krise: Jetzt will der Erfinder Bitcoin angreifen",
   "Firmenprofile"
  ],
  "links": [
@@ -53,23 +53,33 @@
    "extern": false
   },
   {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "121,6 g aus dem All und plötzlich erzählen die Bausteine des Lebens eine andere Geschichte",
-   "url": "https://www.ingenieur.de/121-gramm-aus-dem-all-und-ploetzlich-erzaehlen-die-bausteine-des-lebens-eine-andere-geschichte-839855ad-b355-4b33-9afb-83e42e8f899a/",
+   "text": "1257 t Asphalt an einem Tag: Dieser Straßenfertiger fährt elektrisch",
+   "url": "https://www.ingenieur.de/1257-t-asphalt-an-einem-tag-dieser-strassenfertiger-faehrt-elektrisch-4fe43144-fec1-4142-80e0-d1e972a689d3/",
    "extern": false
   },
   {
-   "text": "Luft- & Raumfahrt",
-   "url": "https://www.ingenieur.de/luft-raumfahrt/",
+   "text": "Mobilität",
+   "url": "https://www.ingenieur.de/mobilitaet/",
    "extern": false
   },
   {
-   "text": "24 Stunden in der Luft: Airbus pulverisiert 21 Jahre alten Boeing-Rekord",
-   "url": "https://www.ingenieur.de/24-stunden-in-der-luft-airbus-pulverisiert-21-jahre-alten-boeing-rekord-68cb2159-d057-423a-a899-19c713f4c765/",
+   "text": "Riesen-Crash im Hafen: 366 m langes Containerschiff bringt Kran zu Fall",
+   "url": "https://www.ingenieur.de/riesen-crash-im-hafen-366-m-langes-containerschiff-bringt-kran-zu-fall-8145ab99-988b-4aa0-a301-3f471ae6db33/",
+   "extern": false
+  },
+  {
+   "text": "Naturwissenschaften",
+   "url": "https://www.ingenieur.de/naturwissenschaften/",
+   "extern": false
+  },
+  {
+   "text": "150.000 Bilder pro Sekunde: Forscher machen selbst Ultraschall sichtbar",
+   "url": "https://www.ingenieur.de/150-000-bilder-pro-sekunde-forscher-machen-selbst-ultraschall-sichtbar-43b36641-95dd-4e90-895d-00a709f3a68d/",
    "extern": false
   },
   {
@@ -78,28 +88,18 @@
    "extern": false
   },
   {
-   "text": "Vier Stockwerke, 18 Tage, 0 Maurer: Das steckt hinter Österreichs Rekord-Druckhaus",
-   "url": "https://www.ingenieur.de/vier-stockwerke-18-tage-0-maurer-das-steckt-hinter-oesterreichs-rekord-druckhaus-a46d4af4-8cca-4eaa-96b4-48c85238aed2/",
+   "text": "Liebesschlösser verhindern Tests, dann versagt die Brücke gleich zweimal",
+   "url": "https://www.ingenieur.de/liebesschloesser-verhindern-tests-dann-versagt-die-bruecke-gleich-zweimal-69ce1f58-bbb3-49d4-92c1-4fa52be654b1/",
    "extern": false
   },
   {
-   "text": "Arbeitsrecht",
-   "url": "https://www.ingenieur.de/karriere/arbeitsrecht/",
+   "text": "Energiespeicher",
+   "url": "https://www.ingenieur.de/energiespeicher/",
    "extern": false
   },
   {
-   "text": "Freundlich kündigen: So führen Sie das Gespräch mit Ihrem Chef",
-   "url": "https://www.ingenieur.de/freundlich-kuendigen-so-trennen-sich-ingenieure-professionell-e4145071-c1eb-4fc1-88b1-9f08fa2b6b46/",
-   "extern": false
-  },
-  {
-   "text": "Studium",
-   "url": "https://www.ingenieur.de/karriere/studium/",
-   "extern": false
-  },
-  {
-   "text": "Neuer Master in Regensburg: Autoelektronik trifft KI und Cybersecurity",
-   "url": "https://www.ingenieur.de/neuer-master-in-regensburg-autoelektronik-trifft-ki-und-cybersecurity-0297cc8f-b1bf-41a9-b6ae-14837c5ea28c/",
+   "text": "Wenn das Stromnetz voll ist: Industriebatterien sollen Ökostrom retten",
+   "url": "https://www.ingenieur.de/wenn-das-stromnetz-voll-ist-industriebatterien-sollen-okostrom-retten-65baf1db-a333-4467-b17f-a23d354cd742/",
    "extern": false
   },
   {
@@ -188,96 +188,6 @@
    "extern": true
   },
   {
-   "text": "mehr zu Teamleiter*in Fachtechnische Vergabevorbereitung bei Deutsche Rentenversicherung Bund (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/teamleiter-in-fachtechnische-vergabevorbereitung-065019388?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Bauleiter (m/w/d) Rohrsanierung / Kanalsanierung bei Max Bögl Bauservice GmbH & Co. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauleiter-m-w-d-rohrsanierung-kanalsanierung-064217500?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Vertriebsingenieur / Projektingenieur (m/w/d) im Außendienst – Südbayern bei DEPRAG SCHULZ GMBH u. CO. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/vertriebsingenieur-projektingenieur-m-w-d-im-aussendienst-suedbayern-064217952?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Bauingenieur / Verkehrsingenieur (w/m/d) Straßenplanung/Straßenbauprojekte bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauingenieur-verkehrsingenieur-w-m-d-strassenplanung-strassenbauprojekte-064218127?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Strategic Account Manager (m/f/x) bei via Richard Hönig Wirtschaftsberatungen (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/strategic-account-manager-m-f-x-064218486?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Automatisierungsingenieur / SPS-Ingenieur (m/w/d) bei Gebrüder Lödige Maschinenbau GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/automatisierungsingenieur-sps-ingenieur-m-w-d-064382988?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleitung Haustechnik / Technische Gebäudeausrüstung (TGA) – Neubau & Modernisierung (w/m/d) bei STADT UND LAND Wohnbauten-Gesellschaft mbH (öffnet",
-   "url": "https://jobs.ingenieur.de/job/projektleitung-haustechnik-technische-gebaeudeausruestung-tga-neubau-modernisierung-w-m-d-064402599?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Entwicklungsingenieur Leistungselektronik (all genders) bei VINCORION Advanced Systems GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/entwicklungsingenieur-leistungselektronik-all-genders-064402788?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Industrial Engineer / Fertigungsplaner – Arbeitsvorbereitung (m/w/d) bei ELAC SONAR GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/industrial-engineer-fertigungsplaner-arbeitsvorbereitung-m-w-d-064451812?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Senior Solution Architect Integration Platform (m/w/d) bei WIRTGEN GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-integration-platform-m-w-d-064473149?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Senior Solution Architect Enterprise Cloud Platform (m/w/d) bei WIRTGEN GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-enterprise-cloud-platform-m-w-d-064473151?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Software-Ingenieur (m/w/d) Elektrotechnik – mobile Arbeitsmaschinen bei WIRTGEN GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/software-ingenieur-m-w-d-elektrotechnik-mobile-arbeitsmaschinen-064473150?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Werkleiter (w/m/d) bei WITTENSTEIN SE (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/werkleiter-w-m-d-064475108?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu TGA-Ingenieur (m/w/d) in Leverkusen bei Dohm Pharmaceutical Engineering (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/tga-ingenieur-m-w-d-in-leverkusen-064466966?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Leiter Programmanagement Netzausbau Nord-West (m/w/d) bei TenneT (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/leiter-programmanagement-netzausbau-nord-west-m-w-d-064475060?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu ARCHITEKT:IN – LP 2-5 HOAI (m/w/d) bei Rabensteiner GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/architekt-in-lp-2-5-hoai-m-w-d-064476254?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleiter (m/w/d) für die Planung der Gebäudeautomation im Bereich TGA bei GePlan Ingenieure (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleiter-m-w-d-fuer-die-planung-der-gebaeudeautomation-im-bereich-tga-064466967?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Mechatroniker für Leit- und Sicherungstechnik / Signalmechaniker / Stellwerkstechniker (m/w/d) bei YARA Rostock, Zweigniederlassung der Yara GmbH & Co. ",
-   "url": "https://jobs.ingenieur.de/job/mechatroniker-fuer-leit-und-sicherungstechnik-signalmechaniker-stellwerkstechniker-m-w-d-064476372?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
    "text": "mehr zu Bauingenieur (m/w/d) als Produktmanager Weiterbildung bei Bildungszentren des Baugewerbes e.V. (BZB) (öffnet in neuem Fenster)",
    "url": "https://jobs.ingenieur.de/job/bauingenieur-m-w-d-als-produktmanager-weiterbildung-064218638?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
@@ -288,24 +198,94 @@
    "extern": true
   },
   {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
-   "extern": false
+   "text": "mehr zu Hardware- und Firmware-Entwickler (m/w/d) bei AWITE Bioenergie GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/hardware-und-firmware-entwickler-m-w-d-064240489?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
   },
   {
-   "text": "121,6 g aus dem All und plötzlich erzählen die Bausteine des Lebens eine andere Geschichte",
-   "url": "https://www.ingenieur.de/121-gramm-aus-dem-all-und-ploetzlich-erzaehlen-die-bausteine-des-lebens-eine-andere-geschichte-839855ad-b355-4b33-9afb-83e42e8f899a/",
-   "extern": false
+   "text": "mehr zu Projektleiter (m/w/d) bei Frozen Fish International GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektleiter-m-w-d-064240304?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
   },
   {
-   "text": "Luft- & Raumfahrt",
-   "url": "https://www.ingenieur.de/luft-raumfahrt/",
-   "extern": false
+   "text": "mehr zu Quality Manager (m/w/d) bei SEG Electronics GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/quality-manager-m-w-d-064321919?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
   },
   {
-   "text": "24 Stunden in der Luft: Airbus pulverisiert 21 Jahre alten Boeing-Rekord",
-   "url": "https://www.ingenieur.de/24-stunden-in-der-luft-airbus-pulverisiert-21-jahre-alten-boeing-rekord-68cb2159-d057-423a-a899-19c713f4c765/",
-   "extern": false
+   "text": "mehr zu Ingenieur für Netzanschlussregeln (m/w/d) bei TenneT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-fuer-netzanschlussregeln-m-w-d-064337894?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieurin oder Ingenieur konstruktiver Ingenieurbau (w/m/d) bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieurin-oder-ingenieur-konstruktiver-ingenieurbau-w-m-d-064337923?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieur Fassadenplanung (m/w/d) bei Werner Sobek AG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-fassadenplanung-m-w-d-064337915?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Automatisierungstechniker (m/w/d) bei Fiberboard GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/automatisierungstechniker-m-w-d-064338468?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Vertriebsingenieur / Technical Sales Manager (m/w/d) bei Delphin Technology AG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/vertriebsingenieur-technical-sales-manager-m-w-d-064338515?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Produktionsleiter (m/w/d) bei SPRiNTUS GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/produktionsleiter-m-w-d-064338834?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Systemingenieur / Schiffstechniker HVAC – Yachtbau (m/w/d) bei Lürssen Werft Rendsburg GmbH & Co. KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/systemingenieur-schiffstechniker-hvac-yachtbau-m-w-d-064403411?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bauingenieur (w/m/d) Straßenplanung und Straßenentwurf – Außenstelle Netphen (nahe Siegen) bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-strassenplanung-und-strassenentwurf-aussenstelle-netphen-nahe-siegen-064422902?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bauingenieur (w/m/d) Konstruktiver Ingenieurbau/ Brückenbau bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-konstruktiver-ingenieurbau-brueckenbau-064422903?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bauingenieur (w/m/d) konstruktiver Ingenieurbau – Außenstelle Netphen (nahe Siegen) bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-konstruktiver-ingenieurbau-aussenstelle-netphen-nahe-siegen-064422904?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Konstrukteur Möbel- oder Sonderfahrzeugbau (all genders welcome) bei BFE Studio und Medien Systeme GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/konstrukteur-moebel-oder-sonderfahrzeugbau-all-genders-welcome-064422931?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Leitung Entwicklung (m/w/d) bei Memmert GmbH + Co. KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/leitung-entwicklung-m-w-d-064423460?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieur Netz- und Systemführung HVDC & Offshore (m/w/d) bei TenneT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-netz-und-systemfuehrung-hvdc-offshore-m-w-d-064485056?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Professur (W2): Technische Mechanik bei Hochschule Merseburg (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/professur-w2-technische-mechanik-064485727?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Planungs-/ Bauingenieur (m/w/d) für Energieinfrastruktur bei voltfang (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/planungs-bauingenieur-m-w-d-fuer-energieinfrastruktur-064485796?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
   },
   {
    "text": "Bau",
@@ -313,28 +293,8 @@
    "extern": false
   },
   {
-   "text": "Vier Stockwerke, 18 Tage, 0 Maurer: Das steckt hinter Österreichs Rekord-Druckhaus",
-   "url": "https://www.ingenieur.de/vier-stockwerke-18-tage-0-maurer-das-steckt-hinter-oesterreichs-rekord-druckhaus-a46d4af4-8cca-4eaa-96b4-48c85238aed2/",
-   "extern": false
-  },
-  {
-   "text": "Arbeitsrecht",
-   "url": "https://www.ingenieur.de/karriere/arbeitsrecht/",
-   "extern": false
-  },
-  {
-   "text": "Freundlich kündigen: So führen Sie das Gespräch mit Ihrem Chef",
-   "url": "https://www.ingenieur.de/freundlich-kuendigen-so-trennen-sich-ingenieure-professionell-e4145071-c1eb-4fc1-88b1-9f08fa2b6b46/",
-   "extern": false
-  },
-  {
-   "text": "Studium",
-   "url": "https://www.ingenieur.de/karriere/studium/",
-   "extern": false
-  },
-  {
-   "text": "Neuer Master in Regensburg: Autoelektronik trifft KI und Cybersecurity",
-   "url": "https://www.ingenieur.de/neuer-master-in-regensburg-autoelektronik-trifft-ki-und-cybersecurity-0297cc8f-b1bf-41a9-b6ae-14837c5ea28c/",
+   "text": "1257 t Asphalt an einem Tag: Dieser Straßenfertiger fährt elektrisch",
+   "url": "https://www.ingenieur.de/1257-t-asphalt-an-einem-tag-dieser-strassenfertiger-faehrt-elektrisch-4fe43144-fec1-4142-80e0-d1e972a689d3/",
    "extern": false
   },
   {
@@ -343,8 +303,48 @@
    "extern": false
   },
   {
-   "text": "46 Jahre für ein Gleis: Das lange Warten der Niederländer auf die deutsche Bahn",
-   "url": "https://www.ingenieur.de/46-jahre-fur-ein-drittes-gleis-das-lange-warten-der-niederlander-auf-die-deutsche-bahn-b80d66ef-65e0-4a62-ab39-7d27e7a62a12/",
+   "text": "Riesen-Crash im Hafen: 366 m langes Containerschiff bringt Kran zu Fall",
+   "url": "https://www.ingenieur.de/riesen-crash-im-hafen-366-m-langes-containerschiff-bringt-kran-zu-fall-8145ab99-988b-4aa0-a301-3f471ae6db33/",
+   "extern": false
+  },
+  {
+   "text": "Naturwissenschaften",
+   "url": "https://www.ingenieur.de/naturwissenschaften/",
+   "extern": false
+  },
+  {
+   "text": "150.000 Bilder pro Sekunde: Forscher machen selbst Ultraschall sichtbar",
+   "url": "https://www.ingenieur.de/150-000-bilder-pro-sekunde-forscher-machen-selbst-ultraschall-sichtbar-43b36641-95dd-4e90-895d-00a709f3a68d/",
+   "extern": false
+  },
+  {
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
+   "extern": false
+  },
+  {
+   "text": "Liebesschlösser verhindern Tests, dann versagt die Brücke gleich zweimal",
+   "url": "https://www.ingenieur.de/liebesschloesser-verhindern-tests-dann-versagt-die-bruecke-gleich-zweimal-69ce1f58-bbb3-49d4-92c1-4fa52be654b1/",
+   "extern": false
+  },
+  {
+   "text": "Energiespeicher",
+   "url": "https://www.ingenieur.de/energiespeicher/",
+   "extern": false
+  },
+  {
+   "text": "Wenn das Stromnetz voll ist: Industriebatterien sollen Ökostrom retten",
+   "url": "https://www.ingenieur.de/wenn-das-stromnetz-voll-ist-industriebatterien-sollen-okostrom-retten-65baf1db-a333-4467-b17f-a23d354cd742/",
+   "extern": false
+  },
+  {
+   "text": "Finanzen & Geldanlage",
+   "url": "https://www.ingenieur.de/finanzen-geldanlage/",
+   "extern": false
+  },
+  {
+   "text": "Ethereum in der Krise: Jetzt will der Erfinder Bitcoin angreifen",
+   "url": "https://www.ingenieur.de/ethereum-in-der-krise-jetzt-will-der-erfinder-bitcoin-angreifen-bab45789-1456-4360-9794-57af2eea6d9b/",
    "extern": false
   },
   {
@@ -353,33 +353,43 @@
    "extern": false
   },
   {
+   "text": "Bundesagentur für Arbeit",
+   "url": "https://www.ingenieur.de/firmenprofile/bundesagentur-fuer-arbeit/",
+   "extern": false
+  },
+  {
+   "text": "maxon motor gmbh",
+   "url": "https://www.ingenieur.de/firmenprofile/maxon-motor-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "Fernstraßen-Bundesamt",
+   "url": "https://www.ingenieur.de/firmenprofile/fernstrassen-bundesamt/",
+   "extern": false
+  },
+  {
+   "text": "NUKEM Technologies Engineering Services GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/nukem-technologies-engineering-services-gmbh/",
+   "extern": false
+  },
+  {
    "text": "ASML Berlin GmbH",
    "url": "https://www.ingenieur.de/firmenprofile/asml-berlin-gmbh/",
    "extern": false
   },
   {
-   "text": "HARIBO Deutschland",
-   "url": "https://www.ingenieur.de/firmenprofile/haribo-deutschland/",
+   "text": "Physik Instrumente (PI) GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/physik-instrumente-pi-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "HHLA Sky GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/hhla-sky-gmbh/",
+   "text": "Jacobs GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/jacobs-gmbh/",
    "extern": false
   },
   {
-   "text": "ZEISS",
-   "url": "https://www.ingenieur.de/firmenprofile/zeiss/",
-   "extern": false
-  },
-  {
-   "text": "PLANFRED GMBH",
-   "url": "https://www.ingenieur.de/firmenprofile/planfred-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "ACONEXT Stuttgart GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/aconext-stuttgart-gmbh/",
+   "text": "Freudenberg Sealing Technologies GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/freudenberg-sealing-technologies-gmbh-co-kg/",
    "extern": false
   },
   {
@@ -388,28 +398,18 @@
    "extern": false
   },
   {
-   "text": "ITK Engineering GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/itk-engineering-gmbh/",
+   "text": "Kistler Instrumente GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/kistler-instrumente-gmbh/",
    "extern": false
   },
   {
-   "text": "Fresenius Group",
-   "url": "https://www.ingenieur.de/firmenprofile/fresenius-group/",
+   "text": "Region Mainfranken GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/region-mainfranken-gmbh/",
    "extern": false
   },
   {
-   "text": "Deutsches Zentrum für Luft- und Raumfahrt e.V.",
-   "url": "https://www.ingenieur.de/firmenprofile/deutsches-zentrum-fuer-luft-und-raumfahrt-e-v/",
-   "extern": false
-  },
-  {
-   "text": "Quantum-Systems GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/quantum-systems-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "EPLAN Software & Service GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/eplan-software-service-gmbh-co-kg/",
+   "text": "Dassault Systèmes Deutschland GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/dassault-systemes-deutschland-gmbh/",
    "extern": false
   }
  ],
