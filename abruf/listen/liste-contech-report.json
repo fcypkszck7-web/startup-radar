@@ -2,13 +2,14 @@
  "quelle": "liste-contech-report",
  "name": "starting-up.de – ConTech-Start-up-Report 2026",
  "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
- "abgerufen": "2026-11-13",
+ "abgerufen": "2026-11-14",
  "koepfe": [
   "Highlights des Jahres",
   "Zum Newsletter per QR-Code",
   "Frage des Monats",
   "22.06.2026",
-  "Jack Ma: Der Mann hinter Alibaba"
+  "Jack Ma: Der Mann hinter Alibaba",
+  "Geld ist nichts für die Bank"
  ],
  "links": [
   {
@@ -135,11 +136,6 @@
    "text": "SportTech-Start-up-Report 2026",
    "url": "https://www.starting-up.de/geschaeftsideen/trends/sporttech-start-up-report-2026.html",
    "extern": false
-  },
-  {
-   "text": "Circular Valley Forum 2026, Wuppertal",
-   "url": "https://emanuel-schorr.de/event/circular-valley-forum-2026/",
-   "extern": true
   },
   {
    "text": "Advanced Recycling Conference 2026, Köln",
@@ -292,23 +288,13 @@
    "extern": false
   },
   {
-   "text": "Brandenburg Labs",
-   "url": "https://brandenburg-labs.com/",
-   "extern": true
-  },
-  {
-   "text": "Prof. Dr.-Ing. Karlheinz Brandenburg",
-   "url": "https://de.wikipedia.org/wiki/Karlheinz_Brandenburg",
-   "extern": true
-  },
-  {
-   "text": "Bundesagentur für Sprunginnovationen (SPRIND)",
-   "url": "https://www.sprind.org/",
+   "text": "HARTLICH Steuerberatung",
+   "url": "https://www.hartlich-steuerberatung.de/index.html",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/prof-karlheinz-brandenburg-vom-mp3-triumph-zur-audio-ar.html",
+   "url": "https://www.starting-up.de/ideen/unternehmer-typen/fabian-hartlich-vom-start-up-zur-kanzlei-der-zukunft.html",
    "extern": false
   },
   {
@@ -317,18 +303,13 @@
    "extern": false
   },
   {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/travis-kalanick-und-die-uber-story.html",
-   "extern": false
-  },
-  {
-   "text": "Immoly",
-   "url": "https://immoly.ai/",
+   "text": "Spark e-Fuels",
+   "url": "https://www.sparkefuels.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/immoly-ki-statt-aktenordner.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spark-e-fuels-vom-labor-pitch-zum-e-kerosin-hoffnungstraeger.html",
    "extern": false
   },
   {
@@ -347,63 +328,23 @@
    "extern": false
   },
   {
-   "text": "Tanso",
-   "url": "https://www.tanso.de/",
-   "extern": true
-  },
-  {
-   "text": "Atlas Metrics",
-   "url": "https://www.atlasmetrics.io/",
-   "extern": true
-  },
-  {
-   "text": "Kertos",
-   "url": "https://kertos.io/",
-   "extern": true
-  },
-  {
-   "text": "Kodex AI",
-   "url": "https://www.kodex-ai.com/",
-   "extern": true
-  },
-  {
-   "text": "Sunhat",
-   "url": "https://www.getsunhat.com/de",
-   "extern": true
-  },
-  {
-   "text": "Fides-Technology",
-   "url": "https://fides.technology/de",
-   "extern": true
-  },
-  {
-   "text": "Briink",
-   "url": "https://www.briink.com/",
-   "extern": true
-  },
-  {
-   "text": "ContractHero",
-   "url": "https://www.contracthero.com/",
+   "text": "Biodiversity Credits",
+   "url": "https://initiatives.weforum.org/financing-for-nature/biodiversitycreditsinitiative",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/regtech-start-up-report-2026.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/naturetech-start-ups-und-die-messbarkeits-illusion.html",
    "extern": false
   },
   {
-   "text": "LYBS",
-   "url": "https://lybs.eu/",
-   "extern": true
-  },
-  {
-   "text": "Sonica",
-   "url": "https://www.sonica.studio/",
+   "text": "Helmit",
+   "url": "https://www.helmit.org/de",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/sonica-ki-sound-ohne-abmahnrisiko.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/helmit-der-digitale-schutzschild-gegen-cybermobbing.html",
    "extern": false
   },
   {
@@ -427,23 +368,18 @@
    "extern": false
   },
   {
-   "text": "ScanlyAI",
-   "url": "https://www.scanlyai.de/login",
-   "extern": true
-  },
-  {
-   "text": "SFP-IT",
-   "url": "https://www.sfp-it.de/",
-   "extern": true
-  },
-  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/scanlyai-produkt-listings-neu-gedacht.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/b2b-edtech-start-up-report.html",
    "extern": false
   },
   {
+   "text": "CoTrainer",
+   "url": "https://www.cotrainer.com/",
+   "extern": true
+  },
+  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/savin-zinsen-statt-strom-schock.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/cotrainer-vom-ascheplatz-in-die-cloud.html",
    "extern": false
   },
   {

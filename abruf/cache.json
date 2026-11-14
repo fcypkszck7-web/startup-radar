@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-13",
+  "geholt": "2026-11-14",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -41661,6 +41661,807 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": "startup-trifft-mittelstand-bw-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/13/4/2027/seminar-von-der-idee-zum-produkt-1-1": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Seminar: Vom Markt zum Firmenaufbau",
+    "start": "2027-04-13",
+    "ende": "2027-04-13",
+    "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/13/4/2027/seminar-von-der-idee-zum-produkt-1-1",
+    "veranstalter": "",
+    "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-04-13|digitale-oberpfalz.de/news-events/termine/detail/13/4/2027/seminar-von-der-idee-zum-produkt-1-1",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Tutorial: Finanzierung innovativer Unternehmen",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "eu01web.zoom.us/webinar/register/WN_78CUd16gTzm0LwOnmd2NCw",
+    "land": "",
+    "online": true,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
+    "veranstalter": "",
+    "kurz": "Online, 17:00 - 19:30 Uhr",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|techbase.de/news-termine/events-termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/19-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-5": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Veranstaltung: Terrains: Kritische Perspektiven und Methoden in Geographie, Anthropologie und Geschichte",
+    "start": "2026-11-19",
+    "ende": "2026-11-19",
+    "ort": "H8",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/19-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-5",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-19|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/19-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-5",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/19-11-2026_vertriebene-gestern-gefluechtete-heute-deutsche-und-ukrainische-erfahrungen-im-gespraech": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/fotomarathon-stadtleben": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/20-11-2026_cross-campus-cook-amp-connect": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/dokforum-netzwerkveranstaltung-fuer-promovierende": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "dok.Forum: Netzwerkveranstaltung für Promovierende",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/dokforum-netzwerkveranstaltung-fuer-promovierende",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|oth-regensburg.de/termine/detailansicht/dokforum-netzwerkveranstaltung-fuer-promovierende",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/21-11-2026_campus-clean-upnbsp": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/traditionelles-syrisches-mosaik-selbst-gestalten": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620645": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/21-11-2026_rueckensymposium-2026-1": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621063": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/digitalisierung/detail/from-data-strategy-to-adoption-building-trusted-foundations-for-governance-and-ai/": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "From Data Strategy to Adoption: Building Trusted Foundations for Governance and AI",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.bayern-innovativ.de/events-termine/digitalisierung/detail/from-data-strategy-to-adoption-building-trusted-foundations-for-governance-and-ai/",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-12-03|bayern-innovativ.de/events-termine/digitalisierung/detail/from-data-strategy-to-adoption-building-trusted-foundations-for-governance-and-ai",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": "from-data-strategy-to-adoption-building-trusted-foundations-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621146": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/606237": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/dmea-2027/": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "DMEA 2027",
+    "start": "2027-04-13",
+    "ende": "2027-04-13",
+    "ort": "München",
+    "land": "",
+    "online": true,
+    "url": "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/dmea-2027/",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-04-13|bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/dmea-2027",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": "solarplaza-summit-energy-storage-the-netherlands-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621064": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/startup-factory-regensburg-2026/": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "StartUP Factory Regensburg 2026",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "TechBase Regensburg, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/startup-factory-regensburg-2026/",
+    "veranstalter": "",
+    "kurz": "Tauche für 48 Stunden intensiv in die Gründerwelt ein!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation",
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2026-11-26|gruenderland.bayern/veranstaltungen/event/startup-factory-regensburg-2026",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/599076": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/hochschul-und-transfertag/": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Hochschul- und Transfertag Main-Spessart",
+    "start": "2026-11-30",
+    "ende": "2026-11-30",
+    "ort": "Stadthalle Lohr a.Main, Lohr a",
+    "land": "",
+    "online": true,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/hochschul-und-transfertag/",
+    "veranstalter": "",
+    "kurz": "Wirtschaft trifft Forschung",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-30|gruenderland.bayern/veranstaltungen/event/hochschul-und-transfertag",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.hwk-muenchen.de/termine/betriebsnachfolge-ablauf-chance-und-risiken-74,0,evedetail.html?eve=5171": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Betriebsnachfolge - Ablauf, Chance und Risiken",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "Bildungszentrum Ingolstadt, Ingolstadt",
+    "land": "",
+    "online": false,
+    "url": "https://www.hwk-muenchen.de/termine/betriebsnachfolge-ablauf-chance-und-risiken-74,0,evedetail.html?eve=5171",
+    "veranstalter": "Betriebswirtschaftliche Berater der Handwerkskammer für München und Oberbayern",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "hwk-muenchen",
+    "quelle_name": "Handwerkskammer für München und Oberbayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Handwerk"
+    ],
+    "schluessel": "2026-11-24|hwk-muenchen.de/termine/betriebsnachfolge-ablauf-chance-und-risiken-74,0,evedetail.html",
+    "quellen": [
+     "hwk-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620817": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/startup-finanzierung-leicht-erklaert-1/": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Tutorial: Finanzierung für dein Startup – von Fördermitteln bis Venture Capital",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "Online-Veranstaltung",
+    "land": "",
+    "online": true,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/startup-finanzierung-leicht-erklaert-1/",
+    "veranstalter": "",
+    "kurz": "Expertinnen und Experten erzählen aus der Praxis",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-02|gruenderland.bayern/veranstaltungen/event/startup-finanzierung-leicht-erklaert-1",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620453": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620640": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620177": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/auto-camping-caravan-2026": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "AUTO CAMPING CARAVAN",
+    "start": "2026-11-29",
+    "ende": "2026-11-29",
+    "ort": "Messegelände Berlin",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/auto-camping-caravan-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-29|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/auto-camping-caravan-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/offroad-auf-der-outventure-berlin-2026": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "OFFROAD auf der OutVenture Berlin",
+    "start": "2026-11-29",
+    "ende": "2026-11-29",
+    "ort": "Berlin Expo Center City",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/offroad-auf-der-outventure-berlin-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-29|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/offroad-auf-der-outventure-berlin-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.biz-up.at/veranstaltung/abgesagt-die-kosten-des-status-quo-19-11-2026": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "ABGESAGT: Die Kosten des Status quo",
+    "start": "2026-11-19",
+    "ende": "2026-11-19",
+    "ort": "Wien",
+    "land": "",
+    "online": false,
+    "url": "https://www.biz-up.at/veranstaltung/abgesagt-die-kosten-des-status-quo-19-11-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "business-upper-austria",
+    "quelle_name": "Business Upper Austria – Veranstaltungen",
+    "region_hinweis": "Österreich",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-19|biz-up.at/veranstaltung/abgesagt-die-kosten-des-status-quo-19-11-2026",
+    "quellen": [
+     "business-upper-austria"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/global-entrepreneurship-week-basel-2026": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Global Entrepreneurship Week Basel 2026",
+    "start": "2027-02-13",
+    "ende": "2027-02-13",
+    "ort": "Basel, several locations",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/global-entrepreneurship-week-basel-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-02-13|startupticker.ch/en/events/global-entrepreneurship-week-basel-2026",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/the-future-oncology-portfolio-build-buy-or-be-left-behind": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "The Future Oncology Portfolio: Build, Buy or Be Left Behind?",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "Roche Reception 92 (Building 92) Grenzacherstrasse 124, Basel,",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/the-future-oncology-portfolio-build-buy-or-be-left-behind",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-23|startupticker.ch/en/events/the-future-oncology-portfolio-build-buy-or-be-left-behind",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/transporter-tage-berlin-2026": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Transporter Tage Berlin",
+    "start": "2026-11-29",
+    "ende": "2026-11-29",
+    "ort": "Messegelände Berlin",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/transporter-tage-berlin-2026",
+    "veranstalter": "",
+    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-29|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/transporter-tage-berlin-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/itb-asia-select-indonesia-2027-2027": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "ITB Asia Select Indonesia 2027",
+    "start": "2027-06-24",
+    "ende": "2027-06-24",
+    "ort": "Swissôtel Jakarta PIK Avenue, Indonesia",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/itb-asia-select-indonesia-2027-2027",
+    "veranstalter": "",
+    "kurz": "Connecting Indonesia to the Global Travel Industry",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2027-06-24|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/itb-asia-select-indonesia-2027-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": "metec-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startbase.de/events/app-vision-27-2027-01-cupra-city-garage-berlin/": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "APP VISION 27",
+    "start": "2027-01-28",
+    "ende": "2027-01-28",
+    "ort": "CUPRA City Garage Berlin, Berlin",
+    "land": "DE",
+    "online": false,
+    "url": "https://www.startbase.de/events/app-vision-27-2027-01-cupra-city-garage-berlin/",
+    "veranstalter": "",
+    "kurz": "Seit 2024 bringen wir Menschen zusammen, die digitale Produkte wirklich bauen. Keine Massenveranstaltung, kein Standard-Konferenzformat. Stattdessen ein kuratierter Raum für Product Leader, Gründer:innen und App-Macher:i",
+    "methode": "json-ld",
+    "quelle_id": "startbase-events",
+    "quelle_name": "Startbase – Start-up-Events Deutschland",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Software, KI & Daten",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-01-28|startbase.de/events/app-vision-27-2027-01-cupra-city-garage-berlin",
+    "quellen": [
+     "startbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794630628-cb64b334e": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2027-06-10",
+    "ende": "2027-06-10",
+    "ort": "Termin",
+    "land": "",
+    "online": false,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794630628-cb64b334e",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2027-06-10|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-05",
+    "erfasst_als": "intersolar-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "http://www.pvaexpo.cz/en/event/546": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "VOScon",
+    "start": "2026-12-12",
+    "ende": "2026-12-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.pvaexpo.cz/en/event/546",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-pva-prag",
+    "quelle_name": "PVA Expo Praha – Kalender",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-12|pvaexpo.cz/en/event/546",
+    "quellen": [
+     "messe-pva-prag"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/scenotechnika-expo/": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://warsawexpo.eu/en/fair-calendar/broadcasting-forum/": {
+  "geholt": "2026-11-14",
+  "events": [],
+  "v": 2
+ },
+ "https://een.ec.europa.eu/events/trade-mission-sweden-2026": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "Trade Mission to Sweden 2026",
+    "start": "2026-11-13",
+    "ende": "2026-11-13",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://een.ec.europa.eu/events/trade-mission-sweden-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "een-events",
+    "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-13|een.ec.europa.eu/events/trade-mission-sweden-2026",
+    "quellen": [
+     "een-events"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": "bimexpo-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://een.ec.europa.eu/events/medica-healthcare-brokerage-event-2026": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "MEDICA Healthcare Brokerage Event 2026",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://een.ec.europa.eu/events/medica-healthcare-brokerage-event-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "een-events",
+    "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-16|een.ec.europa.eu/events/medica-healthcare-brokerage-event-2026",
+    "quellen": [
+     "een-events"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": "formnext-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://een.ec.europa.eu/events/fame-ecosys-austria-accelerating-advanced-materials-innovation-and-collaboration": {
+  "geholt": "2026-11-14",
+  "events": [
+   {
+    "titel": "FAME-Ecosys Austria - Accelerating Advanced Materials Innovation and Collaboration",
+    "start": "2026-11-15",
+    "ende": "2026-11-15",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://een.ec.europa.eu/events/fame-ecosys-austria-accelerating-advanced-materials-innovation-and-collaboration",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "een-events",
+    "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [
+     "Material & Kreislauf",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-15|een.ec.europa.eu/events/fame-ecosys-austria-accelerating-advanced-materials-innovation-and-collaboration",
+    "quellen": [
+     "een-events"
+    ],
+    "zuerst_gesehen": "2026-11-14",
+    "erfasst_als": null,
     "entscheidung": ""
    }
   ],
