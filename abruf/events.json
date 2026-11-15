@@ -1,276 +1,5 @@
 [
  {
-  "titel": "Ausstellung - Wege des Ankommens (syrischer) MigrantInnen in Deutschland",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/ausstellung-wege-des-ankommens-syrischer-migrantinnen-in-deutschland",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-13|uni-passau.de/veranstaltungskalender/detail/event/ausstellung-wege-des-ankommens-syrischer-migrantinnen-in-deutschland",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Innovationstag Bauen der Zukunft",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "Vertretung des Landes Niedersachsen beim Bund, In den Ministergärten 10, 10117 Berlin",
-  "land": "",
-  "online": true,
-  "url": "https://www.bauindustrie.de/termine/termine-detail/innovationstag-bauen-der-zukunft",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "bauindustrie-de",
-  "quelle_name": "Hauptverband der Deutschen Bauindustrie – Veranstaltungen",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-13|bauindustrie.de/termine/termine-detail/innovationstag-bauen-der-zukunft",
-  "quellen": [
-   "bauindustrie-de"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "innovationstag-bauen-der-zukunft-berlin-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Lancaster Insurance Classic Motor Show - Day 1",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/classic-motor-show/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-13|thenec.co.uk/events/classic-motor-show",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Look",
-  "start": "2026-11-13",
-  "ende": "2026-11-15",
-  "ort": "IFEMA, Madrid",
-  "land": "ES",
-  "online": false,
-  "url": "https://www.ifema.es/en/look",
-  "veranstalter": "IFEMA MADRID",
-  "kurz": "The International Image and Integral Aesthetics Exhibition",
-  "methode": "json-ld",
-  "quelle_id": "messe-ifema",
-  "quelle_name": "IFEMA Madrid – Messekalender",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-13|ifema.es/en/look",
-  "quellen": [
-   "messe-ifema"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Mind Body Spirit Festival - Day 1",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/mind-body-spirit/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-13|thenec.co.uk/events/mind-body-spirit",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Multimedia Live-Reportage: Das neue Syrien. Reise durch ein Land im Umbruch",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/multimedia-live-reportage-das-neue-syrien-reise-durch-ein-land-im-umbruch",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-13|uni-passau.de/veranstaltungskalender/detail/event/multimedia-live-reportage-das-neue-syrien-reise-durch-ein-land-im-umbruch",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "SEMICON Europa 2026",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "München",
-  "land": "",
-  "online": false,
-  "url": "https://messe-muenchen.de/de/veranstaltungen/semicon-europa-2026.html",
-  "veranstalter": "Messe München GmbH",
-  "kurz": "Die von SEMI Europe organisierte SEMICON Europa co-located mit productronica / electronica ist die größte europäische Elektronikplattform.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-muenchen",
-  "quelle_name": "Messe München – Messekalender",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-13|messe-muenchen.de/de/veranstaltungen/semicon-europa-2026.html",
-  "quellen": [
-   "messe-muenchen"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "bimexpo-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Trade Mission to Sweden 2026",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://een.ec.europa.eu/events/trade-mission-sweden-2026",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "een-events",
-  "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-13|een.ec.europa.eu/events/trade-mission-sweden-2026",
-  "quellen": [
-   "een-events"
-  ],
-  "zuerst_gesehen": "2026-11-14",
-  "erfasst_als": "bimexpo-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "air cargo Türkiye 2026",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://messe-muenchen.de/de/veranstaltungen/air-cargo-tuerkiye-2026.html",
-  "veranstalter": "Messe München GmbH",
-  "kurz": "air cargo Türkiye, als Teil der logitrans, vereint die Akteure der Luftfrachtindustrie am strategischen Knotenpunkt Istanbul",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-muenchen",
-  "quelle_name": "Messe München – Messekalender",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Industrie & Fertigung"
-  ],
-  "schluessel": "2026-11-13|messe-muenchen.de/de/veranstaltungen/air-cargo-tuerkiye-2026.html",
-  "quellen": [
-   "messe-muenchen"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "bimexpo-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "electronica 2026",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "München",
-  "land": "",
-  "online": false,
-  "url": "https://messe-muenchen.de/de/veranstaltungen/electronica-2026.html",
-  "veranstalter": "Messe München GmbH",
-  "kurz": "Alle zwei Jahre trifft sich die Welt der Elektronik in München. Hier gestalten sie gemeinsam eine nachhaltige und lebenswerte Zukunft im Sinne der All Electric Society.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-muenchen",
-  "quelle_name": "Messe München – Messekalender",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Material & Kreislauf"
-  ],
-  "schluessel": "2026-11-13|messe-muenchen.de/de/veranstaltungen/electronica-2026.html",
-  "quellen": [
-   "messe-muenchen"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "adhesives-bonding-expo-europe-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "logitrans Türkiye 2026",
-  "start": "2026-11-13",
-  "ende": "2026-11-13",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://messe-muenchen.de/de/veranstaltungen/logitrans-tuerkiye-2026.html",
-  "veranstalter": "Messe München GmbH",
-  "kurz": "logitrans – the largest logistics gathering in the Eurasia region",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-muenchen",
-  "quelle_name": "Messe München – Messekalender",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Logistik & Handel"
-  ],
-  "schluessel": "2026-11-13|messe-muenchen.de/de/veranstaltungen/logitrans-tuerkiye-2026.html",
-  "quellen": [
-   "messe-muenchen"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "bimexpo-2026",
-  "entscheidung": ""
- },
- {
   "titel": "Lancaster Insurance Classic Motor Show - Day 2",
   "start": "2026-11-14",
   "ende": "2026-11-14",
@@ -317,78 +46,6 @@
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
  },
  {
-  "titel": "Mitgliederversammlung Hertha BSC",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "H21a,H21b",
-  "land": "",
-  "online": false,
-  "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/mitgliederversammlung-hertha-bsc-2026",
-  "veranstalter": "",
-  "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-berlin",
-  "quelle_name": "Messe Berlin – Veranstaltungen",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-14|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/mitgliederversammlung-hertha-bsc-2026",
-  "quellen": [
-   "messe-berlin"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
- },
- {
-  "titel": "Praktikumslehrkräftetag für Grund- und Mittelschulen",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/praktikumslehrkraeftetag-fuer-grund-und-mittelschulen-1",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-14|uni-passau.de/veranstaltungskalender/detail/event/praktikumslehrkraeftetag-fuer-grund-und-mittelschulen-1",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Präsenz-Infoveranstaltung zum berufsbegleitenden Bachelor Betriebswirtschaft (B.A.) inkl. Schnuppervorlesung",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/praesenz-infoveranstaltung-zum-berufsbegleitenden-bachelor-betriebswirtschaft-inkl-schnuppervorlesung",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-14|oth-regensburg.de/termine/detailansicht/praesenz-infoveranstaltung-zum-berufsbegleitenden-bachelor-betriebswirtschaft-inkl-schnuppervorlesung",
-  "quellen": [
-   "oth-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-11",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "The Super Weekender Dance Convention - Day 1",
   "start": "2026-11-14",
   "ende": "2026-11-14",
@@ -410,54 +67,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Von anderen Kulturen lernen: Syrischer Kochkurs",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/von-anderen-kulturen-lernen-syrischer-kochkurs",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-14|uni-passau.de/veranstaltungskalender/detail/event/von-anderen-kulturen-lernen-syrischer-kochkurs",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-13",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Weiterbildungswoche: Große Info-Woche rund um die berufsbegleitende Weiterbildung an der OTH Regensburg",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.oth-regensburg.de/termine/detailansicht/weiterbildungswoche-grosse-info-woche-rund-um-die-berufsbegleitende-weiterbildung-an-der-oth-regensburg",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "oth-regensburg",
-  "quelle_name": "OTH Regensburg – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-14|oth-regensburg.de/termine/detailansicht/weiterbildungswoche-grosse-info-woche-rund-um-die-berufsbegleitende-weiterbildung-an-der-oth-regensburg",
-  "quellen": [
-   "oth-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Studien- und Weiterbildungsberatung, Kultur, Fremdbranche)"
  },
  {
   "titel": "Augsburger Kreuzfahrt-Messe",
@@ -508,32 +117,6 @@
   "zuerst_gesehen": "2026-11-06",
   "erfasst_als": "deadline-basel-goes-circular-2026",
   "entscheidung": "aufgenommen: deadline-basel-goes-circular-2026"
- },
- {
-  "titel": "Deadline RUNWAY Incubator",
-  "start": "2026-11-15",
-  "ende": "2026-11-15",
-  "ort": "Startup Camp India",
-  "land": "",
-  "online": false,
-  "url": "https://www.startupticker.ch/en/events/deadline-runway-incubator",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "startupticker",
-  "quelle_name": "Startupticker.ch – Events",
-  "region_hinweis": "Schweiz",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-15|startupticker.ch/en/events/deadline-runway-incubator",
-  "quellen": [
-   "startupticker"
-  ],
-  "zuerst_gesehen": "2026-11-06",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
  },
  {
   "titel": "Deadline Swissnex Startup Camp Brazil",
@@ -984,6 +567,30 @@
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
  },
  {
+  "titel": "Info­­veranstaltung der Ethik­­kommission zu Anträgen und Beratung",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/infoveranstaltung-der-ethikkommission-zu-antraegen-und-beratung",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-16|uni-passau.de/veranstaltungskalender/detail/event/infoveranstaltung-der-ethikkommission-zu-antraegen-und-beratung",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-15",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Innovation Coffee Hochschule für angewandte Wissenschaften Coburg",
   "start": "2026-11-16",
   "ende": "2026-11-16",
@@ -1142,6 +749,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "leg-reiner-wasserstoff-aus-guelle-2026",
   "entscheidung": "aufgenommen: leg-reiner-wasserstoff-aus-guelle-2026"
+ },
+ {
+  "titel": "Lernwerkstatt Religionsunterricht: Vielfalt erleben: Katholisch-Sein",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/lernwerkstatt-religionsunterricht-vielfalt-erleben-katholisch-sein",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-16|uni-passau.de/veranstaltungskalender/detail/event/lernwerkstatt-religionsunterricht-vielfalt-erleben-katholisch-sein",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-15",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "MADRID TOP WINE by Peñín",
@@ -1596,6 +1227,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Citavi: Intensivkurs mit Übungen",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/citavi-intensivkurs-mit-uebungen-15",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|uni-passau.de/veranstaltungskalender/detail/event/citavi-intensivkurs-mit-uebungen-15",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-15",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Cybersecurity Region Stuttgart Meetup meets KI Summit Stuttgart @INSOMNIA",
   "start": "2026-11-17",
   "ende": "2026-11-17",
@@ -1671,6 +1326,30 @@
   "zuerst_gesehen": "2026-11-05",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
+ },
+ {
+  "titel": "English I Think",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/english-i-think",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|uni-passau.de/veranstaltungskalender/detail/event/english-i-think",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-15",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Erfahrungsaustauschrunde Recruiting VM (3. Termin 2026)",
@@ -2344,6 +2023,54 @@
    "messe-rai"
   ],
   "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "The documentation of the chiquitano oral tradition in Bolivia",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-15",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "The documentation of the chiquitano oral tradition in Bolivia",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia-1",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia-1",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-15",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -6139,6 +5866,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "CSEM Photonic Day 2026",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "Technopark Zürich, Technoparkstrasse 1, 8005 Zürich (https://maps.app.goo.gl/KHrQLe7GFdN8ezao9)",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/csem-photonic-day-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-24|startupticker.ch/en/events/csem-photonic-day-2026",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-15",
+  "erfasst_als": "genera-2026",
+  "entscheidung": ""
+ },
+ {
   "titel": "Christkindlmarkt & Sandora-Garten",
   "start": "2026-11-24",
   "ende": "2026-11-24",
@@ -9735,6 +9486,30 @@
   "entscheidung": "aufgenommen: sustainable-solutions-2026"
  },
  {
+  "titel": "Ausstellung „Science goes Regional“",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "Kelheim",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/ausstellung-science-goes-regional",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-03|oth-regensburg.de/termine/detailansicht/ausstellung-science-goes-regional",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-15",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Christmas Party World 2026 - Day 7",
   "start": "2026-12-03",
   "ende": "2026-12-03",
@@ -10168,6 +9943,30 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-13",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Akademische Jahresfeier",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "ort": "Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/akademische-jahresfeier-2",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-04|oth-regensburg.de/termine/detailansicht/akademische-jahresfeier-2",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-15",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -10763,6 +10562,32 @@
   "zuerst_gesehen": "2026-11-06",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
+ },
+ {
+  "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+  "start": "2026-12-07",
+  "ende": "2026-12-07",
+  "ort": "Termin",
+  "land": "",
+  "online": false,
+  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794717111-c048ce845",
+  "veranstalter": "",
+  "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "intersolar-events",
+  "quelle_name": "The smarter E Europe – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
+  "quellen": [
+   "intersolar-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": null,
+  "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
  },
  {
   "titel": "Winter Funland - Day 3",
@@ -18411,6 +18236,32 @@
   "entscheidung": "aufgenommen: solarplaza-summit-energy-storage-the-netherlands-2027"
  },
  {
+  "titel": "Texterstellung mit KI: Marketingtexte im Handwerk effizient umsetzen",
+  "start": "2027-04-13",
+  "ende": "2027-04-13",
+  "ort": "Handwerkskammer in Regensburg, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.hwkno.de/termine/texterstellung-mit-ki-marketingtexte-im-handwerk-effizient-umsetzen-76,0,evedetail.html?eve=1851",
+  "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwkno",
+  "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Handwerk",
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2027-04-13|hwkno.de/termine/texterstellung-mit-ki-marketingtexte-im-handwerk-effizient-umsetzen-76,0,evedetail.html",
+  "quellen": [
+   "hwkno"
+  ],
+  "zuerst_gesehen": "2026-11-15",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "The Forecourt Show 2027 - Day 2",
   "start": "2027-04-13",
   "ende": "2027-04-13",
@@ -20029,32 +19880,6 @@
   "zuerst_gesehen": "2026-11-07",
   "erfasst_als": "the-founder-bootcamp-2027",
   "entscheidung": "aufgenommen: the-founder-bootcamp-2027"
- },
- {
-  "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
-  "start": "2027-06-10",
-  "ende": "2027-06-10",
-  "ort": "Termin",
-  "land": "",
-  "online": false,
-  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794630628-cb64b334e",
-  "veranstalter": "",
-  "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "intersolar-events",
-  "quelle_name": "The smarter E Europe – Veranstaltungen",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Energie & Solar"
-  ],
-  "schluessel": "2027-06-10|intersolar.de/konferenz/call-for-abstracts",
-  "quellen": [
-   "intersolar-events"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "intersolar-2027",
-  "entscheidung": ""
  },
  {
   "titel": "EULAR 2027",

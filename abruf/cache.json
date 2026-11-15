@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-14",
+  "geholt": "2026-11-15",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -42463,6 +42463,395 @@
     "zuerst_gesehen": "2026-11-14",
     "erfasst_als": null,
     "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/23-11-2026_alleinerziehend-aber-nicht-allein-familienbilder-und-alltagserfahrungen": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.hwkno.de/termine/texterstellung-mit-ki-marketingtexte-im-handwerk-effizient-umsetzen-76,0,evedetail.html?eve=1851": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "Texterstellung mit KI: Marketingtexte im Handwerk effizient umsetzen",
+    "start": "2027-04-13",
+    "ende": "2027-04-13",
+    "ort": "Handwerkskammer in Regensburg, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.hwkno.de/termine/texterstellung-mit-ki-marketingtexte-im-handwerk-effizient-umsetzen-76,0,evedetail.html?eve=1851",
+    "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "hwkno",
+    "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Handwerk",
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2027-04-13|hwkno.de/termine/texterstellung-mit-ki-marketingtexte-im-handwerk-effizient-umsetzen-76,0,evedetail.html",
+    "quellen": [
+     "hwkno"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/infoveranstaltung-der-ethikkommission-zu-antraegen-und-beratung": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "Info­­veranstaltung der Ethik­­kommission zu Anträgen und Beratung",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/infoveranstaltung-der-ethikkommission-zu-antraegen-und-beratung",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-16|uni-passau.de/veranstaltungskalender/detail/event/infoveranstaltung-der-ethikkommission-zu-antraegen-und-beratung",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/ausstellung-science-goes-regional": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "Ausstellung „Science goes Regional“",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "Kelheim",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/ausstellung-science-goes-regional",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-03|oth-regensburg.de/termine/detailansicht/ausstellung-science-goes-regional",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/lernwerkstatt-religionsunterricht-vielfalt-erleben-katholisch-sein": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "Lernwerkstatt Religionsunterricht: Vielfalt erleben: Katholisch-Sein",
+    "start": "2026-11-16",
+    "ende": "2026-11-16",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/lernwerkstatt-religionsunterricht-vielfalt-erleben-katholisch-sein",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-16|uni-passau.de/veranstaltungskalender/detail/event/lernwerkstatt-religionsunterricht-vielfalt-erleben-katholisch-sein",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620376": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/akademische-jahresfeier-2": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "Akademische Jahresfeier",
+    "start": "2026-12-04",
+    "ende": "2026-12-04",
+    "ort": "Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/akademische-jahresfeier-2",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-04|oth-regensburg.de/termine/detailansicht/akademische-jahresfeier-2",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/citavi-intensivkurs-mit-uebungen-15": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "Citavi: Intensivkurs mit Übungen",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/citavi-intensivkurs-mit-uebungen-15",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-17|uni-passau.de/veranstaltungskalender/detail/event/citavi-intensivkurs-mit-uebungen-15",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/598442": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "The documentation of the chiquitano oral tradition in Bolivia",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-17|uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620387": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia-1": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "The documentation of the chiquitano oral tradition in Bolivia",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia-1",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-17|uni-passau.de/veranstaltungskalender/detail/event/the-documentation-of-the-chiquitano-oral-tradition-in-bolivia-1",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/619497": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/english-i-think": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "English I Think",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/english-i-think",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-17|uni-passau.de/veranstaltungskalender/detail/event/english-i-think",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/573592": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620720": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/581843": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620638": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620751": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620642": {
+  "geholt": "2026-11-15",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/csem-photonic-day-2026": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "CSEM Photonic Day 2026",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "Technopark Zürich, Technoparkstrasse 1, 8005 Zürich (https://maps.app.goo.gl/KHrQLe7GFdN8ezao9)",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/csem-photonic-day-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-24|startupticker.ch/en/events/csem-photonic-day-2026",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-15",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794717111-c048ce845": {
+  "geholt": "2026-11-15",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2026-12-07",
+    "ende": "2026-12-07",
+    "ort": "Termin",
+    "land": "",
+    "online": false,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794717111-c048ce845",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
    }
   ],
   "v": 2
