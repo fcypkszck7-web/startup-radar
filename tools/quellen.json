@@ -803,7 +803,8 @@
    "region": "Europa",
    "typ": "Medien",
    "url": "https://www.eu-startups.com/events/",
-   "notiz": "Seite sperrt Browserabrufe (403); per Websuche abdecken"
+   "notiz": "2026-11-16: HTTP 403 seit 10.11. (Abruf gesperrt) – deaktiviert, per Websuche abdecken",
+   "aktiv": false
   },
   {
    "id": "contech-events-blackprint",

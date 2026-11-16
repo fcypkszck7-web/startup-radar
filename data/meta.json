@@ -1,16 +1,16 @@
 {
  "titel": "Start-up- & Event-Radar",
  "site_url": "https://fcypkszck7-web.github.io/startup-radar/",
- "stand": "2026-11-09",
+ "stand": "2026-11-16",
  "aenderungen": [
-  "Wöchentliche Aktualisierung am 09.11.2026: 90 neue Termine, davon 89 aus dem Kalenderabruf (u. a. dena Kongress, Bitkom Data Centre Summit, KEDi Convention, SEMICON Europa, CWIEME Berlin 2027, FusionX:Global 2027, METEC und THERMPROCESS 2027, parts2clean 2027, Solarplaza-Konferenzen 2027) und 1 aus der Websuche (Future Forward Wien).",
-  "10 neue Start-ups (u. a. reebuild, WALLROUND, Co-reactive, nuuEnergy, PIONIERKRAFT, cylib) und 2 neue Finanzierungsrunden.",
-  "6 geschätzte Messetermine bestätigt (EnergyDecentral, ROOF EXPO, GENERA, Future Battery Forum, ARCHITECT@WORK Frankfurt, BIMEXPO); 145 Kandidaten aus dem Abruf abgelehnt; 3 nicht abrufbare Kalender auf Websuche umgestellt."
+  "Wöchentliche Aktualisierung am 16.11.2026: 56 neue Termine aus dem Kalenderabruf (u. a. ESPC 2026 in Amsterdam, Fuels of the Future 2027, Kemnather Gründungsnacht, Solarplaza Summits Rumänien und Polen, Seminare der Energieberater und Handwerkskammern), 95 Kandidaten ohne Branchenbezug abgelehnt.",
+  "20 weitere Termine aus Terminzeilen und Lückencheck ergänzt, darunter 12 Fachmessen und Fachkongresse in DACH als geschätzte Termine (u. a. Fastener Fair Stuttgart, ALUMINIUM 2027, Perimeter Protection, f-cell, BIOGAS Convention) sowie Formate der Wirtschaftsagentur Wien.",
+  "5 neue Start-ups (Capmo, Nanolope, Hyperion Robotics, LAYERED, Hempstatic); 6 Termine der nächsten 30 Tage bzw. Fristen bestätigt (u. a. BIM World MUNICH, SPS, ROOF EXPO, Slush, Call for Abstracts The smarter E Europe); 51 Termine ins Archiv verschoben."
  ],
  "anzahl": {
-  "events_aktiv": 396,
-  "events_archiv": 48,
-  "startups": 115,
+  "events_aktiv": 416,
+  "events_archiv": 104,
+  "startups": 120,
   "runden": 51,
   "investoren": 13
  }

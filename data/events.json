@@ -2075,7 +2075,7 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false,
+  "archiv": true,
   "geo": [
    38.768,
    -9.094
@@ -2173,7 +2173,7 @@
   "gesamt": 3.0,
   "prioritaet": "B",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "kuwi-webinar-power-pitch-praesentationen-so-verkaufst-du-dei-2026",
@@ -2303,7 +2303,7 @@
   "gesamt": 3.0,
   "prioritaet": "B",
   "kategorie": "Sonstiges",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "16-maschinenbau-gipfel-2026",
@@ -2347,7 +2347,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "ai-sovereignty-charting-switzerland-s-path-amid-us-and-chine-2026",
@@ -2391,7 +2391,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "adhesives-bonding-expo-europe-2026",
@@ -2436,7 +2436,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "antragstraining-foerderprogramm-kmu-innovativ-2026",
@@ -2480,7 +2480,7 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Workshop & Seminar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "bimexpo-2026",
@@ -2525,7 +2525,7 @@
   "gesamt": 2.2,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "baubq-stammtisch-neu-gedacht-2026",
@@ -2571,7 +2571,7 @@
   "gesamt": 4.2,
   "prioritaet": "A",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "construtec-2026",
@@ -2616,7 +2616,7 @@
   "gesamt": 2.3,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "elmia-subcontractor-2026",
@@ -2661,7 +2661,7 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "energy-decentral-2026",
@@ -2706,7 +2706,7 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": true
  },
  {
   "rubrik": "eu",
@@ -2742,7 +2742,7 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false,
+  "archiv": true,
   "geo": [
    48.2082,
    16.3738
@@ -2795,7 +2795,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "pitch-match-2026",
@@ -2832,7 +2832,7 @@
   "gesamt": 4.4,
   "prioritaet": "A",
   "kategorie": "Matchmaking",
-  "archiv": false,
+  "archiv": true,
   "geo": null,
   "online": true,
   "branchen": [
@@ -2885,7 +2885,7 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "praxisworkshop-ai-fuer-unternehmen-ai4b-2026",
@@ -2929,7 +2929,7 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Workshop & Seminar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "semicon-europa-2026",
@@ -2974,7 +2974,7 @@
   "gesamt": 2.5,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "stammtisch-karlsruhe-2026",
@@ -3019,7 +3019,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "veteco-2026",
@@ -3064,7 +3064,7 @@
   "gesamt": 2.3,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "webinar-heizen-mit-der-sonne-solarthermie-pv-und-pvt-im-verg-2026",
@@ -3107,7 +3107,7 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "courage-26-investing-in-sustainable-futures-2026",
@@ -3152,7 +3152,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "gruenderseminar-im-landkreis-cham-teil-i-ii-2026",
@@ -3196,7 +3196,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Workshop & Seminar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "gruenderstammtisch-stuttgart-ein-zwangloses-treffen-fuer-gru-2026",
@@ -3240,7 +3240,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "krisenvorsorge-beim-stromausfall-alles-ueber-notstromaggrega-2026",
@@ -3283,7 +3283,7 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "logistics-automation-madrid-2026",
@@ -3328,7 +3328,7 @@
   "gesamt": 2.3,
   "prioritaet": "C",
   "kategorie": "Messe",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "matchmaking-erlangen-2026",
@@ -3369,7 +3369,7 @@
   "gesamt": 3.5,
   "prioritaet": "B",
   "kategorie": "Matchmaking",
-  "archiv": false,
+  "archiv": true,
   "branchen": [
    "Gründung & Innovation"
   ]
@@ -3418,7 +3418,7 @@
   "gesamt": 3.0,
   "prioritaet": "B",
   "kategorie": "Workshop & Seminar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "softwarepark-impulse-neue-rollen-neue-regeln-softwareentwick-2026",
@@ -3462,7 +3462,7 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "solarplaza-summit-finland-2026",
@@ -3506,7 +3506,7 @@
   "gesamt": 2.3,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "startup-im-handwerk-frag-uns-einfach-2026",
@@ -3549,7 +3549,7 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "vortrag-bau-einfach-gemeinsam-2026",
@@ -3593,7 +3593,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "startup-trifft-mittelstand-bw-2026",
@@ -3631,7 +3631,7 @@
   "gesamt": 3.8,
   "prioritaet": "B",
   "kategorie": "Matchmaking",
-  "archiv": false,
+  "archiv": true,
   "branchen": [
    "Gründung & Innovation",
    "Software, KI & Daten"
@@ -3679,7 +3679,7 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Pitch & Demo Day",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "business-leaders-evening-your-ai-your-data-under-your-roof-2026",
@@ -3723,7 +3723,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "bitkom-data-centre-summit-2026",
@@ -3768,7 +3768,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "ecosystem-event-engineering-2026",
@@ -3813,7 +3813,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "fachvortrag-auditor-in-fuer-iso-50001-managementsysteme-2026",
@@ -3855,7 +3855,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "gih-stammtisch-in-hude-netzwerktreffen-unter-energieberatern-2026",
@@ -3900,7 +3900,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "gw-thementag-haustueren-starkes-design-smarte-features-2026",
@@ -3943,7 +3943,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "gruenderseminar-im-landkreis-cham-teil-ii-ii-2026",
@@ -3987,7 +3987,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Workshop & Seminar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "handwerk-trifft-forschung-universitaet-der-bundeswehr-2026",
@@ -4032,7 +4032,7 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "ki-praxiswerkstatt-1-mit-ki-wissen-sichern-know-how-erhalten-2026",
@@ -4074,7 +4074,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Workshop & Seminar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "online-stammtisch-2026",
@@ -4116,7 +4116,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "online-stammtisch-mit-der-firma-oros-energy-batteriespeicher-2026",
@@ -4159,7 +4159,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "opportunity-hunters-talks-2026-1112",
@@ -4203,7 +4203,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "protect-the-edge-ip-strategy-for-startups-scaleups-2026",
@@ -4247,7 +4247,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Workshop & Seminar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "recovery-construction-forum-5-0-2026",
@@ -4291,7 +4291,7 @@
   "gesamt": 2.5,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "sensorik-vor-ort-fraunhofer-emft-2026",
@@ -4336,7 +4336,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Sonstiges",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "sustainability-safari-mit-novaziun-2026",
@@ -4381,7 +4381,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "webinar-energieberatung-im-baudenkmal-fachwissen-foerderung-2026",
@@ -4424,7 +4424,7 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "innovationstag-bauen-der-zukunft-berlin-2026",
@@ -4464,7 +4464,7 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
-  "archiv": false,
+  "archiv": true,
   "branchen": [
    "Bau & Immobilien",
    "Material & Kreislauf",
@@ -4514,7 +4514,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "starting-with-a-brigk-2026",
@@ -4556,7 +4556,7 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "webinar-am-freitag-carbon-management-strategien-fuer-eine-kl-2026",
@@ -4599,7 +4599,7 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "deadline-basel-goes-circular-2026",
@@ -4644,7 +4644,7 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Sonstiges",
-  "archiv": false
+  "archiv": true
  },
  {
   "id": "alfinah-anwendungsworkshop-regionaler-co2-zertifikatehandel-2026",
@@ -4692,6 +4692,49 @@
   "archiv": false
  },
  {
+  "id": "ausfuehrung-von-sonnenschutz-im-detail-bauteilanschluesse-op-2026",
+  "name": "Ausführung von Sonnenschutz im Detail  Bauteilanschlüsse optimiert auf Schall-, Wärme- und Feuchteschutz mit IVRSA",
+  "format": "Webinar",
+  "veranstalter": "GIH Bundesverband Gebäudeenergie Ingenieure Handwerker",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Sonnenschutz und Fensteranschlüsse mit Blick auf Schall-, Wärme- und Feuchteschutz",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Dach & Gebäudehülle",
+   "Bau & Immobilien"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gih.de/veranstaltung/ausfuehrung-von-sonnenschutz-im-detail-%c2%96-bauteilanschluesse-optimiert-auf-schall-waerme-und-feuchteschutz-mit-ivrsa/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:geb-energieberater",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "digital-days-wien-2026",
   "name": "Digital Days 2026",
   "format": "Konferenz",
@@ -4734,6 +4777,92 @@
   "gesamt": 2.5,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "effektiver-einsatz-von-generativer-ki-in-der-energieberatung-2026",
+  "name": "Effektiver Einsatz von Generativer KI in der Energieberatung",
+  "format": "Online-Seminar",
+  "veranstalter": "GIH Bundesverband Gebäudeenergie Ingenieure Handwerker",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Generative KI als Werkzeug in der Energieberatung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gih.de/veranstaltung/effektiver-einsatz-von-generativer-ki-in-der-energieberatung-2/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:geb-energieberater",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "energieausweise-nach-geg-grundlagen-vorgehen-und-typische-fe-2026",
+  "name": "Energieausweise nach GEG – Grundlagen, Vorgehen und typische Fehler",
+  "format": "Online-Seminar",
+  "veranstalter": "GIH Bundesverband Gebäudeenergie Ingenieure Handwerker",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Energieausweise nach GEG: Grundlagen, Prüfung, typische Fehler",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Bau & Immobilien"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gih.de/veranstaltung/energieausweise-nach-geg-%c2%84grundlagen-vorgehen-und-typische-fehler%c2%93-2/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:geb-energieberater",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
  {
@@ -4867,6 +4996,94 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "pyrolyse-als-bestandteil-der-kommunalen-waermeplanung-2026",
+  "name": "Pyrolyse als Bestandteil der kommunalen Wärmeplanung",
+  "format": "Infoveranstaltung",
+  "veranstalter": "Wirtschaftsförderung Region Stuttgart",
+  "ort": "Das Gutbrod, Stuttgart",
+  "land": "DE",
+  "region": "Baden-Württemberg (Stuttgart)",
+  "rubrik": "de",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Pyrolyse in der kommunalen Wärmeplanung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Material & Kreislauf"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://wrs.region-stuttgart.de/termine/pyrolyse-als-bestandteil-der-kommunalen-waermeplanung/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:wrs-termine",
+  "geo": [
+   48.7758,
+   9.1829
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "vertiefungsmodul-nichtwohngebaeude-80-ue-2026",
+  "name": "Vertiefungsmodul Nichtwohngebäude (80 UE)",
+  "format": "Lehrgang",
+  "veranstalter": "GIH Bundesverband Gebäudeenergie Ingenieure Handwerker",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Weiterbildung Energieberatung für Nichtwohngebäude (80 UE)",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Bau & Immobilien"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gih.de/veranstaltung/vertiefungsmodul-nichtwohngebaeude-80-ue/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:geb-energieberater",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Sonstiges",
   "archiv": false
  },
  {
@@ -5179,6 +5396,50 @@
   "archiv": false
  },
  {
+  "id": "introduction-to-horizon-europe-three-pillars-diverse-funding-2026",
+  "name": "Introduction to Horizon Europe: Three Pillars, Diverse Funding Opportunities",
+  "format": "Infoveranstaltung",
+  "veranstalter": "Startupticker.ch – Events",
+  "ort": "Lugano-Viganello",
+  "land": "CH",
+  "region": "Schweiz (Tessin)",
+  "rubrik": "noneu",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Einführung in die Förderprogramme von Horizon Europe",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/introduction-to-horizon-europe-three-pillars-diverse-funding-opportunities",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.0,
+   8.2
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "kww-spezial-kleine-waermeplanung-2026",
   "name": "KWW-Spezial: Die kleine Wärmeplanung",
   "format": "Webinar",
@@ -5219,6 +5480,96 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "meet-the-expert-unlock-non-dilutive-funding-for-your-innovat-2026",
+  "name": "Meet the expert - Unlock Non-Dilutive Funding for Your Innovation. Opportunities through Horizon Europe 2027",
+  "format": "Infoveranstaltung",
+  "veranstalter": "Startupticker.ch – Events",
+  "ort": "EPFL Campus, Lausanne",
+  "land": "CH",
+  "region": "Schweiz (Waadt)",
+  "rubrik": "noneu",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Nicht verwässernde Förderung für Innovationsvorhaben",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/meet-the-expert-unlock-non-dilutive-funding-for-your-innovation-opportunities-through-horizon-europe-2027",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.0,
+   8.2
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "netzwerktreffen-energieberater-luftdichtheit-in-der-praxis-a-2026",
+  "name": "Netzwerktreffen Energieberater Luftdichtheit in der Praxis: Anschlussdetails, Feuchteschutz und typische Fehlerquellen“",
+  "format": "Netzwerktreffen",
+  "veranstalter": "GIH Bundesverband Gebäudeenergie Ingenieure Handwerker",
+  "ort": "Landratsamt, Lörrach",
+  "land": "DE",
+  "region": "Baden-Württemberg",
+  "rubrik": "de",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Luftdichtheit: Anschlussdetails, Feuchteschutz, typische Fehler",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Dach & Gebäudehülle",
+   "Energie & Solar",
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gih.de/veranstaltung/netzwerktreffen-energieberater-%c2%84luftdichtheit-in-der-praxis-anschlussdetails-feuchteschutz-und-typische-fehlerquellen/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:geb-energieberater",
+  "geo": [
+   47.6156,
+   7.6614
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
   "archiv": false
  },
  {
@@ -5267,6 +5618,51 @@
   "archiv": false
  },
  {
+  "id": "softwareeingaben-isfp-mit-hottgenroth-2026",
+  "name": "Softwareeingaben iSFP mit Hottgenroth",
+  "format": "Schulung",
+  "veranstalter": "GIH Bundesverband Gebäudeenergie Ingenieure Handwerker",
+  "ort": "Weyerbusch",
+  "land": "DE",
+  "region": "Rheinland-Pfalz",
+  "rubrik": "de",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Softwareschulung zur Erstellung individueller Sanierungsfahrpläne",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten",
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gih.de/veranstaltung/softwareeingaben-isfp-mit-hottgenroth/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:geb-energieberater",
+  "geo": [
+   50.7181,
+   7.5594
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "strascheg-ideen-award-2026",
   "name": "Strascheg Ideen Award 2026",
   "format": "Pitch-Wettbewerb",
@@ -5308,6 +5704,49 @@
   "gesamt": 2.9,
   "prioritaet": "C",
   "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
+  "id": "vom-gebaeudeenergiegesetz-geg-zum-gebaeudemodernisierungsges-2026",
+  "name": "Vom Gebäudeenergiegesetz (GEG) zum Gebäudemodernisierungsgesetz (GModG)  aktueller Stand und Auswirkung auf die Praxis",
+  "format": "Online-Seminar",
+  "veranstalter": "GIH Bundesverband Gebäudeenergie Ingenieure Handwerker",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Vom GEG zum Gebäudemodernisierungsgesetz: Folgen für die Energieberatung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gih.de/veranstaltung/vom-gebaeudeenergiegesetz-geg-zum-gebaeudemodernisierungsgesetz-gmodg-%c2%96-aktueller-stand-und-auswirkung-auf-die-praxis-4/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:geb-energieberater",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
  {
@@ -5653,6 +6092,95 @@
   "archiv": false
  },
  {
+  "id": "entrepreneurship-training-innosuisse-start-up-training-modul-2026",
+  "name": "Entrepreneurship Training Innosuisse Start-up Training Module 1 & 2 - North Region",
+  "format": "Training",
+  "veranstalter": "Innosuisse",
+  "ort": "Innovation Garage, Allschwil",
+  "land": "CH",
+  "region": "Schweiz (Basel)",
+  "rubrik": "noneu",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Innosuisse-Start-up-Training für technologiebasierte Gründungen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/entrepreneurship-training-innosuisse-start-up-training-module-1-2-north-region",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.563,
+   7.6
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
+  "id": "from-prototype-to-production-wien-2026",
+  "name": "From Prototype to Production",
+  "format": "Veranstaltung",
+  "veranstalter": "Wirtschaftsagentur Wien",
+  "ort": "Wien",
+  "land": "AT",
+  "region": "Österreich (Wien)",
+  "rubrik": "eu",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Wege vom Prototyp zur Serienfertigung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://wirtschaftsagentur.at/veranstaltungen/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:wirtschaftsagentur-wien",
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Sonstiges",
+  "archiv": false
+ },
+ {
   "id": "grundlagen-zur-anwendung-der-neuen-maschinenverordnung-eu-20-2026",
   "name": "Grundlagen zur Anwendung der neuen Maschinenverordnung (EU) 2023/1230",
   "format": "Workshop",
@@ -5695,6 +6223,50 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
+  "id": "hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrun-2026",
+  "name": "HR & AI Day: Wie Künstliche Intelligenz Personalarbeit, Führung und Recruiting neu definiert",
+  "format": "Fachtag",
+  "veranstalter": "Wirtschaftsförderung Region Stuttgart",
+  "ort": "hive Göppingen, Göppingen",
+  "land": "DE",
+  "region": "Baden-Württemberg",
+  "rubrik": "de",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "KI in Personalarbeit, Führung und Recruiting",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://wrs.region-stuttgart.de/termine/hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrung-und-recruiting-neu-definiert/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:wrs-termine",
+  "geo": [
+   48.7031,
+   9.6526
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
   "archiv": false
  },
  {
@@ -5787,6 +6359,49 @@
   ]
  },
  {
+  "id": "nachhaltigkeit-und-energieeffizienz-ihr-wirtschaftlicher-erf-2026",
+  "name": "Nachhaltigkeit und Energieeffizienz  Ihr wirtschaftlicher Erfolgsfaktor für mehr Rendite",
+  "format": "Online-Seminar",
+  "veranstalter": "GIH Bundesverband Gebäudeenergie Ingenieure Handwerker",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Energieeffizienz und Nachhaltigkeit im Unternehmen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gih.de/veranstaltung/in-planung-fachseminar-energieeffizienz-und-nachhaltigkeit-im-unternehmen-in-kleiner-gruppe-3/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:geb-energieberater",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "prozesse-2-0-wie-ki-dein-team-upgradet-2026",
   "name": "Prozesse 2.0: Wie KI dein Team upgradet",
   "format": "Webinar",
@@ -5853,7 +6468,7 @@
    "Besuch"
   ],
   "quelle": "https://www.therecursive.com/slush-2026/",
-  "geprueft": "2026-11-02",
+  "geprueft": "2026-11-16",
   "scores": {
    "relevanz": 2,
    "zugang": 5,
@@ -5872,6 +6487,50 @@
    "Gründung & Innovation",
    "Software, KI & Daten"
   ]
+ },
+ {
+  "id": "startfeld-investors-day-2026",
+  "name": "Startfeld Investors Day",
+  "format": "Pitch-Event",
+  "veranstalter": "Startfeld",
+  "ort": "OST Campus, Rapperswil-Jona",
+  "land": "CH",
+  "region": "Schweiz (St. Gallen)",
+  "rubrik": "noneu",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Start-ups präsentieren sich Investoren",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/startfeld-investors-day-%284%29",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.4245,
+   9.3767
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
  },
  {
   "id": "the-power-of-the-female-economy-2026",
@@ -6090,6 +6749,270 @@
   "archiv": false
  },
  {
+  "id": "conda-ch-ap-ro-pitch-jubilaeumsedition-5-jahre-2026",
+  "name": "CONDA.ch Apéro & Pitch - Jubiläumsedition 5 Jahre!",
+  "format": "Pitch-Event",
+  "veranstalter": "Startupticker.ch – Events",
+  "ort": "Impact Hub Viadukt, Zürich",
+  "land": "CH",
+  "region": "Schweiz (Zürich)",
+  "rubrik": "noneu",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Crowdinvesting-Pitches und Networking",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/conda-ch-apero-pitch-jubilaeumsedition-5-jahre",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.3769,
+   8.5417
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
+  "id": "circular-proven-profitable-wien-2026",
+  "name": "Circular. Proven. Profitable.",
+  "format": "Veranstaltung",
+  "veranstalter": "Wirtschaftsagentur Wien",
+  "ort": "Technologiezentrum Seestadt, Wien",
+  "land": "AT",
+  "region": "Österreich (Wien)",
+  "rubrik": "eu",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Kreislaufwirtschaft als Geschäftsmodell",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Material & Kreislauf",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://wirtschaftsagentur.at/veranstaltungen/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:wirtschaftsagentur-wien",
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Sonstiges",
+  "archiv": false
+ },
+ {
+  "id": "digitale-infrastrukturen-fuer-ki-basis-fuer-die-naechste-gen-2026",
+  "name": "Digitale Infrastrukturen für KI – Basis für die nächste Generation von KI",
+  "format": "Webinar",
+  "veranstalter": "Bayern Innovativ",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Digitale Infrastruktur als Grundlage für KI-Anwendungen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.bayern-innovativ.de/events-termine/digitalisierung/detail/digitale-infrastrukturen-fuer-ki-basis-fuer-die-naechste-generation-von-ki/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:bayern-innovativ",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "einstiegsseminar-fuer-existenzgruender-im-handwerk-in-muehld-2026",
+  "name": "Einstiegsseminar für Existenzgründer im Handwerk in Mühldorf",
+  "format": "Seminar",
+  "veranstalter": "Handwerkskammer für München und Oberbayern",
+  "ort": "Bildungszentrum Mühldorf, Mühldorf am Inn",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Einstieg in die Existenzgründung im Handwerk",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Handwerk",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.hwk-muenchen.de/termine/einstiegsseminar-fuer-existenzgruender-im-handwerk-in-muehldorf-74,0,evedetail.html?eve=5164",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:hwk-muenchen",
+  "geo": [
+   48.95,
+   11.4
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
+  "id": "fongit-networking-caf-croissant-2026",
+  "name": "FONGIT Networking Café+Croissant",
+  "format": "Netzwerktreffen",
+  "veranstalter": "FONGIT",
+  "ort": "FONGIT, Plan-les-Ouates (Genf)",
+  "land": "CH",
+  "region": "Schweiz (Genf)",
+  "rubrik": "noneu",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Networking-Frühstück der Genfer Start-up-Szene",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/fongit-networking-cafe-croissant",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   46.2044,
+   6.1432
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
+  "id": "founder-s-roundtable-sales-networking-2026",
+  "name": "Founder’s Roundtable Sales & Networking",
+  "format": "Netzwerktreffen",
+  "veranstalter": "Startupticker.ch – Events",
+  "ort": "Hochschule Luzern, Luzern",
+  "land": "CH",
+  "region": "Schweiz (Luzern)",
+  "rubrik": "noneu",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Austausch von Gründenden zu Vertrieb und Netzwerk",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/founder-s-roundtable-sales-networking",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.0502,
+   8.3093
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
   "id": "get-nord-2026",
   "name": "GET Nord 2026",
   "format": "Fachmesse",
@@ -6136,6 +7059,50 @@
   "archiv": false
  },
  {
+  "id": "hybrid-veranstaltung-vorsicht-krise-rechtliche-werkzeuge-zur-2026",
+  "name": "Hybrid-Veranstaltung: \"Vorsicht Krise! Rechtliche Werkzeuge zur Vorbeugung\"",
+  "format": "Vortrag (hybrid)",
+  "veranstalter": "Handwerkskammer für München und Oberbayern",
+  "ort": "Handwerkskammer für München und Oberbayern, München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Rechtliche Werkzeuge zur Krisenvorsorge im Betrieb",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.hwk-muenchen.de/termine/hybrid-veranstaltung-vorsicht-krise-rechtliche-werkzeuge-zur-vorbeugung-74,0,evedetail.html?eve=5161",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:hwk-muenchen",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "it-sicherheit-im-handwerk-grundlagen-und-nuetzliche-tipps-2026-1119",
   "name": "IT-Sicherheit im Handwerk: Grundlagen und nützliche Tipps",
   "format": "Webinar",
@@ -6179,6 +7146,52 @@
   "archiv": false
  },
  {
+  "id": "industrial-edge-workshop-for-startups-and-smes-2026-1119",
+  "name": "Industrial Edge Workshop for Startups and SMEs",
+  "format": "Workshop",
+  "veranstalter": "UnternehmerTUM",
+  "ort": "München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Industrial Edge für Start-ups und KMU",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.unternehmertum.de/events/industrial-edge-workshops-for-startups-and-smes-2-2/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:unternehmertum",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "ki-praxiswerkstatt-2-mit-ki-arbeit-neu-gestalten-aufgaben-au-2026",
   "name": "KI-Praxiswerkstatt #2: Mit KI Arbeit neu gestalten – Aufgaben auf den Prüfstand stellen",
   "format": "Workshop",
@@ -6218,6 +7231,50 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
+  "id": "meet-the-city-innovationlab-von-idee-zu-innovation-2026",
+  "name": "Meet the City: InnovationLab – von Idee zu Innovation",
+  "format": "Infoveranstaltung",
+  "veranstalter": "UnternehmerTUM",
+  "ort": "München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Innovationslabor der Stadt München: von der Idee zur Umsetzung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.unternehmertum.de/events/meet-the-city-innovationlab/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:unternehmertum",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
  {
@@ -6443,6 +7500,48 @@
   "archiv": false
  },
  {
+  "id": "einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerder-2026",
+  "name": "Einführung in den Förderdschungel: Überblick über Fördermittelprogramme für die Umsetzung der Digitalen Transformation",
+  "format": "Webinar",
+  "veranstalter": "bwcon",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-20",
+  "ende": "2026-11-20",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Überblick über Förderprogramme für Start-ups und KMU",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startup-region-stuttgart.de/termine/einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerdermittelprogramme-fuer-die-umsetzung-der-digitalen-transformation-2/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startup-region-stuttgart",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "gruenderwerkstatt-2026",
   "name": "GründerWerkstatt",
   "format": "Workshop",
@@ -6618,6 +7717,50 @@
   "archiv": false
  },
  {
+  "id": "circular-republic-textilforum-2026",
+  "name": "CIRCULAR REPUBLIC Textilforum",
+  "format": "Forum",
+  "veranstalter": "UnternehmerTUM / Circular Republic",
+  "ort": "München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-23",
+  "ende": "2026-11-23",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Kreislaufwirtschaft in der Textilbranche",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Material & Kreislauf"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.unternehmertum.de/events/circular-repubic-textilforum/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:unternehmertum",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "kanada-besucht-die-techbase-innovations-und-kooperationspote-2026",
   "name": "Kanada besucht die TechBase: Innovations- und Kooperationspotenziale",
   "format": "Informationsveranstaltung",
@@ -6775,7 +7918,7 @@
    "Besuch"
   ],
   "quelle": "https://www.bim-world.de/",
-  "geprueft": "2026-11-02",
+  "geprueft": "2026-11-16",
   "rubrik": "de",
   "scores": {
    "relevanz": 4,
@@ -6797,6 +7940,50 @@
    "Industrie & Fertigung",
    "Material & Kreislauf"
   ]
+ },
+ {
+  "id": "betriebsnachfolge-ablauf-chance-und-risiken-2026",
+  "name": "Betriebsnachfolge - Ablauf, Chance und Risiken",
+  "format": "Infoveranstaltung",
+  "veranstalter": "Handwerkskammer für München und Oberbayern",
+  "ort": "Bildungszentrum Ingolstadt, Ingolstadt",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Betriebsnachfolge im Handwerk: Ablauf, Chancen, Risiken",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.hwk-muenchen.de/termine/betriebsnachfolge-ablauf-chance-und-risiken-74,0,evedetail.html?eve=5171",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:hwk-muenchen",
+  "geo": [
+   48.7665,
+   11.4258
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
  },
  {
   "id": "e-mobilitaet-in-handwerk-und-gewerbe-warum-sinnvoll-und-wie-2026",
@@ -6836,6 +8023,50 @@
   "herkunft": "abruf:hwkno",
   "geo": null,
   "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "esa-bic-switzerland-2026",
+  "name": "ESA BIC Switzerland",
+  "format": "Infoveranstaltung",
+  "veranstalter": "Startupticker.ch – Events",
+  "ort": "Universität Bern, Bern",
+  "land": "CH",
+  "region": "Schweiz (Bern)",
+  "rubrik": "noneu",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Inkubationsprogramm der ESA für Raumfahrt-Technologietransfer",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/esa-bic-switzerland-%2811%29",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   46.948,
+   7.4474
+  ],
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
@@ -6929,6 +8160,94 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "handwerk-trifft-unternehmen-zu-besuch-bei-hipp-2026",
+  "name": "Handwerk trifft Unternehmen: Zu Besuch bei HiPP",
+  "format": "Netzwerktreffen",
+  "veranstalter": "Handwerkskammer für München und Oberbayern",
+  "ort": "Pfaffenhofen an der Ilm",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Betriebsbesuch: Handwerk trifft Industrieunternehmen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.hwk-muenchen.de/termine/handwerk-trifft-unternehmen-zu-besuch-bei-hipp-74,0,evedetail.html?eve=5170",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:hwk-muenchen",
+  "geo": [
+   48.95,
+   11.4
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
+  "id": "hochempfindliche-miniaturisierte-thermische-sensorelemente-u-2026",
+  "name": "Hochempfindliche miniaturisierte thermische Sensorelemente und darauf basierende Messverfahren für Anwendungen in der Vakuum- und Gassensorik",
+  "format": "Vortrag",
+  "veranstalter": "OTH Regensburg",
+  "ort": "OTH Regensburg, Regensburg",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Miniaturisierte thermische Sensoren für Vakuum- und Gasmessung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.oth-regensburg.de/termine/detailansicht/hochempfindliche-miniaturisierte-thermische-sensorelemente-und-darauf-basierende-messverfahren-fuer-anwendungen-in-der-vakuum-und-gassensorik",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:oth-regensburg",
+  "geo": [
+   49.003,
+   12.0958
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
  {
@@ -7146,7 +8465,7 @@
    "verlaesslichkeit": 3
   },
   "quelle": "https://warsawexpo.eu/en/fair-calendar/roof-expo/",
-  "geprueft": "2026-11-09",
+  "geprueft": "2026-11-16",
   "herkunft": "abruf:eventseye",
   "geo": [
    52.2297,
@@ -7187,7 +8506,7 @@
    "verlaesslichkeit": 5
   },
   "quelle": "https://sps.mesago.com/nuernberg/de/expo/fuer_aussteller/aussteller_werden/start-up-area.html",
-  "geprueft": "2026-11-02",
+  "geprueft": "2026-11-16",
   "geo": [
    49.413,
    11.117
@@ -7379,6 +8698,51 @@
    "Logistik & Handel",
    "Software, KI & Daten"
   ]
+ },
+ {
+  "id": "biogas-convention-2026",
+  "name": "BIOGAS Convention & Trade Fair 2026",
+  "format": "Fachmesse mit Kongress",
+  "veranstalter": "Fachverband Biogas",
+  "ort": "Messe Kassel",
+  "land": "DE",
+  "region": "Hessen",
+  "rubrik": "de",
+  "start": "2026-11-25",
+  "ende": "2026-11-26",
+  "turnus": "jährlich",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Biogas- und Biomethantechnik, Anlagenbetrieb und Rahmenbedingungen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Material & Kreislauf"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_clean-energies-renewable-energies.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   51.3127,
+   9.4797
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
  },
  {
   "id": "beratersprechtag-in-regensburg-handwerksleistungen-in-der-sc-2026",
@@ -8085,6 +9449,94 @@
   "archiv": false
  },
  {
+  "id": "opportunity-hunters-talks-2026-1126",
+  "name": "Opportunity Hunters Talks",
+  "format": "Vortrag",
+  "veranstalter": "UnternehmerTUM",
+  "ort": "München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründerinnen und Gründer berichten aus der Praxis",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.unternehmertum.de/events/opportunity-hunters-talks-9/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:unternehmertum",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "pxr-fundraising-masterclass-2026",
+  "name": "PXR - Fundraising Masterclass",
+  "format": "Masterclass",
+  "veranstalter": "Startbase – Start-up-Events Deutschland",
+  "ort": "Lumo Studios, München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Fundraising aus Sicht von Investor, Berater und Anwalt",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startbase.de/events/pxr-fundraising-masterclass-2026-11-lumo-studios/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startbase-events",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Sonstiges",
+  "archiv": false
+ },
+ {
   "id": "solarplaza-seminar-bess-ireland-2026",
   "name": "Solarplaza Seminar BESS Ireland 2026",
   "format": "Seminar",
@@ -8217,6 +9669,48 @@
   "archiv": false
  },
  {
+  "id": "webinar-what-skills-will-shape-the-future-of-europe-s-constr-2026",
+  "name": "Webinar: What Skills Will Shape the Future of Europe's Construction Sector?",
+  "format": "Webinar",
+  "veranstalter": "ECTP",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Kompetenzen für den Bausektor in Europa",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://ectp.info/event/webinar-what-skills-will-shape-the-future-of-europes-construction-sector/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:ectp-events",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "pv-magazine-webinar-mit-schweizer-2026",
   "name": "pv magazine Webinar mit Schweizer",
   "format": "Webinar",
@@ -8303,6 +9797,96 @@
   "archiv": false
  },
  {
+  "id": "industrial-edge-workshop-for-startups-and-smes-2026-1127",
+  "name": "Industrial Edge Workshop for Startups and SMEs",
+  "format": "Workshop",
+  "veranstalter": "UnternehmerTUM",
+  "ort": "München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Industrial Edge für Start-ups und KMU",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung",
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.unternehmertum.de/events/industrial-edge-workshops-for-startups-and-smes-2/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:unternehmertum",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
+  "id": "kemnather-gruendungsnacht-2026",
+  "name": "Kemnather Gründungsnacht",
+  "format": "Netzwerkveranstaltung",
+  "veranstalter": "OTH Amberg-Weiden",
+  "ort": "Campus Kemnath, Kemnath",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Neues Gründungsformat am Hochschulcampus Kemnath",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.oth-aw.de/hochschule/aktuelles/veranstaltungen/veranstaltungsliste/kemnather-gruendungsnacht/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:oth-aw",
+  "geo": [
+   49.3,
+   12.1
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
   "id": "stillgelegt-und-dann-neue-chancen-fuer-kraftwerksstandorte-u-2026",
   "name": "Stillgelegt – und dann? Neue Chancen für Kraftwerksstandorte und Energieinfrastruktur",
   "format": "Webinar",
@@ -8343,6 +9927,135 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "webinar-waermepumpe-oder-klimaanlage-welche-loesung-passt-zu-2026",
+  "name": "Webinar: Wärmepumpe oder Klimaanlage? Welche Lösung passt zu Ihrem Gebäude?",
+  "format": "Webinar",
+  "veranstalter": "Gentner Verlag",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Wärmepumpe oder Klimaanlage – Auswahl für das Gebäude",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://events.gentner.de/de/webinar-waermepumpe-oder-klimaanlage-welche-loesung-passt-zu-ihrem-gebaeude",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:gentner-events",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "pv-magazine-webinar-mit-goodwe-2026",
+  "name": "pv magazine Webinar mit GoodWe",
+  "format": "Webinar",
+  "veranstalter": "pv magazine",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "kostenfrei",
+  "zielgruppe": "",
+  "fokus": "Fachwebinar zu Wechselrichter- und Speicherlösungen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.pv-magazine.de/events/webinare/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:pv-magazine-webinare",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "espc-2026-microsoft-365-and-ai-conference-2026",
+  "name": "ESPC 2026 – Microsoft 365 and AI Conference",
+  "format": "Konferenz",
+  "veranstalter": "ESPC",
+  "ort": "RAI Amsterdam",
+  "land": "NL",
+  "region": "Niederlande",
+  "rubrik": "eu",
+  "start": "2026-11-30",
+  "ende": "2026-12-03",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Microsoft 365, Copilot und KI in Unternehmen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://uitholland.eu/en/exhibition-stand-construction/calendar/espc-rai-2026/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:messe-rai",
+  "geo": [
+   52.3676,
+   4.9041
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
   "archiv": false
  },
  {
@@ -8388,6 +10101,94 @@
    "Gründung & Innovation",
    "Bau & Immobilien"
   ]
+ },
+ {
+  "id": "hochschul-und-transfertag-main-spessart-2026",
+  "name": "Hochschul- und Transfertag Main-Spessart",
+  "format": "Transfertag",
+  "veranstalter": "Gründerland Bayern – Veranstaltungen",
+  "ort": "Stadthalle Lohr a. Main",
+  "land": "DE",
+  "region": "Bayern (Unterfranken)",
+  "rubrik": "de",
+  "start": "2026-11-30",
+  "ende": "2026-11-30",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Wirtschaft trifft Forschung: Hochschul- und Technologietransfer",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.gruenderland.bayern/veranstaltungen/event/hochschul-und-transfertag/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:gruenderland-bayern",
+  "geo": [
+   48.95,
+   11.4
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Sonstiges",
+  "archiv": false
+ },
+ {
+  "id": "ki-roundtable-2026",
+  "name": "KI Roundtable",
+  "format": "Netzwerktreffen",
+  "veranstalter": "IT Region Stuttgart",
+  "ort": "Böblingen",
+  "land": "DE",
+  "region": "Baden-Württemberg",
+  "rubrik": "de",
+  "start": "2026-11-30",
+  "ende": "2026-11-30",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "KI-Austausch für Führungskräfte",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://it.region-stuttgart.de/termine/ki-roundtable-dialog-und-austausch-fuer-fuehrungskraefte-und-geschaeftsfuehrer-in-der-region-boeblingen-11_26/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:it-region-stuttgart",
+  "geo": [
+   48.6833,
+   9.0167
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
+  "archiv": false
  },
  {
   "id": "tiefengeothermie-technologie-und-anwendung-in-der-praxis-2026",
@@ -8474,6 +10275,50 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "e4s-the-innovation-ecosystem-of-tu-wien-2026",
+  "name": "#E4s - The Innovation Ecosystem of TU Wien",
+  "format": "Masterclass",
+  "veranstalter": "TU Wien Innovation Incubation Center",
+  "ort": "Wien",
+  "land": "AT",
+  "region": "Österreich (Wien)",
+  "rubrik": "eu",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründungs- und Transferangebote der TU Wien",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.eventbrite.at/e/e4s-the-innovation-ecosystem-of-tu-wien-registration-2003289628205?aff=oddtdtcreator#new_tab",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:i2c-tuwien",
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Sonstiges",
   "archiv": false
  },
  {
@@ -8608,6 +10453,50 @@
   "archiv": false
  },
  {
+  "id": "finanzierung-fuer-impact-startups-wien-2026",
+  "name": "Finanzierung für Impact Startups",
+  "format": "Workshop",
+  "veranstalter": "Wirtschaftsagentur Wien",
+  "ort": "Lumia, Wien",
+  "land": "AT",
+  "region": "Österreich (Wien)",
+  "rubrik": "eu",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Finanzierungswege für Start-ups mit Wirkungsanspruch",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://wirtschaftsagentur.at/veranstaltungen/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:wirtschaftsagentur-wien",
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "gluehwerk-gluehwein-meets-gruenderaustausch-2026",
   "name": "GLÜHWERK –  Glühwein meets Gründeraustausch",
   "format": "Netzwerktreffen",
@@ -8647,6 +10536,50 @@
    11.5755
   ],
   "gesamt": 2.9,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
+  "id": "hackergarten-stuttgart-2026-12-2026",
+  "name": "Hackergarten Stuttgart 2026.12",
+  "format": "Meetup",
+  "veranstalter": "IT Region Stuttgart",
+  "ort": "codecentric AG, Stuttgart",
+  "land": "DE",
+  "region": "Baden-Württemberg (Stuttgart)",
+  "rubrik": "de",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gemeinsame Arbeit an Open-Source-Projekten",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://it.region-stuttgart.de/termine/hackergarten-stuttgart-2026-02-2-2-2-2-2-2-2-2-2-2/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:it-region-stuttgart",
+  "geo": [
+   48.7758,
+   9.1829
+  ],
+  "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Netzwerk",
   "archiv": false
@@ -8963,6 +10896,96 @@
   "archiv": false
  },
  {
+  "id": "co-innovationsprojekttruck-charging-2026",
+  "name": "Co-InnovationsprojektTruck Charging",
+  "format": "Abschlussveranstaltung",
+  "veranstalter": "UnternehmerTUM",
+  "ort": "München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Ergebnisse eines Co-Innovationsprojekts zum Laden von Lkw",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Logistik & Handel",
+   "Energie & Solar",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.unternehmertum.de/events/final-event-truck-charging/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:unternehmertum",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Sonstiges",
+  "archiv": false
+ },
+ {
+  "id": "eit-awards-2026",
+  "name": "EIT Awards 2026",
+  "format": "Preisverleihung",
+  "veranstalter": "EIT",
+  "ort": "Budapest",
+  "land": "HU",
+  "region": "Ungarn",
+  "rubrik": "eu",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Verleihung der europäischen Innovationspreise des EIT",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.lovguiden.dk/en/det-offentlige/det-europaeiske-institut-for-innovation-og-teknologi/2026-10-01-19-nominerede-til-eit-awards-2026-vinderne-offentliggoeres-i-budapest",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eit-manufacturing-events",
+  "geo": [
+   47.4979,
+   19.0402
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
   "id": "energiesprong-on-tour-heidenheim-2026",
   "name": "Energiesprong on tour: Heidenheim",
   "format": "Exkursion",
@@ -9140,6 +11163,136 @@
   "archiv": false
  },
  {
+  "id": "open-link-day-wien-2026",
+  "name": "Open Link Day 2026",
+  "format": "Netzwerkveranstaltung",
+  "veranstalter": "Wirtschaftsagentur Wien",
+  "ort": "Startup House, Wien",
+  "land": "AT",
+  "region": "Österreich (Wien)",
+  "rubrik": "eu",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Offener Tag im Start-up-Haus der Wirtschaftsagentur",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://wirtschaftsagentur.at/veranstaltungen/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:wirtschaftsagentur-wien",
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Netzwerk",
+  "archiv": false
+ },
+ {
+  "id": "pitching-night-kapitalbruecke-beider-basel-2026",
+  "name": "Pitching Night Kapitalbrücke beider Basel",
+  "format": "Pitch-Event",
+  "veranstalter": "Startupticker.ch – Events",
+  "ort": "Basel",
+  "land": "CH",
+  "region": "Schweiz (Basel)",
+  "rubrik": "noneu",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Start-ups pitchen vor Investoren der Region Basel",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/pitching-night-kapitalbruecke-beider-basel",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.563,
+   7.6
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Pitch & Demo Day",
+  "archiv": false
+ },
+ {
+  "id": "tutorial-finanzierung-innovativer-unternehmen-2026",
+  "name": "Tutorial: Finanzierung innovativer Unternehmen",
+  "format": "Webinar",
+  "veranstalter": "TechBase / Digitale Gründerinitiative Oberpfalz",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Finanzierungswege für innovative Gründungen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.techbase.de/news-termine/events-termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:techbase-events",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "materials-next-2-dezember-2026-nuernberg-2026",
   "name": "materials.next 2. Dezember 2026 Nürnberg",
   "format": "Konferenz",
@@ -9230,6 +11383,48 @@
   "archiv": false
  },
  {
+  "id": "eco-webinar-new-data-insights-and-trends-from-europe-s-const-2026",
+  "name": "ECO Webinar: New Data, Insights and Trends from Europe's Construction Ecosystem",
+  "format": "Webinar",
+  "veranstalter": "European Construction Observatory",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Daten und Trends des europäischen Bausektors",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://ectp.info/event/eco-webinar/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:ectp-events",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "from-data-strategy-to-adoption-building-trusted-foundations-2026",
   "name": "From Data Strategy to Adoption: Building Trusted Foundations for Governance and AI",
   "format": "Webinar",
@@ -9311,6 +11506,50 @@
   "geo": null,
   "online": true,
   "gesamt": 2.8,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "opportunity-hunters-talks-2026-1203",
+  "name": "Opportunity Hunters Talks",
+  "format": "Vortrag",
+  "veranstalter": "UnternehmerTUM",
+  "ort": "München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründerinnen und Gründer berichten aus der Praxis",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.unternehmertum.de/events/opportunity-hunters-talks-3/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:unternehmertum",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
   "archiv": false
@@ -9488,6 +11727,50 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "a3f-startup-breakfast-christmas-pitch-edition-2026",
+  "name": "A3F Startup Breakfast - Christmas Pitch Edition",
+  "format": "Pitch-Event",
+  "veranstalter": "Startupticker.ch – Events",
+  "ort": "Westhive, Zürich",
+  "land": "CH",
+  "region": "Schweiz (Zürich)",
+  "rubrik": "noneu",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Start-up-Frühstück mit Pitches",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startupticker.ch/en/events/a3f-startup-breakfast-christmas-pitch-edition",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startupticker",
+  "geo": [
+   47.3769,
+   8.5417
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Pitch & Demo Day",
   "archiv": false
  },
  {
@@ -9972,6 +12255,50 @@
   "archiv": false
  },
  {
+  "id": "time-to-scale-wien-2026",
+  "name": "Time to Scale: Für Startups, die mehr vorhaben",
+  "format": "Workshop",
+  "veranstalter": "Wirtschaftsagentur Wien",
+  "ort": "Startup House, Wien",
+  "land": "AT",
+  "region": "Österreich (Wien)",
+  "rubrik": "eu",
+  "start": "2026-12-09",
+  "ende": "2026-12-09",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Wachstum und Skalierung junger Unternehmen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://wirtschaftsagentur.at/veranstaltungen/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:wirtschaftsagentur-wien",
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "expertenrunde-einrohr-heizung-und-waermepumpe-so-geht-s-2026",
   "name": "Expertenrunde: Einrohr-Heizung und Wärmepumpe – so geht’s",
   "format": "Webinar",
@@ -10148,6 +12475,50 @@
   "archiv": false
  },
  {
+  "id": "opportunity-hunters-talks-2026-1210",
+  "name": "Opportunity Hunters Talks",
+  "format": "Vortrag",
+  "veranstalter": "UnternehmerTUM",
+  "ort": "München",
+  "land": "DE",
+  "region": "Bayern (Oberbayern)",
+  "rubrik": "de",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründerinnen und Gründer berichten aus der Praxis",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.unternehmertum.de/events/opportunity-hunters-talks/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:unternehmertum",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "sensorik-vor-ort-gefasoft-laserschweissen-und-inline-oberfla-2026",
   "name": "Sensorik vor Ort: GEFASOFT – Laserschweißen und Inline-Oberflächenkontrolle",
   "format": "Unternehmensbesuch mit Workshop",
@@ -10259,7 +12630,7 @@
    "Besuch"
   ],
   "quelle": "https://www.munich-startup.de/events/ultimate-demo-day-2026",
-  "geprueft": "2026-11-02",
+  "geprueft": "2026-11-16",
   "rubrik": "de",
   "scores": {
    "relevanz": 3,
@@ -10321,6 +12692,50 @@
   "online": true,
   "gesamt": 2.8,
   "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
+  "id": "alumni-bauingenieurwesen-internationale-baupraxis-2026",
+  "name": "Vom schwierigen Berufseinstieg zur internationalen Baupraxis – ein Alumni aus Bauingenieurwesen berichtet",
+  "format": "Vortrag",
+  "veranstalter": "OTH Regensburg",
+  "ort": "OTH Regensburg, Regensburg",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2026-12-15",
+  "ende": "2026-12-15",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "Studierende und Interessierte aus dem Bauwesen",
+  "fokus": "Erfahrungsbericht aus der internationalen Baupraxis",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 4,
+   "aufwand": 5,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.oth-regensburg.de/termine/detailansicht/vom-schwierigen-berufseinstieg-zur-internationalen-baupraxis-ein-alumni-aus-bauingenieurwesen-berichtet",
+  "geprueft": "2026-11-16",
+  "herkunft": "",
+  "geo": [
+   49.003,
+   12.0958
+  ],
+  "gesamt": 3.4,
+  "prioritaet": "B",
   "kategorie": "Vortrag & Webinar",
   "archiv": false
  },
@@ -10547,6 +12962,51 @@
   "archiv": false
  },
  {
+  "id": "fuels-of-the-future-2027",
+  "name": "Fuels of the Future 2027",
+  "format": "Konferenz",
+  "veranstalter": "Messe Berlin – Veranstaltungen",
+  "ort": "CityCube Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "rubrik": "de",
+  "start": "2027-01-18",
+  "ende": "2027-01-19",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Erneuerbare Kraftstoffe für die Mobilität",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Logistik & Handel"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://eurec.be/event/24th-international-conference-on-renewable-mobility-fuels-of-the-future-2027/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:messe-berlin",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "hyvolution-paris-2027",
   "name": "Hyvolution Paris 2027",
   "format": "Fachmesse Wasserstoff",
@@ -10588,6 +13048,51 @@
   ],
   "gesamt": 2.2,
   "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "perimeter-protection-2027",
+  "name": "Perimeter Protection 2027",
+  "format": "Fachmesse",
+  "veranstalter": "NürnbergMesse",
+  "ort": "Messezentrum Nürnberg",
+  "land": "DE",
+  "region": "Bayern (Mittelfranken)",
+  "rubrik": "de",
+  "start": "2027-01-19",
+  "ende": "2027-01-21",
+  "turnus": "alle 2 Jahre",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Zaun- und Torsysteme, Freigeländeschutz und Gebäudesicherheit",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Metall & Oberflächen"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 4,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_building-construction.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   49.4521,
+   11.0767
+  ],
+  "gesamt": 3.2,
+  "prioritaet": "B",
   "kategorie": "Messe",
   "archiv": false
  },
@@ -10861,6 +13366,51 @@
   ]
  },
  {
+  "id": "app-vision-27-2027",
+  "name": "APP VISION 27",
+  "format": "Konferenz",
+  "veranstalter": "Startbase – Start-up-Events Deutschland",
+  "ort": "CUPRA City Garage, Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "rubrik": "de",
+  "start": "2027-01-28",
+  "ende": "2027-01-28",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Treffen für Produkt- und App-Entwicklung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.startbase.de/events/app-vision-27-2027-01-cupra-city-garage-berlin/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:startbase-events",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "35-bayerischer-ingenieuretag-2027",
   "name": "35. Bayerischer Ingenieuretag",
   "format": "Branchentreff",
@@ -10949,6 +13499,51 @@
   "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "pipeline-coating-europe-2027",
+  "name": "Pipeline Coating Europe 2027",
+  "format": "Fachkonferenz",
+  "veranstalter": "AMI",
+  "ort": "Austria Trend Hotel Savoyen, Wien",
+  "land": "AT",
+  "region": "Österreich (Wien)",
+  "rubrik": "eu",
+  "start": "2027-02-09",
+  "ende": "2027-02-10",
+  "turnus": "jährlich",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Korrosionsschutz und Beschichtung von Rohrleitungen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Metall & Oberflächen",
+   "Material & Kreislauf"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_advanced-materials.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   48.2082,
+   16.3738
+  ],
+  "gesamt": 3.0,
+  "prioritaet": "B",
+  "kategorie": "Konferenz & Kongress",
   "archiv": false
  },
  {
@@ -11408,6 +14003,49 @@
   ]
  },
  {
+  "id": "auslandsgeschaeft-360-das-handwerk-spezial-2027",
+  "name": "Auslandsgeschäft 360° - Das Handwerk Spezial",
+  "format": "Webinar",
+  "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz",
+  "ort": "Online",
+  "land": "DE",
+  "region": "Online",
+  "rubrik": "de",
+  "start": "2027-02-23",
+  "ende": "2027-02-23",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Auslandsgeschäft für Handwerksbetriebe",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Handwerk",
+   "Logistik & Handel"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.hwkno.de/termine/auslandsgeschaeft-360-das-handwerk-spezial-76,0,evedetail.html?eve=1837",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:hwkno",
+  "geo": null,
+  "online": true,
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Vortrag & Webinar",
+  "archiv": false
+ },
+ {
   "id": "fusionx-global-2027",
   "name": "FusionX:Global 2027",
   "format": "Konferenz",
@@ -11450,6 +14088,51 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "kpa-ulm-2027",
+  "name": "KPA Ulm 2027",
+  "format": "Fachmesse",
+  "veranstalter": "Ulm Messe",
+  "ort": "Messe Ulm",
+  "land": "DE",
+  "region": "Baden-Württemberg",
+  "rubrik": "de",
+  "start": "2027-02-24",
+  "ende": "2027-02-25",
+  "turnus": "jährlich",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Kunststoffprodukte, Entwicklung und Zulieferung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Material & Kreislauf",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_subcontracting-suppliers-partners.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   48.4011,
+   9.9876
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Messe",
   "archiv": false
  },
  {
@@ -11675,6 +14358,52 @@
   "archiv": false
  },
  {
+  "id": "com-bau-2027",
+  "name": "com:bau 2027",
+  "format": "Baumesse",
+  "veranstalter": "Messe Dornbirn",
+  "ort": "Messe Dornbirn",
+  "land": "AT",
+  "region": "Österreich (Vorarlberg)",
+  "rubrik": "eu",
+  "start": "2027-02-26",
+  "ende": "2027-02-28",
+  "turnus": "jährlich",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Bauen, Sanieren und Energie in der Bodenseeregion",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Bau & Immobilien",
+   "Energie & Solar",
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_building-construction.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   47.8,
+   14.5
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "rubrik": "eu",
   "id": "4yfn-2027",
   "name": "4YFN 2027 (parallel zum MWC)",
@@ -11717,6 +14446,50 @@
    "Gründung & Innovation",
    "Software, KI & Daten"
   ]
+ },
+ {
+  "id": "additive-manufacturing-forum-2027",
+  "name": "Additive Manufacturing Forum 2027",
+  "format": "Fachkonferenz mit Ausstellung",
+  "veranstalter": "Additive Manufacturing Forum",
+  "ort": "Estrel Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "rubrik": "de",
+  "start": "2027-03-02",
+  "ende": "2027-03-03",
+  "turnus": "jährlich",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Industrieller 3D-Druck in der Serienfertigung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_subcontracting-suppliers-partners.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
  },
  {
   "id": "cables-europe-2027",
@@ -12172,6 +14945,50 @@
   "archiv": false
  },
  {
+  "id": "f-cell-2027",
+  "name": "f-cell 2027",
+  "format": "Fachkongress",
+  "veranstalter": "Peter Sauber Agentur",
+  "ort": "Messe Stuttgart",
+  "land": "DE",
+  "region": "Baden-Württemberg (Stuttgart)",
+  "rubrik": "de",
+  "start": "2027-03-03",
+  "ende": "2027-03-04",
+  "turnus": "alle 2 Jahre",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Brennstoffzellen- und Wasserstofftechnik",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_biofuels-hydrogen.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   48.6936,
+   9.1925
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "hy-fcell-2027",
   "name": "hy-fcell 2027",
   "format": "Fachmesse und Konferenz",
@@ -12436,6 +15253,51 @@
   "branchen": [
    "Gründung & Innovation"
   ]
+ },
+ {
+  "id": "h2-forum-2027",
+  "name": "H2 Forum 2027",
+  "format": "Fachkonferenz",
+  "veranstalter": "H2 Forum",
+  "ort": "Estrel Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "rubrik": "de",
+  "start": "2027-03-10",
+  "ende": "2027-03-11",
+  "turnus": "jährlich",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Wasserstoffwirtschaft: Elektrolyse, Anwendungen in Industrie und Energieversorgung",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_biofuels-hydrogen.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
  },
  {
   "rubrik": "eu",
@@ -12841,6 +15703,51 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "unternehmerreise-zum-thema-handwerk-denkmalpflege-in-kroatie-2027",
+  "name": "Unternehmerreise zum Thema Handwerk & Denkmalpflege in Kroatien",
+  "format": "Unternehmerreise",
+  "veranstalter": "BMWE, AHK Kroatien, Bayern Handwerk International",
+  "ort": "Zagreb",
+  "land": "HR",
+  "region": "Kroatien",
+  "rubrik": "eu",
+  "start": "2027-03-15",
+  "ende": "2027-03-18",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Geschäftsanbahnung Handwerk und Denkmalpflege in Kroatien",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Handwerk",
+   "Bau & Immobilien"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.hwkno.de/termine/unternehmerreise-zum-thema-handwerk-denkmalpflege-in-kroatien-76,0,evedetail.html?eve=1850",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:hwkno",
+  "geo": [
+   45.815,
+   15.9819
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Sonstiges",
   "archiv": false
  },
  {
@@ -13286,6 +16193,51 @@
    -3.7038
   ],
   "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "transform-2027",
+  "name": "TRANSFORM 2027",
+  "format": "Konferenz",
+  "veranstalter": "Bitkom",
+  "ort": "Berlin",
+  "land": "DE",
+  "region": "Berlin",
+  "rubrik": "de",
+  "start": "2027-03-17",
+  "ende": "2027-03-18",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Digitale Transformation von Unternehmen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Software, KI & Daten",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.bitkom.org/Events",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:bitkom",
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "gesamt": 2.6,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
   "archiv": false
@@ -13742,6 +16694,52 @@
   "archiv": false
  },
  {
+  "id": "fastener-fair-stuttgart-2027",
+  "name": "Fastener Fair Stuttgart 2027",
+  "format": "Fachmesse",
+  "veranstalter": "Mack Brooks / RX",
+  "ort": "Messe Stuttgart",
+  "land": "DE",
+  "region": "Baden-Württemberg (Stuttgart)",
+  "rubrik": "de",
+  "start": "2027-04-06",
+  "ende": "2027-04-08",
+  "turnus": "alle 2 Jahre",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Verbindungs- und Befestigungstechnik: Hersteller, Händler, Zulieferer",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Metall & Oberflächen",
+   "Industrie & Fertigung",
+   "Logistik & Handel"
+  ],
+  "scores": {
+   "relevanz": 4,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_building-construction.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   48.6936,
+   9.1925
+  ],
+  "gesamt": 3.4,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "stom-kielce-2027",
   "name": "STOM 2027 – Blech, Laser, Schweißen, Oberflächen",
   "format": "Industriemessen",
@@ -13784,6 +16782,50 @@
   "gesamt": 2.8,
   "prioritaet": "C",
   "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "seminar-vom-produkt-zum-markt-2027",
+  "name": "Seminar: Vom Produkt zum Markt",
+  "format": "Seminar",
+  "veranstalter": "Digitale Gründerinitiative Oberpfalz",
+  "ort": "Landratsamt Regensburg, Regensburg",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2027-04-06",
+  "ende": "2027-04-06",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründerseminar Teil 1: Vom Produkt zum Markt",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.digitale-oberpfalz.de/news-events/termine/detail/6/4/2027/seminar-von-der-idee-zum-produkt-1",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:dgo-termine",
+  "geo": [
+   49.0134,
+   12.1016
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
   "archiv": false
  },
  {
@@ -13832,6 +16874,50 @@
   "archiv": false
  },
  {
+  "id": "seminar-vom-markt-zum-firmenaufbau-2027",
+  "name": "Seminar: Vom Markt zum Firmenaufbau",
+  "format": "Seminar",
+  "veranstalter": "Digitale Gründerinitiative Oberpfalz",
+  "ort": "Landratsamt Regensburg, Regensburg",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2027-04-13",
+  "ende": "2027-04-13",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Gründerseminar Teil 2: Vom Markt zum Firmenaufbau",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gründung & Innovation"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.digitale-oberpfalz.de/news-events/termine/detail/13/4/2027/seminar-von-der-idee-zum-produkt-1-1",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:dgo-termine",
+  "geo": [
+   49.0134,
+   12.1016
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
+  "archiv": false
+ },
+ {
   "id": "solarplaza-summit-energy-storage-the-netherlands-2027",
   "name": "Solarplaza Summit Energy Storage The Netherlands 2027",
   "format": "Konferenz",
@@ -13873,6 +16959,51 @@
   "gesamt": 2.7,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "texterstellung-mit-ki-marketingtexte-im-handwerk-effizient-u-2027",
+  "name": "Texterstellung mit KI: Marketingtexte im Handwerk effizient umsetzen",
+  "format": "Seminar",
+  "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz",
+  "ort": "Handwerkskammer, Regensburg",
+  "land": "DE",
+  "region": "Bayern (Oberpfalz)",
+  "rubrik": "region",
+  "start": "2027-04-13",
+  "ende": "2027-04-13",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Marketingtexte im Handwerk mit KI erstellen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Handwerk",
+   "Software, KI & Daten"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.hwkno.de/termine/texterstellung-mit-ki-marketingtexte-im-handwerk-effizient-umsetzen-76,0,evedetail.html?eve=1851",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:hwkno",
+  "geo": [
+   49.0134,
+   12.1016
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Workshop & Seminar",
   "archiv": false
  },
  {
@@ -14864,6 +17995,50 @@
   ]
  },
  {
+  "id": "solarplaza-summit-romania-2027",
+  "name": "Solarplaza Summit Romania 2027",
+  "format": "Konferenz",
+  "veranstalter": "Solarplaza",
+  "ort": "Sheraton Bucharest Hotel, Bukarest",
+  "land": "RO",
+  "region": "Rumänien",
+  "rubrik": "eu",
+  "start": "2027-05-11",
+  "ende": "2027-05-11",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Solar- und Speichermarkt Rumänien",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.solarplaza.com/event/solarplaza-summit-romania/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:solarplaza-events",
+  "geo": [
+   44.4268,
+   26.1025
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
   "id": "interzum-2027",
   "name": "interzum 2027",
   "format": "Fachmesse",
@@ -14951,6 +18126,50 @@
   "gesamt": 2.4,
   "prioritaet": "C",
   "kategorie": "Konferenz & Kongress",
+  "archiv": false
+ },
+ {
+  "id": "e-waste-world-2027",
+  "name": "E-Waste World Conference & Expo 2027",
+  "format": "Fachmesse mit Konferenz",
+  "veranstalter": "Trans-Global Events",
+  "ort": "Messe Frankfurt",
+  "land": "DE",
+  "region": "Hessen (Frankfurt)",
+  "rubrik": "de",
+  "start": "2027-05-12",
+  "ende": "2027-05-13",
+  "turnus": "jährlich",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Recycling von Elektroaltgeräten und Batterien",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Material & Kreislauf"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_waste-management-recycling.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   50.1109,
+   8.6821
+  ],
+  "gesamt": 2.6,
+  "prioritaet": "C",
+  "kategorie": "Messe",
   "archiv": false
  },
  {
@@ -15136,6 +18355,52 @@
   "archiv": false
  },
  {
+  "id": "eltec-2027",
+  "name": "ELTEC 2027",
+  "format": "Fachmesse",
+  "veranstalter": "AFAG",
+  "ort": "Messezentrum Nürnberg",
+  "land": "DE",
+  "region": "Bayern (Mittelfranken)",
+  "rubrik": "de",
+  "start": "2027-05-22",
+  "ende": "2027-05-24",
+  "turnus": "alle 2 Jahre",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Elektro-, Licht- und Energietechnik für Handwerk und Planung in Bayern",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Gebäudetechnik",
+   "Energie & Solar",
+   "Handwerk"
+  ],
+  "scores": {
+   "relevanz": 3,
+   "zugang": 3,
+   "aufwand": 4,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_energy-production-transportation.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   49.4521,
+   11.0767
+  ],
+  "gesamt": 3.2,
+  "prioritaet": "B",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
   "id": "berliner-energietage-2027",
   "name": "Berliner ENERGIETAGE 2027",
   "format": "Fachkonferenz",
@@ -15223,6 +18488,50 @@
   "gesamt": 2.3,
   "prioritaet": "C",
   "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "solarplaza-summit-poland-2027",
+  "name": "Solarplaza Summit Poland 2027",
+  "format": "Konferenz",
+  "veranstalter": "Solarplaza",
+  "ort": "Warschau",
+  "land": "PL",
+  "region": "Polen",
+  "rubrik": "eu",
+  "start": "2027-05-25",
+  "ende": "2027-05-25",
+  "turnus": "",
+  "zeitraum": "",
+  "status": "bestätigt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Solar- und Speichermarkt Polen",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Energie & Solar"
+  ],
+  "scores": {
+   "relevanz": 2,
+   "zugang": 3,
+   "aufwand": 3,
+   "verlaesslichkeit": 4
+  },
+  "quelle": "https://www.solarplaza.com/event/solarplaza-summit-poland/",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:solarplaza-events",
+  "geo": [
+   52.2297,
+   21.0122
+  ],
+  "gesamt": 2.7,
+  "prioritaet": "C",
+  "kategorie": "Konferenz & Kongress",
   "archiv": false
  },
  {
@@ -15382,8 +18691,8 @@
    "Besuch",
    "Aussteller"
   ],
-  "quelle": "https://www.intersolar.de/en/about",
-  "geprueft": "2026-11-09",
+  "quelle": "https://www.intersolar.de/conference/call-for-abstracts",
+  "geprueft": "2026-11-16",
   "rubrik": "de",
   "scores": {
    "relevanz": 5,
@@ -16965,6 +20274,52 @@
   ],
   "gesamt": 2.6,
   "prioritaet": "C",
+  "kategorie": "Messe",
+  "archiv": false
+ },
+ {
+  "id": "aluminium-2027",
+  "name": "ALUMINIUM 2027",
+  "format": "Weltmesse mit Konferenz",
+  "veranstalter": "RX Global",
+  "ort": "Messe Düsseldorf",
+  "land": "DE",
+  "region": "Nordrhein-Westfalen",
+  "rubrik": "de",
+  "start": "2027-09-26",
+  "ende": "2027-09-28",
+  "turnus": "alle 2 Jahre",
+  "zeitraum": "",
+  "status": "geschätzt",
+  "anmeldeschluss": null,
+  "anmeldung": "Anmeldung über die Veranstalterseite",
+  "kosten": "",
+  "zielgruppe": "",
+  "fokus": "Wertschöpfungskette Aluminium: Herstellung, Bearbeitung, Oberflächen, Recycling",
+  "begruendung": "",
+  "rolle": [
+   "Besuch"
+  ],
+  "branchen": [
+   "Metall & Oberflächen",
+   "Material & Kreislauf",
+   "Industrie & Fertigung"
+  ],
+  "scores": {
+   "relevanz": 4,
+   "zugang": 3,
+   "aufwand": 2,
+   "verlaesslichkeit": 3
+  },
+  "quelle": "https://www.eventseye.com/fairs/zst1_trade-shows_europe_metal-working-industries.html",
+  "geprueft": "2026-11-16",
+  "herkunft": "abruf:eventseye",
+  "geo": [
+   51.2601,
+   6.734
+  ],
+  "gesamt": 3.2,
+  "prioritaet": "B",
   "kategorie": "Messe",
   "archiv": false
  },
