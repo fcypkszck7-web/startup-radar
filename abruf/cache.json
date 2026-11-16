@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-15",
+  "geholt": "2026-11-16",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -42852,6 +42852,268 @@
     "zuerst_gesehen": "2026-11-04",
     "erfasst_als": null,
     "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620456": {
+  "geholt": "2026-11-16",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621065": {
+  "geholt": "2026-11-16",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617597": {
+  "geholt": "2026-11-16",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620017": {
+  "geholt": "2026-11-16",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621383": {
+  "geholt": "2026-11-16",
+  "events": [
+   {
+    "titel": "Ausstellung \"Un:sichtbare Barrieren\"",
+    "start": "2026-11-15",
+    "ende": "2026-11-15",
+    "ort": "Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/621383",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-15|regensburg.de/veranstaltungen/detail/621383",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-16",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620947": {
+  "geholt": "2026-11-16",
+  "events": [
+   {
+    "titel": "Transit Filmfest - Ultimate Fantasy XXVI",
+    "start": "2026-11-15",
+    "ende": "2026-11-15",
+    "ort": "Filmgalerie im Leeren Beutel, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/620947",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-15|regensburg.de/veranstaltungen/detail/620947",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-16",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617679": {
+  "geholt": "2026-11-16",
+  "events": [
+   {
+    "titel": "Christoph Maul \"Live und ungeprobt\" Comedy par excellence!",
+    "start": "2026-11-15",
+    "ende": "2026-11-15",
+    "ort": "STATT-THEATER Kleinkunstbühne, Regensburg",
+    "land": "",
+    "online": true,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/617679",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-15|regensburg.de/veranstaltungen/detail/617679",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-16",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/619386": {
+  "geholt": "2026-11-16",
+  "events": [
+   {
+    "titel": "Ausstellung Kathi Ringlstetter und Friends in der Stadelgalerie \"Stadel temporär\"",
+    "start": "2026-11-15",
+    "ende": "2026-11-15",
+    "ort": "Künstlerhaus Andreas-Stadel, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/619386",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-15|regensburg.de/veranstaltungen/detail/619386",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-16",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/mit-einem-klick-zu-neuen-kund-innen-%285%29": {
+  "geholt": "2026-11-16",
+  "events": [
+   {
+    "titel": "Mit einem Klick zu neuen Kund:innen",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/mit-einem-klick-zu-neuen-kund-innen-%285%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-24|startupticker.ch/en/events/mit-einem-klick-zu-neuen-kund-innen-%285%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-16",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/esa-bic-switzerland-%2811%29": {
+  "geholt": "2026-11-16",
+  "events": [
+   {
+    "titel": "ESA BIC Switzerland",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "University of Bern, ExWi, Sidlerstrasse 5, Bern",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/esa-bic-switzerland-%2811%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-24|startupticker.ch/en/events/esa-bic-switzerland-%2811%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-16",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794805430-c237e9b08": {
+  "geholt": "2026-11-16",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2026-12-07",
+    "ende": "2026-12-07",
+    "ort": "Termin",
+    "land": "",
+    "online": false,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794805430-c237e9b08",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
+   }
+  ],
+  "v": 2
+ },
+ "https://een.ec.europa.eu/events/leman-business-matchmaking-2026-become-supplier-international-organisations": {
+  "geholt": "2026-11-16",
+  "events": [
+   {
+    "titel": "Léman Business Matchmaking 2026 – Become a supplier to international organisations",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "Archamps",
+    "land": "",
+    "online": false,
+    "url": "https://een.ec.europa.eu/events/leman-business-matchmaking-2026-become-supplier-international-organisations",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "een-events",
+    "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-17|een.ec.europa.eu/events/leman-business-matchmaking-2026-become-supplier-international-organisations",
+    "quellen": [
+     "een-events"
+    ],
+    "zuerst_gesehen": "2026-11-16",
+    "erfasst_als": "formnext-2026",
+    "entscheidung": ""
    }
   ],
   "v": 2

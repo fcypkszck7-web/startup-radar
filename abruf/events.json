@@ -1,148 +1,75 @@
 [
  {
-  "titel": "Lancaster Insurance Classic Motor Show - Day 2",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/classic-motor-show/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-14|thenec.co.uk/events/classic-motor-show",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Mind Body Spirit Festival - Day 2",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/mind-body-spirit/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-14|thenec.co.uk/events/mind-body-spirit",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "The Super Weekender Dance Convention - Day 1",
-  "start": "2026-11-14",
-  "ende": "2026-11-14",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/the-super-weekender-dance-convention/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-14|thenec.co.uk/events/the-super-weekender-dance-convention",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Augsburger Kreuzfahrt-Messe",
+  "titel": "Ausstellung \"Un:sichtbare Barrieren\"",
   "start": "2026-11-15",
   "ende": "2026-11-15",
-  "ort": "Tagungscenter",
+  "ort": "Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.messeaugsburg.de/de/augsburger-kreuzfahrt-messe/e34",
-  "veranstalter": "",
-  "kurz": "Messen ✓ Kongresse ✓ Konzerte ✓ Events✓ 7 Hallen✓ 16 Konferenzräume✓ 420.000 Besucher pro Jahr✓ ",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-augsburg",
-  "quelle_name": "Messe Augsburg – Messen und Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-15|messeaugsburg.de/de/augsburger-kreuzfahrt-messe/e34",
-  "quellen": [
-   "messe-augsburg"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
- },
- {
-  "titel": "Deadline Basel Goes Circular!",
-  "start": "2026-11-15",
-  "ende": "2026-11-15",
-  "ort": "Startup Camp India",
-  "land": "",
-  "online": false,
-  "url": "https://www.startupticker.ch/en/events/deadline-basel-goes-circular",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/621383",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "startupticker",
-  "quelle_name": "Startupticker.ch – Events",
-  "region_hinweis": "Schweiz",
-  "branchen_vorschlag": [
-   "Material & Kreislauf"
-  ],
-  "schluessel": "2026-11-15|startupticker.ch/en/events/deadline-basel-goes-circular",
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-15|regensburg.de/veranstaltungen/detail/621383",
   "quellen": [
-   "startupticker"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-06",
-  "erfasst_als": "deadline-basel-goes-circular-2026",
-  "entscheidung": "aufgenommen: deadline-basel-goes-circular-2026"
+  "zuerst_gesehen": "2026-11-16",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
-  "titel": "Deadline Swissnex Startup Camp Brazil",
+  "titel": "Ausstellung Kathi Ringlstetter und Friends in der Stadelgalerie \"Stadel temporär\"",
   "start": "2026-11-15",
   "ende": "2026-11-15",
-  "ort": "Startup Camp India",
+  "ort": "Künstlerhaus Andreas-Stadel, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.startupticker.ch/en/events/deadline-swissnex-startup-camp-brazil",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619386",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "startupticker",
-  "quelle_name": "Startupticker.ch – Events",
-  "region_hinweis": "Schweiz",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-15|startupticker.ch/en/events/deadline-swissnex-startup-camp-brazil",
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-15|regensburg.de/veranstaltungen/detail/619386",
   "quellen": [
-   "startupticker"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-06",
+  "zuerst_gesehen": "2026-11-16",
   "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
+  "entscheidung": ""
+ },
+ {
+  "titel": "Christoph Maul \"Live und ungeprobt\" Comedy par excellence!",
+  "start": "2026-11-15",
+  "ende": "2026-11-15",
+  "ort": "STATT-THEATER Kleinkunstbühne, Regensburg",
+  "land": "",
+  "online": true,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/617679",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-15|regensburg.de/veranstaltungen/detail/617679",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-16",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "FAME-Ecosys Austria - Accelerating Advanced Materials Innovation and Collaboration",
@@ -172,144 +99,27 @@
   "entscheidung": ""
  },
  {
-  "titel": "Lancaster Insurance Classic Motor Show - Day 3",
+  "titel": "Transit Filmfest - Ultimate Fantasy XXVI",
   "start": "2026-11-15",
   "ende": "2026-11-15",
-  "ort": "The NEC",
+  "ort": "Filmgalerie im Leeren Beutel, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.thenec.co.uk/events/classic-motor-show/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-15|thenec.co.uk/events/classic-motor-show",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Mind Body Spirit Festival - Day 3",
-  "start": "2026-11-15",
-  "ende": "2026-11-15",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/mind-body-spirit/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-15|thenec.co.uk/events/mind-body-spirit",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "NUMISMATA",
-  "start": "2026-11-15",
-  "ende": "2026-11-15",
-  "ort": "Messe Berlin",
-  "land": "",
-  "online": false,
-  "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/numismata-2026",
-  "veranstalter": "",
-  "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-berlin",
-  "quelle_name": "Messe Berlin – Veranstaltungen",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-15|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/numismata-2026",
-  "quellen": [
-   "messe-berlin"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
- },
- {
-  "titel": "The Super Weekender Dance Convention - Day 2",
-  "start": "2026-11-15",
-  "ende": "2026-11-15",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/the-super-weekender-dance-convention/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-15|thenec.co.uk/events/the-super-weekender-dance-convention",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "WELCOME HOME - Brussels Expo",
-  "start": "2026-11-15",
-  "ende": "2026-11-15",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.brussels-expo.com/event/welcome-home/",
-  "veranstalter": "Brussels Expo",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-brussels-expo",
-  "quelle_name": "Brussels Expo – Agenda",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-15|brussels-expo.com/event/welcome-home",
-  "quellen": [
-   "messe-brussels-expo"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "e-SALON 2026",
-  "start": "2026-11-15",
-  "ende": "2026-11-15",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.pvaexpo.cz/en/event/487",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/620947",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "messe-pva-prag",
-  "quelle_name": "PVA Expo Praha – Kalender",
-  "region_hinweis": "Europa",
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-15|pvaexpo.cz/en/event/487",
+  "schluessel": "2026-11-15|regensburg.de/veranstaltungen/detail/620947",
   "quellen": [
-   "messe-pva-prag"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "startup-trifft-mittelstand-bw-2026",
+  "zuerst_gesehen": "2026-11-16",
+  "erfasst_als": null,
   "entscheidung": ""
  },
  {
@@ -541,32 +351,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "ITBridge Connect: EU–Ukraine Digital Collaboration Forum & Matchmaking",
-  "start": "2026-11-16",
-  "ende": "2026-11-16",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://een.ec.europa.eu/events/itbridge-connect-eu-ukraine-digital-collaboration-forum-matchmaking",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "een-events",
-  "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-16|een.ec.europa.eu/events/itbridge-connect-eu-ukraine-digital-collaboration-forum-matchmaking",
-  "quellen": [
-   "een-events"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
   "titel": "Info­­veranstaltung der Ethik­­kommission zu Anträgen und Beratung",
   "start": "2026-11-16",
   "ende": "2026-11-16",
@@ -624,33 +408,6 @@
   "ort": "OTH Campus in Weiden, großes Hörsaalgebäude (001 & 002), Weiden",
   "land": "",
   "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/16/11/2026/inspiration-startup-night-2026",
-  "veranstalter": "",
-  "kurz": "KI, Startups & Insider-Einblicke: Besuch die Inspiration & StartUp Night 2026 am 16.11. an der OTH Weiden. Kostenlose Teilnahme – hier anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation",
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-16|digitale-oberpfalz.de/news-events/termine/detail/16/11/2026/inspiration-startup-night-2026",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "startup-night-weiden-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Inspiration & StartUp Night 2026",
-  "start": "2026-11-16",
-  "ende": "2026-11-16",
-  "ort": "OTH Campus in Weiden, großes Hörsaalgebäude (001 & 002), Weiden",
-  "land": "",
-  "online": false,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/16/11/2026/inspiration-startup-night-2026",
   "veranstalter": "",
   "kurz": "KI, Startups & Insider-Einblicke: Besuch die Inspiration & StartUp Night 2026 am 16.11. an der OTH Weiden. Kostenlose Teilnahme – hier anmelden!",
@@ -666,6 +423,33 @@
   "schluessel": "2026-11-16|techbase.de/news-termine/events-termine/detail/16/11/2026/inspiration-startup-night-2026",
   "quellen": [
    "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "startup-night-weiden-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Inspiration & StartUp Night 2026",
+  "start": "2026-11-16",
+  "ende": "2026-11-16",
+  "ort": "OTH Campus in Weiden, großes Hörsaalgebäude (001 & 002), Weiden",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/16/11/2026/inspiration-startup-night-2026",
+  "veranstalter": "",
+  "kurz": "KI, Startups & Insider-Einblicke: Besuch die Inspiration & StartUp Night 2026 am 16.11. an der OTH Weiden. Kostenlose Teilnahme – hier anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation",
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-16|digitale-oberpfalz.de/news-events/termine/detail/16/11/2026/inspiration-startup-night-2026",
+  "quellen": [
+   "dgo-termine"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "startup-night-weiden-2026",
@@ -1645,6 +1429,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Léman Business Matchmaking 2026 – Become a supplier to international organisations",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "Archamps",
+  "land": "",
+  "online": false,
+  "url": "https://een.ec.europa.eu/events/leman-business-matchmaking-2026-become-supplier-international-organisations",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "een-events",
+  "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|een.ec.europa.eu/events/leman-business-matchmaking-2026-become-supplier-international-organisations",
+  "quellen": [
+   "een-events"
+  ],
+  "zuerst_gesehen": "2026-11-16",
+  "erfasst_als": "formnext-2026",
+  "entscheidung": ""
+ },
+ {
   "titel": "Meet the expert - Unlock Non-Dilutive Funding for Your Innovation. Opportunities through Horizon Europe 2027",
   "start": "2026-11-17",
   "ende": "2026-11-17",
@@ -2231,30 +2039,6 @@
   "ort": "rkshop: Fallstricke im Steuerrecht",
   "land": "",
   "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
-  "veranstalter": "",
-  "kurz": "GmbH-Überführung, Scheinselbstständigkeit & USt. im Ausland: Jetzt für den Workshop am 17.11. in der TechBase Regensburg anmelden & rechtssicher wachsen!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-17|digitale-oberpfalz.de/news-events/termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "workshop-fallstricke-im-steuerrecht-2026",
-  "entscheidung": "aufgenommen: workshop-fallstricke-im-steuerrecht-2026"
- },
- {
-  "titel": "Workshop: Fallstricke im Steuerrecht",
-  "start": "2026-11-17",
-  "ende": "2026-11-17",
-  "ort": "rkshop: Fallstricke im Steuerrecht",
-  "land": "",
-  "online": false,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
   "veranstalter": "",
   "kurz": "GmbH-Überführung, Scheinselbstständigkeit & USt. im Ausland: Jetzt für den Workshop am 17.11. in der TechBase Regensburg anmelden & rechtssicher wachsen!",
@@ -2271,6 +2055,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "workshop-fallstricke-im-steuerrecht-2026",
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
+ },
+ {
+  "titel": "Workshop: Fallstricke im Steuerrecht",
+  "start": "2026-11-17",
+  "ende": "2026-11-17",
+  "ort": "rkshop: Fallstricke im Steuerrecht",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
+  "veranstalter": "",
+  "kurz": "GmbH-Überführung, Scheinselbstständigkeit & USt. im Ausland: Jetzt für den Workshop am 17.11. in der TechBase Regensburg anmelden & rechtssicher wachsen!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-17|digitale-oberpfalz.de/news-events/termine/detail/17/11/2026/workshop-fallstricke-steuerrecht",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "workshop-fallstricke-im-steuerrecht-2026",
+  "entscheidung": "aufgenommen: workshop-fallstricke-im-steuerrecht-2026"
  },
  {
   "titel": "Zero Project Unternehmensdialog - Erfolgsmodell Teil-Qualifizierung",
@@ -2802,32 +2610,6 @@
   "ort": "OTH Regensburg, Regensburg",
   "land": "",
   "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/18/11/2026/hochschulgruendertag-2026",
-  "veranstalter": "",
-  "kurz": "Das OTH Start-up Center und das Verbundprojekt GründungsHUB Ostbayern laden herzlich zum Hochschulgründertag am 18. November 2026 ein. Jetzt kostenlos anmelden.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-18|digitale-oberpfalz.de/news-events/termine/detail/18/11/2026/hochschulgruendertag-2026",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "digital-days-wien-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Hochschulgründertag 2026",
-  "start": "2026-11-18",
-  "ende": "2026-11-18",
-  "ort": "OTH Regensburg, Regensburg",
-  "land": "",
-  "online": true,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/18/11/2026/hochschulgruendertag-2026",
   "veranstalter": "",
   "kurz": "Das OTH Start-up Center und das Verbundprojekt GründungsHUB Ostbayern laden herzlich zum Hochschulgründertag am 18. November 2026 ein. Jetzt kostenlos anmelden.",
@@ -2842,6 +2624,32 @@
   "schluessel": "2026-11-18|techbase.de/news-termine/events-termine/detail/18/11/2026/hochschulgruendertag-2026",
   "quellen": [
    "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "digital-days-wien-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Hochschulgründertag 2026",
+  "start": "2026-11-18",
+  "ende": "2026-11-18",
+  "ort": "OTH Regensburg, Regensburg",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/18/11/2026/hochschulgruendertag-2026",
+  "veranstalter": "",
+  "kurz": "Das OTH Start-up Center und das Verbundprojekt GründungsHUB Ostbayern laden herzlich zum Hochschulgründertag am 18. November 2026 ein. Jetzt kostenlos anmelden.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-18|digitale-oberpfalz.de/news-events/termine/detail/18/11/2026/hochschulgruendertag-2026",
+  "quellen": [
+   "dgo-termine"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "digital-days-wien-2026",
@@ -3562,30 +3370,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "zollseminar-fuer-einsteiger-und-auffrischer-teil-2-2026",
   "entscheidung": "aufgenommen: zollseminar-fuer-einsteiger-und-auffrischer-teil-2-2026"
- },
- {
-  "titel": "analytica China 2026",
-  "start": "2026-11-18",
-  "ende": "2026-11-18",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://messe-muenchen.de/de/veranstaltungen/analytica-china-2026.html",
-  "veranstalter": "Messe München GmbH",
-  "kurz": "analytica China: Internationale Fachmesse für Labortechnik, Analytik, Biotechnologie und Diagnostik. Alle Messe-Informationen!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-muenchen",
-  "quelle_name": "Messe München – Messekalender",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-18|messe-muenchen.de/de/veranstaltungen/analytica-china-2026.html",
-  "quellen": [
-   "messe-muenchen"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "formnext-2026",
-  "entscheidung": ""
  },
  {
   "titel": "ABGESAGT: Die Kosten des Status quo",
@@ -5094,6 +4878,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Schnittmuster - von Schutz und Berührung Isolde von Reusner & Franziska Lauber",
+  "start": "2026-11-21",
+  "ende": "2026-11-21",
+  "ort": "Sigismundkapelle im Thon-Dittmer-Palais, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619482",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-21|regensburg.de/veranstaltungen/detail/619482",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "StartUp Boost",
   "start": "2026-11-21",
   "ende": "2026-11-21",
@@ -5141,6 +4949,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
+ },
+ {
+  "titel": "Zamp Wimmer: EINS NULL NULL EINS / Tausend + eine Nacht",
+  "start": "2026-11-21",
+  "ende": "2026-11-21",
+  "ort": "artspace Erdel, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619857",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-21|regensburg.de/veranstaltungen/detail/619857",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Classic Antique Fairs - Day 3",
@@ -5965,6 +5797,30 @@
   "entscheidung": "aufgenommen: e-mobilitaet-in-handwerk-und-gewerbe-warum-sinnvoll-und-wie-2026"
  },
  {
+  "titel": "ESA BIC Switzerland",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "University of Bern, ExWi, Sidlerstrasse 5, Bern",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/en/events/esa-bic-switzerland-%2811%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-24|startupticker.ch/en/events/esa-bic-switzerland-%2811%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-16",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Genera",
   "start": "2026-11-24",
   "ende": "2026-11-26",
@@ -6138,6 +5994,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "matelec-2026",
   "entscheidung": "aufgenommen: matelec-2026"
+ },
+ {
+  "titel": "Mit einem Klick zu neuen Kund:innen",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/en/events/mit-einem-klick-zu-neuen-kund-innen-%285%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-24|startupticker.ch/en/events/mit-einem-klick-zu-neuen-kund-innen-%285%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-16",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Online-Crashkurs \"Fit für Bewerbung & Vorstellungsgespräch\"",
@@ -6340,33 +6220,6 @@
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "materialflusskongress-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "BIM World MUNICH 2026",
-  "start": "2026-11-25",
-  "ende": "2026-11-25",
-  "ort": "Herrsching",
-  "land": "",
-  "online": false,
-  "url": "https://messe-muenchen.de/de/veranstaltungen/bim-world-munich-2026.html",
-  "veranstalter": "Messe München GmbH",
-  "kurz": "BIM World MUNICH ist die führende internationale Plattform und Veranstaltung für die Digitalisierung der Bau-, Immobilien- und Facility-Management-Branchen",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-muenchen",
-  "quelle_name": "Messe München – Messekalender",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Bau & Immobilien",
-   "Software, KI & Daten"
-  ],
-  "schluessel": "2026-11-25|messe-muenchen.de/de/veranstaltungen/bim-world-munich-2026.html",
-  "quellen": [
-   "messe-muenchen"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "bim-world-2026",
   "entscheidung": ""
  },
  {
@@ -6851,32 +6704,6 @@
   "ort": "",
   "land": "",
   "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
-  "veranstalter": "",
-  "kurz": "Wer seine Gründung gut plant, kommt schneller ans Ziel. Welche Überlegungen im Vorfeld wichtig sind und was bei der Gründung beachtet werden muss erfahrt ihr im Webinar der IHK.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-25|digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "webinar-schritt-fuer-schritt-zur-gruendung-2026",
-  "entscheidung": "aufgenommen: webinar-schritt-fuer-schritt-zur-gruendung-2026"
- },
- {
-  "titel": "Webinar: Schritt für Schritt zur Gründung",
-  "start": "2026-11-25",
-  "ende": "2026-11-25",
-  "ort": "",
-  "land": "",
-  "online": true,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
   "veranstalter": "",
   "kurz": "Wer seine Gründung gut plant, kommt schneller ans Ziel. Welche Überlegungen im Vorfeld wichtig sind und was bei der Gründung beachtet werden muss erfahrt ihr im Webinar der IHK.",
@@ -6895,6 +6722,32 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "webinar-schritt-fuer-schritt-zur-gruendung-2026",
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
+ },
+ {
+  "titel": "Webinar: Schritt für Schritt zur Gründung",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
+  "veranstalter": "",
+  "kurz": "Wer seine Gründung gut plant, kommt schneller ans Ziel. Welche Überlegungen im Vorfeld wichtig sind und was bei der Gründung beachtet werden muss erfahrt ihr im Webinar der IHK.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-25|digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "webinar-schritt-fuer-schritt-zur-gruendung-2026",
+  "entscheidung": "aufgenommen: webinar-schritt-fuer-schritt-zur-gruendung-2026"
  },
  {
   "titel": "Workshop \"Fit for the Job\"",
@@ -7932,33 +7785,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "bauma CHINA 2026",
-  "start": "2026-11-27",
-  "ende": "2026-11-27",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://messe-muenchen.de/de/veranstaltungen/bauma-china-2026.html",
-  "veranstalter": "Messe München GmbH",
-  "kurz": "bauma CHINA 2026: International Trade Fair for Construction Machinery, Building Material Machines, Mining Machines and Construction Vehicles",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-muenchen",
-  "quelle_name": "Messe München – Messekalender",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Bau & Immobilien",
-   "Material & Kreislauf"
-  ],
-  "schluessel": "2026-11-27|messe-muenchen.de/de/veranstaltungen/bauma-china-2026.html",
-  "quellen": [
-   "messe-muenchen"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "genera-2026",
-  "entscheidung": ""
- },
- {
   "titel": "Bodaeventos",
   "start": "2026-11-28",
   "ende": "2026-11-29",
@@ -8131,33 +7957,6 @@
   "ort": "",
   "land": "",
   "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
-  "veranstalter": "",
-  "kurz": "TechBase Regensburg",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Industrie & Fertigung",
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-28|digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "startup-factory-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "StartUP Factory Regensburg 2026",
-  "start": "2026-11-28",
-  "ende": "2026-11-28",
-  "ort": "",
-  "land": "",
-  "online": false,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/26/11/2026/startup-factory-regensburg-2026",
   "veranstalter": "",
   "kurz": "TechBase Regensburg",
@@ -8173,6 +7972,33 @@
   "schluessel": "2026-11-28|techbase.de/news-termine/events-termine/detail/26/11/2026/startup-factory-regensburg-2026",
   "quellen": [
    "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "startup-factory-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "StartUP Factory Regensburg 2026",
+  "start": "2026-11-28",
+  "ende": "2026-11-28",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
+  "veranstalter": "",
+  "kurz": "TechBase Regensburg",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Industrie & Fertigung",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-28|digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
+  "quellen": [
+   "dgo-termine"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "startup-factory-2026",
@@ -9368,30 +9194,6 @@
   "ort": "eu01web.zoom.us/webinar/register/WN_78CUd16gTzm0LwOnmd2NCw",
   "land": "",
   "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
-  "veranstalter": "",
-  "kurz": "Online, 17:00 - 19:30 Uhr",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-12-02|digitale-oberpfalz.de/news-events/termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-11",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Tutorial: Finanzierung innovativer Unternehmen",
-  "start": "2026-12-02",
-  "ende": "2026-12-02",
-  "ort": "eu01web.zoom.us/webinar/register/WN_78CUd16gTzm0LwOnmd2NCw",
-  "land": "",
-  "online": true,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
   "veranstalter": "",
   "kurz": "Online, 17:00 - 19:30 Uhr",
@@ -9406,6 +9208,30 @@
    "techbase-events"
   ],
   "zuerst_gesehen": "2026-11-14",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Tutorial: Finanzierung innovativer Unternehmen",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "eu01web.zoom.us/webinar/register/WN_78CUd16gTzm0LwOnmd2NCw",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
+  "veranstalter": "",
+  "kurz": "Online, 17:00 - 19:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-02|digitale-oberpfalz.de/news-events/termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-11",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -10570,7 +10396,7 @@
   "ort": "Termin",
   "land": "",
   "online": false,
-  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794717111-c048ce845",
+  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794805430-c237e9b08",
   "veranstalter": "",
   "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
   "methode": "detailseite-text",
@@ -16547,30 +16373,6 @@
   "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/16/3/2027/seminar-von-der-idee-zum-produkt",
-  "veranstalter": "",
-  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-03-16|digitale-oberpfalz.de/news-events/termine/detail/16/3/2027/seminar-von-der-idee-zum-produkt",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "seminar-von-der-idee-zum-produkt-2027",
-  "entscheidung": "aufgenommen: seminar-von-der-idee-zum-produkt-2027"
- },
- {
-  "titel": "Seminar: Von der Idee zum Produkt",
-  "start": "2027-03-16",
-  "ende": "2027-03-16",
-  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
-  "land": "",
-  "online": false,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/16/3/2027/seminar-von-der-idee-zum-produkt",
   "veranstalter": "",
   "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
@@ -16587,6 +16389,30 @@
   "zuerst_gesehen": "2026-11-06",
   "erfasst_als": "seminar-von-der-idee-zum-produkt-2027",
   "entscheidung": ""
+ },
+ {
+  "titel": "Seminar: Von der Idee zum Produkt",
+  "start": "2027-03-16",
+  "ende": "2027-03-16",
+  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/16/3/2027/seminar-von-der-idee-zum-produkt",
+  "veranstalter": "",
+  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-03-16|digitale-oberpfalz.de/news-events/termine/detail/16/3/2027/seminar-von-der-idee-zum-produkt",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "seminar-von-der-idee-zum-produkt-2027",
+  "entscheidung": "aufgenommen: seminar-von-der-idee-zum-produkt-2027"
  },
  {
   "titel": "XPONENTIAL Europe",

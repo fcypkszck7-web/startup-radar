@@ -2,14 +2,14 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-15",
+ "abgerufen": "2026-11-16",
  "koepfe": [
   "Top Beiträge",
-  "Seine Schaufel wiegt 11 t, doch sieben Zähne bereiten Probleme",
-  "Heizen mit Heizlüfter: Wann es sinnvoll ist und wann es teuer wird",
-  "Alte Router, Kupferkabel, Disketten: So marode ist die US-Flugsicherung",
-  "Sonnensturm trifft Erde: Was passiert mit Stromnetz und Satelliten?",
-  "160-m-Tanker rammt Kreuzfahrtschiff – Minuten später liegt es auf der Seite",
+  "301 m lang, 248.000 PS stark: Jetzt liegt der Rekordliner auf dem Meeresgrund",
+  "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
+  "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
+  "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
+  "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
   "Bautechnik und mehr",
   "1. Bauprojekt-Management",
   "2. Baustoffe und -elemente",
@@ -34,11 +34,11 @@
   "Top Stellenanzeigen",
   "Weitere Artikel",
   "Sie ist nur 23 cm groß und sucht selbstständig nach Rissen in Brücken",
-  "Seine Schaufel wiegt 11 t, doch sieben Zähne bereiten Probleme",
-  "Heizen mit Heizlüfter: Wann es sinnvoll ist und wann es teuer wird",
-  "Alte Router, Kupferkabel, Disketten: So marode ist die US-Flugsicherung",
-  "Sonnensturm trifft Erde: Was passiert mit Stromnetz und Satelliten?",
-  "160-m-Tanker rammt Kreuzfahrtschiff – Minuten später liegt es auf der Seite",
+  "301 m lang, 248.000 PS stark: Jetzt liegt der Rekordliner auf dem Meeresgrund",
+  "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
+  "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
+  "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
+  "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
   "Firmenprofile"
  ],
  "links": [
@@ -53,33 +53,33 @@
    "extern": false
   },
   {
+   "text": "Mobilität",
+   "url": "https://www.ingenieur.de/mobilitaet/",
+   "extern": false
+  },
+  {
+   "text": "301 m lang, 248.000 PS stark: Jetzt liegt der Rekordliner auf dem Meeresgrund",
+   "url": "https://www.ingenieur.de/301-m-lang-248000-ps-stark-jetzt-liegt-der-rekordliner-auf-dem-meeresgrund-84605d88-091f-4ffd-a926-6977787fc063/",
+   "extern": false
+  },
+  {
    "text": "Bau",
    "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "Seine Schaufel wiegt 11 t, doch sieben Zähne bereiten Probleme",
-   "url": "https://www.ingenieur.de/seine-schaufel-wiegt-11-t-doch-sieben-zaehne-bereiten-probleme-e5c54a57-9de0-4095-a03f-2b8175d4da88/",
+   "text": "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
+   "url": "https://www.ingenieur.de/sydney-harbour-bridge-wie-zwei-riesige-stahlboegen-1930-zusammenfanden-c75d8664-7f84-4b06-9862-266759faaf63/",
    "extern": false
   },
   {
-   "text": "Gebäudetechnik",
-   "url": "https://www.ingenieur.de/gebaeudetechnik/",
+   "text": "Naturwissenschaften",
+   "url": "https://www.ingenieur.de/naturwissenschaften/",
    "extern": false
   },
   {
-   "text": "Heizen mit Heizlüfter: Wann es sinnvoll ist und wann es teuer wird",
-   "url": "https://www.ingenieur.de/heizen-mit-heizluefter-wann-es-sinnvoll-ist-und-wann-es-teuer-wird-6ddfc19f-a594-42b5-be13-c38a590590f0/",
-   "extern": false
-  },
-  {
-   "text": "Luft- & Raumfahrt",
-   "url": "https://www.ingenieur.de/luft-raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "Alte Router, Kupferkabel, Disketten: So marode ist die US-Flugsicherung",
-   "url": "https://www.ingenieur.de/alte-router-kupferkabel-disketten-so-marode-ist-die-us-flugsicherung-1fc737c5-b6cb-4776-85bd-ab88f824cb17/",
+   "text": "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
+   "url": "https://www.ingenieur.de/2-2-sonnenmassen-und-unsichtbar-ist-es-ein-neutronenstern-0c4511c1-9a18-4b1c-a48d-10c814a03ac6/",
    "extern": false
   },
   {
@@ -88,18 +88,18 @@
    "extern": false
   },
   {
-   "text": "Sonnensturm trifft Erde: Was passiert mit Stromnetz und Satelliten?",
-   "url": "https://www.ingenieur.de/sonnensturm-trifft-erde-was-passiert-mit-stromnetz-und-satelliten-1a7348dc-42f6-4fa5-8b73-c741776b464f/",
+   "text": "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
+   "url": "https://www.ingenieur.de/48-stunden-fuer-ein-hallo-voyager-1-erreichte-eine-unfassbare-entfernung-72b34a62-281d-4b7f-ad4b-151fc9ee4798/",
    "extern": false
   },
   {
-   "text": "Verkehrssicherheit",
-   "url": "https://www.ingenieur.de/verkehrssicherheit/",
+   "text": "Mobilität",
+   "url": "https://www.ingenieur.de/mobilitaet/",
    "extern": false
   },
   {
-   "text": "160-m-Tanker rammt Kreuzfahrtschiff – Minuten später liegt es auf der Seite",
-   "url": "https://www.ingenieur.de/tanker-ausser-kontrolle-kreuzfahrtschiff-kentert-auf-dem-mississippi-7bd61d2f-3f9c-41d6-b825-3bf03b39f905/",
+   "text": "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
+   "url": "https://www.ingenieur.de/geschichte-des-verbrennungsmotors-wie-otto-diesel-und-benz-die-welt-veraenderten-f4769b54-ec38-477b-85a2-5fe5cc8636ea/",
    "extern": false
   },
   {
@@ -188,103 +188,103 @@
    "extern": true
   },
   {
-   "text": "mehr zu Professorin | Professor oder Nachwuchsprofessorin | Nachwuchsprofessor (m/w/d) für das Lehrgebiet „Hochfrequenztechnik und elektronische Schaltungen“ be",
-   "url": "https://jobs.ingenieur.de/job/professorin-professor-oder-nachwuchsprofessorin-nachwuchsprofessor-m-w-d-fuer-das-lehrgebiet-hochfrequenztechnik-und-elektronische-schaltungen-064278693?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Sales Engineer / Vertriebsingenieur für Sortiersysteme und Intralogistik (m/w/d) bei Dürkopp Fördertechnik GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/sales-engineer-vertriebsingenieur-fuer-sortiersysteme-und-intralogistik-m-w-d-064278577?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Projektingenieur EMSR / Energietechnik (m/w/d) bei Stadtwerke Esslingen am Neckar GmbH & Co. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektingenieur-emsr-energietechnik-m-w-d-064438125?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Application Engineer / Technischer Support (m/w/d) – Vermessung & Mobile Mapping bei AllTerra Deutschland GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/application-engineer-technischer-support-m-w-d-vermessung-mobile-mapping-064278580?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Technischer Leiter (m/w/d) Kunststofftechnik bei MEWA Textil-Service SE & CO. Management OHG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/technischer-leiter-m-w-d-kunststofftechnik-064450462?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektleiter NNbS Mittelbereichsradar (w/m/d) bei HENSOLDT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektleiter-nnbs-mittelbereichsradar-w-m-d-064278582?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Bauingenieur (w/m/d) Planfeststellung bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-planfeststellung-064451355?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektleiter NNbS Project Office (w/m/d) bei HENSOLDT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektleiter-nnbs-project-office-w-m-d-064278583?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Bauingenieur (w/m/d) für die Planung von Ingenieurbauwerken bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-fuer-die-planung-von-ingenieurbauwerken-064451356?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Senior Engineer – Funktionale Sicherheit (m/w/d) bei Mi-Jack Europe GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/senior-engineer-funktionale-sicherheit-m-w-d-064278929?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Teamleitung Technisches Immobilienmanagement / Betreiberverantwortung (m/w/d) bei STADT UND LAND Wohnbauten-Gesellschaft mbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/teamleitung-technisches-immobilienmanagement-betreiberverantwortung-m-w-d-064451408?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektingenieur intelligente Energiemanagementsysteme und Smart Home (m/w/d) bei Honda (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektingenieur-intelligente-energiemanagementsysteme-und-smart-home-m-w-d-064556657?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Projektingenieur Netzanschluss und Energieinfrastruktur (m/w/d) bei nvb (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektingenieur-netzanschluss-und-energieinfrastruktur-m-w-d-064535070?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Ingenieur/-in für den Ausbau des Hildesheimer Binnenwasserhafens (m/w/d) bei Stadt Hildesheim Der Oberbürgermeister (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-in-fuer-den-ausbau-des-hildesheimer-binnenwasserhafens-m-w-d-064556806?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Ingenieur oder Techniker (m/w/d) HKLS im Bundesbau Bereich Bundesbau Team Technische Gebäudeausrüstung bei Gebäudemanagement Schleswig-Holstein AöR (GMS",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-oder-techniker-m-w-d-hkls-im-bundesbau-bereich-bundesbau-team-technische-gebaeudeausruestung-064535396?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Abteilungsleiter Planung (m/w/d) Reihenhäuser bei weisenburger bau GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/abteilungsleiter-planung-m-w-d-reihenhaeuser-064621286?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Verkehrsingenieur (w/m/d) als Teamleitung Verkehrssteuerung und Tunnelüberwachung bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/verkehrsingenieur-w-m-d-als-teamleitung-verkehrssteuerung-und-tunnelueberwachung-064539556?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Sachverständiger (m/w/d) Elektrotechnik bei TÜV Technische Überwachung Hessen GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/sachverstaendiger-m-w-d-elektrotechnik-064632059?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Bauingenieurin / Bauingenieur (w/m/d) für den Bereich Straßenbau bei Landesbetrieb Straßenbau und Verkehr Schleswig-Holstein (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauingenieurin-bauingenieur-w-m-d-fuer-den-bereich-strassenbau-064601882?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektleitung (m/w/d) im Bereich Tiefbau bei Staatliches Bauamt Nürnberg (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektleitung-m-w-d-im-bereich-tiefbau-064633106?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Servicetechniker / Inbetriebnehmer (m/w/d) bei Kreyenborg GmbH & Co. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/servicetechniker-inbetriebnehmer-m-w-d-064539619?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektleitung (m/w/d) im Bereich Tiefbau bei Staatliches Bauamt Nürnberg (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektleitung-m-w-d-im-bereich-tiefbau-064635091?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Leitung für das Amt Städte- und Hochbau (m/w/d) bei Gemeinde Heddesheim (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/leitung-fuer-das-amt-staedte-und-hochbau-m-w-d-064614362?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Technische*r Angestellte*r für die Durchführung von werkstoffmechanischen Versuchen bei hoher Temperatur (m/w/d) bei BAM Bundesanstalt für Materialforsc",
+   "url": "https://jobs.ingenieur.de/job/technische-r-angestellte-r-fuer-die-durchfuehrung-von-werkstoffmechanischen-versuchen-bei-hoher-temperatur-m-w-d-064637629?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Verstärkung für technische Projekte im Bereich Engineering und IT (m/w/d) bei RHEINMETALL AG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/verstaerkung-fuer-technische-projekte-im-bereich-engineering-und-it-m-w-d-064616049?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Ingenieur:in Explosionsschutz als Fachleiter:in bei TÜV NORD CERT GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-in-explosionsschutz-als-fachleiter-in-064186382?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Bauprojektleiter (m/w/d) bei Allbau Managementgesellschaft mbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauprojektleiter-m-w-d-064614389?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Bauüberwacher (m/w/d) Straßenverkehrsanlagen bei Bundesagentur für Arbeit - Vössing Ingenieurgesellschaft mbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauueberwacher-m-w-d-strassenverkehrsanlagen-064295817?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Forschungsingenieur im Vessel LAB (m/w/d) bei TKMS GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/forschungsingenieur-im-vessel-lab-m-w-d-064584433?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Bauingenieur/-in (m/w/d) bei Bundesagentur für Arbeit - Landeshauptstadt Stuttgart (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-in-m-w-d-064295819?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Teamleiter*in Schließtechnik bei Deutsche Rentenversicherung Bund (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/teamleiter-in-schliesstechnik-064617686?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Technische/r Projektmitarbeiter/in (m/w/d) – Bauwesen / Projektkoordination bei Bundesagentur für Arbeit - Dr. Kerner GmbH & Co. KG (öffnet in neuem Fen",
+   "url": "https://jobs.ingenieur.de/job/technische-r-projektmitarbeiter-in-m-w-d-bauwesen-projektkoordination-064295818?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Senior Systems Engineer – Aesthetic Filler & Combination Products (all genders) bei AbbVie Deutschland GmbH & Co. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/senior-systems-engineer-aesthetic-filler-combination-products-all-genders-064620111?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Junior Bauüberwacher:in Oberbau / Konstruktiver Ingenieurbau (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/junior-bauueberwacher-in-oberbau-konstruktiver-ingenieurbau-w-m-d-064379311?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Qualitätsprüfer (m/w/d) bei Horn Hartstoffe GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/qualitaetspruefer-m-w-d-064171358?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Senior Ingenieur:in Leit- und Sicherungstechnik im Großprojekt Rhein-Ruhr-Express (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/senior-ingenieur-in-leit-und-sicherungstechnik-im-grossprojekt-rhein-ruhr-express-w-m-d-064379310?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Inbetriebnahme- & Applikationstechniker Drive-by-Wire (m/w/d) bei Arnold NextG GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/inbetriebnahme-applikationstechniker-drive-by-wire-m-w-d-064171837?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Junior Bauingenieur:in als Bezirksleiter:in Fahrbahn (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/junior-bauingenieur-in-als-bezirksleiter-in-fahrbahn-w-m-d-064379312?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Projektleitung Hafenausbau und Hafensanierung (m/w/d) bei Stadt Hildesheim Der Oberbürgermeister (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleitung-hafenausbau-und-hafensanierung-m-w-d-064171973?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektleiter (m/w/d) Industriebau bei MEGGLE GmbH & Co. KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektleiter-m-w-d-industriebau-064379404?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
@@ -298,33 +298,33 @@
    "extern": false
   },
   {
+   "text": "Mobilität",
+   "url": "https://www.ingenieur.de/mobilitaet/",
+   "extern": false
+  },
+  {
+   "text": "301 m lang, 248.000 PS stark: Jetzt liegt der Rekordliner auf dem Meeresgrund",
+   "url": "https://www.ingenieur.de/301-m-lang-248000-ps-stark-jetzt-liegt-der-rekordliner-auf-dem-meeresgrund-84605d88-091f-4ffd-a926-6977787fc063/",
+   "extern": false
+  },
+  {
    "text": "Bau",
    "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "Seine Schaufel wiegt 11 t, doch sieben Zähne bereiten Probleme",
-   "url": "https://www.ingenieur.de/seine-schaufel-wiegt-11-t-doch-sieben-zaehne-bereiten-probleme-e5c54a57-9de0-4095-a03f-2b8175d4da88/",
+   "text": "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
+   "url": "https://www.ingenieur.de/sydney-harbour-bridge-wie-zwei-riesige-stahlboegen-1930-zusammenfanden-c75d8664-7f84-4b06-9862-266759faaf63/",
    "extern": false
   },
   {
-   "text": "Gebäudetechnik",
-   "url": "https://www.ingenieur.de/gebaeudetechnik/",
+   "text": "Naturwissenschaften",
+   "url": "https://www.ingenieur.de/naturwissenschaften/",
    "extern": false
   },
   {
-   "text": "Heizen mit Heizlüfter: Wann es sinnvoll ist und wann es teuer wird",
-   "url": "https://www.ingenieur.de/heizen-mit-heizluefter-wann-es-sinnvoll-ist-und-wann-es-teuer-wird-6ddfc19f-a594-42b5-be13-c38a590590f0/",
-   "extern": false
-  },
-  {
-   "text": "Luft- & Raumfahrt",
-   "url": "https://www.ingenieur.de/luft-raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "Alte Router, Kupferkabel, Disketten: So marode ist die US-Flugsicherung",
-   "url": "https://www.ingenieur.de/alte-router-kupferkabel-disketten-so-marode-ist-die-us-flugsicherung-1fc737c5-b6cb-4776-85bd-ab88f824cb17/",
+   "text": "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
+   "url": "https://www.ingenieur.de/2-2-sonnenmassen-und-unsichtbar-ist-es-ein-neutronenstern-0c4511c1-9a18-4b1c-a48d-10c814a03ac6/",
    "extern": false
   },
   {
@@ -333,18 +333,18 @@
    "extern": false
   },
   {
-   "text": "Sonnensturm trifft Erde: Was passiert mit Stromnetz und Satelliten?",
-   "url": "https://www.ingenieur.de/sonnensturm-trifft-erde-was-passiert-mit-stromnetz-und-satelliten-1a7348dc-42f6-4fa5-8b73-c741776b464f/",
+   "text": "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
+   "url": "https://www.ingenieur.de/48-stunden-fuer-ein-hallo-voyager-1-erreichte-eine-unfassbare-entfernung-72b34a62-281d-4b7f-ad4b-151fc9ee4798/",
    "extern": false
   },
   {
-   "text": "Verkehrssicherheit",
-   "url": "https://www.ingenieur.de/verkehrssicherheit/",
+   "text": "Mobilität",
+   "url": "https://www.ingenieur.de/mobilitaet/",
    "extern": false
   },
   {
-   "text": "160-m-Tanker rammt Kreuzfahrtschiff – Minuten später liegt es auf der Seite",
-   "url": "https://www.ingenieur.de/tanker-ausser-kontrolle-kreuzfahrtschiff-kentert-auf-dem-mississippi-7bd61d2f-3f9c-41d6-b825-3bf03b39f905/",
+   "text": "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
+   "url": "https://www.ingenieur.de/geschichte-des-verbrennungsmotors-wie-otto-diesel-und-benz-die-welt-veraenderten-f4769b54-ec38-477b-85a2-5fe5cc8636ea/",
    "extern": false
   },
   {
@@ -353,63 +353,63 @@
    "extern": false
   },
   {
-   "text": "Mooser EMC Technik GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/mooser-emc-technik-gmbh/",
+   "text": "ZEISS",
+   "url": "https://www.ingenieur.de/firmenprofile/zeiss/",
    "extern": false
   },
   {
-   "text": "ISCUE GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/iscue-gmbh-co-kg/",
+   "text": "HENSOLDT",
+   "url": "https://www.ingenieur.de/firmenprofile/hensoldt/",
    "extern": false
   },
   {
-   "text": "Bundesamt für Bauwesen und Raumordnung",
-   "url": "https://www.ingenieur.de/firmenprofile/bundesamt-fuer-bauwesen-und-raumordnung/",
+   "text": "NUKEM Technologies Engineering Services GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/nukem-technologies-engineering-services-gmbh/",
    "extern": false
   },
   {
-   "text": "telent GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/telent-gmbh/",
+   "text": "Torqeedo GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/torqeedo-gmbh/",
    "extern": false
   },
   {
-   "text": "HAIX Schuhe Produktions und Vertriebs GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/haix-schuhe-produktions-und-vertriebs-gmbh/",
+   "text": "SKF Deutschland",
+   "url": "https://www.ingenieur.de/firmenprofile/skf-deutschland/",
    "extern": false
   },
   {
-   "text": "Die Autobahn GmbH des Bundes",
-   "url": "https://www.ingenieur.de/firmenprofile/autobahn-gmbh/",
+   "text": "ENERCON GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/enercon-gmbh/",
    "extern": false
   },
   {
-   "text": "MPDV",
-   "url": "https://www.ingenieur.de/firmenprofile/mpdv/",
+   "text": "WOLFF & MÜLLER Holding GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/wolff-mueller-holding-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "Rhein-Neckar-Verkehr GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/rhein-neckar-verkehr-gmbh/",
+   "text": "ecb | energie.concept.bayern. GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/ecb-energie-concept-bayern-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "Quantum-Systems GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/quantum-systems-gmbh/",
+   "text": "Deutsche Bahn AG",
+   "url": "https://www.ingenieur.de/firmenprofile/deutsche-bahn-ag/",
    "extern": false
   },
   {
-   "text": "Hengst SE",
-   "url": "https://www.ingenieur.de/firmenprofile/hengst-se/",
+   "text": "Covestro Deutschland AG",
+   "url": "https://www.ingenieur.de/firmenprofile/covestro-deutschland-ag/",
    "extern": false
   },
   {
-   "text": "Bundesagentur für Arbeit",
-   "url": "https://www.ingenieur.de/firmenprofile/bundesagentur-fuer-arbeit/",
+   "text": "HARIBO Deutschland",
+   "url": "https://www.ingenieur.de/firmenprofile/haribo-deutschland/",
    "extern": false
   },
   {
-   "text": "Bürkert Fluid Control Systems",
-   "url": "https://www.ingenieur.de/firmenprofile/buerkert-fluid-control-systems/",
+   "text": "PROJECT Investment AG",
+   "url": "https://www.ingenieur.de/firmenprofile/project-investment-ag/",
    "extern": false
   }
  ],
