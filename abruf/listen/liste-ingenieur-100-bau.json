@@ -2,14 +2,14 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-16",
+ "abgerufen": "2026-11-17",
  "koepfe": [
   "Top Beiträge",
-  "301 m lang, 248.000 PS stark: Jetzt liegt der Rekordliner auf dem Meeresgrund",
-  "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
-  "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
-  "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
-  "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
+  "Stuttgart 21: Warum der Bonatzbau schwieriger zu sanieren war als gedacht",
+  "1516 Betonplatten: Ein 125-t-Kran wandert über Eisenbahnbrücken",
+  "Messe Stuttgart kauft LogiMAT-Veranstalter und einen ganzen Fachverlag",
+  "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
+  "8294 Teilchensignale: Juno kommt dem Neutrino-Rätsel näher",
   "Bautechnik und mehr",
   "1. Bauprojekt-Management",
   "2. Baustoffe und -elemente",
@@ -34,11 +34,11 @@
   "Top Stellenanzeigen",
   "Weitere Artikel",
   "Sie ist nur 23 cm groß und sucht selbstständig nach Rissen in Brücken",
-  "301 m lang, 248.000 PS stark: Jetzt liegt der Rekordliner auf dem Meeresgrund",
-  "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
-  "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
-  "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
-  "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
+  "Stuttgart 21: Warum der Bonatzbau schwieriger zu sanieren war als gedacht",
+  "1516 Betonplatten: Ein 125-t-Kran wandert über Eisenbahnbrücken",
+  "Messe Stuttgart kauft LogiMAT-Veranstalter und einen ganzen Fachverlag",
+  "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
+  "8294 Teilchensignale: Juno kommt dem Neutrino-Rätsel näher",
   "Firmenprofile"
  ],
  "links": [
@@ -53,13 +53,13 @@
    "extern": false
   },
   {
-   "text": "Mobilität",
-   "url": "https://www.ingenieur.de/mobilitaet/",
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "301 m lang, 248.000 PS stark: Jetzt liegt der Rekordliner auf dem Meeresgrund",
-   "url": "https://www.ingenieur.de/301-m-lang-248000-ps-stark-jetzt-liegt-der-rekordliner-auf-dem-meeresgrund-84605d88-091f-4ffd-a926-6977787fc063/",
+   "text": "Stuttgart 21: Warum der Bonatzbau schwieriger zu sanieren war als gedacht",
+   "url": "https://www.ingenieur.de/stuttgart-21-warum-der-bonatzbau-schwieriger-zu-sanieren-war-als-gedacht-8e5760d2-7a53-4d34-bc33-462adcbe51c8/",
    "extern": false
   },
   {
@@ -68,8 +68,28 @@
    "extern": false
   },
   {
-   "text": "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
-   "url": "https://www.ingenieur.de/sydney-harbour-bridge-wie-zwei-riesige-stahlboegen-1930-zusammenfanden-c75d8664-7f84-4b06-9862-266759faaf63/",
+   "text": "1516 Betonplatten: Ein 125-t-Kran wandert über Eisenbahnbrücken",
+   "url": "https://www.ingenieur.de/1516-betonplatten-ein-125-t-kran-wandert-ueber-eisenbahnbruecken-0e6e2a66-6b58-489a-86bc-a5079d3b04f5/",
+   "extern": false
+  },
+  {
+   "text": "Logistik",
+   "url": "https://www.ingenieur.de/logistik/",
+   "extern": false
+  },
+  {
+   "text": "Messe Stuttgart kauft LogiMAT-Veranstalter und einen ganzen Fachverlag",
+   "url": "https://www.ingenieur.de/messe-stuttgart-kauft-logimat-veranstalter-und-einen-ganzen-fachverlag-d61a9dd0-6a8d-4bd6-af8a-5252c4f188ae/",
+   "extern": false
+  },
+  {
+   "text": "Luft- & Raumfahrt",
+   "url": "https://www.ingenieur.de/luft-raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
+   "url": "https://www.ingenieur.de/nur-30-m-abstand-dlr-jet-jagt-passagierflugzeug-fuer-klimaexperiment-0d73be42-3878-40f5-b6cc-798e5fa1cfe8/",
    "extern": false
   },
   {
@@ -78,28 +98,8 @@
    "extern": false
   },
   {
-   "text": "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
-   "url": "https://www.ingenieur.de/2-2-sonnenmassen-und-unsichtbar-ist-es-ein-neutronenstern-0c4511c1-9a18-4b1c-a48d-10c814a03ac6/",
-   "extern": false
-  },
-  {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
-   "url": "https://www.ingenieur.de/48-stunden-fuer-ein-hallo-voyager-1-erreichte-eine-unfassbare-entfernung-72b34a62-281d-4b7f-ad4b-151fc9ee4798/",
-   "extern": false
-  },
-  {
-   "text": "Mobilität",
-   "url": "https://www.ingenieur.de/mobilitaet/",
-   "extern": false
-  },
-  {
-   "text": "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
-   "url": "https://www.ingenieur.de/geschichte-des-verbrennungsmotors-wie-otto-diesel-und-benz-die-welt-veraenderten-f4769b54-ec38-477b-85a2-5fe5cc8636ea/",
+   "text": "8294 Teilchensignale: Juno kommt dem Neutrino-Rätsel näher",
+   "url": "https://www.ingenieur.de/8294-teilchensignale-juno-kommt-dem-neutrino-raetsel-naeher-1a36065b-be0f-44c9-ae40-bd6547a07b4d/",
    "extern": false
   },
   {
@@ -188,71 +188,6 @@
    "extern": true
   },
   {
-   "text": "mehr zu Sales Engineer / Vertriebsingenieur für Sortiersysteme und Intralogistik (m/w/d) bei Dürkopp Fördertechnik GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/sales-engineer-vertriebsingenieur-fuer-sortiersysteme-und-intralogistik-m-w-d-064278577?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Application Engineer / Technischer Support (m/w/d) – Vermessung & Mobile Mapping bei AllTerra Deutschland GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/application-engineer-technischer-support-m-w-d-vermessung-mobile-mapping-064278580?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleiter NNbS Mittelbereichsradar (w/m/d) bei HENSOLDT (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleiter-nnbs-mittelbereichsradar-w-m-d-064278582?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleiter NNbS Project Office (w/m/d) bei HENSOLDT (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleiter-nnbs-project-office-w-m-d-064278583?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Senior Engineer – Funktionale Sicherheit (m/w/d) bei Mi-Jack Europe GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/senior-engineer-funktionale-sicherheit-m-w-d-064278929?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektingenieur intelligente Energiemanagementsysteme und Smart Home (m/w/d) bei Honda (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektingenieur-intelligente-energiemanagementsysteme-und-smart-home-m-w-d-064556657?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Ingenieur/-in für den Ausbau des Hildesheimer Binnenwasserhafens (m/w/d) bei Stadt Hildesheim Der Oberbürgermeister (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-in-fuer-den-ausbau-des-hildesheimer-binnenwasserhafens-m-w-d-064556806?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Abteilungsleiter Planung (m/w/d) Reihenhäuser bei weisenburger bau GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/abteilungsleiter-planung-m-w-d-reihenhaeuser-064621286?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Sachverständiger (m/w/d) Elektrotechnik bei TÜV Technische Überwachung Hessen GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/sachverstaendiger-m-w-d-elektrotechnik-064632059?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleitung (m/w/d) im Bereich Tiefbau bei Staatliches Bauamt Nürnberg (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleitung-m-w-d-im-bereich-tiefbau-064633106?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleitung (m/w/d) im Bereich Tiefbau bei Staatliches Bauamt Nürnberg (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleitung-m-w-d-im-bereich-tiefbau-064635091?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Technische*r Angestellte*r für die Durchführung von werkstoffmechanischen Versuchen bei hoher Temperatur (m/w/d) bei BAM Bundesanstalt für Materialforsc",
-   "url": "https://jobs.ingenieur.de/job/technische-r-angestellte-r-fuer-die-durchfuehrung-von-werkstoffmechanischen-versuchen-bei-hoher-temperatur-m-w-d-064637629?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Ingenieur:in Explosionsschutz als Fachleiter:in bei TÜV NORD CERT GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-in-explosionsschutz-als-fachleiter-in-064186382?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
    "text": "mehr zu Bauüberwacher (m/w/d) Straßenverkehrsanlagen bei Bundesagentur für Arbeit - Vössing Ingenieurgesellschaft mbH (öffnet in neuem Fenster)",
    "url": "https://jobs.ingenieur.de/job/bauueberwacher-m-w-d-strassenverkehrsanlagen-064295817?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
@@ -288,6 +223,71 @@
    "extern": true
   },
   {
+   "text": "mehr zu Projektingenieur Elektrotechnik (w/m/d) bei Infraserv GmbH & Co. Höchst KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektingenieur-elektrotechnik-w-m-d-064382713?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Produktmanager – Infantry Fighting Systems (w/m/d) bei HENSOLDT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/produktmanager-infantry-fighting-systems-w-m-d-064655960?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieur/in oder Techniker/in für unseren Straßenbau und unsere Ingenieurbauwerke (w/m/d) bei Stadt Hemer (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-in-oder-techniker-in-fuer-unseren-strassenbau-und-unsere-ingenieurbauwerke-w-m-d-064666063?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bauleiter (m/w/d) Rohrsanierung / Kanalsanierung bei Max Bögl Bauservice GmbH & Co. KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauleiter-m-w-d-rohrsanierung-kanalsanierung-064217500?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Vertriebsingenieur / Projektingenieur (m/w/d) im Außendienst – Südbayern bei DEPRAG SCHULZ GMBH u. CO. KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/vertriebsingenieur-projektingenieur-m-w-d-im-aussendienst-suedbayern-064217952?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bauingenieur / Verkehrsingenieur (w/m/d) Straßenplanung/Straßenbauprojekte bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-verkehrsingenieur-w-m-d-strassenplanung-strassenbauprojekte-064218127?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Strategic Account Manager (m/f/x) bei via Richard Hönig Wirtschaftsberatungen (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/strategic-account-manager-m-f-x-064218486?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Automatisierungsingenieur / SPS-Ingenieur (m/w/d) bei Gebrüder Lödige Maschinenbau GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/automatisierungsingenieur-sps-ingenieur-m-w-d-064382988?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Projektleitung Haustechnik / Technische Gebäudeausrüstung (TGA) – Neubau & Modernisierung (w/m/d) bei STADT UND LAND Wohnbauten-Gesellschaft mbH (öffnet",
+   "url": "https://jobs.ingenieur.de/job/projektleitung-haustechnik-technische-gebaeudeausruestung-tga-neubau-modernisierung-w-m-d-064402599?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Entwicklungsingenieur Leistungselektronik (all genders) bei VINCORION Advanced Systems GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/entwicklungsingenieur-leistungselektronik-all-genders-064402788?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Industrial Engineer / Fertigungsplaner – Arbeitsvorbereitung (m/w/d) bei ELAC SONAR GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/industrial-engineer-fertigungsplaner-arbeitsvorbereitung-m-w-d-064451812?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Senior Solution Architect Integration Platform (m/w/d) bei WIRTGEN GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-integration-platform-m-w-d-064473149?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Senior Solution Architect Enterprise Cloud Platform (m/w/d) bei WIRTGEN GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-enterprise-cloud-platform-m-w-d-064473151?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
    "text": "Digitalisierung Bau",
    "url": "https://www.ingenieur.de/digitalisierung-bau/",
    "extern": false
@@ -298,13 +298,13 @@
    "extern": false
   },
   {
-   "text": "Mobilität",
-   "url": "https://www.ingenieur.de/mobilitaet/",
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "301 m lang, 248.000 PS stark: Jetzt liegt der Rekordliner auf dem Meeresgrund",
-   "url": "https://www.ingenieur.de/301-m-lang-248000-ps-stark-jetzt-liegt-der-rekordliner-auf-dem-meeresgrund-84605d88-091f-4ffd-a926-6977787fc063/",
+   "text": "Stuttgart 21: Warum der Bonatzbau schwieriger zu sanieren war als gedacht",
+   "url": "https://www.ingenieur.de/stuttgart-21-warum-der-bonatzbau-schwieriger-zu-sanieren-war-als-gedacht-8e5760d2-7a53-4d34-bc33-462adcbe51c8/",
    "extern": false
   },
   {
@@ -313,8 +313,28 @@
    "extern": false
   },
   {
-   "text": "Sydney Harbour Bridge: Wie zwei riesige Stahlbögen 1930 zusammenfanden",
-   "url": "https://www.ingenieur.de/sydney-harbour-bridge-wie-zwei-riesige-stahlboegen-1930-zusammenfanden-c75d8664-7f84-4b06-9862-266759faaf63/",
+   "text": "1516 Betonplatten: Ein 125-t-Kran wandert über Eisenbahnbrücken",
+   "url": "https://www.ingenieur.de/1516-betonplatten-ein-125-t-kran-wandert-ueber-eisenbahnbruecken-0e6e2a66-6b58-489a-86bc-a5079d3b04f5/",
+   "extern": false
+  },
+  {
+   "text": "Logistik",
+   "url": "https://www.ingenieur.de/logistik/",
+   "extern": false
+  },
+  {
+   "text": "Messe Stuttgart kauft LogiMAT-Veranstalter und einen ganzen Fachverlag",
+   "url": "https://www.ingenieur.de/messe-stuttgart-kauft-logimat-veranstalter-und-einen-ganzen-fachverlag-d61a9dd0-6a8d-4bd6-af8a-5252c4f188ae/",
+   "extern": false
+  },
+  {
+   "text": "Luft- & Raumfahrt",
+   "url": "https://www.ingenieur.de/luft-raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
+   "url": "https://www.ingenieur.de/nur-30-m-abstand-dlr-jet-jagt-passagierflugzeug-fuer-klimaexperiment-0d73be42-3878-40f5-b6cc-798e5fa1cfe8/",
    "extern": false
   },
   {
@@ -323,28 +343,8 @@
    "extern": false
   },
   {
-   "text": "2,2 Sonnenmassen und unsichtbar: Ist es ein Neutronenstern?",
-   "url": "https://www.ingenieur.de/2-2-sonnenmassen-und-unsichtbar-ist-es-ein-neutronenstern-0c4511c1-9a18-4b1c-a48d-10c814a03ac6/",
-   "extern": false
-  },
-  {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "48 Stunden für ein „Hallo“: Voyager 1 erreicht eine unfassbare Entfernung",
-   "url": "https://www.ingenieur.de/48-stunden-fuer-ein-hallo-voyager-1-erreichte-eine-unfassbare-entfernung-72b34a62-281d-4b7f-ad4b-151fc9ee4798/",
-   "extern": false
-  },
-  {
-   "text": "Mobilität",
-   "url": "https://www.ingenieur.de/mobilitaet/",
-   "extern": false
-  },
-  {
-   "text": "Geschichte des Verbrennungsmotors: Wie Otto, Diesel und Benz die Welt veränderten",
-   "url": "https://www.ingenieur.de/geschichte-des-verbrennungsmotors-wie-otto-diesel-und-benz-die-welt-veraenderten-f4769b54-ec38-477b-85a2-5fe5cc8636ea/",
+   "text": "8294 Teilchensignale: Juno kommt dem Neutrino-Rätsel näher",
+   "url": "https://www.ingenieur.de/8294-teilchensignale-juno-kommt-dem-neutrino-raetsel-naeher-1a36065b-be0f-44c9-ae40-bd6547a07b4d/",
    "extern": false
   },
   {
@@ -353,63 +353,63 @@
    "extern": false
   },
   {
+   "text": "BASF",
+   "url": "https://www.ingenieur.de/firmenprofile/basf/",
+   "extern": false
+  },
+  {
+   "text": "KS Engineers Deutschland GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/ks-engineers-deutschland-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "telent GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/telent-gmbh/",
+   "extern": false
+  },
+  {
    "text": "ZEISS",
    "url": "https://www.ingenieur.de/firmenprofile/zeiss/",
    "extern": false
   },
   {
-   "text": "HENSOLDT",
-   "url": "https://www.ingenieur.de/firmenprofile/hensoldt/",
+   "text": "Jacobs GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/jacobs-gmbh/",
    "extern": false
   },
   {
-   "text": "NUKEM Technologies Engineering Services GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/nukem-technologies-engineering-services-gmbh/",
+   "text": "ISCUE GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/iscue-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "Torqeedo GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/torqeedo-gmbh/",
+   "text": "Drees & Sommer",
+   "url": "https://www.ingenieur.de/firmenprofile/drees-sommer/",
    "extern": false
   },
   {
-   "text": "SKF Deutschland",
-   "url": "https://www.ingenieur.de/firmenprofile/skf-deutschland/",
+   "text": "FERCHAU GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/ferchau-gmbh/",
    "extern": false
   },
   {
-   "text": "ENERCON GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/enercon-gmbh/",
+   "text": "WACKER Chemie AG",
+   "url": "https://www.ingenieur.de/firmenprofile/wacker-chemie-ag/",
    "extern": false
   },
   {
-   "text": "WOLFF & MÜLLER Holding GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/wolff-mueller-holding-gmbh-co-kg/",
+   "text": "Capgemini Engineering",
+   "url": "https://www.ingenieur.de/firmenprofile/capgemini-engineering/",
    "extern": false
   },
   {
-   "text": "ecb | energie.concept.bayern. GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/ecb-energie-concept-bayern-gmbh-co-kg/",
+   "text": "SCHOTT AG",
+   "url": "https://www.ingenieur.de/firmenprofile/schott-ag/",
    "extern": false
   },
   {
-   "text": "Deutsche Bahn AG",
-   "url": "https://www.ingenieur.de/firmenprofile/deutsche-bahn-ag/",
-   "extern": false
-  },
-  {
-   "text": "Covestro Deutschland AG",
-   "url": "https://www.ingenieur.de/firmenprofile/covestro-deutschland-ag/",
-   "extern": false
-  },
-  {
-   "text": "HARIBO Deutschland",
-   "url": "https://www.ingenieur.de/firmenprofile/haribo-deutschland/",
-   "extern": false
-  },
-  {
-   "text": "PROJECT Investment AG",
-   "url": "https://www.ingenieur.de/firmenprofile/project-investment-ag/",
+   "text": "Hengst SE",
+   "url": "https://www.ingenieur.de/firmenprofile/hengst-se/",
    "extern": false
   }
  ],

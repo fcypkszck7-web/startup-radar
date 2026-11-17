@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-16",
+  "geholt": "2026-11-17",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -19930,7 +19930,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrun-2026",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    },
    {
@@ -20449,7 +20449,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "open-link-day-wien-2026",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    },
    {
@@ -20472,7 +20472,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "open-link-day-wien-2026",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    },
    {
@@ -20495,7 +20495,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "open-link-day-wien-2026",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    },
    {
@@ -20518,7 +20518,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "open-link-day-wien-2026",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    },
    {
@@ -20541,7 +20541,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "open-link-day-wien-2026",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    },
    {
@@ -20564,7 +20564,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "open-link-day-wien-2026",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    },
    {
@@ -20587,7 +20587,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "open-link-day-wien-2026",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    },
    {
@@ -21050,8 +21050,8 @@
      "solarplaza-events"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "solarplaza-summit-poland-2027",
+    "entscheidung": "aufgenommen: solarplaza-summit-poland-2027"
    }
   ],
   "v": 2
@@ -22996,7 +22996,7 @@
      "messe-pva-prag"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "open-link-day-wien-2026",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    }
   ],
@@ -23191,7 +23191,7 @@
      "messe-pva-prag"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": "hyvolution-paris-2027",
+    "erfasst_als": "fuels-of-the-future-2027",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    }
   ],
@@ -23428,7 +23428,7 @@
      "messe-pva-prag"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": "for-therm-2027",
+    "erfasst_als": "pipeline-coating-europe-2027",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    }
   ],
@@ -23563,7 +23563,7 @@
      "messe-pva-prag"
     ],
     "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
    }
   ],
@@ -24487,7 +24487,7 @@
      "bayern-innovativ"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": null,
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
    }
   ],
@@ -26295,7 +26295,7 @@
      "it-region-stuttgart"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": null,
+    "erfasst_als": "hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrun-2026",
     "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
    }
   ],
@@ -27142,7 +27142,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": null,
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
    },
    {
@@ -27165,7 +27165,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": null,
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
    }
   ],
@@ -27194,7 +27194,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": null,
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
    },
    {
@@ -27217,7 +27217,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": null,
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
    }
   ],
@@ -27344,7 +27344,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": null,
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
    },
    {
@@ -27367,7 +27367,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": "mipim-2027",
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": ""
    }
   ],
@@ -27396,7 +27396,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": "mipim-2027",
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": ""
    },
    {
@@ -27419,7 +27419,7 @@
      "messe-nec"
     ],
     "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": "mipim-2027",
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": ""
    },
    {
@@ -30217,7 +30217,7 @@
      "bayern-innovativ"
     ],
     "zuerst_gesehen": "2026-11-06",
-    "erfasst_als": "salz-2027",
+    "erfasst_als": "h2-forum-2027",
     "entscheidung": ""
    }
   ],
@@ -34285,7 +34285,7 @@
     ],
     "zuerst_gesehen": "2026-11-08",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Führungskräfte-Kolloquium)"
    }
   ],
   "v": 2
@@ -35290,8 +35290,8 @@
      "oth-aw"
     ],
     "zuerst_gesehen": "2026-11-10",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "kemnather-gruendungsnacht-2026",
+    "entscheidung": "aufgenommen: kemnather-gruendungsnacht-2026"
    }
   ],
   "v": 2
@@ -35355,7 +35355,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: Thema nicht angegeben, kein Branchenbezug erkennbar"
    }
   ],
   "v": 2
@@ -35454,8 +35454,8 @@
      "bayern-innovativ"
     ],
     "zuerst_gesehen": "2026-11-10",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "digitale-infrastrukturen-fuer-ki-basis-fuer-die-naechste-gen-2026",
+    "entscheidung": "aufgenommen: digitale-infrastrukturen-fuer-ki-basis-fuer-die-naechste-gen-2026"
    }
   ],
   "v": 2
@@ -35547,7 +35547,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -35582,7 +35582,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -35613,7 +35613,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -35642,8 +35642,8 @@
      "messe-berlin"
     ],
     "zuerst_gesehen": "2026-11-10",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "fuels-of-the-future-2027",
+    "entscheidung": "aufgenommen: fuels-of-the-future-2027"
    }
   ],
   "v": 2
@@ -35673,7 +35673,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -35790,7 +35790,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -35820,7 +35820,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -35852,7 +35852,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -35885,7 +35885,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Gesundheit/Life Sciences)"
    }
   ],
   "v": 2
@@ -36017,7 +36017,7 @@
     ],
     "zuerst_gesehen": "2026-11-10",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Automobil)"
    }
   ],
   "v": 2
@@ -36175,8 +36175,8 @@
      "solarplaza-events"
     ],
     "zuerst_gesehen": "2026-11-10",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "solarplaza-summit-romania-2027",
+    "entscheidung": "aufgenommen: solarplaza-summit-romania-2027"
    }
   ],
   "v": 2
@@ -36379,8 +36379,8 @@
      "hwkno"
     ],
     "zuerst_gesehen": "2026-11-11",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "auslandsgeschaeft-360-das-handwerk-spezial-2027",
+    "entscheidung": "aufgenommen: auslandsgeschaeft-360-das-handwerk-spezial-2027"
    }
   ],
   "v": 2
@@ -36503,8 +36503,8 @@
      "dgo-termine"
     ],
     "zuerst_gesehen": "2026-11-11",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "tutorial-finanzierung-innovativer-unternehmen-2026",
+    "entscheidung": "schon erfasst: tutorial-finanzierung-innovativer-unternehmen-2026"
    }
   ],
   "v": 2
@@ -36539,7 +36539,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -36649,7 +36649,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -36756,7 +36756,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -36925,7 +36925,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -36960,7 +36960,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -37025,8 +37025,8 @@
      "hwk-muenchen"
     ],
     "zuerst_gesehen": "2026-11-11",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "hybrid-veranstaltung-vorsicht-krise-rechtliche-werkzeuge-zur-2026",
+    "entscheidung": "aufgenommen: hybrid-veranstaltung-vorsicht-krise-rechtliche-werkzeuge-zur-2026"
    }
   ],
   "v": 2
@@ -37096,7 +37096,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -37128,7 +37128,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: Studien- und Weiterbildungsberatung"
    }
   ],
   "v": 2
@@ -37253,7 +37253,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -37283,7 +37283,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -37314,8 +37314,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-11",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "introduction-to-horizon-europe-three-pillars-diverse-funding-2026",
+    "entscheidung": "aufgenommen: meet-the-expert-unlock-non-dilutive-funding-for-your-innovat-2026"
    }
   ],
   "v": 2
@@ -37344,8 +37344,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-11",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "introduction-to-horizon-europe-three-pillars-diverse-funding-2026",
+    "entscheidung": "aufgenommen: introduction-to-horizon-europe-three-pillars-diverse-funding-2026"
    }
   ],
   "v": 2
@@ -37377,7 +37377,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -37407,7 +37407,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -37438,8 +37438,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-11",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "pitching-night-kapitalbruecke-beider-basel-2026",
+    "entscheidung": "aufgenommen: pitching-night-kapitalbruecke-beider-basel-2026"
    }
   ],
   "v": 2
@@ -37471,7 +37471,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Gesundheit/Life Sciences)"
    }
   ],
   "v": 2
@@ -37501,7 +37501,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Finanzen)"
    }
   ],
   "v": 2
@@ -37623,8 +37623,8 @@
      "it-region-stuttgart"
     ],
     "zuerst_gesehen": "2026-11-11",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "ki-roundtable-2026",
+    "entscheidung": "aufgenommen: ki-roundtable-2026"
    }
   ],
   "v": 2
@@ -37687,7 +37687,7 @@
     ],
     "zuerst_gesehen": "2026-11-11",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -37939,8 +37939,8 @@
      "hwkno"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "unternehmerreise-zum-thema-handwerk-denkmalpflege-in-kroatie-2027",
+    "entscheidung": "aufgenommen: unternehmerreise-zum-thema-handwerk-denkmalpflege-in-kroatie-2027"
    }
   ],
   "v": 2
@@ -37976,7 +37976,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -38078,7 +38078,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -38109,8 +38109,8 @@
      "oth-regensburg"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "hochempfindliche-miniaturisierte-thermische-sensorelemente-u-2026",
+    "entscheidung": "aufgenommen: hochempfindliche-miniaturisierte-thermische-sensorelemente-u-2026"
    }
   ],
   "v": 2
@@ -38172,7 +38172,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -38242,7 +38242,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -38277,7 +38277,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -38337,7 +38337,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -38374,7 +38374,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -38478,7 +38478,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Mobilität)"
    }
   ],
   "v": 2
@@ -38508,7 +38508,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -38683,8 +38683,8 @@
      "unternehmertum"
     ],
     "zuerst_gesehen": "2026-11-11",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "circular-republic-textilforum-2026",
+    "entscheidung": "aufgenommen: circular-republic-textilforum-2026"
    }
   ],
   "v": 2
@@ -38747,8 +38747,8 @@
      "hwk-muenchen"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "einstiegsseminar-fuer-existenzgruender-im-handwerk-in-muehld-2026",
+    "entscheidung": "aufgenommen: einstiegsseminar-fuer-existenzgruender-im-handwerk-in-muehld-2026"
    }
   ],
   "v": 2
@@ -38782,8 +38782,8 @@
      "unternehmertum"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "opportunity-hunters-talks-2026-1126",
+    "entscheidung": "aufgenommen: opportunity-hunters-talks-2026-1126"
    }
   ],
   "v": 2
@@ -38813,7 +38813,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -38879,8 +38879,8 @@
      "unternehmertum"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "industrial-edge-workshop-for-startups-and-smes-2026-1127",
+    "entscheidung": "aufgenommen: industrial-edge-workshop-for-startups-and-smes-2026-1127"
    }
   ],
   "v": 2
@@ -38911,7 +38911,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -38940,8 +38940,8 @@
      "unternehmertum"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "opportunity-hunters-talks-2026-1203",
+    "entscheidung": "aufgenommen: opportunity-hunters-talks-2026-1203"
    }
   ],
   "v": 2
@@ -39097,8 +39097,8 @@
      "unternehmertum"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "industrial-edge-workshop-for-startups-and-smes-2026-1119",
+    "entscheidung": "aufgenommen: industrial-edge-workshop-for-startups-and-smes-2026-1119"
    }
   ],
   "v": 2
@@ -39128,7 +39128,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -39227,7 +39227,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -39258,8 +39258,8 @@
      "unternehmertum"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "meet-the-city-innovationlab-von-idee-zu-innovation-2026",
+    "entscheidung": "aufgenommen: meet-the-city-innovationlab-von-idee-zu-innovation-2026"
    }
   ],
   "v": 2
@@ -39289,7 +39289,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -39473,7 +39473,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -39563,7 +39563,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -39624,8 +39624,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "startfeld-investors-day-2026",
+    "entscheidung": "aufgenommen: startfeld-investors-day-2026"
    }
   ],
   "v": 2
@@ -39656,8 +39656,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "entrepreneurship-training-innosuisse-start-up-training-modul-2026",
+    "entscheidung": "aufgenommen: entrepreneurship-training-innosuisse-start-up-training-modul-2026"
    }
   ],
   "v": 2
@@ -39716,8 +39716,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "fongit-networking-caf-croissant-2026",
+    "entscheidung": "aufgenommen: fongit-networking-caf-croissant-2026"
    }
   ],
   "v": 2
@@ -39749,7 +39749,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Gesundheit/Life Sciences)"
    }
   ],
   "v": 2
@@ -39811,7 +39811,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -39841,7 +39841,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -39871,8 +39871,8 @@
      "startbase-events"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "pxr-fundraising-masterclass-2026",
+    "entscheidung": "aufgenommen: pxr-fundraising-masterclass-2026"
    }
   ],
   "v": 2
@@ -40029,8 +40029,8 @@
      "messe-rai"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "espc-2026-microsoft-365-and-ai-conference-2026",
+    "entscheidung": "aufgenommen: espc-2026-microsoft-365-and-ai-conference-2026"
    }
   ],
   "v": 2
@@ -40060,7 +40060,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: Publikumsmesse"
    }
   ],
   "v": 2
@@ -40186,8 +40186,8 @@
      "eit-manufacturing-events"
     ],
     "zuerst_gesehen": "2026-11-12",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "eit-awards-2026",
+    "entscheidung": "aufgenommen: eit-awards-2026"
    }
   ],
   "v": 2
@@ -40225,7 +40225,7 @@
     ],
     "zuerst_gesehen": "2026-11-12",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -40325,7 +40325,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -40387,7 +40387,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -40417,7 +40417,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -40462,7 +40462,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -40498,8 +40498,8 @@
      "unternehmertum"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "co-innovationsprojekttruck-charging-2026",
+    "entscheidung": "aufgenommen: co-innovationsprojekttruck-charging-2026"
    }
   ],
   "v": 2
@@ -40529,7 +40529,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -40564,7 +40564,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Kreativwirtschaft)"
    }
   ],
   "v": 2
@@ -40598,8 +40598,8 @@
      "unternehmertum"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "opportunity-hunters-talks-2026-1210",
+    "entscheidung": "aufgenommen: opportunity-hunters-talks-2026-1210"
    }
   ],
   "v": 2
@@ -40629,7 +40629,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -40659,7 +40659,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -40689,7 +40689,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Kreativwirtschaft)"
    }
   ],
   "v": 2
@@ -40734,7 +40734,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -40774,8 +40774,8 @@
      "hwk-muenchen"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "handwerk-trifft-unternehmen-zu-besuch-bei-hipp-2026",
+    "entscheidung": "aufgenommen: handwerk-trifft-unternehmen-zu-besuch-bei-hipp-2026"
    }
   ],
   "v": 2
@@ -40807,7 +40807,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Lebensmittel)"
    }
   ],
   "v": 2
@@ -40889,7 +40889,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -40920,7 +40920,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -40951,8 +40951,8 @@
      "startup-region-stuttgart"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerder-2026",
+    "entscheidung": "aufgenommen: einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerder-2026"
    }
   ],
   "v": 2
@@ -41012,7 +41012,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -41043,8 +41043,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "conda-ch-ap-ro-pitch-jubilaeumsedition-5-jahre-2026",
+    "entscheidung": "aufgenommen: conda-ch-ap-ro-pitch-jubilaeumsedition-5-jahre-2026"
    }
   ],
   "v": 2
@@ -41074,7 +41074,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -41105,8 +41105,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "founder-s-roundtable-sales-networking-2026",
+    "entscheidung": "aufgenommen: founder-s-roundtable-sales-networking-2026"
    }
   ],
   "v": 2
@@ -41136,7 +41136,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -41167,8 +41167,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "a3f-startup-breakfast-christmas-pitch-edition-2026",
+    "entscheidung": "aufgenommen: a3f-startup-breakfast-christmas-pitch-edition-2026"
    }
   ],
   "v": 2
@@ -41198,7 +41198,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Finanzen)"
    }
   ],
   "v": 2
@@ -41230,7 +41230,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -41260,7 +41260,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
    }
   ],
   "v": 2
@@ -41290,7 +41290,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Gesundheit/Life Sciences)"
    }
   ],
   "v": 2
@@ -41320,7 +41320,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Gesundheit/Life Sciences)"
    }
   ],
   "v": 2
@@ -41351,8 +41351,8 @@
      "gentner-events"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "webinar-waermepumpe-oder-klimaanlage-welche-loesung-passt-zu-2026",
+    "entscheidung": "aufgenommen: webinar-waermepumpe-oder-klimaanlage-welche-loesung-passt-zu-2026"
    }
   ],
   "v": 2
@@ -41508,7 +41508,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -41571,8 +41571,8 @@
      "wrs-termine"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrun-2026",
+    "entscheidung": "aufgenommen: hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrun-2026"
    }
   ],
   "v": 2
@@ -41601,7 +41601,7 @@
     ],
     "zuerst_gesehen": "2026-11-13",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -41720,8 +41720,8 @@
      "techbase-events"
     ],
     "zuerst_gesehen": "2026-11-14",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "tutorial-finanzierung-innovativer-unternehmen-2026",
+    "entscheidung": "aufgenommen: tutorial-finanzierung-innovativer-unternehmen-2026"
    }
   ],
   "v": 2
@@ -41751,7 +41751,7 @@
     ],
     "zuerst_gesehen": "2026-11-14",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -41796,7 +41796,7 @@
     ],
     "zuerst_gesehen": "2026-11-14",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -41965,8 +41965,8 @@
      "gruenderland-bayern"
     ],
     "zuerst_gesehen": "2026-11-14",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "hochschul-und-transfertag-main-spessart-2026",
+    "entscheidung": "aufgenommen: hochschul-und-transfertag-main-spessart-2026"
    }
   ],
   "v": 2
@@ -41996,8 +41996,8 @@
      "hwk-muenchen"
     ],
     "zuerst_gesehen": "2026-11-14",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "betriebsnachfolge-ablauf-chance-und-risiken-2026",
+    "entscheidung": "aufgenommen: betriebsnachfolge-ablauf-chance-und-risiken-2026"
    }
   ],
   "v": 2
@@ -42033,8 +42033,8 @@
      "gruenderland-bayern"
     ],
     "zuerst_gesehen": "2026-11-14",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "finanzierung-fuer-impact-startups-wien-2026",
+    "entscheidung": "schon erfasst: tutorial-finanzierung-innovativer-unternehmen-2026"
    }
   ],
   "v": 2
@@ -42079,7 +42079,7 @@
     ],
     "zuerst_gesehen": "2026-11-14",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: Publikumsmesse"
    }
   ],
   "v": 2
@@ -42111,7 +42111,7 @@
     ],
     "zuerst_gesehen": "2026-11-14",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: Publikumsmesse"
    }
   ],
   "v": 2
@@ -42141,7 +42141,7 @@
     ],
     "zuerst_gesehen": "2026-11-14",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: abgesagt"
    }
   ],
   "v": 2
@@ -42203,7 +42203,7 @@
     ],
     "zuerst_gesehen": "2026-11-14",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Gesundheit/Life Sciences)"
    }
   ],
   "v": 2
@@ -42233,7 +42233,7 @@
     ],
     "zuerst_gesehen": "2026-11-14",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: Publikumsmesse"
    }
   ],
   "v": 2
@@ -42296,8 +42296,8 @@
      "startbase-events"
     ],
     "zuerst_gesehen": "2026-11-14",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "app-vision-27-2027",
+    "entscheidung": "aufgenommen: app-vision-27-2027"
    }
   ],
   "v": 2
@@ -42359,7 +42359,7 @@
     ],
     "zuerst_gesehen": "2026-11-14",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: Thema nicht erkennbar, kein Branchenbezug belegt"
    }
   ],
   "v": 2
@@ -42498,8 +42498,8 @@
      "hwkno"
     ],
     "zuerst_gesehen": "2026-11-15",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "texterstellung-mit-ki-marketingtexte-im-handwerk-effizient-u-2027",
+    "entscheidung": "aufgenommen: texterstellung-mit-ki-marketingtexte-im-handwerk-effizient-u-2027"
    }
   ],
   "v": 2
@@ -42559,7 +42559,7 @@
     ],
     "zuerst_gesehen": "2026-11-15",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: Ausstellung, kein Fachformat"
    }
   ],
   "v": 2
@@ -42624,7 +42624,7 @@
     ],
     "zuerst_gesehen": "2026-11-15",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -42654,7 +42654,7 @@
     ],
     "zuerst_gesehen": "2026-11-15",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -42689,7 +42689,7 @@
     ],
     "zuerst_gesehen": "2026-11-15",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -42724,7 +42724,7 @@
     ],
     "zuerst_gesehen": "2026-11-15",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -42759,7 +42759,7 @@
     ],
     "zuerst_gesehen": "2026-11-15",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -43021,7 +43021,7 @@
     ],
     "zuerst_gesehen": "2026-11-16",
     "erfasst_als": null,
-    "entscheidung": ""
+    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
    }
   ],
   "v": 2
@@ -43050,8 +43050,8 @@
      "startupticker"
     ],
     "zuerst_gesehen": "2026-11-16",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "esa-bic-switzerland-2026",
+    "entscheidung": "aufgenommen: esa-bic-switzerland-2026"
    }
   ],
   "v": 2
@@ -43116,6 +43116,850 @@
     "entscheidung": ""
    }
   ],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/3/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Präsenz-Tutorial: Wie gehe ich während meines Pitches souverän mit Druck um?",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "MTZ München | E1 im 1.OG, München",
+    "land": "",
+    "online": false,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/3/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1",
+    "veranstalter": "",
+    "kurz": "MTZ München, 14:45-17:00 Uhr",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-03|digitale-oberpfalz.de/news-events/termine/detail/3/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": "tk-praesenz-tutorial-wie-gehe-ich-waehrend-meines-pitches-so-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/3/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Präsenz-Tutorial: Wie gehe ich während meines Pitches souverän mit Druck um?",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "MTZ München | E1 im 1.OG, München",
+    "land": "",
+    "online": false,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/3/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1",
+    "veranstalter": "",
+    "kurz": "MTZ München, 14:45-17:00 Uhr",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-03|techbase.de/news-termine/events-termine/detail/3/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": "tk-praesenz-tutorial-wie-gehe-ich-waehrend-meines-pitches-so-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/23-11-2026_ringvorlesung-mehrsprachigkeitsforschung-2-1": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "English Tutorial: US Reimbursement Strategy – Getting Paid After FDA",
+    "start": "2026-12-08",
+    "ende": "2026-12-08",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3",
+    "veranstalter": "",
+    "kurz": "Online, 16:00-17:00 Uhr",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-08|digitale-oberpfalz.de/news-events/termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Tutorial: Pitchen vor Investoren – deine Startup-Story",
+    "start": "2026-12-09",
+    "ende": "2026-12-09",
+    "ort": "sind diesbezüglich eure Stärken und Schwächen?",
+    "land": "",
+    "online": true,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1",
+    "veranstalter": "",
+    "kurz": "Online, 13:30 - 14:30 Uhr",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-09|digitale-oberpfalz.de/news-events/termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/schnuppertag-wirtschaft-2": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Schnuppertag Wirtschaft",
+    "start": "2026-11-18",
+    "ende": "2026-11-18",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/schnuppertag-wirtschaft-2",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-18|uni-passau.de/veranstaltungskalender/detail/event/schnuppertag-wirtschaft-2",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-12-02&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=online-infoabend&cHash=9c92d3f7399cbe68877f306fb9d9ee2e": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Online-Infoabend für Studieninteressierte",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "Landshut",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/online-infoabend",
+    "veranstalter": "",
+    "kurz": "Was kann an der Hochschule Landshut studiert werden? Was sind wichtige formelle Schritte und Fristen? An unseren Infoabenden kommen Sie mit der Zentralen Studienberatung und den Study Mates in Kontakt und erfahren alles ",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|haw-landshut.de/veranstaltungen/termin/online-infoabend",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/vortragsreihe-wie-schreibe-ich-gute-klausuren-5": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Vortragsreihe: „Wie schreibe ich gute Klausuren?“",
+    "start": "2026-11-18",
+    "ende": "2026-11-18",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/vortragsreihe-wie-schreibe-ich-gute-klausuren-5",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-18|uni-passau.de/veranstaltungskalender/detail/event/vortragsreihe-wie-schreibe-ich-gute-klausuren-5",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617598": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-12-02&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=schlittschuhlaufen&cHash=baaec86b59abc63117cc604dda183e87": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Schlittschuhlaufen",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/schlittschuhlaufen",
+    "veranstalter": "",
+    "kurz": "Schlittschuhlaufen",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|haw-landshut.de/veranstaltungen/termin/schlittschuhlaufen",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621658": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-12-02&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=elternzeit-elterngeld&cHash=0d7214013ee646ed5c7e64c80dd7d8d4": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Elternzeit & Elterngeld",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/elternzeit-elterngeld",
+    "veranstalter": "",
+    "kurz": "Der Workshop, der dir einen richtig guten Überblick über ein wichtiges Eltern-Thema gibt – auch beim 2. Kind!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|haw-landshut.de/veranstaltungen/termin/elternzeit-elterngeld",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620511": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621066": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621804": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620777": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621479": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.tum-venture-labs.de/events/healthcare-happy-hour-3/": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617370": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/20-european-headache-congress-2026": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "20. European Headache Congress",
+    "start": "2026-12-12",
+    "ende": "2026-12-12",
+    "ort": "hub27",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/20-european-headache-congress-2026",
+    "veranstalter": "",
+    "kurz": "Walls Come Down",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Dach & Gebäudehülle"
+    ],
+    "schluessel": "2026-12-12|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/20-european-headache-congress-2026",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.auma.de/messen-finden/details/?tfd=hongkong_hktdc-hong-kong-toys-games-fair_232101": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/startups-for-good-zurich": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Startups for Good · Zurich",
+    "start": "2026-11-20",
+    "ende": "2026-11-20",
+    "ort": "Heinrichstrasse 177, Zürich",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/startups-for-good-zurich",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-20|startupticker.ch/en/events/startups-for-good-zurich",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/introduction-a-la-comptabilite-%2834%29": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Introduction à la comptabilité",
+    "start": "2027-02-13",
+    "ende": "2027-02-13",
+    "ort": "En ligne",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/index.php/en/events/introduction-a-la-comptabilite-%2834%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-02-13|startupticker.ch/index.php/en/events/introduction-a-la-comptabilite-%2834%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-sustainable-food-systems-sfs-challenge": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Deadline Sustainable Food Systems Challenge",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-sustainable-food-systems-sfs-challenge",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-25|startupticker.ch/en/events/deadline-sustainable-food-systems-sfs-challenge",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/epfl-investor-day-2026": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "EPFL Investor Day 2026",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "SwissTech Convention Center Lausanne, Switzerland",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/epfl-investor-day-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-25|startupticker.ch/en/events/epfl-investor-day-2026",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/ip-basic-workshop-%2820%29": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "IP Basic Workshop",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Remote",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/index.php/en/events/ip-basic-workshop-%2820%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-25|startupticker.ch/index.php/en/events/ip-basic-workshop-%2820%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": "kick-off-workshop-serielle-sanierung-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/mut-zur-chefin-basel-3-wege-deine-entscheidung": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Mut zur Chefin Basel: 3 Wege - deine Entscheidung",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Helvetia Baloise Group Hauptsitz Schweiz, St. Alban-Anlage 26, 4002 Basel",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/mut-zur-chefin-basel-3-wege-deine-entscheidung",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-25|startupticker.ch/en/events/mut-zur-chefin-basel-3-wege-deine-entscheidung",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/introduction-to-branding-website-design-%2811%29": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Introduction to Branding & Website Design",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/introduction-to-branding-website-design-%2811%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-25|startupticker.ch/index.php/en/events/introduction-to-branding-website-design-%2811%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/the-geneva-ai-conference-2026": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "The Geneva AI Conference 2026",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Fédération des Entreprises Romandes Genève",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/the-geneva-ai-conference-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-25|startupticker.ch/en/events/the-geneva-ai-conference-2026",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-sustainable-food-challenge": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Deadline Sustainable Food Challenge",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-sustainable-food-challenge",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-25|startupticker.ch/en/events/deadline-sustainable-food-challenge",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.gruenderkueche.de/news/events/termin-highlights-fuer-startups-und-gruendende-vom-16-bis-22-november-2026/": {
+  "geholt": "2026-11-17",
+  "zeilen": []
+ },
+ "https://events.gentner.de/de/webinar-gw-thementag-fenstersanierung-trifft-vakuumglas": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Webinar: GW-Thementag Fenstersanierung trifft Vakuumglas",
+    "start": "2026-12-09",
+    "ende": "2026-12-09",
+    "ort": "müssen Glasaufbau, Rahmenkonstruktion, Falzgeometrie und denkmalpflegerische Vorgaben zusammengedacht werden?",
+    "land": "",
+    "online": true,
+    "url": "https://events.gentner.de/de/webinar-gw-thementag-fenstersanierung-trifft-vakuumglas",
+    "veranstalter": "Gentner Events",
+    "kurz": "Experten zeigen, wie historische Fenster durch Restaurierung und Vakuumglas modernisiert werden können, ohne ihren Charakter zu verlieren. Beiträge von Holzmanufaktur Rottweil und Fineo by AGC. Diskussionen und Live-Frag",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gentner-events",
+    "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Dach & Gebäudehülle"
+    ],
+    "schluessel": "2026-12-09|events.gentner.de/de/webinar-gw-thementag-fenstersanierung-trifft-vakuumglas",
+    "quellen": [
+     "gentner-events"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794890111-cca5b109d": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2026-12-07",
+    "ende": "2026-12-07",
+    "ort": "Termin",
+    "land": "",
+    "online": false,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1794890111-cca5b109d",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
+   }
+  ],
+  "v": 2
+ },
+ "https://wrs.region-stuttgart.de/termine/meine-inhalte-auf-den-punkt-gebracht-auch-komplexe-technologiethemen/": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Meine Inhalte auf den Punkt gebracht – auch komplexe Technologiethemen",
+    "start": "2026-11-19",
+    "ende": "2026-11-19",
+    "ort": "Das Gutbrod",
+    "land": "",
+    "online": false,
+    "url": "https://wrs.region-stuttgart.de/termine/meine-inhalte-auf-den-punkt-gebracht-auch-komplexe-technologiethemen/",
+    "veranstalter": "",
+    "kurz": "CARS 2.0 Workshop aus der Reihe Kaltakquise",
+    "methode": "json-ld",
+    "quelle_id": "wrs-termine",
+    "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-19|wrs.region-stuttgart.de/termine/meine-inhalte-auf-den-punkt-gebracht-auch-komplexe-technologiethemen",
+    "quellen": [
+     "wrs-termine"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://it.region-stuttgart.de/termine/ki-shoring-vs-nearshoring/": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "KI-Shoring vs. Nearshoring",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "andrena objects ag, Stuttgart",
+    "land": "",
+    "online": false,
+    "url": "https://it.region-stuttgart.de/termine/ki-shoring-vs-nearshoring/",
+    "veranstalter": "IT Region Stuttgart",
+    "kurz": "Das ObjektForum Stuttgart widmet sich dem Thema „KI-Shoring vs. Nearshoring: Mehr Leistung, weniger Kosten“.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "it-region-stuttgart",
+    "quelle_name": "IT-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-24|it.region-stuttgart.de/termine/ki-shoring-vs-nearshoring",
+    "quellen": [
+     "it-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.viparis.com/en/news-events/events/neurips-2026-paris": {
+  "geholt": "2026-11-17",
+  "events": [],
+  "v": 2
+ },
+ "https://een.ec.europa.eu/events/team-canada-delegation-formnext": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Team Canada Delegation to Formnext",
+    "start": "2026-11-20",
+    "ende": "2026-11-20",
+    "ort": "Frankfurt am Main",
+    "land": "",
+    "online": false,
+    "url": "https://een.ec.europa.eu/events/team-canada-delegation-formnext",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "een-events",
+    "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2026-11-20|een.ec.europa.eu/events/team-canada-delegation-formnext",
+    "quellen": [
+     "een-events"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": "formnext-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://een.ec.europa.eu/events/bengaluru-tech-summit-2026": {
+  "geholt": "2026-11-17",
+  "events": [
+   {
+    "titel": "Bengaluru Tech Summit 2026",
+    "start": "2026-11-18",
+    "ende": "2026-11-18",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://een.ec.europa.eu/events/bengaluru-tech-summit-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "een-events",
+    "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-18|een.ec.europa.eu/events/bengaluru-tech-summit-2026",
+    "quellen": [
+     "een-events"
+    ],
+    "zuerst_gesehen": "2026-11-17",
+    "erfasst_als": "formnext-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.solarplaza.com/event/solarplaza-strategy-session-sweden/": {
+  "geholt": "2026-11-17",
+  "events": [],
   "v": 2
  }
 }

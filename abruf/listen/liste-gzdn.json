@@ -2,10 +2,9 @@
  "quelle": "liste-gzdn",
  "name": "GZDN – Start-ups",
  "url": "https://gzdn.de/startups/",
- "abgerufen": "2026-11-16",
+ "abgerufen": "2026-11-17",
  "koepfe": [
   "Die digitalen Vorreiter von morgen hier in Niederbayern",
-  "bayern(x)tech",
   "Blockchain Academy",
   "Branding Up",
   "Career Captain UG",
@@ -50,7 +49,6 @@
   "Synapze",
   "synsugar",
   "TechNurse",
-  "TTXTech GmbH",
   "unternehmensfreund",
   "VIAMOR",
   "Kreathene GmbH",
@@ -60,11 +58,6 @@
   "Gefördert durch"
  ],
  "links": [
-  {
-   "text": "bayern(x)techIngenieurgetriebene Leistungen für technische Aufgaben bis hin zur Forschung – mit der Geschwindigkeit moderner Systeme.Steckbrief",
-   "url": "https://www.gzdn.de/founder/bayernxtech-ug-haftungsbeschraenkt/",
-   "extern": false
-  },
   {
    "text": "Blockchain AcademyDie Zukunft ist jetztSteckbrief",
    "url": "https://www.gzdn.de/founder/blockchain-academy/",
@@ -298,11 +291,6 @@
   {
    "text": "TechNurseMaking voices heard in MedTechSteckbrief",
    "url": "https://www.gzdn.de/founder/technurse/",
-   "extern": false
-  },
-  {
-   "text": "TTXTech GmbHTTXTech delivers a digital MRV infrastructure (SDEVI) that transforms ESG, climate, and supply chain data into audit-ready, verifiable evidence from",
-   "url": "https://www.gzdn.de/founder/ttxtech-gmbh/",
    "extern": false
   },
   {

@@ -2,7 +2,7 @@
  "quelle": "liste-groundbreakers",
  "name": "GROUNDBREAKERS – Start-ups",
  "url": "https://groundbreakers.io/en",
- "abgerufen": "2026-11-16",
+ "abgerufen": "2026-11-17",
  "koepfe": [
   "What brings you here?",
   "From pitch deck to paying customer",
@@ -15,10 +15,10 @@
   "GROUNDBREAKERS Alumni",
   "GROUNDBREAKERSSUMMIT 2026",
   "Nice to meet you",
-  "Innovationstag „Bauen der Zukunft“ – Berlin",
   "Klimafestival für die Bauwende",
   "Groundbreaking Future",
   "Hi Tech! Match",
+  "Hi Tech! x Breakfast with Stuttgart Startups",
   "Your Innovation­Department",
   "Venture Clienting",
   "GROUNDBREAKERS Tool",
@@ -63,14 +63,6 @@
   "Who we're looking for in the GROUNDBREAKERS Accelerator",
   "Requirements",
   "Your focus areas",
-  "12 weeks tothe pilot project",
-  "Digital pre-kick-off",
-  "Startups meet GROUNDBREAKERS ecosystem + pilot projects workshop",
-  "Sales masterclass / 5 sessions of 2h each",
-  "Pitch training",
-  "Finance day",
-  "GROUNDBREAKERS Demo Day",
-  "GROUNDBREAKERS Summit",
   "Good to know",
   "Bring your solution into practice",
   "Investor-ready.Not someday.Now",
@@ -403,7 +395,15 @@
   "Visibility & Communication",
   "Talent & Enablement",
   "What Companies Often Ask Us",
-  "A First Conversation – As Equals"
+  "A First Conversation – As Equals",
+  "That Was the GROUNDBREAKERS Summit 2026",
+  "Straw That Bears Loads: Topping-Out for the StrawBrick Pavilion",
+  "Renderings in Minutes Instead of Hours: VisioPlan & SchwörerHaus",
+  "How a StrawBrick is made",
+  "ConTech and PropTech Explained: Definition, Origin, Difference",
+  "5 Reasons to Attend the GROUNDBREAKERS Summit",
+  "Kickoff for Accelerator Batch #3",
+  "AI Revolution on Fast-Forward: PELICAD & WOLFF & MÜLLER"
  ],
  "links": [
   {
@@ -468,11 +468,6 @@
   },
   {
    "text": "More Info >",
-   "url": "https://www.bauenderzukunft.com/events-2026-bauen-der-zukunft-konferenzen/?event_id=006516d29c4040f6a920ebf000c1c207",
-   "extern": true
-  },
-  {
-   "text": "More Info >",
    "url": "https://klimafestival.heinze.de/de/",
    "extern": true
   },
@@ -492,7 +487,12 @@
    "extern": false
   },
   {
-   "text": "+2 more events View All >",
+   "text": "More on the Hi Tech! Batch >",
+   "url": "https://www.groundbreakers.io/en",
+   "extern": false
+  },
+  {
+   "text": "+1 more events View All >",
    "url": "https://www.groundbreakers.io/en",
    "extern": false
   },
@@ -617,8 +617,18 @@
    "extern": false
   },
   {
+   "text": "Apply now >",
+   "url": "https://thq6d.share.hsforms.com/28GM2XiLiRmex3dXj61mEnw",
+   "extern": true
+  },
+  {
    "text": "Book an intro call with Wim >",
    "url": "https://meetings.hubspot.com/wimlev/meet?uuid=b0959951-a52e-4af9-b980-5b6934707dc0",
+   "extern": true
+  },
+  {
+   "text": "Accelerator 2027Apply now for the GROUNDBREAKERS Accelerator 2027 >",
+   "url": "https://thq6d.share.hsforms.com/28GM2XiLiRmex3dXj61mEnw",
    "extern": true
   },
   {
@@ -1993,31 +2003,6 @@
   },
   {
    "text": "View job posting >",
-   "url": "https://sitegeist-robotics.com/career/",
-   "extern": true
-  },
-  {
-   "text": "View job posting >",
-   "url": "https://sitegeist-robotics.com/career/",
-   "extern": true
-  },
-  {
-   "text": "View job posting >",
-   "url": "https://sitegeist-robotics.com/career/",
-   "extern": true
-  },
-  {
-   "text": "View job posting >",
-   "url": "https://sitegeist-robotics.com/career/",
-   "extern": true
-  },
-  {
-   "text": "View job posting >",
-   "url": "https://sitegeist-robotics.com/career/",
-   "extern": true
-  },
-  {
-   "text": "View job posting >",
    "url": "https://jobs.needle.so/arctisai",
    "extern": true
   },
@@ -2053,11 +2038,6 @@
   },
   {
    "text": "View job posting >",
-   "url": "https://join.com/companies/alagoai/16710073-product-associate-ux-working-student-intern",
-   "extern": true
-  },
-  {
-   "text": "View job posting >",
    "url": "https://drive.google.com/file/d/1OrfS3dc2eKHaSlzy_3WZB7UzCtIc3VfL/view?usp=sharing",
    "extern": true
   },
@@ -2069,11 +2049,6 @@
   {
    "text": "View job posting >",
    "url": "https://drive.google.com/file/d/1Uc0MGZK-QcSMA5pm4lwNHyy97wyIVtT1/view?usp=drive_link",
-   "extern": true
-  },
-  {
-   "text": "View job posting >",
-   "url": "https://sitegeist-robotics.com/career/",
    "extern": true
   },
   {
@@ -2114,11 +2089,6 @@
   {
    "text": "View job posting >",
    "url": "https://join.com/companies/alagoai/16823247-founder-s-associate-praktikum",
-   "extern": true
-  },
-  {
-   "text": "View job posting >",
-   "url": "https://join.com/companies/dcarbonize/16838995-projektmanager-in-serielle-sanierung-m-w-d",
    "extern": true
   },
   {
@@ -2189,11 +2159,6 @@
   {
    "text": "Schedule a Meeting with Frieder >",
    "url": "https://meetings.hubspot.com/frieder-lindner?uuid=0c73dc66-c587-4158-8cad-c9f028162612",
-   "extern": true
-  },
-  {
-   "text": "More Info >",
-   "url": "https://www.bauenderzukunft.com/events-2026-bauen-der-zukunft-konferenzen/?event_id=006516d29c4040f6a920ebf000c1c207",
    "extern": true
   },
   {
