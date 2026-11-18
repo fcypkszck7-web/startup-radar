@@ -48,6 +48,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Like a Boss",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/like-a-boss",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-19|uni-passau.de/veranstaltungskalender/detail/event/like-a-boss",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Meine Inhalte auf den Punkt gebracht – auch komplexe Technologiethemen",
   "start": "2026-11-19",
   "ende": "2026-11-19",
@@ -67,6 +91,102 @@
    "wrs-termine"
   ],
   "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Politisches Frühstück mit Stefan Bolln",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "Online über GoTo Webinar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/politisches-fruehstueck-mit-stefan-bolln/",
+  "veranstalter": "",
+  "kurz": "Der GIH Bundesverband lädt herzlich zum digitalen Frühstücksdialog mit dem GIH-Bundesvorsitzenden Stefan Bolln ein. In gemütlicher Runde geht es um […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-19|gih.de/veranstaltung/politisches-fruehstueck-mit-stefan-bolln",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Start in die Energieberatung – Wissenswertes für den Einstieg in die Selbständigkeit",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "Online-Seminar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/start-in-die-energieberatung-wissenswertes-fuer-den-einstieg-in-die-selbstaendigkeit-5/",
+  "veranstalter": "",
+  "kurz": "Wissenswertes für den Einstieg in die Selbständigkeit Der Nutzen im Überblick Ziel des Seminars ist es, Energieberater*innen auf den neuesten […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-19|gih.de/veranstaltung/start-in-die-energieberatung-wissenswertes-fuer-den-einstieg-in-die-selbstaendigkeit-5",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Wissenswerkstatt",
+  "start": "2026-11-19",
+  "ende": "2026-11-19",
+  "ort": "35516 Münzenberg, Wohnbacher Str. 1, Burghotel Münzenberg",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/wissenswerkstatt/",
+  "veranstalter": "",
+  "kurz": "Hinweis: Zimmer (inklusive Frühstück 94,50€ brutto) muss jeder Teilnehmer für sich selbst buchen. Die Kosten sind selbst zu tragen und […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-19|gih.de/veranstaltung/wissenswerkstatt",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "18. EffizienzTagung klimaneutral Bauen+Modernisieren",
+  "start": "2026-11-20",
+  "ende": "2026-11-21",
+  "ort": "Hannover Congress Centrum",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/18-effizienztagung-klimaneutral-bauenmodernisieren/",
+  "veranstalter": "",
+  "kurz": "Gerade wenn sich manches wie ein Rückschritt anfühlt, braucht es Bewegung nach vorn. Die diesjährige EffizienzTagung bietet fachlichen Input und […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-20|gih.de/veranstaltung/18-effizienztagung-klimaneutral-bauenmodernisieren",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-18",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -97,6 +217,252 @@
   "entscheidung": ""
  },
  {
+  "titel": "Vergaberecht für Energieberater  Was Sie wissen müssen",
+  "start": "2026-11-20",
+  "ende": "2026-11-20",
+  "ort": "Online-Seminar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/vergaberecht-fuer-energieberater-%c2%96-was-sie-wissen-muessen/",
+  "veranstalter": "",
+  "kurz": "Wie Energieeffizienz-Anforderungen rechtssicher in die Ausschreibung kommen Der Nutzen im Überblick Energieberater begleiten oft Bauherrn, die das Vergaberecht beachten müssen. […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-20|gih.de/veranstaltung/vergaberecht-fuer-energieberater-%c2%96-was-sie-wissen-muessen",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Wissenswerkstatt",
+  "start": "2026-11-20",
+  "ende": "2026-11-20",
+  "ort": "35516 Münzenberg, Wohnbacher Str. 1, Burghotel Münzenberg",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/wissenswerkstatt-2/",
+  "veranstalter": "",
+  "kurz": "Hinweis: Zimmer (inklusive Frühstück 94,50€ brutto) muss jeder Teilnehmer für sich selbst buchen. Die Kosten sind selbst zu tragen und […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-20|gih.de/veranstaltung/wissenswerkstatt-2",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "CREATORS × VAGOVIC Launch Night",
+  "start": "2026-11-21",
+  "ende": "2026-11-21",
+  "ort": "CREATORS Space - Sternhöhe, Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/creators-x-vagovic-launch-night/",
+  "veranstalter": "",
+  "kurz": "Am 21. November wird gefeiert. Ein neuer Anfang, Candy FUSE live, gute Musik, Games und ein paar Überraschungen.",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-21|startup-region-stuttgart.de/termine/creators-x-vagovic-launch-night",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Gründungswochenende",
+  "start": "2026-11-21",
+  "ende": "2026-11-22",
+  "ort": "Open Innovation Campus Westspitze, Tübingen",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/gruendungswochenende-3/",
+  "veranstalter": "",
+  "kurz": "Du möchtest dich selbstständig machen und brauchst hierfür in kurzer Zeit das nötige Know-how? Im zweitägigen Gründungswochenende erhalten Gründer/-innen und Gründungsinteressierte hilfreiche Tipps und Informationen zu d",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-21|startup-region-stuttgart.de/termine/gruendungswochenende-3",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Montagsseminar “Rechteklärung für Filmproduktionen”",
+  "start": "2026-11-23",
+  "ende": "2026-11-23",
+  "ort": "eventbrite.de/e/rechteklarung-fu…",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/montagsseminar-rechteklaerung-fuer-filmproduktionen/",
+  "veranstalter": "",
+  "kurz": "Ob Fotos, Footage oder Markenlogos: Die Nutzung fremden Materials birgt juristische Fallstricke. Wann ist eine Verwendung ohne Lizenz erlaubt – und wann drohen Abmahnungen oder Klagen?",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Industrie & Fertigung",
+   "Material & Kreislauf"
+  ],
+  "schluessel": "2026-11-23|wrs.region-stuttgart.de/termine/montagsseminar-rechteklaerung-fuer-filmproduktionen",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infoveranstaltung unseres Fördermitgliedes KÜBLER-HALLENHEIZUNGEN",
+  "start": "2026-11-23",
+  "ende": "2026-11-23",
+  "ort": "Online",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/online-infoveranstaltung-unseres-foerdermitgliedes-kuebler-hallenheizungen/",
+  "veranstalter": "",
+  "kurz": "Unser Fördermitglied KÜBLER HALLENHEIZUNGEN stellt sich den Mitgliedern des GIH-NRW vor. Herr Kai-Uwe Grütter bringt Euch unter anderem folgende Inhalte […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gebäudetechnik"
+  ],
+  "schluessel": "2026-11-23|gih.de/veranstaltung/online-infoveranstaltung-unseres-foerdermitgliedes-kuebler-hallenheizungen",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Praxisaustauschgruppe Entgelttransparenz",
+  "start": "2026-11-23",
+  "ende": "2026-11-23",
+  "ort": "Linz",
+  "land": "",
+  "online": false,
+  "url": "https://www.biz-up.at/veranstaltung/praxisaustauschgruppe-entgelttransparenz-23-11-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "business-upper-austria",
+  "quelle_name": "Business Upper Austria – Veranstaltungen",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-23|biz-up.at/veranstaltung/praxisaustauschgruppe-entgelttransparenz-23-11-2026",
+  "quellen": [
+   "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Retention ist das neue Recruiting: Arbeitsfähigkeit 50+ erhalten",
+  "start": "2026-11-23",
+  "ende": "2026-11-23",
+  "ort": "Linz",
+  "land": "",
+  "online": false,
+  "url": "https://www.biz-up.at/veranstaltung/retention-ist-das-neue-recruiting-arbeitsfaehigkeit-50-erhalten-23-11-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "business-upper-austria",
+  "quelle_name": "Business Upper Austria – Veranstaltungen",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-23|biz-up.at/veranstaltung/retention-ist-das-neue-recruiting-arbeitsfaehigkeit-50-erhalten-23-11-2026",
+  "quellen": [
+   "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Workshop Update iSFP mit DIN V 18599",
+  "start": "2026-11-23",
+  "ende": "2026-11-24",
+  "ort": "Online-Seminar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/workshop-update-isfp-mit-din-v-18599/",
+  "veranstalter": "",
+  "kurz": "Der neue individuelle Sanierungsfahrplan (iSFP 2) nach DIN V 18599 für Wohngebäude – Förderung mit iSFP-Bonus, neue gesetzliche Rahmenbedingungen und […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-23|gih.de/veranstaltung/workshop-update-isfp-mit-din-v-18599",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "15. Forum Wohnungs­lüftung",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "Online",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/15-forum-wohnungslueftung/",
+  "veranstalter": "",
+  "kurz": "Digital und kostenfrei: HEA (Fachgemeinschaft für effiziente Energieanwendung e. V.) und das Umweltbundesamt laden am 24. November 2026 zum 15. […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Bau & Immobilien",
+   "Energie & Solar",
+   "Gebäudetechnik",
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-24|gih.de/veranstaltung/15-forum-wohnungslueftung",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "KI-Shoring vs. Nearshoring",
   "start": "2026-11-24",
   "ende": "2026-11-24",
@@ -119,6 +485,80 @@
    "it-region-stuttgart"
   ],
   "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "New Mobility Design Kongress: Designing Future Mobility – Wie sieht die Mobilität von morgen aus?",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "Württembergischer Automobilclub (WAC) e.V., Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/new-mobility-design-kongress-designing-future-mobility-wie-sieht-die-mobilitaet-von-morgen-aus-2/",
+  "veranstalter": "",
+  "kurz": "Der „Nemo - New Mobility Design Kongress“ bringt die gestaltenden Branchen mit der Mobilitätswirtschaft und den Technologien und Konzepten der mobilen Zukunft zusammen.",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-24|wrs.region-stuttgart.de/termine/new-mobility-design-kongress-designing-future-mobility-wie-sieht-die-mobilitaet-von-morgen-aus-2",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Schutzrechte im Innovationsprozess",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.biz-up.at/veranstaltung/schutzrechte-im-innovationsprozess-24-11-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "business-upper-austria",
+  "quelle_name": "Business Upper Austria – Veranstaltungen",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-24|biz-up.at/veranstaltung/schutzrechte-im-innovationsprozess-24-11-2026",
+  "quellen": [
+   "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Think BIG | Zeit für meine Zukunft: Weiterbildung!",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "online",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/think-big-zeit-fuer-meine-zukunft-weiterbildung-2/",
+  "veranstalter": "",
+  "kurz": "Mittagsimpuls zu den Themen Weiterbildung, wichtige Internetplattformen, Beratungsangebote und finanzielle Förderung",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-24|wrs.region-stuttgart.de/termine/think-big-zeit-fuer-meine-zukunft-weiterbildung-2",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-18",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -171,6 +611,32 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Deadline Sustainable Materials Challenge",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "Startup Camp India",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/deadline-sustainable-materials-challenge",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Material & Kreislauf"
+  ],
+  "schluessel": "2026-11-25|startupticker.ch/en/events/deadline-sustainable-materials-challenge",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-18",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -275,6 +741,130 @@
   "entscheidung": ""
  },
  {
+  "titel": "FONGIT:Force with Brigid O'Donovan",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "FONGIT HQ, Route de la Galaise 34, 6th floor, 1228 Plan-les-Ouates",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/fongit-force-with-brigid-o-donovan",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|startupticker.ch/en/events/fongit-force-with-brigid-o-donovan",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "IP Workshop: Searching Patents in public databases",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Remote",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-searching-patents-in-public-databases-%2817%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-26|startupticker.ch/index.php/en/events/ip-workshop-searching-patents-in-public-databases-%2817%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "IP Workshop: Searching with The Lens",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Remote",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-searching-with-the-lens-%2810%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|startupticker.ch/index.php/en/events/ip-workshop-searching-with-the-lens-%2810%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Info Webinar zum Technologiefonds",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Webinar (online)",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/en/events/info-webinar-zum-technologiefonds",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|startupticker.ch/en/events/info-webinar-zum-technologiefonds",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Wie gründe ich eine Firma",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/wie-gruende-ich-eine-firma-%285%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-26|startupticker.ch/index.php/en/events/wie-gruende-ich-eine-firma-%285%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Workshop „How to Find Your Research Topic“",
   "start": "2026-11-30",
   "ende": "2026-11-30",
@@ -297,6 +887,32 @@
    "hs-landshut"
   ],
   "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "THOMAS + THOMAS In Conversation on Mixed-Mode + Comfort",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "Deutsche Gesellschaft für Nachhaltiges Bauen – DGNB e.V., Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://www.dgnb.de/de/events-und-termine/aktuelle-veranstaltungen/thomas-thomas-in-conversation-on-mixed-mode-comfort",
+  "veranstalter": "DGNB GmbH",
+  "kurz": "Ein Event der Initiative SHIFT, der Wissensstiftung sowie der DGNB ",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgnb",
+  "quelle_name": "DGNB – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Bau & Immobilien"
+  ],
+  "schluessel": "2026-12-01|dgnb.de/de/events-und-termine/aktuelle-veranstaltungen/thomas-thomas-in-conversation-on-mixed-mode-comfort",
+  "quellen": [
+   "dgnb"
+  ],
+  "zuerst_gesehen": "2026-11-18",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -397,6 +1013,107 @@
    "hs-landshut"
   ],
   "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Business Baukasten Baustein 12",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "360° BASE, Würzburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.gruenderland.bayern/veranstaltungen/event/business-baukasten-baustein-12/",
+  "veranstalter": "",
+  "kurz": "Vom Businessplan zum Finanzamt: Der Navigationskurs durch Steuern und BWL für Gründerinnen und Gründer.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gruenderland-bayern",
+  "quelle_name": "Gründerland Bayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-03|gruenderland.bayern/veranstaltungen/event/business-baukasten-baustein-12",
+  "quellen": [
+   "gruenderland-bayern"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "CaringCampus: Care-Verantwortung",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/caringcampus-care-verantwortung",
+  "veranstalter": "",
+  "kurz": "Wo fühlen wir uns (un)sicher? Campusrundgang zu Sicherheit und Wohlbefinden von Hochschulmitgliedern mit Care-Verantwortung.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-03|haw-landshut.de/veranstaltungen/termin/caringcampus-care-verantwortung",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "KI Schulungs­programm für ESG Professionals",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "stuttgart.de/wirtschaft/wirtscha…",
+  "land": "",
+  "online": true,
+  "url": "https://it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals-2-2/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "KI Tools können die Aufgaben von Nachhaltigkeitsverantwortlichen unterstützen.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Material & Kreislauf"
+  ],
+  "schluessel": "2026-12-03|it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals-2-2",
+  "quellen": [
+   "it-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "PopUp Ausstellung DisIgnoranz - sehen im rassistischen Nebelfeld",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/popup-ausstellung-disignoranz-sehen-im-rassistischen-nebelfeld",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-03|oth-regensburg.de/termine/detailansicht/popup-ausstellung-disignoranz-sehen-im-rassistischen-nebelfeld",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-18",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -503,6 +1220,55 @@
   "entscheidung": ""
  },
  {
+  "titel": "Gamergy",
+  "start": "2026-12-18",
+  "ende": "2026-12-20",
+  "ort": "IFEMA, Madrid",
+  "land": "ES",
+  "online": false,
+  "url": "https://www.ifema.es/gamergy ",
+  "veranstalter": "IFEMA MADRID",
+  "kurz": "E-sports & Gaming Festival",
+  "methode": "json-ld",
+  "quelle_id": "messe-ifema",
+  "quelle_name": "IFEMA Madrid – Messekalender",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-18|ifema.es/gamergy",
+  "quellen": [
+   "messe-ifema"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Innovation Challenge at Open-i 2026 – Bring your startup to the Main Stage!",
+  "start": "2027-02-13",
+  "ende": "2027-02-13",
+  "ort": "Startup Camp India",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/innovation-challenge-at-open-i-2026-bring-your-startup-to-the-main-stage",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-02-13|startupticker.ch/en/events/innovation-challenge-at-open-i-2026-bring-your-startup-to-the-main-stage",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Introduction à la comptabilité",
   "start": "2027-02-13",
   "ende": "2027-02-13",
@@ -575,6 +1341,31 @@
   "entscheidung": ""
  },
  {
+  "titel": "Verleihung Goldene Meisterbriefe",
+  "start": "2027-04-16",
+  "ende": "2027-04-16",
+  "ort": "Handwerkskammer in Regensburg, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.hwkno.de/termine/verleihung-goldene-meisterbriefe-76,0,evedetail.html?eve=1840",
+  "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwkno",
+  "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Handwerk"
+  ],
+  "schluessel": "2027-04-16|hwkno.de/termine/verleihung-goldene-meisterbriefe-76,0,evedetail.html",
+  "quellen": [
+   "hwkno"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Arena Ung Företagsamhet 2027",
   "start": "2027-05-03",
   "ende": "2027-05-04",
@@ -619,6 +1410,30 @@
    "messe-stockholmsmassan"
   ],
   "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Deutscher Pflegetag",
+  "start": "2027-11-12",
+  "ende": "2027-11-12",
+  "ort": "hub27",
+  "land": "",
+  "online": false,
+  "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/deutscher-pflegetag-2027",
+  "veranstalter": "",
+  "kurz": "Pflege stärken mit starken Partnern",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-berlin",
+  "quelle_name": "Messe Berlin – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-11-12|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/deutscher-pflegetag-2027",
+  "quellen": [
+   "messe-berlin"
+  ],
+  "zuerst_gesehen": "2026-11-18",
   "erfasst_als": null,
   "entscheidung": ""
  }

@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-17",
+  "geholt": "2026-11-18",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -41539,8 +41539,8 @@
      "it-region-stuttgart"
     ],
     "zuerst_gesehen": "2026-11-13",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "hackergarten-stuttgart-2026-12-2026",
+    "entscheidung": "aufgenommen: hackergarten-stuttgart-2026-12-2026"
    }
   ],
   "v": 2
@@ -43960,6 +43960,1048 @@
  "https://www.solarplaza.com/event/solarplaza-strategy-session-sweden/": {
   "geholt": "2026-11-17",
   "events": [],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/23-11-2026_wissenschaft-ohne-wissenschaftler-podiumsdiskussion-kuenstliche-intelligenz-in-forschung-und-lehre-der-physik-und-mathematik": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.hwkno.de/termine/verleihung-goldene-meisterbriefe-76,0,evedetail.html?eve=1840": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Verleihung Goldene Meisterbriefe",
+    "start": "2027-04-16",
+    "ende": "2027-04-16",
+    "ort": "Handwerkskammer in Regensburg, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.hwkno.de/termine/verleihung-goldene-meisterbriefe-76,0,evedetail.html?eve=1840",
+    "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "hwkno",
+    "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Handwerk"
+    ],
+    "schluessel": "2027-04-16|hwkno.de/termine/verleihung-goldene-meisterbriefe-76,0,evedetail.html",
+    "quellen": [
+     "hwkno"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/24-11-2026_kraftvoll-weiblich-erfolgreich-unterschiedlichkeit-als-ressource-in-fuehrung": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/von-der-leistungsdiagnostik-zum-trainingsplan-einblicke-in-aktuelle-trends-des-ausdauersports": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-12-03&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=caringcampus-care-verantwortung&cHash=9ca86e28cc34e275c0e33f29a8225771": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "CaringCampus: Care-Verantwortung",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/caringcampus-care-verantwortung",
+    "veranstalter": "",
+    "kurz": "Wo fühlen wir uns (un)sicher? Campusrundgang zu Sicherheit und Wohlbefinden von Hochschulmitgliedern mit Care-Verantwortung.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-03|haw-landshut.de/veranstaltungen/termin/caringcampus-care-verantwortung",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/berufe-im-profil-politikberatung-im-deutschen-bundestag-65013": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/popup-ausstellung-disignoranz-sehen-im-rassistischen-nebelfeld": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "PopUp Ausstellung DisIgnoranz - sehen im rassistischen Nebelfeld",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/popup-ausstellung-disignoranz-sehen-im-rassistischen-nebelfeld",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-03|oth-regensburg.de/termine/detailansicht/popup-ausstellung-disignoranz-sehen-im-rassistischen-nebelfeld",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/global-classrooms-educational-journeys-schooling-in-colombia": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621067": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/like-a-boss": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Like a Boss",
+    "start": "2026-11-19",
+    "ende": "2026-11-19",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/like-a-boss",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-19|uni-passau.de/veranstaltungskalender/detail/event/like-a-boss",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621784": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/611074": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/611067": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/business-baukasten-baustein-12/": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Business Baukasten Baustein 12",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "360° BASE, Würzburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/business-baukasten-baustein-12/",
+    "veranstalter": "",
+    "kurz": "Vom Businessplan zum Finanzamt: Der Navigationskurs durch Steuern und BWL für Gründerinnen und Gründer.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-03|gruenderland.bayern/veranstaltungen/event/business-baukasten-baustein-12",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621259": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621068": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621279": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/606115": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/gruendungswochenende-3/": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Gründungswochenende",
+    "start": "2026-11-21",
+    "ende": "2026-11-22",
+    "ort": "Open Innovation Campus Westspitze, Tübingen",
+    "land": "",
+    "online": false,
+    "url": "https://www.startup-region-stuttgart.de/termine/gruendungswochenende-3/",
+    "veranstalter": "",
+    "kurz": "Du möchtest dich selbstständig machen und brauchst hierfür in kurzer Zeit das nötige Know-how? Im zweitägigen Gründungswochenende erhalten Gründer/-innen und Gründungsinteressierte hilfreiche Tipps und Informationen zu d",
+    "methode": "json-ld",
+    "quelle_id": "startup-region-stuttgart",
+    "quelle_name": "Start-up-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-21|startup-region-stuttgart.de/termine/gruendungswochenende-3",
+    "quellen": [
+     "startup-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.dgnb.de/de/events-und-termine/aktuelle-veranstaltungen/thomas-thomas-in-conversation-on-mixed-mode-comfort": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "THOMAS + THOMAS In Conversation on Mixed-Mode + Comfort",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "Deutsche Gesellschaft für Nachhaltiges Bauen – DGNB e.V., Stuttgart",
+    "land": "",
+    "online": false,
+    "url": "https://www.dgnb.de/de/events-und-termine/aktuelle-veranstaltungen/thomas-thomas-in-conversation-on-mixed-mode-comfort",
+    "veranstalter": "DGNB GmbH",
+    "kurz": "Ein Event der Initiative SHIFT, der Wissensstiftung sowie der DGNB ",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgnb",
+    "quelle_name": "DGNB – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Bau & Immobilien"
+    ],
+    "schluessel": "2026-12-01|dgnb.de/de/events-und-termine/aktuelle-veranstaltungen/thomas-thomas-in-conversation-on-mixed-mode-comfort",
+    "quellen": [
+     "dgnb"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621257": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/creators-x-vagovic-launch-night/": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "CREATORS × VAGOVIC Launch Night",
+    "start": "2026-11-21",
+    "ende": "2026-11-21",
+    "ort": "CREATORS Space - Sternhöhe, Stuttgart",
+    "land": "",
+    "online": false,
+    "url": "https://www.startup-region-stuttgart.de/termine/creators-x-vagovic-launch-night/",
+    "veranstalter": "",
+    "kurz": "Am 21. November wird gefeiert. Ein neuer Anfang, Candy FUSE live, gute Musik, Games und ein paar Überraschungen.",
+    "methode": "json-ld",
+    "quelle_id": "startup-region-stuttgart",
+    "quelle_name": "Start-up-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-21|startup-region-stuttgart.de/termine/creators-x-vagovic-launch-night",
+    "quellen": [
+     "startup-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620173": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/deutscher-pflegetag-2027": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Deutscher Pflegetag",
+    "start": "2027-11-12",
+    "ende": "2027-11-12",
+    "ort": "hub27",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/deutscher-pflegetag-2027",
+    "veranstalter": "",
+    "kurz": "Pflege stärken mit starken Partnern",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-11-12|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/deutscher-pflegetag-2027",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.biz-up.at/veranstaltung/praxisaustauschgruppe-entgelttransparenz-23-11-2026": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Praxisaustauschgruppe Entgelttransparenz",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "Linz",
+    "land": "",
+    "online": false,
+    "url": "https://www.biz-up.at/veranstaltung/praxisaustauschgruppe-entgelttransparenz-23-11-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "business-upper-austria",
+    "quelle_name": "Business Upper Austria – Veranstaltungen",
+    "region_hinweis": "Österreich",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-23|biz-up.at/veranstaltung/praxisaustauschgruppe-entgelttransparenz-23-11-2026",
+    "quellen": [
+     "business-upper-austria"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-sustainable-materials-challenge": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Deadline Sustainable Materials Challenge",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-sustainable-materials-challenge",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-25|startupticker.ch/en/events/deadline-sustainable-materials-challenge",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.biz-up.at/veranstaltung/retention-ist-das-neue-recruiting-arbeitsfaehigkeit-50-erhalten-23-11-2026": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Retention ist das neue Recruiting: Arbeitsfähigkeit 50+ erhalten",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "Linz",
+    "land": "",
+    "online": false,
+    "url": "https://www.biz-up.at/veranstaltung/retention-ist-das-neue-recruiting-arbeitsfaehigkeit-50-erhalten-23-11-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "business-upper-austria",
+    "quelle_name": "Business Upper Austria – Veranstaltungen",
+    "region_hinweis": "Österreich",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-23|biz-up.at/veranstaltung/retention-ist-das-neue-recruiting-arbeitsfaehigkeit-50-erhalten-23-11-2026",
+    "quellen": [
+     "business-upper-austria"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/innovation-challenge-at-open-i-2026-bring-your-startup-to-the-main-stage": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Innovation Challenge at Open-i 2026 – Bring your startup to the Main Stage!",
+    "start": "2027-02-13",
+    "ende": "2027-02-13",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/innovation-challenge-at-open-i-2026-bring-your-startup-to-the-main-stage",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-02-13|startupticker.ch/en/events/innovation-challenge-at-open-i-2026-bring-your-startup-to-the-main-stage",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.biz-up.at/veranstaltung/schutzrechte-im-innovationsprozess-24-11-2026": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Schutzrechte im Innovationsprozess",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.biz-up.at/veranstaltung/schutzrechte-im-innovationsprozess-24-11-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "business-upper-austria",
+    "quelle_name": "Business Upper Austria – Veranstaltungen",
+    "region_hinweis": "Österreich",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-24|biz-up.at/veranstaltung/schutzrechte-im-innovationsprozess-24-11-2026",
+    "quellen": [
+     "business-upper-austria"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/open-i-2026-connecting-science-and-business": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Open-i 2026 | Connecting Science and Business",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "Zurich Convention Center",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/open-i-2026-connecting-science-and-business",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-26|startupticker.ch/en/events/open-i-2026-connecting-science-and-business",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/the-pioneers-forum": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "The Pioneers Forum",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "IMD Business School Campus, Lausanne",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/the-pioneers-forum",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-26|startupticker.ch/en/events/the-pioneers-forum",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": "future-battery-forum-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/ip-workshop-searching-patents-in-public-databases-%2817%29": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "IP Workshop: Searching Patents in public databases",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "Remote",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-searching-patents-in-public-databases-%2817%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-26|startupticker.ch/index.php/en/events/ip-workshop-searching-patents-in-public-databases-%2817%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/ip-workshop-searching-with-the-lens-%2810%29": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "IP Workshop: Searching with The Lens",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "Remote",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/index.php/en/events/ip-workshop-searching-with-the-lens-%2810%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-26|startupticker.ch/index.php/en/events/ip-workshop-searching-with-the-lens-%2810%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/hsg-fintech-summit-2026": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "HSG Fintech Summit 2026",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "UBS Grünenhof, Zurich",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/hsg-fintech-summit-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-26|startupticker.ch/en/events/hsg-fintech-summit-2026",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/info-webinar-zum-technologiefonds": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Info Webinar zum Technologiefonds",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "Webinar (online)",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/info-webinar-zum-technologiefonds",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-26|startupticker.ch/en/events/info-webinar-zum-technologiefonds",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/fongit-force-with-brigid-o-donovan": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "FONGIT:Force with Brigid O'Donovan",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "FONGIT HQ, Route de la Galaise 34, 6th floor, 1228 Plan-les-Ouates",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/fongit-force-with-brigid-o-donovan",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-26|startupticker.ch/en/events/fongit-force-with-brigid-o-donovan",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/wie-gruende-ich-eine-firma-%285%29": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Wie gründe ich eine Firma",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/wie-gruende-ich-eine-firma-%285%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-26|startupticker.ch/index.php/en/events/wie-gruende-ich-eine-firma-%285%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://wrs.region-stuttgart.de/termine/montagsseminar-rechteklaerung-fuer-filmproduktionen/": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Montagsseminar “Rechteklärung für Filmproduktionen”",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "eventbrite.de/e/rechteklarung-fu…",
+    "land": "",
+    "online": false,
+    "url": "https://wrs.region-stuttgart.de/termine/montagsseminar-rechteklaerung-fuer-filmproduktionen/",
+    "veranstalter": "",
+    "kurz": "Ob Fotos, Footage oder Markenlogos: Die Nutzung fremden Materials birgt juristische Fallstricke. Wann ist eine Verwendung ohne Lizenz erlaubt – und wann drohen Abmahnungen oder Klagen?",
+    "methode": "json-ld",
+    "quelle_id": "wrs-termine",
+    "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung",
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-11-23|wrs.region-stuttgart.de/termine/montagsseminar-rechteklaerung-fuer-filmproduktionen",
+    "quellen": [
+     "wrs-termine"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://it.region-stuttgart.de/termine/wordpress-meetup-stuttgart-2026-12/": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "WordPress meetup Stuttgart | 2026.12",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "rdPress meetup Stuttgart | ...WordPress ...",
+    "land": "",
+    "online": false,
+    "url": "https://it.region-stuttgart.de/termine/wordpress-meetup-stuttgart-2026-12/",
+    "veranstalter": "IT Region Stuttgart",
+    "kurz": "Regelmäßiges Netzwerktreffen zum Blog- und CMS-System WordPress",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "it-region-stuttgart",
+    "quelle_name": "IT-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-12-02|it.region-stuttgart.de/termine/wordpress-meetup-stuttgart-2026-12",
+    "quellen": [
+     "it-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": "hackergarten-stuttgart-2026-12-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://wrs.region-stuttgart.de/termine/new-mobility-design-kongress-designing-future-mobility-wie-sieht-die-mobilitaet-von-morgen-aus-2/": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "New Mobility Design Kongress: Designing Future Mobility – Wie sieht die Mobilität von morgen aus?",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "Württembergischer Automobilclub (WAC) e.V., Stuttgart",
+    "land": "",
+    "online": false,
+    "url": "https://wrs.region-stuttgart.de/termine/new-mobility-design-kongress-designing-future-mobility-wie-sieht-die-mobilitaet-von-morgen-aus-2/",
+    "veranstalter": "",
+    "kurz": "Der „Nemo - New Mobility Design Kongress“ bringt die gestaltenden Branchen mit der Mobilitätswirtschaft und den Technologien und Konzepten der mobilen Zukunft zusammen.",
+    "methode": "json-ld",
+    "quelle_id": "wrs-termine",
+    "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-24|wrs.region-stuttgart.de/termine/new-mobility-design-kongress-designing-future-mobility-wie-sieht-die-mobilitaet-von-morgen-aus-2",
+    "quellen": [
+     "wrs-termine"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals-2-2/": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "KI Schulungs­programm für ESG Professionals",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "stuttgart.de/wirtschaft/wirtscha…",
+    "land": "",
+    "online": true,
+    "url": "https://it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals-2-2/",
+    "veranstalter": "IT Region Stuttgart",
+    "kurz": "KI Tools können die Aufgaben von Nachhaltigkeitsverantwortlichen unterstützen.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "it-region-stuttgart",
+    "quelle_name": "IT-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Software, KI & Daten",
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-12-03|it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals-2-2",
+    "quellen": [
+     "it-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://wrs.region-stuttgart.de/termine/think-big-zeit-fuer-meine-zukunft-weiterbildung-2/": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Think BIG | Zeit für meine Zukunft: Weiterbildung!",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "online",
+    "land": "",
+    "online": false,
+    "url": "https://wrs.region-stuttgart.de/termine/think-big-zeit-fuer-meine-zukunft-weiterbildung-2/",
+    "veranstalter": "",
+    "kurz": "Mittagsimpuls zu den Themen Weiterbildung, wichtige Internetplattformen, Beratungsangebote und finanzielle Förderung",
+    "methode": "json-ld",
+    "quelle_id": "wrs-termine",
+    "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-24|wrs.region-stuttgart.de/termine/think-big-zeit-fuer-meine-zukunft-weiterbildung-2",
+    "quellen": [
+     "wrs-termine"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.brussels-expo.com/event/salon-de-la-copropriete-5/": {
+  "geholt": "2026-11-18",
+  "events": [],
+  "v": 2
+ },
+ "https://www.thenec.co.uk/events/crufts-2027/": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "Crufts 2027 - Day 1",
+    "start": "2027-03-04",
+    "ende": "2027-03-04",
+    "ort": "The NEC",
+    "land": "",
+    "online": false,
+    "url": "https://www.thenec.co.uk/events/crufts-2027/",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "messe-nec",
+    "quelle_name": "NEC Birmingham – What's on",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-03-04|thenec.co.uk/events/crufts-2027",
+    "quellen": [
+     "messe-nec"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": "grindtec-2027",
+    "entscheidung": ""
+   },
+   {
+    "titel": "Crufts 2027 - Day 2",
+    "start": "2027-03-05",
+    "ende": "2027-03-05",
+    "ort": "The NEC",
+    "land": "",
+    "online": false,
+    "url": "https://www.thenec.co.uk/events/crufts-2027/",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "messe-nec",
+    "quelle_name": "NEC Birmingham – What's on",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-03-05|thenec.co.uk/events/crufts-2027",
+    "quellen": [
+     "messe-nec"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": "grindtec-2027",
+    "entscheidung": ""
+   },
+   {
+    "titel": "Crufts 2027 - Day 3",
+    "start": "2027-03-06",
+    "ende": "2027-03-06",
+    "ort": "The NEC",
+    "land": "",
+    "online": false,
+    "url": "https://www.thenec.co.uk/events/crufts-2027/",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "messe-nec",
+    "quelle_name": "NEC Birmingham – What's on",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-03-06|thenec.co.uk/events/crufts-2027",
+    "quellen": [
+     "messe-nec"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": "mecspe-2027",
+    "entscheidung": ""
+   },
+   {
+    "titel": "Crufts 2027 - Day 4",
+    "start": "2027-03-07",
+    "ende": "2027-03-07",
+    "ort": "The NEC",
+    "land": "",
+    "online": false,
+    "url": "https://www.thenec.co.uk/events/crufts-2027/",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "messe-nec",
+    "quelle_name": "NEC Birmingham – What's on",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-03-07|thenec.co.uk/events/crufts-2027",
+    "quellen": [
+     "messe-nec"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": "h2-forum-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://een.ec.europa.eu/events/european-cyber-week-2026-b2match-one-event-one-months-connections": {
+  "geholt": "2026-11-18",
+  "events": [
+   {
+    "titel": "European Cyber Week 2026 B2Match - One Event, One Months of Connections",
+    "start": "2026-11-17",
+    "ende": "2026-11-17",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://een.ec.europa.eu/events/european-cyber-week-2026-b2match-one-event-one-months-connections",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "een-events",
+    "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-17|een.ec.europa.eu/events/european-cyber-week-2026-b2match-one-event-one-months-connections",
+    "quellen": [
+     "een-events"
+    ],
+    "zuerst_gesehen": "2026-11-18",
+    "erfasst_als": "formnext-2026",
+    "entscheidung": ""
+   }
+  ],
   "v": 2
  }
 }
