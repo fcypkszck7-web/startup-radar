@@ -2,14 +2,14 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-18",
+ "abgerufen": "2026-11-19",
  "koepfe": [
   "Top Beiträge",
-  "Stuttgart 21: Warum der Bonatzbau schwieriger zu sanieren war als gedacht",
-  "63.000 Sensoren sollen das größte Rätsel des Urknalls lösen",
-  "1516 Betonplatten: Ein 125-t-Kran wandert über Eisenbahnbrücken",
-  "Messe Stuttgart kauft LogiMAT-Veranstalter und einen ganzen Fachverlag",
-  "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
+  "Neuer Wasserstoff-Katalysator übersteht Tausende Lastwechsel",
+  "SCHUNK-Spin-off für Roboterhände geht nach München",
+  "Bauvergaben in NRW: Neun von zehn Zuschlägen ohne Summe",
+  "Wertschätzung fast so wichtig wie Gehalt: Was Beschäftigte in KMU erwarten",
+  "Trotz ERP und KI: Warum Unternehmen noch immer so viel von Hand erledigen",
   "Bautechnik und mehr",
   "1. Bauprojekt-Management",
   "2. Baustoffe und -elemente",
@@ -34,11 +34,11 @@
   "Top Stellenanzeigen",
   "Weitere Artikel",
   "Sie ist nur 23 cm groß und sucht selbstständig nach Rissen in Brücken",
-  "Stuttgart 21: Warum der Bonatzbau schwieriger zu sanieren war als gedacht",
-  "63.000 Sensoren sollen das größte Rätsel des Urknalls lösen",
-  "1516 Betonplatten: Ein 125-t-Kran wandert über Eisenbahnbrücken",
-  "Messe Stuttgart kauft LogiMAT-Veranstalter und einen ganzen Fachverlag",
-  "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
+  "Neuer Wasserstoff-Katalysator übersteht Tausende Lastwechsel",
+  "SCHUNK-Spin-off für Roboterhände geht nach München",
+  "Bauvergaben in NRW: Neun von zehn Zuschlägen ohne Summe",
+  "Wertschätzung fast so wichtig wie Gehalt: Was Beschäftigte in KMU erwarten",
+  "Trotz ERP und KI: Warum Unternehmen noch immer so viel von Hand erledigen",
   "Firmenprofile"
  ],
  "links": [
@@ -53,53 +53,53 @@
    "extern": false
   },
   {
+   "text": "Energie",
+   "url": "https://www.ingenieur.de/energie/",
+   "extern": false
+  },
+  {
+   "text": "Neuer Wasserstoff-Katalysator übersteht Tausende Lastwechsel",
+   "url": "https://www.ingenieur.de/neuer-wasserstoff-katalysator-uebersteht-tausende-lastwechsel-c6425050-89de-475f-ac7a-9dd90b11c058/",
+   "extern": false
+  },
+  {
+   "text": "Automatisierung & Robotik",
+   "url": "https://www.ingenieur.de/automatisierung-robotik/",
+   "extern": false
+  },
+  {
+   "text": "SCHUNK-Spin-off für Roboterhände geht nach München",
+   "url": "https://www.ingenieur.de/roboterhaende-was-steckt-hinter-dem-tech-spin-off-schunk-humanoid-robotics-gmbh-6c4834f3-4900-479f-9424-9789cfc8e67a/",
+   "extern": false
+  },
+  {
    "text": "Bau",
    "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "Stuttgart 21: Warum der Bonatzbau schwieriger zu sanieren war als gedacht",
-   "url": "https://www.ingenieur.de/stuttgart-21-warum-der-bonatzbau-schwieriger-zu-sanieren-war-als-gedacht-8e5760d2-7a53-4d34-bc33-462adcbe51c8/",
+   "text": "Bauvergaben in NRW: Neun von zehn Zuschlägen ohne Summe",
+   "url": "https://www.ingenieur.de/bauvergaben-in-nrw-neun-von-zehn-zuschlaegen-ohne-summe-1b8584b9-5c1d-4a18-adf9-411019ee8478/",
    "extern": false
   },
   {
-   "text": "Naturwissenschaften",
-   "url": "https://www.ingenieur.de/naturwissenschaften/",
+   "text": "Arbeitsalltag",
+   "url": "https://www.ingenieur.de/karriere/arbeitsalltag/",
    "extern": false
   },
   {
-   "text": "63.000 Sensoren sollen das größte Rätsel des Urknalls lösen",
-   "url": "https://www.ingenieur.de/63-000-sensoren-sollen-das-groesste-raetsel-des-urknalls-loesen-c794d4d0-0de3-47cc-b1be-e8a9d3f7175d/",
+   "text": "Wertschätzung fast so wichtig wie Gehalt: Was Beschäftigte in KMU erwarten",
+   "url": "https://www.ingenieur.de/was-beschaftigten-in-kmu-am-arbeitsplatz-wirklich-wichtig-ist-e1222d53-799e-46e7-b958-15b39689166a/",
    "extern": false
   },
   {
-   "text": "Bau",
-   "url": "https://www.ingenieur.de/bau/",
+   "text": "Arbeitsalltag",
+   "url": "https://www.ingenieur.de/karriere/arbeitsalltag/",
    "extern": false
   },
   {
-   "text": "1516 Betonplatten: Ein 125-t-Kran wandert über Eisenbahnbrücken",
-   "url": "https://www.ingenieur.de/1516-betonplatten-ein-125-t-kran-wandert-ueber-eisenbahnbruecken-0e6e2a66-6b58-489a-86bc-a5079d3b04f5/",
-   "extern": false
-  },
-  {
-   "text": "Logistik",
-   "url": "https://www.ingenieur.de/logistik/",
-   "extern": false
-  },
-  {
-   "text": "Messe Stuttgart kauft LogiMAT-Veranstalter und einen ganzen Fachverlag",
-   "url": "https://www.ingenieur.de/messe-stuttgart-kauft-logimat-veranstalter-und-einen-ganzen-fachverlag-d61a9dd0-6a8d-4bd6-af8a-5252c4f188ae/",
-   "extern": false
-  },
-  {
-   "text": "Luft- & Raumfahrt",
-   "url": "https://www.ingenieur.de/luft-raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
-   "url": "https://www.ingenieur.de/nur-30-m-abstand-dlr-jet-jagt-passagierflugzeug-fuer-klimaexperiment-0d73be42-3878-40f5-b6cc-798e5fa1cfe8/",
+   "text": "Trotz ERP und KI: Warum Unternehmen noch immer so viel von Hand erledigen",
+   "url": "https://www.ingenieur.de/trotz-erp-und-ki-warum-unternehmen-noch-immer-so-viel-von-hand-erledigen-1943300e-5ee0-410e-85ab-18a6cb3c41ee/",
    "extern": false
   },
   {
@@ -188,86 +188,6 @@
    "extern": true
   },
   {
-   "text": "mehr zu Automatisierungsingenieur / SPS-Ingenieur (m/w/d) bei Gebrüder Lödige Maschinenbau GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/automatisierungsingenieur-sps-ingenieur-m-w-d-064382988?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleitung Haustechnik / Technische Gebäudeausrüstung (TGA) – Neubau & Modernisierung (w/m/d) bei STADT UND LAND Wohnbauten-Gesellschaft mbH (öffnet",
-   "url": "https://jobs.ingenieur.de/job/projektleitung-haustechnik-technische-gebaeudeausruestung-tga-neubau-modernisierung-w-m-d-064402599?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Entwicklungsingenieur Leistungselektronik (all genders) bei VINCORION Advanced Systems GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/entwicklungsingenieur-leistungselektronik-all-genders-064402788?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Industrial Engineer / Fertigungsplaner – Arbeitsvorbereitung (m/w/d) bei ELAC SONAR GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/industrial-engineer-fertigungsplaner-arbeitsvorbereitung-m-w-d-064451812?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Senior Solution Architect Integration Platform (m/w/d) bei WIRTGEN GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-integration-platform-m-w-d-064473149?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Senior Solution Architect Enterprise Cloud Platform (m/w/d) bei WIRTGEN GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-enterprise-cloud-platform-m-w-d-064473151?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Software-Ingenieur (m/w/d) Elektrotechnik – mobile Arbeitsmaschinen bei WIRTGEN GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/software-ingenieur-m-w-d-elektrotechnik-mobile-arbeitsmaschinen-064473150?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Werkleiter (w/m/d) bei WITTENSTEIN SE (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/werkleiter-w-m-d-064475108?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu TGA-Ingenieur (m/w/d) in Leverkusen bei Dohm Pharmaceutical Engineering (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/tga-ingenieur-m-w-d-in-leverkusen-064466966?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Leiter Programmanagement Netzausbau Nord-West (m/w/d) bei TenneT (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/leiter-programmanagement-netzausbau-nord-west-m-w-d-064475060?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu ARCHITEKT:IN – LP 2-5 HOAI (m/w/d) bei Rabensteiner GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/architekt-in-lp-2-5-hoai-m-w-d-064476254?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleiter (m/w/d) für die Planung der Gebäudeautomation im Bereich TGA bei GePlan Ingenieure (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleiter-m-w-d-fuer-die-planung-der-gebaeudeautomation-im-bereich-tga-064466967?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Teamleitung Verkehr & Wasser (w/m/x) bei Sweco GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/teamleitung-verkehr-wasser-w-m-x-064238671?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Mechatroniker für Leit- und Sicherungstechnik / Signalmechaniker / Stellwerkstechniker (m/w/d) bei YARA Rostock, Zweigniederlassung der Yara GmbH & Co. ",
-   "url": "https://jobs.ingenieur.de/job/mechatroniker-fuer-leit-und-sicherungstechnik-signalmechaniker-stellwerkstechniker-m-w-d-064476372?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Hardware- und Firmware-Entwickler (m/w/d) bei AWITE Bioenergie GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/hardware-und-firmware-entwickler-m-w-d-064240489?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleiter (m/w/d) bei Frozen Fish International GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleiter-m-w-d-064240304?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
    "text": "mehr zu Quality Manager (m/w/d) bei SEG Electronics GmbH (öffnet in neuem Fenster)",
    "url": "https://jobs.ingenieur.de/job/quality-manager-m-w-d-064321919?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
@@ -288,6 +208,86 @@
    "extern": true
   },
   {
+   "text": "mehr zu Automatisierungstechniker (m/w/d) bei Fiberboard GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/automatisierungstechniker-m-w-d-064338468?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Vertriebsingenieur / Technical Sales Manager (m/w/d) bei Delphin Technology AG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/vertriebsingenieur-technical-sales-manager-m-w-d-064338515?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Produktionsleiter (m/w/d) bei SPRiNTUS GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/produktionsleiter-m-w-d-064338834?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Systemingenieur / Schiffstechniker HVAC – Yachtbau (m/w/d) bei Lürssen Werft Rendsburg GmbH & Co. KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/systemingenieur-schiffstechniker-hvac-yachtbau-m-w-d-064403411?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bauingenieur (w/m/d) Straßenplanung und Straßenentwurf – Außenstelle Netphen (nahe Siegen) bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-strassenplanung-und-strassenentwurf-aussenstelle-netphen-nahe-siegen-064422902?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bauingenieur (w/m/d) Konstruktiver Ingenieurbau/ Brückenbau bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-konstruktiver-ingenieurbau-brueckenbau-064422903?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bauingenieur (w/m/d) konstruktiver Ingenieurbau – Außenstelle Netphen (nahe Siegen) bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-konstruktiver-ingenieurbau-aussenstelle-netphen-nahe-siegen-064422904?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Konstrukteur Möbel- oder Sonderfahrzeugbau (all genders welcome) bei BFE Studio und Medien Systeme GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/konstrukteur-moebel-oder-sonderfahrzeugbau-all-genders-welcome-064422931?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Leitung Entwicklung (m/w/d) bei Memmert GmbH + Co. KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/leitung-entwicklung-m-w-d-064423460?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieur Netz- und Systemführung HVDC & Offshore (m/w/d) bei TenneT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-netz-und-systemfuehrung-hvdc-offshore-m-w-d-064485056?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Professur (W2): Technische Mechanik bei Hochschule Merseburg (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/professur-w2-technische-mechanik-064485727?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Planungs-/ Bauingenieur (m/w/d) für Energieinfrastruktur bei voltfang (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/planungs-bauingenieur-m-w-d-fuer-energieinfrastruktur-064485796?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Jointer Manager (m/w/d) bei NKT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/jointer-manager-m-w-d-064485658?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Commercial Project Manager (m/w/d) bei NKT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/commercial-project-manager-m-w-d-064485660?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Site Manager / Bauleiter (m/w/d) bei NKT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/site-manager-bauleiter-m-w-d-064485659?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bauingenieur (w/m/d) Straßenbau bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-strassenbau-064557128?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
    "text": "Digitalisierung Bau",
    "url": "https://www.ingenieur.de/digitalisierung-bau/",
    "extern": false
@@ -298,53 +298,53 @@
    "extern": false
   },
   {
+   "text": "Energie",
+   "url": "https://www.ingenieur.de/energie/",
+   "extern": false
+  },
+  {
+   "text": "Neuer Wasserstoff-Katalysator übersteht Tausende Lastwechsel",
+   "url": "https://www.ingenieur.de/neuer-wasserstoff-katalysator-uebersteht-tausende-lastwechsel-c6425050-89de-475f-ac7a-9dd90b11c058/",
+   "extern": false
+  },
+  {
+   "text": "Automatisierung & Robotik",
+   "url": "https://www.ingenieur.de/automatisierung-robotik/",
+   "extern": false
+  },
+  {
+   "text": "SCHUNK-Spin-off für Roboterhände geht nach München",
+   "url": "https://www.ingenieur.de/roboterhaende-was-steckt-hinter-dem-tech-spin-off-schunk-humanoid-robotics-gmbh-6c4834f3-4900-479f-9424-9789cfc8e67a/",
+   "extern": false
+  },
+  {
    "text": "Bau",
    "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "Stuttgart 21: Warum der Bonatzbau schwieriger zu sanieren war als gedacht",
-   "url": "https://www.ingenieur.de/stuttgart-21-warum-der-bonatzbau-schwieriger-zu-sanieren-war-als-gedacht-8e5760d2-7a53-4d34-bc33-462adcbe51c8/",
+   "text": "Bauvergaben in NRW: Neun von zehn Zuschlägen ohne Summe",
+   "url": "https://www.ingenieur.de/bauvergaben-in-nrw-neun-von-zehn-zuschlaegen-ohne-summe-1b8584b9-5c1d-4a18-adf9-411019ee8478/",
    "extern": false
   },
   {
-   "text": "Naturwissenschaften",
-   "url": "https://www.ingenieur.de/naturwissenschaften/",
+   "text": "Arbeitsalltag",
+   "url": "https://www.ingenieur.de/karriere/arbeitsalltag/",
    "extern": false
   },
   {
-   "text": "63.000 Sensoren sollen das größte Rätsel des Urknalls lösen",
-   "url": "https://www.ingenieur.de/63-000-sensoren-sollen-das-groesste-raetsel-des-urknalls-loesen-c794d4d0-0de3-47cc-b1be-e8a9d3f7175d/",
+   "text": "Wertschätzung fast so wichtig wie Gehalt: Was Beschäftigte in KMU erwarten",
+   "url": "https://www.ingenieur.de/was-beschaftigten-in-kmu-am-arbeitsplatz-wirklich-wichtig-ist-e1222d53-799e-46e7-b958-15b39689166a/",
    "extern": false
   },
   {
-   "text": "Bau",
-   "url": "https://www.ingenieur.de/bau/",
+   "text": "Arbeitsalltag",
+   "url": "https://www.ingenieur.de/karriere/arbeitsalltag/",
    "extern": false
   },
   {
-   "text": "1516 Betonplatten: Ein 125-t-Kran wandert über Eisenbahnbrücken",
-   "url": "https://www.ingenieur.de/1516-betonplatten-ein-125-t-kran-wandert-ueber-eisenbahnbruecken-0e6e2a66-6b58-489a-86bc-a5079d3b04f5/",
-   "extern": false
-  },
-  {
-   "text": "Logistik",
-   "url": "https://www.ingenieur.de/logistik/",
-   "extern": false
-  },
-  {
-   "text": "Messe Stuttgart kauft LogiMAT-Veranstalter und einen ganzen Fachverlag",
-   "url": "https://www.ingenieur.de/messe-stuttgart-kauft-logimat-veranstalter-und-einen-ganzen-fachverlag-d61a9dd0-6a8d-4bd6-af8a-5252c4f188ae/",
-   "extern": false
-  },
-  {
-   "text": "Luft- & Raumfahrt",
-   "url": "https://www.ingenieur.de/luft-raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "Nur 30 m Abstand: DLR-Jet jagt Passagierflugzeug für Klimaexperiment",
-   "url": "https://www.ingenieur.de/nur-30-m-abstand-dlr-jet-jagt-passagierflugzeug-fuer-klimaexperiment-0d73be42-3878-40f5-b6cc-798e5fa1cfe8/",
+   "text": "Trotz ERP und KI: Warum Unternehmen noch immer so viel von Hand erledigen",
+   "url": "https://www.ingenieur.de/trotz-erp-und-ki-warum-unternehmen-noch-immer-so-viel-von-hand-erledigen-1943300e-5ee0-410e-85ab-18a6cb3c41ee/",
    "extern": false
   },
   {
@@ -353,28 +353,23 @@
    "extern": false
   },
   {
-   "text": "ALTANA AG",
-   "url": "https://www.ingenieur.de/firmenprofile/altana-ag/",
+   "text": "ALTEN GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/alten-gmbh/",
    "extern": false
   },
   {
-   "text": "Baumüller Nürnberg GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/baumueller-nuernberg-gmbh/",
+   "text": "Mitsubishi Electric Europe B.V. Industrial Automation",
+   "url": "https://www.ingenieur.de/firmenprofile/mitsubishi-electric-europe-b-v-industrial-automation/",
    "extern": false
   },
   {
-   "text": "Jacobs GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/jacobs-gmbh/",
+   "text": "ATP architekten ingenieure",
+   "url": "https://www.ingenieur.de/firmenprofile/atp-architekten-ingenieure/",
    "extern": false
   },
   {
-   "text": "Hays AG",
-   "url": "https://www.ingenieur.de/firmenprofile/hays-ag/",
-   "extern": false
-  },
-  {
-   "text": "Bundespolizeipräsidium",
-   "url": "https://www.ingenieur.de/firmenprofile/bundespolizeipraesidium/",
+   "text": "Bundesagentur für Arbeit",
+   "url": "https://www.ingenieur.de/firmenprofile/bundesagentur-fuer-arbeit/",
    "extern": false
   },
   {
@@ -383,13 +378,8 @@
    "extern": false
   },
   {
-   "text": "telent GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/telent-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "ZCC Cutting Tools Europe GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/zcc-cutting-tools-europe-gmbh/",
+   "text": "CADFEM Germany",
+   "url": "https://www.ingenieur.de/firmenprofile/cadfem-germany/",
    "extern": false
   },
   {
@@ -398,18 +388,28 @@
    "extern": false
   },
   {
-   "text": "Beckhoff Automation",
-   "url": "https://www.ingenieur.de/firmenprofile/beckhoff-automation/",
+   "text": "Phoenix Contact GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/phoenix-contact-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "Windmöller & Hölscher KG",
-   "url": "https://www.ingenieur.de/firmenprofile/windmoeller-hoelscher-kg/",
+   "text": "Endress+Hauser Gruppe",
+   "url": "https://www.ingenieur.de/firmenprofile/endresshauser-gruppe/",
    "extern": false
   },
   {
-   "text": "Salzgitter AG",
-   "url": "https://www.ingenieur.de/firmenprofile/salzgitter-ag/",
+   "text": "Agentur Junges Herz",
+   "url": "https://www.ingenieur.de/firmenprofile/agentur-junges-herz/",
+   "extern": false
+  },
+  {
+   "text": "Fernstraßen-Bundesamt",
+   "url": "https://www.ingenieur.de/firmenprofile/fernstrassen-bundesamt/",
+   "extern": false
+  },
+  {
+   "text": "Comsol Multiphysics GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/comsol-multiphysics-gmbh/",
    "extern": false
   }
  ],

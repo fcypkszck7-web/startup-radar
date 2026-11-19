@@ -2,7 +2,7 @@
  "quelle": "liste-contech-report",
  "name": "starting-up.de – ConTech-Start-up-Report 2026",
  "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
- "abgerufen": "2026-11-18",
+ "abgerufen": "2026-11-19",
  "koepfe": [
   "Highlights des Jahres",
   "Zum Newsletter per QR-Code",
@@ -28,7 +28,7 @@
   },
   {
    "text": "Passwort vergessen?",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/login.html?tx_felogin_pi1%5Bforgot%5D%20=%201",
+   "url": "https://www.starting-up.de/login.html?tx_felogin_login%5Baction%5D=recovery&tx_felogin_login%5Bcontroller%5D=PasswordRecovery&cHash=a33178e999e8400b2b5a6832c9a2fbab",
    "extern": false
   },
   {
@@ -135,11 +135,6 @@
    "text": "SportTech-Start-up-Report 2026",
    "url": "https://www.starting-up.de/geschaeftsideen/trends/sporttech-start-up-report-2026.html",
    "extern": false
-  },
-  {
-   "text": "Advanced Recycling Conference 2026, Köln",
-   "url": "https://advanced-recycling.eu/",
-   "extern": true
   },
   {
    "text": "Slush 2026, Helsinki",
@@ -287,43 +282,63 @@
    "extern": false
   },
   {
+   "text": "Brandenburg Labs",
+   "url": "https://brandenburg-labs.com/",
+   "extern": true
+  },
+  {
+   "text": "Prof. Dr.-Ing. Karlheinz Brandenburg",
+   "url": "https://de.wikipedia.org/wiki/Karlheinz_Brandenburg",
+   "extern": true
+  },
+  {
+   "text": "Bundesagentur für Sprunginnovationen (SPRIND)",
+   "url": "https://www.sprind.org/",
+   "extern": true
+  },
+  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/richtigstellung.html",
+   "url": "https://www.starting-up.de/ideen/unternehmer-typen/prof-karlheinz-brandenburg-vom-mp3-triumph-zur-audio-ar.html",
    "extern": false
   },
   {
-   "text": "Dies ist ein Auszug aus einem aktuellen Artikel unseres Print-Objekts StartingUp: Den vollständigen Artikel lesen Sie in der aktuellen StartingUp - Heft 02/16 -",
+   "text": "Dies ist ein Auszug aus einem aktuellen Artikel unseres Print-Objekts StartingUp: Den vollständigen Artikel lesen Sie in der aktuellen StartingUp - Heft 01/16 -",
    "url": "http://www.starting-up.de/abo-service/alle-ausgaben.html",
    "extern": false
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/drew-houston-und-die-dropbox-story.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/joe-gebbia-und-die-airbnb-story.html",
    "extern": false
   },
   {
-   "text": "Immoly",
-   "url": "https://immoly.ai/",
+   "text": "Spark e-Fuels",
+   "url": "https://www.sparkefuels.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/immoly-ki-statt-aktenordner.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spark-e-fuels-vom-labor-pitch-zum-e-kerosin-hoffnungstraeger.html",
    "extern": false
   },
   {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/in-orbit-economy-der-wahre-milliardenmarkt-im-all.html",
-   "extern": false
-  },
-  {
-   "text": "Karevo",
-   "url": "https://www.karevo.de/de",
+   "text": "Wellturana",
+   "url": "https://www.wellturana.de/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/karevo-der-125000-euro-befreiungsschlag-von-der-knochenarbeit.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wellturana-kuration-statt-code.html",
+   "extern": false
+  },
+  {
+   "text": "Order Right",
+   "url": "https://orderright.de/",
+   "extern": true
+  },
+  {
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-order-right-mit-ki-das-gastro-sterben-bekaempft.html",
    "extern": false
   },
   {
@@ -352,48 +367,38 @@
    "extern": false
   },
   {
-   "text": "MeNotPause",
-   "url": "https://www.menotpause.com/",
+   "text": "Nomado24",
+   "url": "https://www.nomado24.de/de",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/dr-saskia-appelhoff-reichweite-ist-nicht-wachstum.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/nomado24-ki-gegen-fake-remote.html",
    "extern": false
   },
   {
-   "text": "TenderWalls",
-   "url": "https://tenderwalls.de/",
+   "text": "exist women",
+   "url": "https://exist.de/programm/women/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/tenderwalls-bootstrapping-im-tapeten-dschungel.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/drik-17-smartes-gadget-skalierbares-business.html",
    "extern": false
   },
   {
-   "text": "ScanlyAI",
-   "url": "https://www.scanlyai.de/login",
-   "extern": true
-  },
-  {
-   "text": "SFP-IT",
-   "url": "https://www.sfp-it.de/",
-   "extern": true
-  },
-  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/scanlyai-produkt-listings-neu-gedacht.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/b2b-edtech-start-up-report.html",
    "extern": false
   },
   {
-   "text": "CoTrainer",
-   "url": "https://www.cotrainer.com/",
+   "text": "Friday/Poppins",
+   "url": "https://www.fridaypoppins.de/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/cotrainer-vom-ascheplatz-in-die-cloud.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-friday/poppins-im-hr-aufraeumen-will.html",
    "extern": false
   },
   {

@@ -1,53 +1,5 @@
 [
  {
-  "titel": "Schnuppertag Wirtschaft",
-  "start": "2026-11-18",
-  "ende": "2026-11-18",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/schnuppertag-wirtschaft-2",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-18|uni-passau.de/veranstaltungskalender/detail/event/schnuppertag-wirtschaft-2",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-17",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Vortragsreihe: „Wie schreibe ich gute Klausuren?“",
-  "start": "2026-11-18",
-  "ende": "2026-11-18",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/vortragsreihe-wie-schreibe-ich-gute-klausuren-5",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-18|uni-passau.de/veranstaltungskalender/detail/event/vortragsreihe-wie-schreibe-ich-gute-klausuren-5",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-17",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "Like a Boss",
   "start": "2026-11-19",
   "ende": "2026-11-19",
@@ -187,6 +139,30 @@
    "geb-energieberater"
   ],
   "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "International Day am 20. November",
+  "start": "2026-11-20",
+  "ende": "2026-11-20",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/international-day-am-20-november",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-20|uni-passau.de/veranstaltungskalender/detail/event/international-day-am-20-november",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -412,6 +388,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Vortrag: Alleinerziehend – aber nicht allein! Familienbilder und Alltagserfahrungen",
+  "start": "2026-11-23",
+  "ende": "2026-11-23",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/vortrag-alleinerziehend-aber-nicht-allein-familienbilder-und-alltagserfahrungen",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-23|uni-passau.de/veranstaltungskalender/detail/event/vortrag-alleinerziehend-aber-nicht-allein-familienbilder-und-alltagserfahrungen",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Workshop Update iSFP mit DIN V 18599",
   "start": "2026-11-23",
   "ende": "2026-11-24",
@@ -459,6 +459,54 @@
    "geb-energieberater"
   ],
   "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Co-Founder Matching in Esslingen: Gemeinsam gründen statt alleine durchstarten",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "KOMMA Esslingen, Esslingen am Neckar",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/co-founder-matching-in-esslingen-gemeinsam-gruenden-statt-alleine-durchstarten/",
+  "veranstalter": "",
+  "kurz": "Du hast eine spannende Geschäftsidee, aber Dir fehlt noch das passende Team? Oder möchtest Du Deine Fähigkeiten in ein innovatives Startup einbringen?",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-24|startup-region-stuttgart.de/termine/co-founder-matching-in-esslingen-gemeinsam-gruenden-statt-alleine-durchstarten",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Erfolgreiches Onboarding & Integration internationaler Fachkräfte",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "Online",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/erfolgreiches-onboarding-integration-internationaler-fachkraefte/",
+  "veranstalter": "",
+  "kurz": "Best Practices für Willkommenskultur, Spracherwerb und kulturelle Eingliederung",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-24|wrs.region-stuttgart.de/termine/erfolgreiches-onboarding-integration-internationaler-fachkraefte",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -641,6 +689,29 @@
   "entscheidung": ""
  },
  {
+  "titel": "Fachstammtisch Pflege Stuttgart",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "Weltcafé / Welcome Center Stuttgart, Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/fachstammtisch-pflege-stuttgart/",
+  "veranstalter": "",
+  "kurz": "Austauschformat für Pflegedienstleitende und Praxisanleitende zur Beschäftigung und Integration internationaler Pflegefachkräfte",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-25|wrs.region-stuttgart.de/termine/fachstammtisch-pflege-stuttgart",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Introduction to Branding & Website Design",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -741,6 +812,105 @@
   "entscheidung": ""
  },
  {
+  "titel": "Projekte abwickeln und abschließen",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "Marchtrenk",
+  "land": "",
+  "online": false,
+  "url": "https://www.biz-up.at/veranstaltung/projekte-abwickeln-und-abschliessen-25-11-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "business-upper-austria",
+  "quelle_name": "Business Upper Austria – Veranstaltungen",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-25|biz-up.at/veranstaltung/projekte-abwickeln-und-abschliessen-25-11-2026",
+  "quellen": [
+   "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Start-Up Basics – Business Plan",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "IHK Region Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/start-up-basics-business-plan-2-2-2-2/",
+  "veranstalter": "",
+  "kurz": "Starten Sie selbstbewusst in die Selbstständigkeit – mit unserer Veranstaltungsreihe „Start-Up Basics“.",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-25|startup-region-stuttgart.de/termine/start-up-basics-business-plan-2-2-2-2",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Webinar: Cybercrime und KI - Angriff und Verteidigung (Teil 2)",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.hwk-muenchen.de/termine/webinar-cybercrime-und-ki-angriff-und-verteidigung-teil-2-74,0,evedetail.html?eve=5210",
+  "veranstalter": "Beratungsstellen für Innovation und Technologie (BIT)",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwk-muenchen",
+  "quelle_name": "Handwerkskammer für München und Oberbayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-25|hwk-muenchen.de/termine/webinar-cybercrime-und-ki-angriff-und-verteidigung-teil-2-74,0,evedetail.html",
+  "quellen": [
+   "hwk-muenchen"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Business Ideas",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Fribourg",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/business-ideas-%2812%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|startupticker.ch/en/events/business-ideas-%2812%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "FONGIT:Force with Brigid O'Donovan",
   "start": "2026-11-26",
   "ende": "2026-11-26",
@@ -761,6 +931,78 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "FemPresents Neue Ideen für dein Business & die richtigen Frauen an deiner Seite",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Kinokoni, Zürich",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/fempresents-neue-ideen-fuer-dein-business-die-richtigen-frauen-an-deiner-seite",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|startupticker.ch/en/events/fempresents-neue-ideen-fuer-dein-business-die-richtigen-frauen-an-deiner-seite",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Financial Assessment & Planning",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "startup space, Wiesenstrasse 10A, 8952 Schlieren",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/financial-assessment-planning-%284%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|startupticker.ch/en/events/financial-assessment-planning-%284%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Förderberatung in Ihrer Region: Bezirk Perg",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Perg",
+  "land": "",
+  "online": false,
+  "url": "https://www.biz-up.at/veranstaltung/foerderberatung-in-ihrer-region-bezirk-perg-26-11-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "business-upper-austria",
+  "quelle_name": "Business Upper Austria – Veranstaltungen",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|biz-up.at/veranstaltung/foerderberatung-in-ihrer-region-bezirk-perg-26-11-2026",
+  "quellen": [
+   "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -839,6 +1081,134 @@
   "entscheidung": ""
  },
  {
+  "titel": "International Entrepreneurship Education Summit (IEES)",
+  "start": "2026-11-26",
+  "ende": "1970-01-01",
+  "ort": "Stuttgart Media University",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/international-entrepreneurship-education-summit-iees-2/",
+  "veranstalter": "",
+  "kurz": "Der International Entrepreneurship Education Summit bringt Hochschulen, Entrepreneurship-Zentren, Innovationsförderer und Startup-Akteure zusammen. Im Mittelpunkt stehen neue Ansätze der Gründungsförderung, international",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-26|startup-region-stuttgart.de/termine/international-entrepreneurship-education-summit-iees-2",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Pitch Night Graubünden",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Technopark Graubünden, Bahnhofstrasse 11, 7302 Landquart - 4. Stock",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/pitch-night-graubuenden",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-26|startupticker.ch/en/events/pitch-night-graubuenden",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Playshop Steckt in deiner Idee ein Start-up?",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Hochschule Luzern Walter-von-Moos-Promenade 1 6005 Luzern Raum D515, Trakt D, 5. Stock",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/playshop-steckt-in-deiner-idee-ein-start-up",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-26|startupticker.ch/en/events/playshop-steckt-in-deiner-idee-ein-start-up",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "The Art of Backing Yourself Up",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Chaya, Beethovenstrasse 20, 8002 Zurich",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/index.php/en/events/the-art-of-backing-yourself-up",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|startupticker.ch/index.php/en/events/the-art-of-backing-yourself-up",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Third Circular Industry Forum",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "EPFL Rolex Forum, Lausanne",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/third-circular-industry-forum",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Industrie & Fertigung",
+   "Material & Kreislauf"
+  ],
+  "schluessel": "2026-11-26|startupticker.ch/en/events/third-circular-industry-forum",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Wie gründe ich eine Firma",
   "start": "2026-11-26",
   "ende": "2026-11-26",
@@ -865,6 +1235,56 @@
   "entscheidung": ""
  },
  {
+  "titel": "Onboarding Chinese investors and doing business with China",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "ort": "Zürich",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/onboarding-chinese-investors-and-doing-business-with-china",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-27|startupticker.ch/en/events/onboarding-chinese-investors-and-doing-business-with-china",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Product Management Festival",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "ort": "Technopark Zürich, Technoparkstrasse 1, 8005 Zürich",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/product-management-festival",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-27|startupticker.ch/en/events/product-management-festival",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Workshop „How to Find Your Research Topic“",
   "start": "2026-11-30",
   "ende": "2026-11-30",
@@ -887,6 +1307,32 @@
    "hs-landshut"
   ],
   "zuerst_gesehen": "2026-11-10",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "BIOECONOMY AUSTRIA Initiative zum Innovationsbedarf zur Phosphorbewirtschaftung: Phosphor | KARL & Co | #4",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "Linz",
+  "land": "",
+  "online": false,
+  "url": "https://www.biz-up.at/veranstaltung/bioeconomy-austria-initiative-zum-innovationsbedarf-zur-phosphorbewirtschaftung-phosphor-karl-co-4-01-12-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "business-upper-austria",
+  "quelle_name": "Business Upper Austria – Veranstaltungen",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-01|biz-up.at/veranstaltung/bioeconomy-austria-initiative-zum-innovationsbedarf-zur-phosphorbewirtschaftung-phosphor-karl-co-4-01-12-2026",
+  "quellen": [
+   "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1118,6 +1564,152 @@
   "entscheidung": ""
  },
  {
+  "titel": "XR in der Aus- und Weiterbildung – Lab Visit am VDC",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "Virtual Dimension Center (VDC), Fellbach",
+  "land": "",
+  "online": false,
+  "url": "https://it.region-stuttgart.de/termine/xr-in-der-aus-und-weiterbildung-lab-visit-am-vdc/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "Exklusive Einblicke in XR-Lösungen für Training und Qualifizierung sowie Vorstellung der Projekte InnoVET PLUS XR-Upskill und InnoVET PLUS XR2ACH",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-12-03|it.region-stuttgart.de/termine/xr-in-der-aus-und-weiterbildung-lab-visit-am-vdc",
+  "quellen": [
+   "it-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Ausstellung \"Was ich anhatte...\"",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/ausstellung-was-ich-anhatte",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-04|uni-passau.de/veranstaltungskalender/detail/event/ausstellung-was-ich-anhatte",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Ausstellungs­eröffnung mit Vortrag von Asha Hedayati",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/ausstellungseroeffnung-mit-vortrag-von-asha-hedayati",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-04|uni-passau.de/veranstaltungskalender/detail/event/ausstellungseroeffnung-mit-vortrag-von-asha-hedayati",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Offene Sprechstunde Landshut Graduate Center",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "ort": "N3 21",
+  "land": "",
+  "online": false,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261204",
+  "veranstalter": "",
+  "kurz": "Offene Sprechstunde des Graduate Centers",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-04|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261204",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Zotero Literaturverwaltungsprogramm Termine",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/zotero-termine-20261204",
+  "veranstalter": "",
+  "kurz": "Zotero unterstützt bei allen Schritten des Arbeitens mit wissenschaftlicher Literatur.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-04|haw-landshut.de/veranstaltungen/termin/zotero-termine-20261204",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "English Tutorial: US Reimbursement Strategy – Getting Paid After FDA",
+  "start": "2026-12-08",
+  "ende": "2026-12-08",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.techbase.de/news-termine/events-termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3",
+  "veranstalter": "",
+  "kurz": "Online, 16:00-17:00 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "techbase-events",
+  "quelle_name": "TechBase Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-08|techbase.de/news-termine/events-termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3",
+  "quellen": [
+   "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "English Tutorial: US Reimbursement Strategy – Getting Paid After FDA",
   "start": "2026-12-08",
   "ende": "2026-12-08",
@@ -1138,6 +1730,107 @@
    "dgo-termine"
   ],
   "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infosnack zum berufsbegleitenden Bachelor Betriebswirtschaft (B.A.)",
+  "start": "2026-12-08",
+  "ende": "2026-12-08",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-bachelor-betriebswirtschaft",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-08|oth-regensburg.de/termine/detailansicht/online-infoabend-zum-berufsbegleitenden-bachelor-betriebswirtschaft",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Infosnack zum berufsbegleitenden Hochschulzertifikat Mediation",
+  "start": "2026-12-09",
+  "ende": "2026-12-09",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infosnack-zum-berufsbegleitenden-hochschulzertifikat-mediation",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-09|oth-regensburg.de/termine/detailansicht/online-infosnack-zum-berufsbegleitenden-hochschulzertifikat-mediation",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Road to START Summit",
+  "start": "2026-12-09",
+  "ende": "2026-12-09",
+  "ort": "Freiheitshalle, München",
+  "land": "",
+  "online": false,
+  "url": "https://www.gruenderland.bayern/veranstaltungen/event/road-to-start-summit/",
+  "veranstalter": "",
+  "kurz": "RtSS is START Munich’s annual flagship pitching competition, a high-energy showcase for Munich’s most promising Deep Tech startups",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gruenderland-bayern",
+  "quelle_name": "Gründerland Bayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation",
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-12-09|gruenderland.bayern/veranstaltungen/event/road-to-start-summit",
+  "quellen": [
+   "gruenderland-bayern"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Tutorial: Pitchen vor Investoren – deine Startup-Story",
+  "start": "2026-12-09",
+  "ende": "2026-12-09",
+  "ort": "sind diesbezüglich eure Stärken und Schwächen?",
+  "land": "",
+  "online": true,
+  "url": "https://www.techbase.de/news-termine/events-termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1",
+  "veranstalter": "",
+  "kurz": "Online, 13:30 - 14:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "techbase-events",
+  "quelle_name": "TechBase Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-09|techbase.de/news-termine/events-termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1",
+  "quellen": [
+   "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1194,6 +1887,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Tutorial: Startup Valuation & Value Creation: Bewertung verstehen und gezielt steigern",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/10/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1-1",
+  "veranstalter": "",
+  "kurz": "Online, 13:30 - 14:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-10|digitale-oberpfalz.de/news-events/termine/detail/10/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1-1",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "20. European Headache Congress",
   "start": "2026-12-12",
   "ende": "2026-12-12",
@@ -1239,6 +1958,58 @@
    "messe-ifema"
   ],
   "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veröffentlichung: Next Generation Startup-Neugründungen 2027",
+  "start": "2027-01-12",
+  "ende": "2027-01-12",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://startupverband.de/events/veroeffentlichungnextgenerationstartupneugruendungen2027-12-01-2027",
+  "veranstalter": "",
+  "kurz": "Erfahren Sie mehr über Veröffentlichung: Next Generation Startup-Neugründungen 2027",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupverband",
+  "quelle_name": "Startup-Verband – Events",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-01-12|startupverband.de/events/veroeffentlichungnextgenerationstartupneugruendungen2027-12-01-2027",
+  "quellen": [
+   "startupverband"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "De la passion à l'entreprise : comment transformer son expertise en projet entrepreneurial ?",
+  "start": "2027-02-13",
+  "ende": "2027-02-13",
+  "ort": "Voisins Blandonnet, Chem. de Blandonnet 8, 1214 Vernier",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/de-la-passion-a-l-entreprise-comment-transformer-son-expertise-en-projet-entrepreneurial",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-02-13|startupticker.ch/en/events/de-la-passion-a-l-entreprise-comment-transformer-son-expertise-en-projet-entrepreneurial",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1289,6 +2060,52 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Health & Wellbeing @ Work - Day 1",
+  "start": "2027-03-09",
+  "ende": "2027-03-09",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/health-and-wellbeing-at-work/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-03-09|thenec.co.uk/events/health-and-wellbeing-at-work",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Health & Wellbeing @ Work - Day 2",
+  "start": "2027-03-10",
+  "ende": "2027-03-10",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/health-and-wellbeing-at-work/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-03-10|thenec.co.uk/events/health-and-wellbeing-at-work",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1362,6 +2179,58 @@
    "hwkno"
   ],
   "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Online-Seminar zur VDI 4645 PE",
+  "start": "2027-04-20",
+  "ende": "2027-04-20",
+  "ort": "Heizungsanlagen mit Wärmepumpen in",
+  "land": "",
+  "online": true,
+  "url": "https://events.gentner.de/de/online-seminar-zur-vdi-4645-pe-1",
+  "veranstalter": "Gentner Events",
+  "kurz": "Die Richtlinie VDI 4645 „Wärmepumpen in Ein- und Mehrfamilienhäusern“ ist die Grundlage dieses Seminars. Sie behandelt die für die Planung von Wärmepumpenanlagen erforderlichen Schritte von der Voruntersuchung und Konzep",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gentner-events",
+  "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gebäudetechnik",
+   "Logistik & Handel"
+  ],
+  "schluessel": "2027-04-20|events.gentner.de/de/online-seminar-zur-vdi-4645-pe-1",
+  "quellen": [
+   "gentner-events"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Unternehmerreise nach Norditalien mit Staatssekretär Tobias Gotthardt",
+  "start": "2027-04-27",
+  "ende": "2027-04-30",
+  "ort": "Norditalien",
+  "land": "",
+  "online": false,
+  "url": "https://www.hwkno.de/termine/unternehmerreise-nach-norditalien-mit-staatssekretaer-tobias-gotthardt-76,0,evedetail.html?eve=1854",
+  "veranstalter": "Bayern International, Bayern Handwerk International",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwkno",
+  "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Handwerk"
+  ],
+  "schluessel": "2027-04-27|hwkno.de/termine/unternehmerreise-nach-norditalien-mit-staatssekretaer-tobias-gotthardt-76,0,evedetail.html",
+  "quellen": [
+   "hwkno"
+  ],
+  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
