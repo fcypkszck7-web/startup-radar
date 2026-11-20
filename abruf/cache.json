@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-19",
+  "geholt": "2026-11-20",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -46727,6 +46727,1346 @@
     ],
     "zuerst_gesehen": "2026-11-19",
     "erfasst_als": "metec-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/23-11-2026_credit-constraints-vs-lack-of-demand-an-analysis-of-italian-firms-borrowing-demand-in-the-construction-industry-maria-luisa-ratto-universite-paris-dauphine": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.hwkno.de/termine/meisterfeier-2027-76,0,evedetail.html?eve=1838": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Meisterfeier 2027",
+    "start": "2027-05-14",
+    "ende": "2027-05-14",
+    "ort": "Joseph-von-Fraunhofer-Halle, Straubing",
+    "land": "",
+    "online": false,
+    "url": "https://www.hwkno.de/termine/meisterfeier-2027-76,0,evedetail.html?eve=1838",
+    "veranstalter": "Handwerkskammer Niederbayern-Oberpfalz",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "hwkno",
+    "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Handwerk"
+    ],
+    "schluessel": "2027-05-14|hwkno.de/termine/meisterfeier-2027-76,0,evedetail.html",
+    "quellen": [
+     "hwkno"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": "ecosummit-berlin-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/24-11-2026_school-systems-worldwide-3": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Veranstaltung: School Systems Worldwide",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "online via Zoom",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/24-11-2026_school-systems-worldwide-3",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-24|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/24-11-2026_school-systems-worldwide-3",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/eine-zeit-der-sakramentalisierung": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Eine Zeit der Sakramentalisierung.",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/eine-zeit-der-sakramentalisierung",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-23|uni-passau.de/veranstaltungskalender/detail/event/eine-zeit-der-sakramentalisierung",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2026-12-10&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=caringcampus-offener-termin&cHash=2e4427ceee9a26c265660381a8af2c83": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "CaringCampus: Offener Termin",
+    "start": "2026-12-10",
+    "ende": "2026-12-10",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/caringcampus-offener-termin",
+    "veranstalter": "",
+    "kurz": "Wo fühlen wir uns (un)sicher? Campusrundgang zu Sicherheit und Wohlbefinden von allen Hochschulmitgliedern.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-10|haw-landshut.de/veranstaltungen/termin/caringcampus-offener-termin",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/25-11-2026_ethnic-inequalities-in-english-elite-universities-emma-tominey-university-of-manchester": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.oth-regensburg.de/termine/detailansicht/kein-einzelfall-machtmissbrauch-in-der-wissenschaft": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Kein Einzelfall. Machtmissbrauch in der Wissenschaft.",
+    "start": "2026-12-10",
+    "ende": "2026-12-10",
+    "ort": "Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.oth-regensburg.de/termine/detailansicht/kein-einzelfall-machtmissbrauch-in-der-wissenschaft",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "oth-regensburg",
+    "quelle_name": "OTH Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-10|oth-regensburg.de/termine/detailansicht/kein-einzelfall-machtmissbrauch-in-der-wissenschaft",
+    "quellen": [
+     "oth-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/25-11-2026_missbrauch-in-institutionen-sexuelle-spirituelle-systemische-komponenten-6": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621070": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/25-11-2026_sprache-die-bass-fuer-inklusion-5": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Veranstaltung: Sprache - die BAS!S für Inklusion",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "online via Zoom",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/25-11-2026_sprache-die-bass-fuer-inklusion-5",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-25|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/25-11-2026_sprache-die-bass-fuer-inklusion-5",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621071": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.unternehmertum.de/events/opportunity-hunters-talks-6/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Opportunity Hunters Talks",
+    "start": "2026-12-17",
+    "ende": "2026-12-17",
+    "ort": "men Start-up",
+    "land": "",
+    "online": false,
+    "url": "https://www.unternehmertum.de/events/opportunity-hunters-talks-6/",
+    "veranstalter": "UnternehmerTUM",
+    "kurz": "Meet Flora Geske , CEO & Co-Founder, summ.ai . Hear how she really built a company, the wins, the wrong turns and what shaped her. Then go hunt your own…",
+    "methode": "json-ld",
+    "quelle_id": "unternehmertum",
+    "quelle_name": "UnternehmerTUM – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Bau & Immobilien",
+     "Software, KI & Daten",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-17|unternehmertum.de/events/opportunity-hunters-talks-6",
+    "quellen": [
+     "unternehmertum"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/25-11-2026_lernworkshop": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617599": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/produktion/detail/nano-x-mechatronik/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Nano X Mechatronik",
+    "start": "2026-12-04",
+    "ende": "2026-12-04",
+    "ort": "rkshop",
+    "land": "",
+    "online": false,
+    "url": "https://www.bayern-innovativ.de/events-termine/produktion/detail/nano-x-mechatronik/",
+    "veranstalter": "",
+    "kurz": "Neue Materialien für leistungsfähigere Maschinen. Präzise Automatisierung für die industrielle Nanoproduktion. Was wird möglich, wenn beide Technologiewelten ihre Kompetenzen bündeln? Entdecken Sie neue Anwendungen für I",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung",
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-12-04|bayern-innovativ.de/events-termine/produktion/detail/nano-x-mechatronik",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.unternehmertum.de/events/circular-republic-festival-2027/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "CIRCULAR REPUBLIC FESTIVAL 2027",
+    "start": "2027-06-09",
+    "ende": "2027-06-09",
+    "ort": "Munich Urban Colab Freddie-Mercury-Straße 5, 80797 München",
+    "land": "",
+    "online": false,
+    "url": "https://www.unternehmertum.de/events/circular-republic-festival-2027/",
+    "veranstalter": "UnternehmerTUM",
+    "kurz": "The CIRCULAR REPUBLIC FESTIVAL is Europe’s premier gathering for circular economy visionaries, industry leaders, and innovators. In a world where resource…",
+    "methode": "json-ld",
+    "quelle_id": "unternehmertum",
+    "quelle_name": "UnternehmerTUM – Events",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Material & Kreislauf",
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2027-06-09|unternehmertum.de/events/circular-republic-festival-2027",
+    "quellen": [
+     "unternehmertum"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/25-11-2026_lernworkshop-fuer-erstsemester": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621072": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/branchentermine-europa-international/": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620818": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/intersolar-europe-2027/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Intersolar Europe 2027",
+    "start": "2027-06-08",
+    "ende": "2027-06-08",
+    "ort": "München",
+    "land": "",
+    "online": false,
+    "url": "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/intersolar-europe-2027/",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2027-06-08|bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/intersolar-europe-2027",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": "intersolar-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621470": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/businessplan-fuer-bank-und-gruendung-4/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Businessplan für Bank und Gründung",
+    "start": "2026-12-16",
+    "ende": "2026-12-16",
+    "ort": "Schleifenstraße 57, 1/2, Königsbrunn",
+    "land": "",
+    "online": true,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/businessplan-fuer-bank-und-gruendung-4/",
+    "veranstalter": "",
+    "kurz": "Sind Sie bereit, Ihre Geschäftsidee auf die nächste Stufe zu stellen? Dann verpassen Sie nicht unser neues Webinar \"Businessplan - so gehen Sie richtig vor\".",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-16|gruenderland.bayern/veranstaltungen/event/businessplan-fuer-bank-und-gruendung-4",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/automatica-2027/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Automatica 2027",
+    "start": "2027-06-22",
+    "ende": "2027-06-22",
+    "ort": "München",
+    "land": "",
+    "online": false,
+    "url": "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/automatica-2027/",
+    "veranstalter": "",
+    "kurz": "Entdecken Sie auf der führenden Weltleitmesse für intelligente Automation und Robotik alle Schlüsseltechnologien für die Produktion von morgen – kompakt an einem Ort.\r\n",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2027-06-22|bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/automatica-2027",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": "metec-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621481": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620486": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.hwk-muenchen.de/termine/kostenfreies-online-einstiegsseminar-fuer-existenzgruender-im-nebenerwerb-im-handwerk-in-muenchen-74,0,evedetail.html?eve=5156": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Kostenfreies Online-Einstiegsseminar für Existenzgründer im Nebenerwerb im Handwerk in München",
+    "start": "2026-12-08",
+    "ende": "2026-12-08",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.hwk-muenchen.de/termine/kostenfreies-online-einstiegsseminar-fuer-existenzgruender-im-nebenerwerb-im-handwerk-in-muenchen-74,0,evedetail.html?eve=5156",
+    "veranstalter": "Existenzgründungsberatung der Handwerkskammer für München und Oberbayern",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "hwk-muenchen",
+    "quelle_name": "Handwerkskammer für München und Oberbayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Handwerk",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-08|hwk-muenchen.de/termine/kostenfreies-online-einstiegsseminar-fuer-existenzgruender-im-nebenerwerb-im-handwerk-in-muenchen-74,0,evedetail.html",
+    "quellen": [
+     "hwk-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/transformation/detail/human-and-money-capital-2027-investitionen-in-menschen-fuer-nachhaltigen-unternehmenserfolg/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Human and Money Capital 2027: Investitionen in Menschen für nachhaltigen Unternehmenserfolg",
+    "start": "2026-12-15",
+    "ende": "2026-12-15",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.bayern-innovativ.de/events-termine/transformation/detail/human-and-money-capital-2027-investitionen-in-menschen-fuer-nachhaltigen-unternehmenserfolg/",
+    "veranstalter": "",
+    "kurz": "Das Potenzial für nachhaltiges Wachstum ist vorhanden. Entscheidend wird sein, in die richtigen Fähigkeiten, Führungskräfte und die passende Kultur zu investieren, um dieses Potenzial zu heben. Der Schlüssel dazu liegt i",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-12-15|bayern-innovativ.de/events-termine/transformation/detail/human-and-money-capital-2027-investitionen-in-menschen-fuer-nachhaltigen-unternehmenserfolg",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620780": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.hwk-muenchen.de/termine/einstiegsseminar-fuer-existenzgruender-im-handwerk-in-ingolstadt-74,0,evedetail.html?eve=5132": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Einstiegsseminar für Existenzgründer im Handwerk in Ingolstadt",
+    "start": "2026-12-08",
+    "ende": "2026-12-08",
+    "ort": "Bildungszentrum Ingolstadt, Ingolstadt",
+    "land": "",
+    "online": false,
+    "url": "https://www.hwk-muenchen.de/termine/einstiegsseminar-fuer-existenzgruender-im-handwerk-in-ingolstadt-74,0,evedetail.html?eve=5132",
+    "veranstalter": "Existenzgründungsberatung der Handwerkskammer für München und Oberbayern",
+    "kurz": "",
+    "methode": "json-ld",
+    "quelle_id": "hwk-muenchen",
+    "quelle_name": "Handwerkskammer für München und Oberbayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Handwerk",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-08|hwk-muenchen.de/termine/einstiegsseminar-fuer-existenzgruender-im-handwerk-in-ingolstadt-74,0,evedetail.html",
+    "quellen": [
+     "hwk-muenchen"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.tum-venture-labs.de/events/frontier-ai-builder-series-4/": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620517": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/hightech-summit-2026-in-freiburg-beyond-automation-ki-transformation-im-fokus/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Hightech Summit 2026 in Freiburg: Beyond Automation – KI-Transformation im Fokus",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "Messe Freiburg, Freiburg im Breisgau",
+    "land": "",
+    "online": false,
+    "url": "https://www.startup-region-stuttgart.de/termine/hightech-summit-2026-in-freiburg-beyond-automation-ki-transformation-im-fokus/",
+    "veranstalter": "",
+    "kurz": "Wie verändert Künstliche Intelligenz unsere Arbeitswelt – und wie können Unternehmen den Wandel erfolgreich gestalten? Antworten auf diese Fragen liefert der bwcon Hightech Summit 2026 unter dem Motto „Beyond Automation“",
+    "methode": "json-ld",
+    "quelle_id": "startup-region-stuttgart",
+    "quelle_name": "Start-up-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung",
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-26|startup-region-stuttgart.de/termine/hightech-summit-2026-in-freiburg-beyond-automation-ki-transformation-im-fokus",
+    "quellen": [
+     "startup-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/kategorie/messe/": {
+  "geholt": "2026-11-20",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/workshop-intensiv-fuer-existenzgruender-6/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Workshop “intensiv” für Existenzgründer",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "rkshop “intensiv” für Existenzgründer",
+    "land": "",
+    "online": false,
+    "url": "https://www.startup-region-stuttgart.de/termine/workshop-intensiv-fuer-existenzgruender-6/",
+    "veranstalter": "",
+    "kurz": "Dieser Workshop ist ein Angebot der Bezirkskammer Göppingen für zukünftige Selbstständige und eine Hilfestellung zum selbstständigen Weiterarbeiten an der eigenen Geschäftsidee",
+    "methode": "json-ld",
+    "quelle_id": "startup-region-stuttgart",
+    "quelle_name": "Start-up-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-26|startup-region-stuttgart.de/termine/workshop-intensiv-fuer-existenzgruender-6",
+    "quellen": [
+     "startup-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/ready-for-take-off-panorama-pitch-auf-dem-stuttgarter-fernsehturm/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Ready for Take-off! Panorama-Pitch auf dem Stuttgarter Fernsehturm",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "Fernsehnturm Stuttgart",
+    "land": "",
+    "online": false,
+    "url": "https://www.startup-region-stuttgart.de/termine/ready-for-take-off-panorama-pitch-auf-dem-stuttgarter-fernsehturm/",
+    "veranstalter": "",
+    "kurz": "Auch 2026 laden wir zum Panorama Pitch ein – dem exklusiven Pitch-Event auf dem Stuttgarter Fernsehturm! Ausgewählte Start-ups aus dem Bereich Mobility & Industry präsentieren ihre innovativen Ideen und Technologien – ko",
+    "methode": "json-ld",
+    "quelle_id": "startup-region-stuttgart",
+    "quelle_name": "Start-up-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation",
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2026-11-26|startup-region-stuttgart.de/termine/ready-for-take-off-panorama-pitch-auf-dem-stuttgarter-fernsehturm",
+    "quellen": [
+     "startup-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.biz-up.at/veranstaltung/foerderberatung-in-ihrer-region-bezirk-gmunden-01-12-2026": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Förderberatung in Ihrer Region: Bezirk Gmunden",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "Gmunden",
+    "land": "",
+    "online": false,
+    "url": "https://www.biz-up.at/veranstaltung/foerderberatung-in-ihrer-region-bezirk-gmunden-01-12-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "business-upper-austria",
+    "quelle_name": "Business Upper Austria – Veranstaltungen",
+    "region_hinweis": "Österreich",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-01|biz-up.at/veranstaltung/foerderberatung-in-ihrer-region-bezirk-gmunden-01-12-2026",
+    "quellen": [
+     "business-upper-austria"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/startup-boards-navigating-roles-risks-tough-decisions": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "https://podio.com/webforms/26670944/2027697Startup boards: Navigating Roles, Risks & Tough Decisions",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/startup-boards-navigating-roles-risks-tough-decisions",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-24|startupticker.ch/en/events/startup-boards-navigating-roles-risks-tough-decisions",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.biz-up.at/veranstaltung/new-business-development-neue-kunden-gewinnen-und-projekte-die-schon-da-sind-endlich-heben-02-12-2026": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "New Business Development: Neue Kunden gewinnen – und Projekte, die schon da sind, endlich heben",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.biz-up.at/veranstaltung/new-business-development-neue-kunden-gewinnen-und-projekte-die-schon-da-sind-endlich-heben-02-12-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "business-upper-austria",
+    "quelle_name": "Business Upper Austria – Veranstaltungen",
+    "region_hinweis": "Österreich",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|biz-up.at/veranstaltung/new-business-development-neue-kunden-gewinnen-und-projekte-die-schon-da-sind-endlich-heben-02-12-2026",
+    "quellen": [
+     "business-upper-austria"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/swisscam-invest-day-2026": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "SwissCam Invest Day 2026",
+    "start": "2026-11-27",
+    "ende": "2026-11-27",
+    "ort": "Unlimitrust Campus Route des Flumeaux 42/44 1008 Prilly",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/swisscam-invest-day-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-27|startupticker.ch/en/events/swisscam-invest-day-2026",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-hsg-start-accelerator": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Deadline HSG START Accelerator",
+    "start": "2026-11-30",
+    "ende": "2026-11-30",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-hsg-start-accelerator",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-30|startupticker.ch/en/events/deadline-hsg-start-accelerator",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-venture": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Deadline »venture»",
+    "start": "2026-11-30",
+    "ende": "2026-11-30",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-venture",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-30|startupticker.ch/en/events/deadline-venture",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": "cash-frage-geklaert-bootstrappen-oder-venture-capital-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-ic-award": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Deadline IC Award",
+    "start": "2026-11-30",
+    "ende": "2026-11-30",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-ic-award",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-30|startupticker.ch/en/events/deadline-ic-award",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-pulse-incubateur-hes": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Deadline Pulse Incubateur Hes",
+    "start": "2026-11-30",
+    "ende": "2026-11-30",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-pulse-incubateur-hes",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-30|startupticker.ch/en/events/deadline-pulse-incubateur-hes",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/made-in-crypto-valley-startup-investments-inititiative": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Made in Crypto Valley: Startup Investments Inititiative",
+    "start": "2026-11-30",
+    "ende": "2026-11-30",
+    "ort": "Zurich",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/made-in-crypto-valley-startup-investments-inititiative",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-30|startupticker.ch/en/events/made-in-crypto-valley-startup-investments-inititiative",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-swissnex-startup-camp-japan": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Deadline Swissnex Startup Camp Japan",
+    "start": "2026-11-30",
+    "ende": "2026-11-30",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-swissnex-startup-camp-japan",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-30|startupticker.ch/en/events/deadline-swissnex-startup-camp-japan",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-stage-up-berner-business-creation-wettbewerb": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Deadline STAGE UP - Berner Business Creation Wettbewerb",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/deadline-stage-up-berner-business-creation-wettbewerb",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-01|startupticker.ch/en/events/deadline-stage-up-berner-business-creation-wettbewerb",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-innobooster": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Deadline INNOBOOSTER",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-innobooster",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-01|startupticker.ch/en/events/deadline-innobooster",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/deadline-first-ventures": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Deadline First Ventures",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "Startup Camp India",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/deadline-first-ventures",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-01|startupticker.ch/en/events/deadline-first-ventures",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://events.gentner.de/de/webinar-exoskelette-der-primaer-sekundaer-und-tertiaerpraevention-fuer-aerztinnen-und-aerzte": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Webinar: EXOSKELETTE IN DER PRIMÄR-, SEKUNDÄR- UND TERTIÄRPRÄVENTION FÜR ÄRZTINNEN UND ÄRZTE",
+    "start": "2027-01-13",
+    "ende": "2027-01-13",
+    "ort": "Stuttgart",
+    "land": "",
+    "online": true,
+    "url": "https://events.gentner.de/de/webinar-exoskelette-der-primaer-sekundaer-und-tertiaerpraevention-fuer-aerztinnen-und-aerzte",
+    "veranstalter": "Gentner Events",
+    "kurz": "Die Fortbildung verbindet Theorie und Praxis zu Exoskeletten. Geleitet von Expert:innen aus Medizin und Technik, bietet sie herstellerunabhängige Tests, Diskussionen und Fallbeispiele. Zielgruppe: Betriebsmediziner:innen",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gentner-events",
+    "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-13|events.gentner.de/de/webinar-exoskelette-der-primaer-sekundaer-und-tertiaerpraevention-fuer-aerztinnen-und-aerzte",
+    "quellen": [
+     "gentner-events"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://events.gentner.de/de/webinar-heizen-mit-der-sonne-solarthermie-pv-und-pvt-im-vergleich-0": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Webinar: Heizen mit der Sonne: Solarthermie, PV und PVT im Vergleich",
+    "start": "2026-12-10",
+    "ende": "2026-12-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://events.gentner.de/de/webinar-heizen-mit-der-sonne-solarthermie-pv-und-pvt-im-vergleich-0",
+    "veranstalter": "Gentner Events",
+    "kurz": "Das Webinar bietet eine Orientierung zu Solarthermie, PV und PVT für Wohngebäude. Es behandelt Technik, Planung, Fördermöglichkeiten und Praxisbeispiele.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gentner-events",
+    "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Energie & Solar",
+     "Logistik & Handel"
+    ],
+    "schluessel": "2026-12-10|events.gentner.de/de/webinar-heizen-mit-der-sonne-solarthermie-pv-und-pvt-im-vergleich-0",
+    "quellen": [
+     "gentner-events"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795149429-cf5250d45": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2026-12-07",
+    "ende": "2026-12-07",
+    "ort": "Termin",
+    "land": "",
+    "online": true,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795149429-cf5250d45",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
+   }
+  ],
+  "v": 2
+ },
+ "https://wrs.region-stuttgart.de/termine/startup-xpress-curriculum-advanced-recht26-2/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "STARTUP xpress CURRICULUM Advanced: Recht-Roundtable – Rechtsformwahl und Gesellschafterrechte",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "AI xpress",
+    "land": "",
+    "online": false,
+    "url": "https://wrs.region-stuttgart.de/termine/startup-xpress-curriculum-advanced-recht26-2/",
+    "veranstalter": "",
+    "kurz": "Präsenz-Roundtable für Startups",
+    "methode": "json-ld",
+    "quelle_id": "wrs-termine",
+    "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-24|wrs.region-stuttgart.de/termine/startup-xpress-curriculum-advanced-recht26-2",
+    "quellen": [
+     "wrs-termine"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": "wanna-be-a-startup-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://it.region-stuttgart.de/termine/startup-xpress-curriculum-advanced-recht26-2/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "STARTUP xpress CURRICULUM Advanced: Recht-Roundtable – Rechtsformwahl und Gesellschafterrechte",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "AI xpress, 71032 Böblingen",
+    "land": "",
+    "online": false,
+    "url": "https://it.region-stuttgart.de/termine/startup-xpress-curriculum-advanced-recht26-2/",
+    "veranstalter": "IT Region Stuttgart",
+    "kurz": "Präsenz-Roundtable für Startups",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "it-region-stuttgart",
+    "quelle_name": "IT-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation",
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-11-24|it.region-stuttgart.de/termine/startup-xpress-curriculum-advanced-recht26-2",
+    "quellen": [
+     "it-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": "wanna-be-a-startup-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://it.region-stuttgart.de/termine/startup-xpress-curriculum-advanced-preisstrategien26-2/": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "STARTUP xpress CURRICULUM Advanced: Preisbildung, Revenue Streams, Monetarisierung und Lizensierung",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "AI xpress, 71032 Böblingen",
+    "land": "",
+    "online": false,
+    "url": "https://it.region-stuttgart.de/termine/startup-xpress-curriculum-advanced-preisstrategien26-2/",
+    "veranstalter": "IT Region Stuttgart",
+    "kurz": "Präsenz-Workshop für Startups",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "it-region-stuttgart",
+    "quelle_name": "IT-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation",
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2026-12-01|it.region-stuttgart.de/termine/startup-xpress-curriculum-advanced-preisstrategien26-2",
+    "quellen": [
+     "it-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/malte-marten-live-in-amsterdam-2026": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Malte Marten Trio with special guest Lubiana",
+    "start": "2026-12-19",
+    "ende": "2026-12-19",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.rai.nl/agenda/malte-marten-live-in-amsterdam-2026",
+    "veranstalter": "",
+    "kurz": "Malte Marten is handpanmuzikant, docent en visionair. Terwijl zijn muziek het publiek inspireert, creëren zijn authentieke optredens en expressieve speelstijl een sfeer van innerlijke rust. Malte is een van de bekendste ",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-19|rai.nl/agenda/malte-marten-live-in-amsterdam-2026",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://een.ec.europa.eu/events/go-international-business-meetings-expogast": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "Go International Business Meetings @ Expogast",
+    "start": "2026-11-21",
+    "ende": "2026-11-21",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://een.ec.europa.eu/events/go-international-business-meetings-expogast",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "een-events",
+    "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-21|een.ec.europa.eu/events/go-international-business-meetings-expogast",
+    "quellen": [
+     "een-events"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://een.ec.europa.eu/events/cphi-india-2026": {
+  "geholt": "2026-11-20",
+  "events": [
+   {
+    "titel": "CPHI India 2026",
+    "start": "2026-11-23",
+    "ende": "2026-11-23",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://een.ec.europa.eu/events/cphi-india-2026",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "een-events",
+    "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-23|een.ec.europa.eu/events/cphi-india-2026",
+    "quellen": [
+     "een-events"
+    ],
+    "zuerst_gesehen": "2026-11-20",
+    "erfasst_als": "genera-2026",
     "entscheidung": ""
    }
   ],
