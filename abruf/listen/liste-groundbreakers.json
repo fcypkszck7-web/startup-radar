@@ -2,7 +2,7 @@
  "quelle": "liste-groundbreakers",
  "name": "GROUNDBREAKERS – Start-ups",
  "url": "https://groundbreakers.io/en",
- "abgerufen": "2026-11-20",
+ "abgerufen": "2026-11-21",
  "koepfe": [
   "What brings you here?",
   "From pitch deck to paying customer",
@@ -13,12 +13,11 @@
   "International Batch",
   "European Challenge",
   "GROUNDBREAKERS Alumni",
-  "GROUNDBREAKERSSUMMIT 2026",
   "Nice to meet you",
-  "Klimafestival für die Bauwende",
   "Groundbreaking Future",
   "Hi Tech! Match",
   "Hi Tech! x Breakfast with Stuttgart Startups",
+  "GROUNDBREAKERS Summit 2027",
   "Your Innovation­Department",
   "Venture Clienting",
   "GROUNDBREAKERS Tool",
@@ -403,7 +402,8 @@
   "ConTech and PropTech Explained: Definition, Origin, Difference",
   "5 Reasons to Attend the GROUNDBREAKERS Summit",
   "Kickoff for Accelerator Batch #3",
-  "AI Revolution on Fast-Forward: PELICAD & WOLFF & MÜLLER"
+  "AI Revolution on Fast-Forward: PELICAD & WOLFF & MÜLLER",
+  "StrawBrick Wins the European GROUNDBREAKERS Challenge"
  ],
  "links": [
   {
@@ -462,16 +462,6 @@
    "extern": false
   },
   {
-   "text": "To Summit 2026 >",
-   "url": "https://www.groundbreakers.io/en",
-   "extern": false
-  },
-  {
-   "text": "More Info >",
-   "url": "https://klimafestival.heinze.de/de/",
-   "extern": true
-  },
-  {
    "text": "Register Now >",
    "url": "https://eventfrog.de//de/p/wissenschaft-technik/digitalisierung-ki/aed-x-groundbreakers-international-stuttgart-7523758897640791829.html?mtm_source=sharing&mtm_medium=link_kopieren",
    "extern": true
@@ -492,7 +482,12 @@
    "extern": false
   },
   {
-   "text": "+1 more events View All >",
+   "text": "More on the Summit >",
+   "url": "https://www.groundbreakers.io/en",
+   "extern": false
+  },
+  {
+   "text": "View All >",
    "url": "https://www.groundbreakers.io/en",
    "extern": false
   },
@@ -2159,11 +2154,6 @@
   {
    "text": "Schedule a Meeting with Frieder >",
    "url": "https://meetings.hubspot.com/frieder-lindner?uuid=0c73dc66-c587-4158-8cad-c9f028162612",
-   "extern": true
-  },
-  {
-   "text": "More Info >",
-   "url": "https://klimafestival.heinze.de/de/",
    "extern": true
   },
   {

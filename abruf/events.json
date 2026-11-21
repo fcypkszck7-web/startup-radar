@@ -1,327 +1,5 @@
 [
  {
-  "titel": "Afterwork Fermentieren im Haus der Kost",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/afterwork-fermentieren/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|unternehmertum.de/events/afterwork-fermentieren",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
- },
- {
-  "titel": "BWP-Schulung: Einführung zur Nutzung von Wärmepumpen in Liegenschaften",
-  "start": "2026-11-19",
-  "ende": "2026-11-26",
-  "ort": "ZOOM",
-  "land": "",
-  "online": false,
-  "url": "https://www.waermepumpe.de/verband/veranstaltungen/",
-  "veranstalter": "BWP Marketing &amp; Service GmbH",
-  "kurz": "Aufgrund einer großen Nachfrage von Energieagenturen, Bau-/ Umweltbehörden, Kommunen, Stadtwerken und der Wohnungswirtschaft, haben wir als Bundesverband Wärmepumpe (BWP) e.V. ein Schulungskonzept zu Einsatzmöglichkeiten",
-  "methode": "json-ld",
-  "quelle_id": "bwp",
-  "quelle_name": "Bundesverband Wärmepumpe – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Bau & Immobilien",
-   "Gebäudetechnik",
-   "Energie & Solar"
-  ],
-  "schluessel": "2026-11-19|waermepumpe.de/verband/veranstaltungen",
-  "quellen": [
-   "bwp"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "bwp-schulung-einfuehrung-zur-nutzung-von-waermepumpen-in-lie-2026",
-  "entscheidung": "aufgenommen: bwp-schulung-einfuehrung-zur-nutzung-von-waermepumpen-in-lie-2026"
- },
- {
-  "titel": "Festive Gift Fair - Day 1",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/festive-gift-fair/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|thenec.co.uk/events/festive-gift-fair",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Industrial Edge Workshop for Startups and SMEs",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/industrial-edge-workshops-for-startups-and-smes-2-3/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-19|unternehmertum.de/events/industrial-edge-workshops-for-startups-and-smes-2-3",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": "industrial-edge-workshop-for-startups-and-smes-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Industrial Edge Workshop for Startups and SMEs",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/industrial-edge-workshops-for-startups-and-smes-2-2/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-19|unternehmertum.de/events/industrial-edge-workshops-for-startups-and-smes-2-2",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": "industrial-edge-workshop-for-startups-and-smes-2026-1119",
-  "entscheidung": "aufgenommen: industrial-edge-workshop-for-startups-and-smes-2026-1119"
- },
- {
-  "titel": "Mobility Experts Stammtisch - Lunch",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/mobility-stammtisch-lunch/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|unternehmertum.de/events/mobility-stammtisch-lunch",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Mobilität)"
- },
- {
-  "titel": "Opportunity Hunters Talks",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/opportunity-hunters-talks-5/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|unternehmertum.de/events/opportunity-hunters-talks-5",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-07",
-  "erfasst_als": "opportunity-hunters-talks-2026-1119",
-  "entscheidung": "aufgenommen: opportunity-hunters-talks-2026-1119"
- },
- {
-  "titel": "Opportunity Hunters Talks",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/opportunity-hunters-talks-4/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|unternehmertum.de/events/opportunity-hunters-talks-4",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": "opportunity-hunters-talks-2026-1112",
-  "entscheidung": ""
- },
- {
-  "titel": "Opportunity Hunters Talks",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/opportunity-hunters-talks-8/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|unternehmertum.de/events/opportunity-hunters-talks-8",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": "opportunity-hunters-talks-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Opportunity Hunters Talks",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/opportunity-hunters-talks-2/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|unternehmertum.de/events/opportunity-hunters-talks-2",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": "opportunity-hunters-talks-2026-1119",
-  "entscheidung": ""
- },
- {
-  "titel": "Veranstaltung: Terrains: Kritische Perspektiven und Methoden in Geographie, Anthropologie und Geschichte",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "H8",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/19-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-5",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-regensburg",
-  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-19|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/19-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-5",
-  "quellen": [
-   "uni-regensburg"
-  ],
-  "zuerst_gesehen": "2026-11-14",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
- },
- {
-  "titel": "Women Startup MatchLab",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": true,
-  "url": "https://www.unternehmertum.de/events/women-startup-matchlab-2/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-19|unternehmertum.de/events/women-startup-matchlab-2",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-12",
-  "erfasst_als": "women-startup-award-2026-pitch-night",
-  "entscheidung": ""
- },
- {
-  "titel": "Women Startup Pitch Night & Award Ceremony 2026",
-  "start": "2026-11-19",
-  "ende": "2026-11-19",
-  "ort": "men Start-up",
-  "land": "",
-  "online": false,
-  "url": "https://www.unternehmertum.de/events/women-startup-pitch-night-award-ceremony-2026/",
-  "veranstalter": "UnternehmerTUM",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "unternehmertum",
-  "quelle_name": "UnternehmerTUM – Events",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-19|unternehmertum.de/events/women-startup-pitch-night-award-ceremony-2026",
-  "quellen": [
-   "unternehmertum"
-  ],
-  "zuerst_gesehen": "2026-11-06",
-  "erfasst_als": "startup-night-weiden-2026",
-  "entscheidung": ""
- },
- {
   "titel": "18. EffizienzTagung klimaneutral Bauen+Modernisieren",
   "start": "2026-11-20",
   "ende": "2026-11-21",
@@ -394,56 +72,6 @@
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
  },
  {
-  "titel": "Czech Fashion Week GLAMOUR",
-  "start": "2026-11-20",
-  "ende": "2026-11-20",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.pvaexpo.cz/en/event/508",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "messe-pva-prag",
-  "quelle_name": "PVA Expo Praha – Kalender",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-20|pvaexpo.cz/en/event/508",
-  "quellen": [
-   "messe-pva-prag"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Einführung in den Förderdschungel: Überblick über Fördermittelprogramme für die Umsetzung der Digitalen Transformation",
-  "start": "2026-11-20",
-  "ende": "2026-11-20",
-  "ort": "Online",
-  "land": "",
-  "online": false,
-  "url": "https://www.startup-region-stuttgart.de/termine/einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerdermittelprogramme-fuer-die-umsetzung-der-digitalen-transformation-2/",
-  "veranstalter": "",
-  "kurz": "In diesem kompakten Webinar gibt bwcon einen Überblick über aktuelle Fördermöglichkeiten auf Landes-, Bundes- und EU-Ebene und zeigt praxisnah, wie Start-ups und Unternehmen die passende Förderung finden und erfolgreich ",
-  "methode": "json-ld",
-  "quelle_id": "startup-region-stuttgart",
-  "quelle_name": "Start-up-Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Software, KI & Daten",
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-20|startup-region-stuttgart.de/termine/einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerdermittelprogramme-fuer-die-umsetzung-der-digitalen-transformation-2",
-  "quellen": [
-   "startup-region-stuttgart"
-  ],
-  "zuerst_gesehen": "2026-11-13",
-  "erfasst_als": "einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerder-2026",
-  "entscheidung": "aufgenommen: einfuehrung-in-den-foerderdschungel-ueberblick-ueber-foerder-2026"
- },
- {
   "titel": "Festive Gift Fair - Day 2",
   "start": "2026-11-20",
   "ende": "2026-11-20",
@@ -465,80 +93,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "International Day am 20. November",
-  "start": "2026-11-20",
-  "ende": "2026-11-20",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/international-day-am-20-november",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-20|uni-passau.de/veranstaltungskalender/detail/event/international-day-am-20-november",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-19",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Offene Sprechstunde Landshut Graduate Center",
-  "start": "2026-11-20",
-  "ende": "2026-11-20",
-  "ort": "N3 21",
-  "land": "",
-  "online": false,
-  "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261120",
-  "veranstalter": "",
-  "kurz": "Offene Sprechstunde des Graduate Centers",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "hs-landshut",
-  "quelle_name": "Hochschule Landshut – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-20|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261120",
-  "quellen": [
-   "hs-landshut"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
- },
- {
-  "titel": "Startups for Good · Zurich",
-  "start": "2026-11-20",
-  "ende": "2026-11-20",
-  "ort": "Heinrichstrasse 177, Zürich",
-  "land": "",
-  "online": false,
-  "url": "https://www.startupticker.ch/en/events/startups-for-good-zurich",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "startupticker",
-  "quelle_name": "Startupticker.ch – Events",
-  "region_hinweis": "Schweiz",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-20|startupticker.ch/en/events/startups-for-good-zurich",
-  "quellen": [
-   "startupticker"
-  ],
-  "zuerst_gesehen": "2026-11-17",
-  "erfasst_als": null,
-  "entscheidung": ""
  },
  {
   "titel": "SuperStay Live",
@@ -563,78 +117,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
- },
- {
-  "titel": "Vergaberecht für Energieberater  Was Sie wissen müssen",
-  "start": "2026-11-20",
-  "ende": "2026-11-20",
-  "ort": "Online-Seminar",
-  "land": "",
-  "online": false,
-  "url": "https://www.gih.de/veranstaltung/vergaberecht-fuer-energieberater-%c2%96-was-sie-wissen-muessen/",
-  "veranstalter": "",
-  "kurz": "Wie Energieeffizienz-Anforderungen rechtssicher in die Ausschreibung kommen Der Nutzen im Überblick Energieberater begleiten oft Bauherrn, die das Vergaberecht beachten müssen. […] \\n",
-  "methode": "json-ld",
-  "quelle_id": "geb-energieberater",
-  "quelle_name": "GIH Energieberater – Veranstaltungen",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Energie & Solar"
-  ],
-  "schluessel": "2026-11-20|gih.de/veranstaltung/vergaberecht-fuer-energieberater-%c2%96-was-sie-wissen-muessen",
-  "quellen": [
-   "geb-energieberater"
-  ],
-  "zuerst_gesehen": "2026-11-18",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Wie komme ich auf neue und kreative Ideen?",
-  "start": "2026-11-20",
-  "ende": "2026-11-20",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.bayern-innovativ.de/events-termine/innovationsmanagement/detail/wie-komme-ich-auf-neue-und-kreative-ideen/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "bayern-innovativ",
-  "quelle_name": "Bayern Innovativ – Veranstaltungen",
-  "region_hinweis": "Bayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-20|bayern-innovativ.de/events-termine/innovationsmanagement/detail/wie-komme-ich-auf-neue-und-kreative-ideen",
-  "quellen": [
-   "bayern-innovativ"
-  ],
-  "zuerst_gesehen": "2026-11-05",
-  "erfasst_als": "wie-komme-ich-auf-neue-und-kreative-ideen-2026",
-  "entscheidung": "aufgenommen: wie-komme-ich-auf-neue-und-kreative-ideen-2026"
- },
- {
-  "titel": "Wissenswerkstatt",
-  "start": "2026-11-20",
-  "ende": "2026-11-20",
-  "ort": "35516 Münzenberg, Wohnbacher Str. 1, Burghotel Münzenberg",
-  "land": "",
-  "online": false,
-  "url": "https://www.gih.de/veranstaltung/wissenswerkstatt-2/",
-  "veranstalter": "",
-  "kurz": "Hinweis: Zimmer (inklusive Frühstück 94,50€ brutto) muss jeder Teilnehmer für sich selbst buchen. Die Kosten sind selbst zu tragen und […] \\n",
-  "methode": "json-ld",
-  "quelle_id": "geb-energieberater",
-  "quelle_name": "GIH Energieberater – Veranstaltungen",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-20|gih.de/veranstaltung/wissenswerkstatt-2",
-  "quellen": [
-   "geb-energieberater"
-  ],
-  "zuerst_gesehen": "2026-11-18",
-  "erfasst_als": null,
-  "entscheidung": ""
  },
  {
   "titel": "CREATORS × VAGOVIC Launch Night",
@@ -823,30 +305,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrun-2026",
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "SECA Workshop Private Equity",
-  "start": "2026-11-21",
-  "ende": "2026-11-21",
-  "ort": "Lenz und Staehelin, Brandschenkestrasse 24, Zürich",
-  "land": "",
-  "online": false,
-  "url": "https://www.startupticker.ch/en/events/seca-workshop-private-equity",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "startupticker",
-  "quelle_name": "Startupticker.ch – Events",
-  "region_hinweis": "Schweiz",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|startupticker.ch/en/events/seca-workshop-private-equity",
-  "quellen": [
-   "startupticker"
-  ],
-  "zuerst_gesehen": "2026-11-13",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Finanzen)"
  },
  {
   "titel": "StartUp Boost",
@@ -1343,6 +801,31 @@
   "entscheidung": ""
  },
  {
+  "titel": "Landesfinale Start-up BW Local 2026 in Stuttgart",
+  "start": "2026-11-23",
+  "ende": "1970-01-01",
+  "ort": "Rotunde der L-Bank, Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/landesfinale-start-up-bw-local-2026-in-stuttgart/",
+  "veranstalter": "",
+  "kurz": "Am 23. November 2026 findet in Stuttgart das Landesfinale von Start-up BW Local statt. Ausgezeichnet werden besonders gründungsfreundliche Kommunen.",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-23|startup-region-stuttgart.de/termine/landesfinale-start-up-bw-local-2026-in-stuttgart",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": "genera-2026",
+  "entscheidung": ""
+ },
+ {
   "titel": "MCL - Day 3",
   "start": "2026-11-23",
   "ende": "2026-11-23",
@@ -1609,6 +1092,30 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
  },
  {
+  "titel": "Wo Kontinente auseinanderdriften – Island: Unterwegs im Land der Gegensätze",
+  "start": "2026-11-23",
+  "ende": "2026-11-23",
+  "ort": "Kontinente auseinanderdriften – Island: Unterwegs im Land der Gegensätze",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/wo-kontinente-auseinanderdriften-island-unterwegs-im-land-der-gegensaetze",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-23|uni-passau.de/veranstaltungskalender/detail/event/wo-kontinente-auseinanderdriften-island-unterwegs-im-land-der-gegensaetze",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Workshop Update iSFP mit DIN V 18599",
   "start": "2026-11-23",
   "ende": "2026-11-24",
@@ -1734,6 +1241,29 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "23-partnercircle-2026",
   "entscheidung": "aufgenommen: 23-partnercircle-2026"
+ },
+ {
+  "titel": "ABGESAGT: Präsenzstammtisch mit Stefan Bolln (Bundesvorsitzender)",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "Leipzig",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/praesenzstammtisch-mit-stefan-bolln-bundesvorsitzender/",
+  "veranstalter": "",
+  "kurz": "Details folgen ungezwungener Austausch ohne Agenda (am Vorabend der Jahrestagung des Gebäudeforum Klimaneutral) \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-24|gih.de/veranstaltung/praesenzstammtisch-mit-stefan-bolln-bundesvorsitzender",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Aufzeichnung: KI-Booster für die arbeitsmedizinische Praxis – Fortgeschrittene Techniken mit CustomGPT, Gamma & Co.",
@@ -2065,6 +1595,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Gastvortrag: Zwischen Modethema und Weltordnung. Zeitungen als historische Infrastrukturen populärer Klimawandeldeutungen (1780-1950)",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/gastvortrag-zwischen-modethema-und-weltordnung-zeitungen-als-historische-infrastrukturen-populaerer-klimawandeldeutungen-1780-1950",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Bau & Immobilien"
+  ],
+  "schluessel": "2026-11-24|uni-passau.de/veranstaltungskalender/detail/event/gastvortrag-zwischen-modethema-und-weltordnung-zeitungen-als-historische-infrastrukturen-populaerer-klimawandeldeutungen-1780-1950",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Genera",
   "start": "2026-11-24",
   "ende": "2026-11-26",
@@ -2389,6 +1945,32 @@
   "entscheidung": "abgelehnt: Studien- und Weiterbildungsberatung"
  },
  {
+  "titel": "PATEC FoundHers HerTurn: An Open Exchange with Passau Student and Founder Anna Roppelt",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/patec-foundhers-herturn-an-open-exchange-with-passau-student-and-founder-anna-roppelt",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-24|uni-passau.de/veranstaltungskalender/detail/event/patec-foundhers-herturn-an-open-exchange-with-passau-student-and-founder-anna-roppelt",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "SPS 2026",
   "start": "2026-11-24",
   "ende": "2026-11-24",
@@ -2690,6 +2272,31 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-20",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "„NEU“ Der Energieberatende als Unternehmer / Social Media für Energieberatende",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "Online",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/neu-der-energieberatende-als-unternehmer-social-media-fuer-energieberatende/",
+  "veranstalter": "",
+  "kurz": "Ihr seid mit Eurem Büro auch Unternehmer. Wir testen nun mit dieser ersten Veranstaltung ein neues inhaltliches Format, in dem […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-24|gih.de/veranstaltung/neu-der-energieberatende-als-unternehmer-social-media-fuer-energieberatende",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-21",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -3494,6 +3101,31 @@
   "entscheidung": ""
  },
  {
+  "titel": "Start-up BW Women Lab: Wen erreicht Ihr Angebot – und wen nicht?",
+  "start": "2026-11-25",
+  "ende": "1970-01-01",
+  "ort": "online",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/start-up-bw-women-lab-wen-erreicht-ihr-angebot-und-wen-nicht/",
+  "veranstalter": "",
+  "kurz": "Wie können Angebote der Gründungsförderung so gestaltet und kommuniziert werden, dass sie möglichst viele unterschiedliche Zielgruppen erreichen?",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-25|startup-region-stuttgart.de/termine/start-up-bw-women-lab-wen-erreicht-ihr-angebot-und-wen-nicht",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Startup Demo Night",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -3616,6 +3248,30 @@
    "uni-regensburg"
   ],
   "zuerst_gesehen": "2026-11-20",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: Verfassungsdebatten: Antike Ursprünge, historische Wirkung, aktuelle Relevanz",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "H22",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/25-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-5",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-25|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/25-11-2026_verfassungsdebatten-antike-urspruenge-historische-wirkung-aktuelle-relevanz-5",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-21",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -3745,6 +3401,31 @@
   ],
   "zuerst_gesehen": "2026-11-05",
   "erfasst_als": "genera-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Beehive Coworking",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Beehive Düsseldorf City, Düsseldorf",
+  "land": "DE",
+  "online": false,
+  "url": "https://www.startbase.de/events/beehive-coworking-2026-11-beehive-duesseldorf-city/",
+  "veranstalter": "",
+  "kurz": "5 Startups. 5 Minuten Zeit. 1 Abend voller Innovation. Bühne frei für frische Ideen und mutige Gründer:innen! Beim Honeymoon Startup Pitch in Düsseldorf treffen spannende Startups auf eine neugierige Crowd, eine erfahren",
+  "methode": "json-ld",
+  "quelle_id": "startbase-events",
+  "quelle_name": "Startbase – Start-up-Events Deutschland",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-26|startbase.de/events/beehive-coworking-2026-11-beehive-duesseldorf-city",
+  "quellen": [
+   "startbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
   "entscheidung": ""
  },
  {
@@ -4453,32 +4134,6 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-19",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Ready for Take-off! Panorama-Pitch auf dem Stuttgarter Fernsehturm",
-  "start": "2026-11-26",
-  "ende": "2026-11-26",
-  "ort": "Fernsehnturm Stuttgart",
-  "land": "",
-  "online": false,
-  "url": "https://www.startup-region-stuttgart.de/termine/ready-for-take-off-panorama-pitch-auf-dem-stuttgarter-fernsehturm/",
-  "veranstalter": "",
-  "kurz": "Auch 2026 laden wir zum Panorama Pitch ein – dem exklusiven Pitch-Event auf dem Stuttgarter Fernsehturm! Ausgewählte Start-ups aus dem Bereich Mobility & Industry präsentieren ihre innovativen Ideen und Technologien – ko",
-  "methode": "json-ld",
-  "quelle_id": "startup-region-stuttgart",
-  "quelle_name": "Start-up-Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Gründung & Innovation",
-   "Industrie & Fertigung"
-  ],
-  "schluessel": "2026-11-26|startup-region-stuttgart.de/termine/ready-for-take-off-panorama-pitch-auf-dem-stuttgarter-fernsehturm",
-  "quellen": [
-   "startup-region-stuttgart"
-  ],
-  "zuerst_gesehen": "2026-11-20",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -6132,7 +5787,7 @@
   "ort": "Novartis Pavillon, St. Johanns-Hafen-Weg, 5, 4056 Basel",
   "land": "",
   "online": true,
-  "url": "https://www.startupticker.ch/index.php/en/events/open-mic-next-in-health-series",
+  "url": "https://www.startupticker.ch/en/events/open-mic-next-in-health-series",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
@@ -6141,13 +5796,13 @@
   "quelle_name": "Startupticker.ch – Events",
   "region_hinweis": "Schweiz",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-30|startupticker.ch/index.php/en/events/open-mic-next-in-health-series",
+  "schluessel": "2026-11-30|startupticker.ch/en/events/open-mic-next-in-health-series",
   "quellen": [
    "startupticker"
   ],
-  "zuerst_gesehen": "2026-11-13",
+  "zuerst_gesehen": "2026-11-21",
   "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Gesundheit/Life Sciences)"
+  "entscheidung": ""
  },
  {
   "titel": "Tiefengeothermie - Technologie und Anwendung in der Praxis",
@@ -6354,6 +6009,32 @@
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
  },
  {
+  "titel": "Deadline Bridge Proof of Concept for young researchers",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "Startup Camp India",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/deadline-bridge-proof-of-concept-for-young-researchers",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Dach & Gebäudehülle"
+  ],
+  "schluessel": "2026-12-01|startupticker.ch/en/events/deadline-bridge-proof-of-concept-for-young-researchers",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Deadline First Ventures",
   "start": "2026-12-01",
   "ende": "2026-12-01",
@@ -6400,6 +6081,30 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-20",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Deadline Innowwide",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "Startup Camp India",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/deadline-innowwide",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-01|startupticker.ch/en/events/deadline-innowwide",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-21",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -7920,54 +7625,6 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
  },
  {
-  "titel": "Ausstellung \"Was ich anhatte...\"",
-  "start": "2026-12-04",
-  "ende": "2026-12-04",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/ausstellung-was-ich-anhatte",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-12-04|uni-passau.de/veranstaltungskalender/detail/event/ausstellung-was-ich-anhatte",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-19",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Ausstellungs­eröffnung mit Vortrag von Asha Hedayati",
-  "start": "2026-12-04",
-  "ende": "2026-12-04",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/ausstellungseroeffnung-mit-vortrag-von-asha-hedayati",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-12-04|uni-passau.de/veranstaltungskalender/detail/event/ausstellungseroeffnung-mit-vortrag-von-asha-hedayati",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-19",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "BWP-Schulung: Oberflächengewässer als Wärmequelle",
   "start": "2026-12-04",
   "ende": "2026-12-04",
@@ -8642,7 +8299,7 @@
   "ort": "Termin",
   "land": "",
   "online": true,
-  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795149429-cf5250d45",
+  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795235610-c2a804ce1",
   "veranstalter": "",
   "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
   "methode": "detailseite-text",
@@ -8956,32 +8613,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "32. Sachverständigenseminar Straßen- und Tiefbau",
-  "start": "2026-12-09",
-  "ende": "2026-12-09",
-  "ort": "hnungsbau Straßen- und Tiefbau Baukonjunktur",
-  "land": "",
-  "online": false,
-  "url": "https://www.zdb.de/presse/termine/32-sachverstaendigenseminar-strassen-und-tiefbau",
-  "veranstalter": "",
-  "kurz": "32. Sachverständigenseminar Straßen- und Tiefbau, 20./21. November 2026 in Hannover.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "zdb",
-  "quelle_name": "Zentralverband Deutsches Baugewerbe – Veranstaltungen",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Bau & Immobilien"
-  ],
-  "schluessel": "2026-12-09|zdb.de/presse/termine/32-sachverstaendigenseminar-strassen-und-tiefbau",
-  "quellen": [
-   "zdb"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
  },
  {
   "titel": "Christmas Party World 2026 - Day 13",
@@ -9564,6 +9195,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Tutorial: Startup Valuation & Value Creation: Bewertung verstehen und gezielt steigern",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.techbase.de/news-termine/events-termine/detail/10/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1-1",
+  "veranstalter": "",
+  "kurz": "Online, 13:30 - 14:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "techbase-events",
+  "quelle_name": "TechBase Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-10|techbase.de/news-termine/events-termine/detail/10/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1-1",
+  "quellen": [
+   "techbase-events"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Ultimate Demo Day 2026",
   "start": "2026-12-10",
   "ende": "2026-12-10",
@@ -9615,33 +9272,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
- },
- {
-  "titel": "Webinar: Heizen mit der Sonne: Solarthermie, PV und PVT im Vergleich",
-  "start": "2026-12-10",
-  "ende": "2026-12-10",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://events.gentner.de/de/webinar-heizen-mit-der-sonne-solarthermie-pv-und-pvt-im-vergleich-0",
-  "veranstalter": "Gentner Events",
-  "kurz": "Das Webinar bietet eine Orientierung zu Solarthermie, PV und PVT für Wohngebäude. Es behandelt Technik, Planung, Fördermöglichkeiten und Praxisbeispiele.",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "gentner-events",
-  "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Energie & Solar",
-   "Logistik & Handel"
-  ],
-  "schluessel": "2026-12-10|events.gentner.de/de/webinar-heizen-mit-der-sonne-solarthermie-pv-und-pvt-im-vergleich-0",
-  "quellen": [
-   "gentner-events"
-  ],
-  "zuerst_gesehen": "2026-11-20",
-  "erfasst_als": null,
-  "entscheidung": ""
  },
  {
   "titel": "Winter Funland - Day 6",
@@ -9766,6 +9396,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
+ },
+ {
+  "titel": "Offene Sprechstunde Landshut Graduate Center",
+  "start": "2026-12-11",
+  "ende": "2026-12-11",
+  "ort": "N3 21",
+  "land": "",
+  "online": false,
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261211",
+  "veranstalter": "",
+  "kurz": "Offene Sprechstunde des Graduate Centers",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-11|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261211",
+  "quellen": [
+   "hs-landshut"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "ROCK OUT FESTIVAL 2026",
@@ -11600,27 +11254,32 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
  },
  {
-  "titel": "Sim Global Expo 2027 - Day 1",
-  "start": "2027-01-16",
-  "ende": "2027-01-16",
-  "ort": "The NEC",
+  "titel": "AECO Hackathon @BAU 2027",
+  "start": "2027-01-17",
+  "ende": "2027-01-17",
+  "ort": "rkshop Brewery 2030+",
   "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/sim-global-expo-2027/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-01-16|thenec.co.uk/events/sim-global-expo-2027",
-  "quellen": [
-   "messe-nec"
+  "online": true,
+  "url": "https://www.tum-venture-labs.de/events/aeco-hackathon-bau-2027/",
+  "veranstalter": "TUM Venture Labs",
+  "kurz": "Join the AECO Hackathon @BAU 2027 in Munich, 14–17 January. Connect with industry experts and build solutions for the future of the built environment.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "tum-venture-labs",
+  "quelle_name": "TUM Venture Labs – Events",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Bau & Immobilien",
+   "Gründung & Innovation",
+   "Industrie & Fertigung"
   ],
-  "zuerst_gesehen": "2026-11-04",
+  "schluessel": "2027-01-17|tum-venture-labs.de/events/aeco-hackathon-bau-2027",
+  "quellen": [
+   "tum-venture-labs"
+  ],
+  "zuerst_gesehen": "2026-11-21",
   "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
+  "entscheidung": ""
  },
  {
   "titel": "INTERLOOK",
@@ -11689,29 +11348,6 @@
   "schluessel": "2027-01-17|brussels-expo.com/event/salon-de-lauto-2027",
   "quellen": [
    "messe-brussels-expo"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Sim Global Expo 2027 - Day 2",
-  "start": "2027-01-17",
-  "ende": "2027-01-17",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/sim-global-expo-2027/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-01-17|thenec.co.uk/events/sim-global-expo-2027",
-  "quellen": [
-   "messe-nec"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
@@ -11928,6 +11564,32 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
+ },
+ {
+  "titel": "Webinar: Sunenergy XT neue Powerbox: Von Balkonsolar zur dreiphasigen Energiezentrale",
+  "start": "2027-01-20",
+  "ende": "2027-01-20",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://events.gentner.de/de/webinar-sunenergy-xt-neue-powerbox-von-balkonsolar-zur-dreiphasigen-energiezentrale",
+  "veranstalter": "Gentner Events",
+  "kurz": "Erfahren Sie mehr über die neue Powerbox von Sunenergy XT: Mit 21,6 kW Leistung, 270 kWh Speicherkapazität und ATS-Unterstützung wird das System zur dreiphasigen Energiezentrale.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gentner-events",
+  "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2027-01-20|events.gentner.de/de/webinar-sunenergy-xt-neue-powerbox-von-balkonsolar-zur-dreiphasigen-energiezentrale",
+  "quellen": [
+   "gentner-events"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Crop Tec - Day 2",
@@ -15357,6 +15019,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Seminar: Von der Idee zum Produkt",
+  "start": "2027-03-16",
+  "ende": "2027-03-16",
+  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/16/3/2027/seminar-von-der-idee-zum-produkt",
+  "veranstalter": "",
+  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-03-16|digitale-oberpfalz.de/news-events/termine/detail/16/3/2027/seminar-von-der-idee-zum-produkt",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "seminar-von-der-idee-zum-produkt-2027",
+  "entscheidung": "aufgenommen: seminar-von-der-idee-zum-produkt-2027"
+ },
+ {
   "titel": "XPONENTIAL Europe",
   "start": "2027-03-16",
   "ende": "2027-03-18",
@@ -15800,6 +15486,31 @@
    "messe-nec"
   ],
   "zuerst_gesehen": "2026-11-05",
+  "erfasst_als": "intralogistex-2027",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Kick it Expo 2027",
+  "start": "2027-03-20",
+  "ende": "2027-03-21",
+  "ort": "Stockholmsmässan",
+  "land": "",
+  "online": false,
+  "url": "https://stockholmsmassan.se/kalender/kick-it-expo-2027/",
+  "veranstalter": "",
+  "kurz": "Träffa spelare och profiler på Kick it Expo, upplev freestyle, utmana kompisarna i tävlingar, testa det senaste inom fotboll och upptäck fotbollskort, vintagetröjor och mycket mer. Säkra din biljett och upplev den bästa ",
+  "methode": "ical",
+  "quelle_id": "messe-stockholmsmassan",
+  "quelle_name": "Stockholmsmässan – Kalender",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2027-03-20|stockholmsmassan.se/kalender/kick-it-expo-2027",
+  "quellen": [
+   "messe-stockholmsmassan"
+  ],
+  "zuerst_gesehen": "2026-11-21",
   "erfasst_als": "intralogistex-2027",
   "entscheidung": ""
  },
@@ -19124,6 +18835,53 @@
   "entscheidung": ""
  },
  {
+  "titel": "Professional Woodworking Expo 2027 - Day 1",
+  "start": "2027-06-22",
+  "ende": "2027-06-22",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/professional-woodworking-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-06-22|thenec.co.uk/events/professional-woodworking-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": "metec-2027",
+  "entscheidung": ""
+ },
+ {
+  "titel": "World of QUANTUM 2027",
+  "start": "2027-06-22",
+  "ende": "2027-06-22",
+  "ort": "rld of QUANTUM 2027",
+  "land": "",
+  "online": false,
+  "url": "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/world-of-quantum-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "bayern-innovativ",
+  "quelle_name": "Bayern Innovativ – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-06-22|bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/world-of-quantum-2027",
+  "quellen": [
+   "bayern-innovativ"
+  ],
+  "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": "metec-2027",
+  "entscheidung": ""
+ },
+ {
   "titel": "InstallerSHOW 2027 - Day 2",
   "start": "2027-06-23",
   "ende": "2027-06-23",
@@ -19168,6 +18926,29 @@
    "messe-nec"
   ],
   "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": "metec-2027",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Professional Woodworking Expo 2027 - Day 2",
+  "start": "2027-06-23",
+  "ende": "2027-06-23",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/professional-woodworking-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-06-23|thenec.co.uk/events/professional-woodworking-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-21",
   "erfasst_als": "metec-2027",
   "entscheidung": ""
  },
@@ -19266,6 +19047,29 @@
    "messe-nec"
   ],
   "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": "metec-2027",
+  "entscheidung": ""
+ },
+ {
+  "titel": "Professional Woodworking Expo 2027 - Day 3",
+  "start": "2027-06-24",
+  "ende": "2027-06-24",
+  "ort": "The NEC",
+  "land": "",
+  "online": false,
+  "url": "https://www.thenec.co.uk/events/professional-woodworking-expo-2027/",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "messe-nec",
+  "quelle_name": "NEC Birmingham – What's on",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-06-24|thenec.co.uk/events/professional-woodworking-expo-2027",
+  "quellen": [
+   "messe-nec"
+  ],
+  "zuerst_gesehen": "2026-11-21",
   "erfasst_als": "metec-2027",
   "entscheidung": ""
  },
