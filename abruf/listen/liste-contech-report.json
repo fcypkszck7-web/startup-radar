@@ -2,13 +2,12 @@
  "quelle": "liste-contech-report",
  "name": "starting-up.de – ConTech-Start-up-Report 2026",
  "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
- "abgerufen": "2026-11-21",
+ "abgerufen": "2026-11-22",
  "koepfe": [
   "Highlights des Jahres",
   "Zum Newsletter per QR-Code",
   "Frage des Monats",
   "22.06.2026",
-  "Geld ist nichts für die Bank",
   "Drei klassische Fehler begünstigen den Wildwuchs",
   "To-Dos für Gründer*innen: So gelingt der strukturierte Rollout",
   "Fazit"
@@ -280,13 +279,23 @@
    "extern": false
   },
   {
-   "text": "HARTLICH Steuerberatung",
-   "url": "https://www.hartlich-steuerberatung.de/index.html",
+   "text": "Brandenburg Labs",
+   "url": "https://brandenburg-labs.com/",
+   "extern": true
+  },
+  {
+   "text": "Prof. Dr.-Ing. Karlheinz Brandenburg",
+   "url": "https://de.wikipedia.org/wiki/Karlheinz_Brandenburg",
+   "extern": true
+  },
+  {
+   "text": "Bundesagentur für Sprunginnovationen (SPRIND)",
+   "url": "https://www.sprind.org/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/fabian-hartlich-vom-start-up-zur-kanzlei-der-zukunft.html",
+   "url": "https://www.starting-up.de/ideen/unternehmer-typen/prof-karlheinz-brandenburg-vom-mp3-triumph-zur-audio-ar.html",
    "extern": false
   },
   {
@@ -297,6 +306,11 @@
   {
    "text": "Weiterlesen",
    "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/joe-gebbia-und-die-airbnb-story.html",
+   "extern": false
+  },
+  {
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/travis-kalanick-und-die-uber-story.html",
    "extern": false
   },
   {
@@ -330,8 +344,13 @@
    "extern": false
   },
   {
+   "text": "spiceboys",
+   "url": "https://www.spiceboys.shop/",
+   "extern": true
+  },
+  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/in-orbit-economy-der-wahre-milliardenmarkt-im-all.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiceboys-chai-latte-vibes-statt-kaesefuss.html",
    "extern": false
   },
   {
@@ -345,13 +364,18 @@
    "extern": false
   },
   {
-   "text": "Biodiversity Credits",
-   "url": "https://initiatives.weforum.org/financing-for-nature/biodiversitycreditsinitiative",
+   "text": "Reflip",
+   "url": "https://www.reflip.net/",
+   "extern": true
+  },
+  {
+   "text": "TTI Technologie-Transfer-Initiative GmbH",
+   "url": "https://www.tti-stuttgart.de/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/naturetech-start-ups-und-die-messbarkeits-illusion.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/reflip-die-europaeische-social-media-hoffnung.html",
    "extern": false
   },
   {
@@ -370,48 +394,58 @@
    "extern": false
   },
   {
-   "text": "MeNotPause",
-   "url": "https://www.menotpause.com/",
+   "text": "Nomado24",
+   "url": "https://www.nomado24.de/de",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/dr-saskia-appelhoff-reichweite-ist-nicht-wachstum.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/nomado24-ki-gegen-fake-remote.html",
    "extern": false
   },
   {
-   "text": "exist women",
-   "url": "https://exist.de/programm/women/",
+   "text": "QOODA",
+   "url": "https://www.qooda.io/",
+   "extern": true
+  },
+  {
+   "text": "BayStartUP-Wettbewerb",
+   "url": "https://www.baystartup.de/businessplan-wettbewerbe",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/drik-17-smartes-gadget-skalierbares-business.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/qooda-satelliten-blackout-als-geschaeftsmodell.html",
    "extern": false
   },
   {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/b2b-edtech-start-up-report.html",
-   "extern": false
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/savin-zinsen-statt-strom-schock.html",
-   "extern": false
-  },
-  {
-   "text": "BlueBranch",
-   "url": "https://www.bluebranch.de/",
-   "extern": true
-  },
-  {
-   "text": "App-Kosten-Rechner",
-   "url": "https://www.bluebranch.de/app-entwicklung-kosten-kalkulator",
+   "text": "Pfandpirat",
+   "url": "https://pfandpirat.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/apps/von-der-vibe-coding-idee-zur-launchfaehigen-app.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/pfandpirat-bootstrapping-auf-der-strasse.html",
+   "extern": false
+  },
+  {
+   "text": "Friday/Poppins",
+   "url": "https://www.fridaypoppins.de/",
+   "extern": true
+  },
+  {
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-friday/poppins-im-hr-aufraeumen-will.html",
+   "extern": false
+  },
+  {
+   "text": "Neurawork",
+   "url": "https://neurawork.ai/",
+   "extern": true
+  },
+  {
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/ki/step-by-step-zum-profitablen-ki-einsatz-im-start-up.html",
    "extern": false
   },
   {

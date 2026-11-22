@@ -1,51 +1,5 @@
 [
  {
-  "titel": "18. EffizienzTagung klimaneutral Bauen+Modernisieren",
-  "start": "2026-11-20",
-  "ende": "2026-11-21",
-  "ort": "Hannover Congress Centrum",
-  "land": "",
-  "online": false,
-  "url": "https://www.gih.de/veranstaltung/18-effizienztagung-klimaneutral-bauenmodernisieren/",
-  "veranstalter": "",
-  "kurz": "Gerade wenn sich manches wie ein Rückschritt anfühlt, braucht es Bewegung nach vorn. Die diesjährige EffizienzTagung bietet fachlichen Input und […] \\n",
-  "methode": "json-ld",
-  "quelle_id": "geb-energieberater",
-  "quelle_name": "GIH Energieberater – Veranstaltungen",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-20|gih.de/veranstaltung/18-effizienztagung-klimaneutral-bauenmodernisieren",
-  "quellen": [
-   "geb-energieberater"
-  ],
-  "zuerst_gesehen": "2026-11-18",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "CREATORS × VAGOVIC Launch Night",
-  "start": "2026-11-21",
-  "ende": "2026-11-21",
-  "ort": "CREATORS Space - Sternhöhe, Stuttgart",
-  "land": "",
-  "online": false,
-  "url": "https://www.startup-region-stuttgart.de/termine/creators-x-vagovic-launch-night/",
-  "veranstalter": "",
-  "kurz": "Am 21. November wird gefeiert. Ein neuer Anfang, Candy FUSE live, gute Musik, Games und ein paar Überraschungen.",
-  "methode": "json-ld",
-  "quelle_id": "startup-region-stuttgart",
-  "quelle_name": "Start-up-Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|startup-region-stuttgart.de/termine/creators-x-vagovic-launch-night",
-  "quellen": [
-   "startup-region-stuttgart"
-  ],
-  "zuerst_gesehen": "2026-11-18",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "Go International Business Meetings @ Expogast",
   "start": "2026-11-21",
   "ende": "2026-11-21",
@@ -767,6 +721,29 @@
   "entscheidung": ""
  },
  {
+  "titel": "GIH Berlin-Brandenburg Stammtisch (Regio-Treff) Berlin",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "AMRIT Restaurant Berlin Mitte, Oranienburger Straße 45, 10117 Berlin-Mitte",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/gih-berlin-brandenburg-stammtisch-regio-treff-berlin-4/",
+  "veranstalter": "",
+  "kurz": "Regiostammtisch zum Kennenlernen, Netzwerken, Gemeinsamkeiten entdecken – Unser Auftakt zum fachlichen Austausch. Die Teilnahme kostenfrei, Verzehr und Getränke gehen auf eigene […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-25|gih.de/veranstaltung/gih-berlin-brandenburg-stammtisch-regio-treff-berlin-4",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-22",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Introduction to Branding & Website Design",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -1311,6 +1288,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Ready for Take-off! Panorama-Pitch auf dem Stuttgarter Fernsehturm",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Fernsehnturm Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/ready-for-take-off-panorama-pitch-auf-dem-stuttgarter-fernsehturm/",
+  "veranstalter": "",
+  "kurz": "Auch 2026 laden wir zum Panorama Pitch ein – dem exklusiven Pitch-Event auf dem Stuttgarter Fernsehturm! Ausgewählte Start-ups aus dem Bereich Mobility & Industry präsentieren ihre innovativen Ideen und Technologien – ko",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation",
+   "Industrie & Fertigung"
+  ],
+  "schluessel": "2026-11-26|startup-region-stuttgart.de/termine/ready-for-take-off-panorama-pitch-auf-dem-stuttgarter-fernsehturm",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-20",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "The Art of Backing Yourself Up",
   "start": "2026-11-26",
   "ende": "2026-11-26",
@@ -1358,6 +1361,30 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: Terrains: Kritische Perspektiven und Methoden in Geographie, Anthropologie und Geschichte",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "H8",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/26-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-6",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/26-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-6",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-22",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -1813,6 +1840,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "IP-Praxis: Praxisbeispiele für IP-Strategien",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/ip-praxis-praxisbeispiele-fuer-ip-strategien",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-01|startupticker.ch/index.php/en/events/ip-praxis-praxisbeispiele-fuer-ip-strategien",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-22",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "STARTUP xpress CURRICULUM Advanced: Preisbildung, Revenue Streams, Monetarisierung und Lizensierung",
   "start": "2026-12-01",
   "ende": "2026-12-01",
@@ -2171,30 +2222,6 @@
   "ort": "",
   "land": "",
   "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3",
-  "veranstalter": "",
-  "kurz": "Online, 16:00-17:00 Uhr",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-12-08|digitale-oberpfalz.de/news-events/termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-17",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "English Tutorial: US Reimbursement Strategy – Getting Paid After FDA",
-  "start": "2026-12-08",
-  "ende": "2026-12-08",
-  "ort": "",
-  "land": "",
-  "online": true,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3",
   "veranstalter": "",
   "kurz": "Online, 16:00-17:00 Uhr",
@@ -2320,32 +2347,6 @@
   "ort": "sind diesbezüglich eure Stärken und Schwächen?",
   "land": "",
   "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1",
-  "veranstalter": "",
-  "kurz": "Online, 13:30 - 14:30 Uhr",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-12-09|digitale-oberpfalz.de/news-events/termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-17",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Tutorial: Pitchen vor Investoren – deine Startup-Story",
-  "start": "2026-12-09",
-  "ende": "2026-12-09",
-  "ort": "sind diesbezüglich eure Stärken und Schwächen?",
-  "land": "",
-  "online": true,
   "url": "https://www.techbase.de/news-termine/events-termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1",
   "veranstalter": "",
   "kurz": "Online, 13:30 - 14:30 Uhr",
@@ -2436,32 +2437,6 @@
    "oth-regensburg"
   ],
   "zuerst_gesehen": "2026-11-20",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Tutorial: Startup Valuation & Value Creation: Bewertung verstehen und gezielt steigern",
-  "start": "2026-12-10",
-  "ende": "2026-12-10",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/10/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1-1",
-  "veranstalter": "",
-  "kurz": "Online, 13:30 - 14:30 Uhr",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-12-10|digitale-oberpfalz.de/news-events/termine/detail/10/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1-1",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -2737,6 +2712,32 @@
    "gentner-events"
   ],
   "zuerst_gesehen": "2026-11-20",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "gate-Network: Female Founders Breakfast",
+  "start": "2027-01-15",
+  "ende": "2027-01-15",
+  "ort": "Garchinger Technologie- und Gründerzentrum GmbH, Garching bei München",
+  "land": "",
+  "online": false,
+  "url": "https://www.gruenderland.bayern/veranstaltungen/event/gate-network-female-founders-break/",
+  "veranstalter": "",
+  "kurz": "Meet entrepreneurs and female founders in a facilitated networking format",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "gruenderland-bayern",
+  "quelle_name": "Gründerland Bayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-01-15|gruenderland.bayern/veranstaltungen/event/gate-network-female-founders-break",
+  "quellen": [
+   "gruenderland-bayern"
+  ],
+  "zuerst_gesehen": "2026-11-22",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -3017,6 +3018,54 @@
   "entscheidung": ""
  },
  {
+  "titel": "Seminar: Vom Firmenaufbau zu den Planzahlen",
+  "start": "2027-04-20",
+  "ende": "2027-04-20",
+  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/20/4/2027/seminar-von-der-idee-zum-produkt-1-2",
+  "veranstalter": "",
+  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-20|digitale-oberpfalz.de/news-events/termine/detail/20/4/2027/seminar-von-der-idee-zum-produkt-1-2",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-22",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Seminar: Von den Planzahlen zur Wirklichkeit",
+  "start": "2027-04-27",
+  "ende": "2027-04-27",
+  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/27/4/2027/seminar-von-der-idee-zum-produkt-1-3",
+  "veranstalter": "",
+  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-04-27|digitale-oberpfalz.de/news-events/termine/detail/27/4/2027/seminar-von-der-idee-zum-produkt-1-3",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-22",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Unternehmerreise nach Norditalien mit Staatssekretär Tobias Gotthardt",
   "start": "2027-04-27",
   "ende": "2027-04-30",
@@ -3086,6 +3135,80 @@
    "messe-stockholmsmassan"
   ],
   "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Seminar: Von der Wirklichkeit in die Virtualität",
+  "start": "2027-05-04",
+  "ende": "2027-05-04",
+  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/4/5/2027/seminar-von-der-idee-zum-produkt-1-4",
+  "veranstalter": "",
+  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-05-04|digitale-oberpfalz.de/news-events/termine/detail/4/5/2027/seminar-von-der-idee-zum-produkt-1-4",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-22",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Spezialseminar: Betriebsübernahme und -nachfolge",
+  "start": "2027-05-11",
+  "ende": "2027-05-11",
+  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/11/5/2027/seminar-von-der-idee-zum-produkt-1-5",
+  "veranstalter": "",
+  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-05-11|digitale-oberpfalz.de/news-events/termine/detail/11/5/2027/seminar-von-der-idee-zum-produkt-1-5",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-22",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Spezialseminar: Gründen im Nebenerwerb",
+  "start": "2027-05-13",
+  "ende": "2027-05-13",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/13/5/2027/seminar-von-der-idee-zum-produkt-1-6",
+  "veranstalter": "",
+  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-05-13|digitale-oberpfalz.de/news-events/termine/detail/13/5/2027/seminar-von-der-idee-zum-produkt-1-6",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-22",
   "erfasst_als": null,
   "entscheidung": ""
  },

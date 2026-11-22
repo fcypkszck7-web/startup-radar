@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-21",
+  "geholt": "2026-11-22",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -35258,8 +35258,8 @@
      "dgo-termine"
     ],
     "zuerst_gesehen": "2026-11-10",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "seminar-vom-produkt-zum-markt-2027",
+    "entscheidung": "aufgenommen: seminar-vom-produkt-zum-markt-2027"
    }
   ],
   "v": 2
@@ -41690,8 +41690,8 @@
      "dgo-termine"
     ],
     "zuerst_gesehen": "2026-11-14",
-    "erfasst_als": null,
-    "entscheidung": ""
+    "erfasst_als": "seminar-vom-markt-zum-firmenaufbau-2027",
+    "entscheidung": "aufgenommen: seminar-vom-markt-zum-firmenaufbau-2027"
    }
   ],
   "v": 2
@@ -48712,6 +48712,362 @@
     "zuerst_gesehen": "2026-11-21",
     "erfasst_als": "metec-2027",
     "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/20/4/2027/seminar-von-der-idee-zum-produkt-1-2": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "Seminar: Vom Firmenaufbau zu den Planzahlen",
+    "start": "2027-04-20",
+    "ende": "2027-04-20",
+    "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/20/4/2027/seminar-von-der-idee-zum-produkt-1-2",
+    "veranstalter": "",
+    "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-04-20|digitale-oberpfalz.de/news-events/termine/detail/20/4/2027/seminar-von-der-idee-zum-produkt-1-2",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-22",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/26-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-6": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "Veranstaltung: Terrains: Kritische Perspektiven und Methoden in Geographie, Anthropologie und Geschichte",
+    "start": "2026-11-26",
+    "ende": "2026-11-26",
+    "ort": "H8",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/26-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-6",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-26|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/26-11-2026_terrains-kritische-perspektiven-und-methoden-in-geographie-anthropologie-und-geschichte-6",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-22",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/27/4/2027/seminar-von-der-idee-zum-produkt-1-3": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "Seminar: Von den Planzahlen zur Wirklichkeit",
+    "start": "2027-04-27",
+    "ende": "2027-04-27",
+    "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/27/4/2027/seminar-von-der-idee-zum-produkt-1-3",
+    "veranstalter": "",
+    "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-04-27|digitale-oberpfalz.de/news-events/termine/detail/27/4/2027/seminar-von-der-idee-zum-produkt-1-3",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-22",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/4/5/2027/seminar-von-der-idee-zum-produkt-1-4": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "Seminar: Von der Wirklichkeit in die Virtualität",
+    "start": "2027-05-04",
+    "ende": "2027-05-04",
+    "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+    "land": "",
+    "online": true,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/4/5/2027/seminar-von-der-idee-zum-produkt-1-4",
+    "veranstalter": "",
+    "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-05-04|digitale-oberpfalz.de/news-events/termine/detail/4/5/2027/seminar-von-der-idee-zum-produkt-1-4",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-22",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/11/5/2027/seminar-von-der-idee-zum-produkt-1-5": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "Spezialseminar: Betriebsübernahme und -nachfolge",
+    "start": "2027-05-11",
+    "ende": "2027-05-11",
+    "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/11/5/2027/seminar-von-der-idee-zum-produkt-1-5",
+    "veranstalter": "",
+    "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-05-11|digitale-oberpfalz.de/news-events/termine/detail/11/5/2027/seminar-von-der-idee-zum-produkt-1-5",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-22",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/12/5/2027/jobtech-2027-die-jobmesse-der-techbase": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "JOBTECH 2027 - die Jobmesse der TechBase",
+    "start": "2027-05-12",
+    "ende": "2027-05-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/12/5/2027/jobtech-2027-die-jobmesse-der-techbase",
+    "veranstalter": "",
+    "kurz": "TechBase Regensburg, 12:00 - 16:00 Uhr",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-05-12|digitale-oberpfalz.de/news-events/termine/detail/12/5/2027/jobtech-2027-die-jobmesse-der-techbase",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-22",
+    "erfasst_als": "ligna-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/622013": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.digitale-oberpfalz.de/news-events/termine/detail/13/5/2027/seminar-von-der-idee-zum-produkt-1-6": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "Spezialseminar: Gründen im Nebenerwerb",
+    "start": "2027-05-13",
+    "ende": "2027-05-13",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/13/5/2027/seminar-von-der-idee-zum-produkt-1-6",
+    "veranstalter": "",
+    "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "dgo-termine",
+    "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-05-13|digitale-oberpfalz.de/news-events/termine/detail/13/5/2027/seminar-von-der-idee-zum-produkt-1-6",
+    "quellen": [
+     "dgo-termine"
+    ],
+    "zuerst_gesehen": "2026-11-22",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/610987": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/535111": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620389": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620945": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/552254": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/gate-network-female-founders-break/": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "gate-Network: Female Founders Breakfast",
+    "start": "2027-01-15",
+    "ende": "2027-01-15",
+    "ort": "Garchinger Technologie- und Gründerzentrum GmbH, Garching bei München",
+    "land": "",
+    "online": false,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/gate-network-female-founders-break/",
+    "veranstalter": "",
+    "kurz": "Meet entrepreneurs and female founders in a facilitated networking format",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2027-01-15|gruenderland.bayern/veranstaltungen/event/gate-network-female-founders-break",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-22",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/599988": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620721": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620632": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/552255": {
+  "geholt": "2026-11-22",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/ip-praxis-praxisbeispiele-fuer-ip-strategien": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "IP-Praxis: Praxisbeispiele für IP-Strategien",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/ip-praxis-praxisbeispiele-fuer-ip-strategien",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-01|startupticker.ch/index.php/en/events/ip-praxis-praxisbeispiele-fuer-ip-strategien",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-22",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795322170-c0dc1fdf6": {
+  "geholt": "2026-11-22",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2026-12-07",
+    "ende": "2026-12-07",
+    "ort": "Termin",
+    "land": "",
+    "online": true,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795322170-c0dc1fdf6",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
    }
   ],
   "v": 2

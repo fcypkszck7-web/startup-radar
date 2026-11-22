@@ -2,14 +2,14 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-21",
+ "abgerufen": "2026-11-22",
  "koepfe": [
   "Top Beiträge",
+  "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
+  "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
+  "Air-India-Absturz: Ermittler stehen vor dem Abschluss, doch eine Frage bleibt",
   "311 m Brücke, 950 t Stahl, doch dann machte der Rhein nicht mit",
   "Über 1500 t schwer, 152 m lang: Zwei deutsche Tunnelbohrer graben auf New York zu",
-  "Winzige Schwarze Löcher könnten den Kosmos ein zweites Mal erhitzt haben",
-  "10 Stunden Strom ohne Lithium: Deutsche Batterie geht nach Kalifornien",
-  "IEA: Irankrieg verändert die Energiewelt dauerhaft",
   "Bautechnik und mehr",
   "1. Bauprojekt-Management",
   "2. Baustoffe und -elemente",
@@ -34,11 +34,11 @@
   "Top Stellenanzeigen",
   "Weitere Artikel",
   "Sie ist nur 23 cm groß und sucht selbstständig nach Rissen in Brücken",
+  "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
+  "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
+  "Air-India-Absturz: Ermittler stehen vor dem Abschluss, doch eine Frage bleibt",
   "311 m Brücke, 950 t Stahl, doch dann machte der Rhein nicht mit",
   "Über 1500 t schwer, 152 m lang: Zwei deutsche Tunnelbohrer graben auf New York zu",
-  "Winzige Schwarze Löcher könnten den Kosmos ein zweites Mal erhitzt haben",
-  "10 Stunden Strom ohne Lithium: Deutsche Batterie geht nach Kalifornien",
-  "IEA: Irankrieg verändert die Energiewelt dauerhaft",
   "Firmenprofile"
  ],
  "links": [
@@ -50,6 +50,36 @@
   {
    "text": "Digitalisierung Bau",
    "url": "https://www.ingenieur.de/digitalisierung-bau/",
+   "extern": false
+  },
+  {
+   "text": "Raumfahrt",
+   "url": "https://www.ingenieur.de/raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
+   "url": "https://www.ingenieur.de/26-000-km-h-neuer-schutzschild-soll-astronauten-vor-weltraumschrott-schuetzen-138c9ff1-d369-490b-b338-f2d1623cec99/",
+   "extern": false
+  },
+  {
+   "text": "Naturwissenschaften",
+   "url": "https://www.ingenieur.de/naturwissenschaften/",
+   "extern": false
+  },
+  {
+   "text": "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
+   "url": "https://www.ingenieur.de/riemannsche-vermutung-hat-ki-das-groesste-mathe-raetsel-nach-167-jahren-geloest-134e428c-97fd-4992-ac52-45e3ed87b957/",
+   "extern": false
+  },
+  {
+   "text": "Luft- & Raumfahrt",
+   "url": "https://www.ingenieur.de/luft-raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Air-India-Absturz: Ermittler stehen vor dem Abschluss, doch eine Frage bleibt",
+   "url": "https://www.ingenieur.de/air-india-absturz-ermittler-stehen-vor-dem-abschluss-doch-eine-frage-bleibt-8611fe76-9995-4087-ae19-219afae239f4/",
    "extern": false
   },
   {
@@ -70,36 +100,6 @@
   {
    "text": "Über 1500 t schwer, 152 m lang: Zwei deutsche Tunnelbohrer graben auf New York zu",
    "url": "https://www.ingenieur.de/ueber-1500-t-schwer-152-m-lang-zwei-riesenmaschinen-graben-auf-new-york-zu-eda4eb99-ef6f-4697-8e60-787def72cb3c/",
-   "extern": false
-  },
-  {
-   "text": "Naturwissenschaften",
-   "url": "https://www.ingenieur.de/naturwissenschaften/",
-   "extern": false
-  },
-  {
-   "text": "Winzige Schwarze Löcher könnten den Kosmos ein zweites Mal erhitzt haben",
-   "url": "https://www.ingenieur.de/winzige-schwarze-loecher-koennten-den-kosmos-ein-zweites-mal-erhitzt-haben-3caaf1b6-ec36-46a0-a939-6ec9e0a8e8ba/",
-   "extern": false
-  },
-  {
-   "text": "Energiespeicher",
-   "url": "https://www.ingenieur.de/energiespeicher/",
-   "extern": false
-  },
-  {
-   "text": "10 Stunden Strom ohne Lithium: Deutsche Batterie geht nach Kalifornien",
-   "url": "https://www.ingenieur.de/zehn-stunden-strom-ohne-lithium-deutsche-batterie-geht-nach-kalifornien-1169b063-14a4-4e6c-87be-c4e02916a0aa/",
-   "extern": false
-  },
-  {
-   "text": "Energie",
-   "url": "https://www.ingenieur.de/energie/",
-   "extern": false
-  },
-  {
-   "text": "IEA: Irankrieg verändert die Energiewelt dauerhaft",
-   "url": "https://www.ingenieur.de/iea-energy-outlook-2026-936bb0bd-f1d0-4599-b335-f7c50ce96d23/",
    "extern": false
   },
   {
@@ -298,6 +298,36 @@
    "extern": false
   },
   {
+   "text": "Raumfahrt",
+   "url": "https://www.ingenieur.de/raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
+   "url": "https://www.ingenieur.de/26-000-km-h-neuer-schutzschild-soll-astronauten-vor-weltraumschrott-schuetzen-138c9ff1-d369-490b-b338-f2d1623cec99/",
+   "extern": false
+  },
+  {
+   "text": "Naturwissenschaften",
+   "url": "https://www.ingenieur.de/naturwissenschaften/",
+   "extern": false
+  },
+  {
+   "text": "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
+   "url": "https://www.ingenieur.de/riemannsche-vermutung-hat-ki-das-groesste-mathe-raetsel-nach-167-jahren-geloest-134e428c-97fd-4992-ac52-45e3ed87b957/",
+   "extern": false
+  },
+  {
+   "text": "Luft- & Raumfahrt",
+   "url": "https://www.ingenieur.de/luft-raumfahrt/",
+   "extern": false
+  },
+  {
+   "text": "Air-India-Absturz: Ermittler stehen vor dem Abschluss, doch eine Frage bleibt",
+   "url": "https://www.ingenieur.de/air-india-absturz-ermittler-stehen-vor-dem-abschluss-doch-eine-frage-bleibt-8611fe76-9995-4087-ae19-219afae239f4/",
+   "extern": false
+  },
+  {
    "text": "Bau",
    "url": "https://www.ingenieur.de/bau/",
    "extern": false
@@ -318,53 +348,43 @@
    "extern": false
   },
   {
-   "text": "Naturwissenschaften",
-   "url": "https://www.ingenieur.de/naturwissenschaften/",
-   "extern": false
-  },
-  {
-   "text": "Winzige Schwarze Löcher könnten den Kosmos ein zweites Mal erhitzt haben",
-   "url": "https://www.ingenieur.de/winzige-schwarze-loecher-koennten-den-kosmos-ein-zweites-mal-erhitzt-haben-3caaf1b6-ec36-46a0-a939-6ec9e0a8e8ba/",
-   "extern": false
-  },
-  {
-   "text": "Energiespeicher",
-   "url": "https://www.ingenieur.de/energiespeicher/",
-   "extern": false
-  },
-  {
-   "text": "10 Stunden Strom ohne Lithium: Deutsche Batterie geht nach Kalifornien",
-   "url": "https://www.ingenieur.de/zehn-stunden-strom-ohne-lithium-deutsche-batterie-geht-nach-kalifornien-1169b063-14a4-4e6c-87be-c4e02916a0aa/",
-   "extern": false
-  },
-  {
-   "text": "Energie",
-   "url": "https://www.ingenieur.de/energie/",
-   "extern": false
-  },
-  {
-   "text": "IEA: Irankrieg verändert die Energiewelt dauerhaft",
-   "url": "https://www.ingenieur.de/iea-energy-outlook-2026-936bb0bd-f1d0-4599-b335-f7c50ce96d23/",
-   "extern": false
-  },
-  {
    "text": "Alle Arbeitgeber",
    "url": "https://www.ingenieur.de/firmenprofile/",
    "extern": false
   },
   {
-   "text": "Quantum-Systems GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/quantum-systems-gmbh/",
+   "text": "Windmöller & Hölscher KG",
+   "url": "https://www.ingenieur.de/firmenprofile/windmoeller-hoelscher-kg/",
    "extern": false
   },
   {
-   "text": "Region Mainfranken GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/region-mainfranken-gmbh/",
+   "text": "Flex Automotive GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/flex-automotive-gmbh/",
    "extern": false
   },
   {
-   "text": "SKF Deutschland",
-   "url": "https://www.ingenieur.de/firmenprofile/skf-deutschland/",
+   "text": "Linde AG Engineering Division",
+   "url": "https://www.ingenieur.de/firmenprofile/linde-ag-engineering-division/",
+   "extern": false
+  },
+  {
+   "text": "Drees & Sommer",
+   "url": "https://www.ingenieur.de/firmenprofile/drees-sommer/",
+   "extern": false
+  },
+  {
+   "text": "ASML Berlin GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/asml-berlin-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "ITK Engineering GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/itk-engineering-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "EPLAN Software & Service GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/eplan-software-service-gmbh-co-kg/",
    "extern": false
   },
   {
@@ -373,43 +393,23 @@
    "extern": false
   },
   {
-   "text": "ALTANA AG",
-   "url": "https://www.ingenieur.de/firmenprofile/altana-ag/",
+   "text": "IGS Ingenieure GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/igs-ingenieure-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "Deutsche Energie-Agentur GmbH (dena)",
-   "url": "https://www.ingenieur.de/firmenprofile/deutsche-energie-agentur-gmbh-dena/",
+   "text": "telent GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/telent-gmbh/",
    "extern": false
   },
   {
-   "text": "Mitsubishi Electric Europe B.V. Industrial Automation",
-   "url": "https://www.ingenieur.de/firmenprofile/mitsubishi-electric-europe-b-v-industrial-automation/",
+   "text": "Bundesamt für Bauwesen und Raumordnung",
+   "url": "https://www.ingenieur.de/firmenprofile/bundesamt-fuer-bauwesen-und-raumordnung/",
    "extern": false
   },
   {
-   "text": "KLEUSBERG GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/kleusberg-gmbh-co-kg/",
-   "extern": false
-  },
-  {
-   "text": "ZCC Cutting Tools Europe GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/zcc-cutting-tools-europe-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "ALTEN GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/alten-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "WOLFF & MÜLLER Holding GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/wolff-mueller-holding-gmbh-co-kg/",
-   "extern": false
-  },
-  {
-   "text": "Bürkert Fluid Control Systems",
-   "url": "https://www.ingenieur.de/firmenprofile/buerkert-fluid-control-systems/",
+   "text": "BASF",
+   "url": "https://www.ingenieur.de/firmenprofile/basf/",
    "extern": false
   }
  ],
