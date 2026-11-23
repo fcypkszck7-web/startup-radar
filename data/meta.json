@@ -1,17 +1,17 @@
 {
  "titel": "Start-up- & Event-Radar",
  "site_url": "https://fcypkszck7-web.github.io/startup-radar/",
- "stand": "2026-11-16",
+ "stand": "2026-11-23",
  "aenderungen": [
-  "Wöchentliche Aktualisierung am 16.11.2026: 56 neue Termine aus dem Kalenderabruf (u. a. ESPC 2026 in Amsterdam, Fuels of the Future 2027, Kemnather Gründungsnacht, Solarplaza Summits Rumänien und Polen, Seminare der Energieberater und Handwerkskammern), 95 Kandidaten ohne Branchenbezug abgelehnt.",
-  "20 weitere Termine aus Terminzeilen und Lückencheck ergänzt, darunter 12 Fachmessen und Fachkongresse in DACH als geschätzte Termine (u. a. Fastener Fair Stuttgart, ALUMINIUM 2027, Perimeter Protection, f-cell, BIOGAS Convention) sowie Formate der Wirtschaftsagentur Wien.",
-  "5 neue Start-ups (Capmo, Nanolope, Hyperion Robotics, LAYERED, Hempstatic); 6 Termine der nächsten 30 Tage bzw. Fristen bestätigt (u. a. BIM World MUNICH, SPS, ROOF EXPO, Slush, Call for Abstracts The smarter E Europe); 51 Termine ins Archiv verschoben."
+  "Wöchentliche Aktualisierung am 23.11.2026: 46 neue Termine, davon 42 aus dem Kalenderabruf (u. a. Road to START Summit, Circular Republic Festival 2027, AECO Hackathon zur BAU 2027, Panorama-Pitch Stuttgart, Third Circular Industry Forum Lausanne, Online-Seminar VDI 4645) und 4 aus der Websuche (u. a. EPFL Investor Day, Wohnungsgenossenschaftliche Tagung Nürnberg, Hardware 2027 Luzern).",
+  "7 neue Start-ups (Vetaion, Nomadic, Bees & Bears, Intergrid, Conlio, Drystack, tozero) und 6 neue Finanzierungsrunden.",
+  "21 Termine der nächsten Wochen bestätigt; BIOGAS Convention (Kassel) vom geschätzten zum bestätigten Termin, StartUP Factory Regensburg auf drei Tage (26.–28.11.) korrigiert; 88 Abruf-Kandidaten ohne Branchenbezug abgelehnt; 68 Termine ins Archiv verschoben."
  ],
  "anzahl": {
-  "events_aktiv": 416,
-  "events_archiv": 104,
-  "startups": 120,
-  "runden": 51,
+  "events_aktiv": 394,
+  "events_archiv": 172,
+  "startups": 127,
+  "runden": 57,
   "investoren": 13
  }
 }

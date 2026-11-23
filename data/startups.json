@@ -3248,6 +3248,48 @@
   "letzte_runde": null
  },
  {
+  "relevanz": 1,
+  "aufwand": 3,
+  "geprueft": "2026-11-23",
+  "herkunft": "websuche",
+  "investoren_weitere": [],
+  "id": "bees-and-bears",
+  "name": "Bees & Bears",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "gruendung": "2023",
+  "loesung": "Finanzierungsplattform, die Rechnungen für Solar- und Wärmepumpenanlagen ankauft, damit Installationsbetriebe früher bezahlt werden und Haushalte in Raten zahlen.",
+  "branchen": [
+   "Energie & Solar",
+   "Handwerk"
+  ],
+  "quelle": "https://dealroom.co/news/173986-bees-bears-lands-1-2b-facility-to-finance-solar-and-heat-pump-bills/",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "finanzierung": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [],
+  "runden_ids": [
+   "bees-and-bears-fazilitaet-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-11-18",
+   "runde": "Forderungsankauf-Fazilität (Fremdkapital)",
+   "betrag": "bis zu 1,2 Mrd. € pro Jahr"
+  }
+ },
+ {
   "id": "conxai",
   "name": "CONXAI",
   "sitz": "München",
@@ -3282,6 +3324,93 @@
   "investoren_alle": [],
   "runden_ids": [],
   "letzte_runde": null
+ },
+ {
+  "relevanz": 1,
+  "aufwand": 3,
+  "geprueft": "2026-11-23",
+  "herkunft": "websuche",
+  "investoren_weitere": [],
+  "id": "conlio",
+  "name": "Conlio",
+  "sitz": "Berlin",
+  "region": "Deutschland",
+  "land": "DE",
+  "loesung": "KI-Software, die Frachtdokumente und Rechnungen im Straßengüterverkehr automatisch prüft.",
+  "branchen": [
+   "Logistik & Handel",
+   "Software, KI & Daten"
+  ],
+  "finanzierung": "6,4 Mio. € (Nov. 2026)",
+  "quelle": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/conlio-erhaelt-millionen-fuer-ki-in-der-transportlogistik-3930576",
+  "gruendung": "",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": [
+   52.52,
+   13.405
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [
+   "Piton Capital"
+  ],
+  "runden_ids": [
+   "conlio-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-11-03",
+   "runde": "nicht angegeben",
+   "betrag": "6,4 Mio. €"
+  }
+ },
+ {
+  "relevanz": 1,
+  "aufwand": 3,
+  "geprueft": "2026-11-23",
+  "herkunft": "websuche",
+  "investoren_weitere": [],
+  "id": "drystack",
+  "name": "Drystack",
+  "sitz": "Heerhugowaard",
+  "region": "Europa",
+  "land": "NL",
+  "loesung": "Mörtelfreies Stecksystem für Mauersteine, damit Fassadenziegel später wiederverwendet werden können.",
+  "branchen": [
+   "Bau & Immobilien",
+   "Dach & Gebäudehülle",
+   "Material & Kreislauf"
+  ],
+  "finanzierung": "2 Mio. € (Nov. 2026)",
+  "quelle": "https://bricks-bytes.com/funding-ma/latest-construction-technology-funding-rounds-16th-nov-2026/",
+  "gruendung": "",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
+  "geo": null,
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [
+   "ROM InWest",
+   "TBI Zebra"
+  ],
+  "runden_ids": [
+   "drystack-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-11-04",
+   "runde": "nicht angegeben",
+   "betrag": "2 Mio. €"
+  }
  },
  {
   "id": "duramea",
@@ -3643,6 +3772,54 @@
   "letzte_runde": null
  },
  {
+  "relevanz": 1,
+  "aufwand": 3,
+  "geprueft": "2026-11-23",
+  "herkunft": "websuche",
+  "investoren_weitere": [],
+  "id": "intergrid",
+  "name": "Intergrid",
+  "sitz": "Helsinki",
+  "region": "Europa",
+  "land": "FI",
+  "gruendung": "2023",
+  "loesung": "Software, die den Energiebetrieb von Industrieanlagen selbstständig steuert – von der Wahl der Energiequelle bis zum Stromhandel.",
+  "branchen": [
+   "Energie & Solar",
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
+  ],
+  "website": "https://www.intergridsystems.com",
+  "finanzierung": "23,5 Mio. € (Nov. 2026)",
+  "quelle": "https://tech.eu/2026/11/16/intergrid-secures-eur235m-to-power-autonomous-industrial-energy-operations/",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "anbindung": "",
+  "kooperation": "",
+  "geo": [
+   60.201,
+   24.938
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [
+   "Kvanted",
+   "Tesi",
+   "Business Finland",
+   "Finnvera"
+  ],
+  "runden_ids": [
+   "intergrid-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-11-16",
+   "runde": "nicht angegeben",
+   "betrag": "23,5 Mio. €"
+  }
+ },
+ {
   "id": "kinexon",
   "name": "KINEXON",
   "sitz": "München",
@@ -3786,6 +3963,53 @@
   "investoren_alle": [],
   "runden_ids": [],
   "letzte_runde": null
+ },
+ {
+  "relevanz": 1,
+  "aufwand": 3,
+  "geprueft": "2026-11-23",
+  "herkunft": "websuche",
+  "investoren_weitere": [],
+  "id": "nomadic",
+  "name": "Nomadic",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "gruendung": "2024",
+  "loesung": "Drohnen, die auf Hochspannungsleitungen landen, sich dort induktiv aufladen und Engpässe im Stromnetz erkennen.",
+  "branchen": [
+   "Energie & Solar",
+   "Software, KI & Daten"
+  ],
+  "website": "https://www.nomadicdrone.com",
+  "reifegrad": "Seed",
+  "finanzierung": "rund 6 Mio. US-$ Seed (Nov. 2026)",
+  "quelle": "https://www.munich-startup.de/en/news/nomadic-raises-e5-5-million-for-power-grid-technology",
+  "suchfeld": "",
+  "mehrwert": "",
+  "anbindung": "",
+  "kooperation": "",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [
+   "Foundamental",
+   "Verve Ventures",
+   "Cyan Ventures",
+   "Outlander VC"
+  ],
+  "runden_ids": [
+   "nomadic-seed-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-11-17",
+   "runde": "Seed",
+   "betrag": "6 Mio. US-$"
+  }
  },
  {
   "id": "onsite-solutions",
@@ -4113,6 +4337,53 @@
   "investoren_alle": [],
   "runden_ids": [],
   "letzte_runde": null
+ },
+ {
+  "relevanz": 1,
+  "aufwand": 3,
+  "geprueft": "2026-11-23",
+  "herkunft": "websuche",
+  "investoren_weitere": [],
+  "id": "vetaion",
+  "name": "Vetaion",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "loesung": "Software und Robotik, die Schaltpläne in 3D-Modelle übersetzt und den Bau individueller Schaltschränke automatisiert.",
+  "branchen": [
+   "Industrie & Fertigung",
+   "Software, KI & Daten"
+  ],
+  "website": "https://vetaion.com",
+  "reifegrad": "Pre-Seed",
+  "finanzierung": "5,7 Mio. € Pre-Seed (Nov. 2026)",
+  "quelle": "https://www.munich-startup.de/en/news/vetaion-automates-control-cabinet-manufacturing-with-e5-7-million",
+  "gruendung": "",
+  "suchfeld": "",
+  "mehrwert": "",
+  "anbindung": "",
+  "kooperation": "",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [
+   "Visionaries Tomorrow",
+   "UVC Partners",
+   "2100 VC",
+   "Viessmann Generations Group"
+  ],
+  "runden_ids": [
+   "vetaion-pre-seed-2026"
+  ],
+  "letzte_runde": {
+   "datum": "2026-11-19",
+   "runde": "Pre-Seed",
+   "betrag": "5,7 Mio. €"
+  }
  },
  {
   "id": "visioplan",
@@ -4535,6 +4806,42 @@
    "Software, KI & Daten"
   ],
   "herkunft": "abruf:firmen-bayern-listen",
+  "geo": [
+   48.1374,
+   11.5755
+  ],
+  "prioritaet": "C",
+  "quickwin": false,
+  "fokus": false,
+  "investoren_alle": [],
+  "runden_ids": [],
+  "letzte_runde": null
+ },
+ {
+  "relevanz": 1,
+  "aufwand": 3,
+  "geprueft": "2026-11-23",
+  "herkunft": "websuche",
+  "investoren_weitere": [],
+  "id": "tozero",
+  "name": "tozero",
+  "sitz": "München",
+  "region": "Bayern",
+  "land": "DE",
+  "loesung": "Recycling von Lithium und weiteren Rohstoffen aus Altbatterien mit einem wasserbasierten Verfahren.",
+  "branchen": [
+   "Material & Kreislauf",
+   "Energie & Solar"
+  ],
+  "quelle": "https://electrive.com/2026/11/11/tozero-announces-first-delivery-of-recycled-lithium-carbonate-to-customers",
+  "gruendung": "",
+  "suchfeld": "",
+  "mehrwert": "",
+  "reifegrad": "",
+  "finanzierung": "",
+  "anbindung": "",
+  "kooperation": "",
+  "website": null,
   "geo": [
    48.1374,
    11.5755

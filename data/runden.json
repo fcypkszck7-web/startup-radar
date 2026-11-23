@@ -1,5 +1,143 @@
 [
  {
+  "art": "Finanzierungsrunde",
+  "geprueft": "2026-11-23",
+  "id": "vetaion-pre-seed-2026",
+  "datum": "2026-11-19",
+  "runde": "Pre-Seed",
+  "unternehmen": "Vetaion",
+  "startup_id": "vetaion",
+  "sitz": "München",
+  "land": "DE",
+  "thema": "Automatisierung im Schaltschrankbau",
+  "betrag": "5,7 Mio. €",
+  "betrag_mio_eur": 5.7,
+  "lead": [
+   "Visionaries Tomorrow",
+   "UVC Partners"
+  ],
+  "investoren": [
+   "Visionaries Tomorrow",
+   "UVC Partners",
+   "2100 VC",
+   "Viessmann Generations Group"
+  ],
+  "kurz": "Robotik und Software für den automatisierten Bau von Schaltschränken.",
+  "quelle": "https://www.munich-startup.de/en/news/vetaion-automates-control-cabinet-manufacturing-with-e5-7-million"
+ },
+ {
+  "art": "Finanzierungsrunde",
+  "geprueft": "2026-11-23",
+  "id": "bees-and-bears-fazilitaet-2026",
+  "datum": "2026-11-18",
+  "runde": "Forderungsankauf-Fazilität (Fremdkapital)",
+  "unternehmen": "Bees & Bears",
+  "startup_id": "bees-and-bears",
+  "sitz": "Berlin",
+  "land": "DE",
+  "thema": "Finanzierung von Solar und Wärmepumpen",
+  "betrag": "bis zu 1,2 Mrd. € pro Jahr",
+  "betrag_mio_eur": null,
+  "lead": [],
+  "investoren": [],
+  "kurz": "Fremdkapitalrahmen eines nicht genannten institutionellen Investors zum Ankauf von Kundenforderungen.",
+  "quelle": "https://dealroom.co/news/173986-bees-bears-lands-1-2b-facility-to-finance-solar-and-heat-pump-bills/"
+ },
+ {
+  "art": "Finanzierungsrunde",
+  "geprueft": "2026-11-23",
+  "id": "nomadic-seed-2026",
+  "datum": "2026-11-17",
+  "runde": "Seed",
+  "unternehmen": "Nomadic",
+  "startup_id": "nomadic",
+  "sitz": "München",
+  "land": "DE",
+  "thema": "Netzinfrastruktur",
+  "betrag": "6 Mio. US-$",
+  "betrag_mio_eur": null,
+  "lead": [
+   "Foundamental"
+  ],
+  "investoren": [
+   "Foundamental",
+   "Verve Ventures",
+   "Cyan Ventures",
+   "Outlander VC"
+  ],
+  "kurz": "Selbstladende Inspektionsdrohnen für Stromnetze.",
+  "quelle": "https://tech.eu/2026/11/17/nomadic-bags-6m-to-deploy-self-charging-drones-that-spot-weak-points-in-power-grids/"
+ },
+ {
+  "art": "Finanzierungsrunde",
+  "geprueft": "2026-11-23",
+  "id": "intergrid-2026",
+  "datum": "2026-11-16",
+  "runde": "nicht angegeben",
+  "unternehmen": "Intergrid",
+  "startup_id": "intergrid",
+  "sitz": "Helsinki",
+  "land": "FI",
+  "thema": "Industrielles Energiemanagement",
+  "betrag": "23,5 Mio. €",
+  "betrag_mio_eur": 23.5,
+  "lead": [
+   "Kvanted",
+   "Tesi"
+  ],
+  "investoren": [
+   "Kvanted",
+   "Tesi",
+   "Business Finland",
+   "Finnvera"
+  ],
+  "kurz": "Autonome Steuerung industrieller Energieanlagen; inkl. Förder- und Darlehensmitteln.",
+  "quelle": "https://tech.eu/2026/11/16/intergrid-secures-eur235m-to-power-autonomous-industrial-energy-operations/"
+ },
+ {
+  "art": "Finanzierungsrunde",
+  "geprueft": "2026-11-23",
+  "id": "drystack-2026",
+  "datum": "2026-11-04",
+  "runde": "nicht angegeben",
+  "unternehmen": "Drystack",
+  "startup_id": "drystack",
+  "sitz": "Heerhugowaard",
+  "land": "NL",
+  "thema": "Zirkuläre Fassaden",
+  "betrag": "2 Mio. €",
+  "betrag_mio_eur": 2,
+  "lead": [],
+  "investoren": [
+   "ROM InWest",
+   "TBI Zebra"
+  ],
+  "kurz": "Mörtelfreie, wiederverwendbare Mauersysteme.",
+  "quelle": "https://bricks-bytes.com/funding-ma/latest-construction-technology-funding-rounds-16th-nov-2026/"
+ },
+ {
+  "art": "Finanzierungsrunde",
+  "geprueft": "2026-11-23",
+  "id": "conlio-2026",
+  "datum": "2026-11-03",
+  "runde": "nicht angegeben",
+  "unternehmen": "Conlio",
+  "startup_id": "conlio",
+  "sitz": "Berlin",
+  "land": "DE",
+  "thema": "KI in der Transportlogistik",
+  "betrag": "6,4 Mio. €",
+  "betrag_mio_eur": 6.4,
+  "lead": [
+   "Piton Capital"
+  ],
+  "investoren": [
+   "Piton Capital"
+  ],
+  "kurz": "KI-Prüfung von Frachtdokumenten und Rechnungen.",
+  "quelle": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/conlio-erhaelt-millionen-fuer-ki-in-der-transportlogistik-3930576"
+ },
+ {
   "id": "tendos-seed-2026",
   "datum": "2026-10-29",
   "art": "Finanzierungsrunde",

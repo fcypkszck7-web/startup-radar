@@ -20,6 +20,11 @@
   "geprueft": "2026-11-02",
   "portfolio": [
    {
+    "unternehmen": "Vetaion",
+    "startup_id": "vetaion",
+    "runde_id": "vetaion-pre-seed-2026"
+   },
+   {
     "unternehmen": "Kuro",
     "startup_id": null,
     "runde_id": "kuro-2026"
@@ -210,6 +215,11 @@
   "aliase": [],
   "geprueft": "2026-10-28",
   "portfolio": [
+   {
+    "unternehmen": "Nomadic",
+    "startup_id": "nomadic",
+    "runde_id": "nomadic-seed-2026"
+   },
    {
     "unternehmen": "Kuro",
     "startup_id": null,

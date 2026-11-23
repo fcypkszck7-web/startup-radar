@@ -482,7 +482,9 @@
    "region": "Deutschland",
    "typ": "Medien",
    "url": "https://www.heinze.de/events/",
-   "folge": "/events?/[a-z0-9-]{6,}"
+   "folge": "/events?/[a-z0-9-]{6,}",
+   "aktiv": false,
+   "notiz": "2026-11-23: HTTP 403 seit 18.11. (Abruf gesperrt) – deaktiviert, per Websuche abdecken"
   },
   {
    "id": "feuerverzinken",
@@ -2077,7 +2079,8 @@
     "https://impactbuild.ch/",
     "https://pelicad.com/",
     "https://aiina-robotics.com/en",
-    "https://planlabs.com/"
+    "https://planlabs.com/",
+    "https://www.mosaico.dev"
    ],
    "notiz": "Europa-Erweiterung: Websites aus Ranglisten; Sitz wird aus dem Impressum gelesen, vor Aufnahme prüfen, ob Website und Start-up zusammenpassen"
   }
