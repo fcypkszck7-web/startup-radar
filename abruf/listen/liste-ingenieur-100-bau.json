@@ -2,14 +2,14 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-22",
+ "abgerufen": "2026-11-23",
  "koepfe": [
   "Top Beiträge",
+  "Mehr als 46 Stunden Rekordverlängerung: Weltklimakonferenz COP31 fast ohne Ergebnis",
+  "Fünfmal länger haltbar? Berliner Forscher entwickeln Brücke aus Holz und Granit",
+  "Bayern stellt Musialas Gehalt infrage, dürfte Ihr Chef das auch?",
   "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
   "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
-  "Air-India-Absturz: Ermittler stehen vor dem Abschluss, doch eine Frage bleibt",
-  "311 m Brücke, 950 t Stahl, doch dann machte der Rhein nicht mit",
-  "Über 1500 t schwer, 152 m lang: Zwei deutsche Tunnelbohrer graben auf New York zu",
   "Bautechnik und mehr",
   "1. Bauprojekt-Management",
   "2. Baustoffe und -elemente",
@@ -34,11 +34,11 @@
   "Top Stellenanzeigen",
   "Weitere Artikel",
   "Sie ist nur 23 cm groß und sucht selbstständig nach Rissen in Brücken",
+  "Mehr als 46 Stunden Rekordverlängerung: Weltklimakonferenz COP31 fast ohne Ergebnis",
+  "Fünfmal länger haltbar? Berliner Forscher entwickeln Brücke aus Holz und Granit",
+  "Bayern stellt Musialas Gehalt infrage, dürfte Ihr Chef das auch?",
   "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
   "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
-  "Air-India-Absturz: Ermittler stehen vor dem Abschluss, doch eine Frage bleibt",
-  "311 m Brücke, 950 t Stahl, doch dann machte der Rhein nicht mit",
-  "Über 1500 t schwer, 152 m lang: Zwei deutsche Tunnelbohrer graben auf New York zu",
   "Firmenprofile"
  ],
  "links": [
@@ -50,6 +50,36 @@
   {
    "text": "Digitalisierung Bau",
    "url": "https://www.ingenieur.de/digitalisierung-bau/",
+   "extern": false
+  },
+  {
+   "text": "Umwelt",
+   "url": "https://www.ingenieur.de/umwelt/",
+   "extern": false
+  },
+  {
+   "text": "Mehr als 46 Stunden Rekordverlängerung: Weltklimakonferenz COP31 fast ohne Ergebnis",
+   "url": "https://www.ingenieur.de/cop31-endet-mit-welchem-ergebnis-705d3b4b-7e22-43c2-81e1-38de937e4375/",
+   "extern": false
+  },
+  {
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
+   "extern": false
+  },
+  {
+   "text": "Fünfmal länger haltbar? Berliner Forscher entwickeln Brücke aus Holz und Granit",
+   "url": "https://www.ingenieur.de/fuenfmal-laenger-haltbar-berliner-forscher-entwickeln-bruecke-aus-holz-und-granit-ae3f1e61-09b7-45d5-9ea8-409b586e563b/",
+   "extern": false
+  },
+  {
+   "text": "Arbeitsrecht",
+   "url": "https://www.ingenieur.de/karriere/arbeitsrecht/",
+   "extern": false
+  },
+  {
+   "text": "Bayern stellt Musialas Gehalt infrage, dürfte Ihr Chef das auch?",
+   "url": "https://www.ingenieur.de/bayern-stellt-musialas-gehalt-infrage-duerfte-ihr-chef-das-auch-53bb18f8-afb3-403b-bf85-83e042c7fc53/",
    "extern": false
   },
   {
@@ -70,36 +100,6 @@
   {
    "text": "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
    "url": "https://www.ingenieur.de/riemannsche-vermutung-hat-ki-das-groesste-mathe-raetsel-nach-167-jahren-geloest-134e428c-97fd-4992-ac52-45e3ed87b957/",
-   "extern": false
-  },
-  {
-   "text": "Luft- & Raumfahrt",
-   "url": "https://www.ingenieur.de/luft-raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "Air-India-Absturz: Ermittler stehen vor dem Abschluss, doch eine Frage bleibt",
-   "url": "https://www.ingenieur.de/air-india-absturz-ermittler-stehen-vor-dem-abschluss-doch-eine-frage-bleibt-8611fe76-9995-4087-ae19-219afae239f4/",
-   "extern": false
-  },
-  {
-   "text": "Bau",
-   "url": "https://www.ingenieur.de/bau/",
-   "extern": false
-  },
-  {
-   "text": "311 m Brücke, 950 t Stahl, doch dann machte der Rhein nicht mit",
-   "url": "https://www.ingenieur.de/311-m-bruecke-950-t-stahl-doch-dann-machte-der-rhein-nicht-mit-e9e3e174-102f-4734-b4da-938586884fc5/",
-   "extern": false
-  },
-  {
-   "text": "Bau",
-   "url": "https://www.ingenieur.de/bau/",
-   "extern": false
-  },
-  {
-   "text": "Über 1500 t schwer, 152 m lang: Zwei deutsche Tunnelbohrer graben auf New York zu",
-   "url": "https://www.ingenieur.de/ueber-1500-t-schwer-152-m-lang-zwei-riesenmaschinen-graben-auf-new-york-zu-eda4eb99-ef6f-4697-8e60-787def72cb3c/",
    "extern": false
   },
   {
@@ -188,76 +188,6 @@
    "extern": true
   },
   {
-   "text": "mehr zu Projektingenieur intelligente Energiemanagementsysteme und Smart Home (m/w/d) bei Honda (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektingenieur-intelligente-energiemanagementsysteme-und-smart-home-m-w-d-064556657?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Abteilungsleiter Planung (m/w/d) Reihenhäuser bei weisenburger bau GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/abteilungsleiter-planung-m-w-d-reihenhaeuser-064621286?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Ingenieur/-in für den Ausbau des Hildesheimer Binnenwasserhafens (m/w/d) bei Stadt Hildesheim Der Oberbürgermeister (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-in-fuer-den-ausbau-des-hildesheimer-binnenwasserhafens-m-w-d-064556806?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Sachverständiger (m/w/d) Elektrotechnik bei TÜV Technische Überwachung Hessen GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/sachverstaendiger-m-w-d-elektrotechnik-064632059?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleitung (m/w/d) im Bereich Tiefbau bei Staatliches Bauamt Nürnberg (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleitung-m-w-d-im-bereich-tiefbau-064633106?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleitung (m/w/d) im Bereich Tiefbau bei Staatliches Bauamt Nürnberg (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleitung-m-w-d-im-bereich-tiefbau-064635091?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Ingenieur (d/m/w) für die Straßenunterhaltung bei Stadt Celle (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-d-m-w-fuer-die-strassenunterhaltung-064717719?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Leitung Anwendungstechnik Flammschutz / Textil (m/w/d) bei THOR GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/leitung-anwendungstechnik-flammschutz-textil-m-w-d-064724290?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Fachleitung Städtische Grünflächen und Friedhöfe (w/m/d) bei Wirtschaftsbetrieb Hagen AöR (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/fachleitung-staedtische-gruenflaechen-und-friedhoefe-w-m-d-064725836?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleitung Strategische Bauprojekte/Großprojekte (m/w/d) bei Hamburg Wasser (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleitung-strategische-bauprojekte-grossprojekte-m-w-d-064726275?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Ingenieur (m/w/d) Betrieb, Schwerpunkt Betreuung der Autobahnmeistereien bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-m-w-d-betrieb-schwerpunkt-betreuung-der-autobahnmeistereien-064731797?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Bauüberwacher (m/w/d) Straßenverkehrsanlagen bei Bundesagentur für Arbeit - Vössing Ingenieurgesellschaft mbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauueberwacher-m-w-d-strassenverkehrsanlagen-064295817?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Bauingenieur/-in (m/w/d) bei Bundesagentur für Arbeit - Landeshauptstadt Stuttgart (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauingenieur-in-m-w-d-064295819?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Technische/r Projektmitarbeiter/in (m/w/d) &#8211; Bauwesen / Projektkoordination bei Bundesagentur für Arbeit - Dr. Kerner GmbH & Co. KG (öffnet in neu",
-   "url": "https://jobs.ingenieur.de/job/technische-r-projektmitarbeiter-in-m-w-d-bauwesen-projektkoordination-064295818?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
    "text": "mehr zu Junior Bauüberwacher:in Oberbau / Konstruktiver Ingenieurbau (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
    "url": "https://jobs.ingenieur.de/job/junior-bauueberwacher-in-oberbau-konstruktiver-ingenieurbau-w-m-d-064379311?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
@@ -288,6 +218,76 @@
    "extern": true
   },
   {
+   "text": "mehr zu Ingenieur/in oder Techniker/in für unseren Straßenbau und unsere Ingenieurbauwerke (w/m/d) bei Stadt Hemer (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-in-oder-techniker-in-fuer-unseren-strassenbau-und-unsere-ingenieurbauwerke-w-m-d-064666063?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Prozesstechniker (m/w/d) Kunststofftechnik bei Diehl Metal Applications GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/prozesstechniker-m-w-d-kunststofftechnik-064757113?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Chemiker / Ingenieur Normungsarbeit &#8211; Wasser / Chemie (m/w/d) bei BRITA (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/chemiker-ingenieur-normungsarbeit-wasser-chemie-m-w-d-064753650?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Diplom-Ingenieur (m/w/d) (FH) oder Bachelor of Engineering der Versorgungstechnik / Gebäudetechnik, Technische Gebäudeausrüstung oder Maschinenbau bei S",
+   "url": "https://jobs.ingenieur.de/job/diplom-ingenieur-m-w-d-fh-oder-bachelor-of-engineering-der-versorgungstechnik-gebaeudetechnik-technische-gebaeudeausruestung-oder-maschinenbau-064759343?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieur / Techniker (m/w/d) HKLS im Bundesbau bei Gebäudemanagement Schleswig-Holstein (GMSH) (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-techniker-m-w-d-hkls-im-bundesbau-064759468?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieurin (m/w/d) für Raumlufttechnik bei Gebäudemanagement Schleswig-Holstein (GMSH) (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieurin-m-w-d-fuer-raumlufttechnik-064759467?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Fachbereichsleitung Betriebstechnik (m/w/d) bei Niedersächsisches Landesamt für Bau und Liegenschaften (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/fachbereichsleitung-betriebstechnik-m-w-d-064759594?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Automatisierungsingenieur / SPS-Ingenieur (m/w/d) bei Gebrüder Lödige Maschinenbau GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/automatisierungsingenieur-sps-ingenieur-m-w-d-064382988?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Projektleitung Haustechnik / Technische Gebäudeausrüstung (TGA) &#8211; Neubau &#038; Modernisierung (w/m/d) bei STADT UND LAND Wohnbauten-Gesellschaft ",
+   "url": "https://jobs.ingenieur.de/job/projektleitung-haustechnik-technische-gebaeudeausruestung-tga-neubau-modernisierung-w-m-d-064402599?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Entwicklungsingenieur Leistungselektronik (all genders) bei VINCORION Advanced Systems GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/entwicklungsingenieur-leistungselektronik-all-genders-064402788?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Industrial Engineer / Fertigungsplaner &#8211; Arbeitsvorbereitung (m/w/d) bei ELAC SONAR GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/industrial-engineer-fertigungsplaner-arbeitsvorbereitung-m-w-d-064451812?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Senior Solution Architect Integration Platform (m/w/d) bei WIRTGEN GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-integration-platform-m-w-d-064473149?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Senior Solution Architect Enterprise Cloud Platform (m/w/d) bei WIRTGEN GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/senior-solution-architect-enterprise-cloud-platform-m-w-d-064473151?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Software-Ingenieur (m/w/d) Elektrotechnik &#8211; mobile Arbeitsmaschinen bei WIRTGEN GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/software-ingenieur-m-w-d-elektrotechnik-mobile-arbeitsmaschinen-064473150?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
    "text": "Digitalisierung Bau",
    "url": "https://www.ingenieur.de/digitalisierung-bau/",
    "extern": false
@@ -295,6 +295,36 @@
   {
    "text": "Sie ist nur 23 cm groß und sucht selbstständig nach Rissen in Brücken",
    "url": "https://www.ingenieur.de/sie-ist-nur-23-cm-gross-und-sucht-selbststaendig-nach-rissen-in-bruecken-ddacd0fe-df20-4f24-b92c-bb415f1f5a7d/",
+   "extern": false
+  },
+  {
+   "text": "Umwelt",
+   "url": "https://www.ingenieur.de/umwelt/",
+   "extern": false
+  },
+  {
+   "text": "Mehr als 46 Stunden Rekordverlängerung: Weltklimakonferenz COP31 fast ohne Ergebnis",
+   "url": "https://www.ingenieur.de/cop31-endet-mit-welchem-ergebnis-705d3b4b-7e22-43c2-81e1-38de937e4375/",
+   "extern": false
+  },
+  {
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
+   "extern": false
+  },
+  {
+   "text": "Fünfmal länger haltbar? Berliner Forscher entwickeln Brücke aus Holz und Granit",
+   "url": "https://www.ingenieur.de/fuenfmal-laenger-haltbar-berliner-forscher-entwickeln-bruecke-aus-holz-und-granit-ae3f1e61-09b7-45d5-9ea8-409b586e563b/",
+   "extern": false
+  },
+  {
+   "text": "Arbeitsrecht",
+   "url": "https://www.ingenieur.de/karriere/arbeitsrecht/",
+   "extern": false
+  },
+  {
+   "text": "Bayern stellt Musialas Gehalt infrage, dürfte Ihr Chef das auch?",
+   "url": "https://www.ingenieur.de/bayern-stellt-musialas-gehalt-infrage-duerfte-ihr-chef-das-auch-53bb18f8-afb3-403b-bf85-83e042c7fc53/",
    "extern": false
   },
   {
@@ -318,88 +348,8 @@
    "extern": false
   },
   {
-   "text": "Luft- & Raumfahrt",
-   "url": "https://www.ingenieur.de/luft-raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "Air-India-Absturz: Ermittler stehen vor dem Abschluss, doch eine Frage bleibt",
-   "url": "https://www.ingenieur.de/air-india-absturz-ermittler-stehen-vor-dem-abschluss-doch-eine-frage-bleibt-8611fe76-9995-4087-ae19-219afae239f4/",
-   "extern": false
-  },
-  {
-   "text": "Bau",
-   "url": "https://www.ingenieur.de/bau/",
-   "extern": false
-  },
-  {
-   "text": "311 m Brücke, 950 t Stahl, doch dann machte der Rhein nicht mit",
-   "url": "https://www.ingenieur.de/311-m-bruecke-950-t-stahl-doch-dann-machte-der-rhein-nicht-mit-e9e3e174-102f-4734-b4da-938586884fc5/",
-   "extern": false
-  },
-  {
-   "text": "Bau",
-   "url": "https://www.ingenieur.de/bau/",
-   "extern": false
-  },
-  {
-   "text": "Über 1500 t schwer, 152 m lang: Zwei deutsche Tunnelbohrer graben auf New York zu",
-   "url": "https://www.ingenieur.de/ueber-1500-t-schwer-152-m-lang-zwei-riesenmaschinen-graben-auf-new-york-zu-eda4eb99-ef6f-4697-8e60-787def72cb3c/",
-   "extern": false
-  },
-  {
    "text": "Alle Arbeitgeber",
    "url": "https://www.ingenieur.de/firmenprofile/",
-   "extern": false
-  },
-  {
-   "text": "Windmöller & Hölscher KG",
-   "url": "https://www.ingenieur.de/firmenprofile/windmoeller-hoelscher-kg/",
-   "extern": false
-  },
-  {
-   "text": "Flex Automotive GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/flex-automotive-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "Linde AG Engineering Division",
-   "url": "https://www.ingenieur.de/firmenprofile/linde-ag-engineering-division/",
-   "extern": false
-  },
-  {
-   "text": "Drees & Sommer",
-   "url": "https://www.ingenieur.de/firmenprofile/drees-sommer/",
-   "extern": false
-  },
-  {
-   "text": "ASML Berlin GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/asml-berlin-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "ITK Engineering GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/itk-engineering-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "EPLAN Software & Service GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/eplan-software-service-gmbh-co-kg/",
-   "extern": false
-  },
-  {
-   "text": "ENERCON GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/enercon-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "IGS Ingenieure GmbH & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/igs-ingenieure-gmbh-co-kg/",
-   "extern": false
-  },
-  {
-   "text": "telent GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/telent-gmbh/",
    "extern": false
   },
   {
@@ -408,8 +358,58 @@
    "extern": false
   },
   {
-   "text": "BASF",
-   "url": "https://www.ingenieur.de/firmenprofile/basf/",
+   "text": "Flex Automotive GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/flex-automotive-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "FERCHAU GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/ferchau-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "HARIBO Deutschland",
+   "url": "https://www.ingenieur.de/firmenprofile/haribo-deutschland/",
+   "extern": false
+  },
+  {
+   "text": "Rheinmetall",
+   "url": "https://www.ingenieur.de/firmenprofile/rheinmetall/",
+   "extern": false
+  },
+  {
+   "text": "Baumüller Nürnberg GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/baumueller-nuernberg-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "Webasto Gruppe",
+   "url": "https://www.ingenieur.de/firmenprofile/webasto-gruppe/",
+   "extern": false
+  },
+  {
+   "text": "Windmöller & Hölscher KG",
+   "url": "https://www.ingenieur.de/firmenprofile/windmoeller-hoelscher-kg/",
+   "extern": false
+  },
+  {
+   "text": "PLANFRED GMBH",
+   "url": "https://www.ingenieur.de/firmenprofile/planfred-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "Festo AG & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/festo-ag-co-kg/",
+   "extern": false
+  },
+  {
+   "text": "ISCUE GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/iscue-gmbh-co-kg/",
+   "extern": false
+  },
+  {
+   "text": "TenneT TSO GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/tennet-tso-gmbh/",
    "extern": false
   }
  ],

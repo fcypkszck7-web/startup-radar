@@ -1,237 +1,75 @@
 [
  {
-  "titel": "Classic Antique Fairs - Day 2",
-  "start": "2026-11-21",
-  "ende": "2026-11-21",
-  "ort": "The NEC",
+  "titel": "Ausstellung Thomas Freiss in der Stadelgalerie \"Stadel temporär\"",
+  "start": "2026-11-22",
+  "ende": "2026-11-22",
+  "ort": "Künstlerhaus Andreas-Stadel, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.thenec.co.uk/events/classic-antique-fairs/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|thenec.co.uk/events/classic-antique-fairs",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Feriarte",
-  "start": "2026-11-21",
-  "ende": "2026-11-29",
-  "ort": "IFEMA, Madrid",
-  "land": "ES",
-  "online": false,
-  "url": "https://www.ifema.es/feriarte",
-  "veranstalter": "IFEMA MADRID",
-  "kurz": "Antiques and Art Galleries Fair",
-  "methode": "json-ld",
-  "quelle_id": "messe-ifema",
-  "quelle_name": "IFEMA Madrid – Messekalender",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|ifema.es/feriarte",
-  "quellen": [
-   "messe-ifema"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Festive Gift Fair - Day 3",
-  "start": "2026-11-21",
-  "ende": "2026-11-21",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/festive-gift-fair/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|thenec.co.uk/events/festive-gift-fair",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Go International Business Meetings @ Expogast",
-  "start": "2026-11-21",
-  "ende": "2026-11-21",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://een.ec.europa.eu/events/go-international-business-meetings-expogast",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/619387",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "een-events",
-  "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
-  "region_hinweis": "Europa",
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|een.ec.europa.eu/events/go-international-business-meetings-expogast",
+  "schluessel": "2026-11-22|regensburg.de/veranstaltungen/detail/619387",
   "quellen": [
-   "een-events"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-20",
+  "zuerst_gesehen": "2026-11-23",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Gründungswochenende",
-  "start": "2026-11-21",
-  "ende": "2026-11-22",
-  "ort": "Open Innovation Campus Westspitze, Tübingen",
-  "land": "",
-  "online": false,
-  "url": "https://www.startup-region-stuttgart.de/termine/gruendungswochenende-3/",
-  "veranstalter": "",
-  "kurz": "Du möchtest dich selbstständig machen und brauchst hierfür in kurzer Zeit das nötige Know-how? Im zweitägigen Gründungswochenende erhalten Gründer/-innen und Gründungsinteressierte hilfreiche Tipps und Informationen zu d",
-  "methode": "json-ld",
-  "quelle_id": "startup-region-stuttgart",
-  "quelle_name": "Start-up-Region Stuttgart – Termine",
-  "region_hinweis": "Deutschland",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-21|startup-region-stuttgart.de/termine/gruendungswochenende-3",
-  "quellen": [
-   "startup-region-stuttgart"
-  ],
-  "zuerst_gesehen": "2026-11-18",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "MCL - Day 1",
-  "start": "2026-11-21",
-  "ende": "2026-11-21",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/mcl/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|thenec.co.uk/events/mcl",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "hr-ai-day-wie-kuenstliche-intelligenz-personalarbeit-fuehrun-2026",
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "The National Festival of Railway Modelling - Day 1",
-  "start": "2026-11-21",
-  "ende": "2026-11-21",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/the-national-festival-of-railway-modelling/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-21|thenec.co.uk/events/the-national-festival-of-railway-modelling",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Classic Antique Fairs - Day 3",
+  "titel": "Bücherbasar Herz Jesu",
   "start": "2026-11-22",
   "ende": "2026-11-22",
-  "ort": "The NEC",
+  "ort": "St. Josefsaal Kirche Herz Jesu, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.thenec.co.uk/events/classic-antique-fairs/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-22|thenec.co.uk/events/classic-antique-fairs",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "Deadline Talent Kick Program",
-  "start": "2026-11-22",
-  "ende": "2026-11-22",
-  "ort": "Startup Camp India",
-  "land": "",
-  "online": false,
-  "url": "https://www.startupticker.ch/en/events/deadline-talent-kick-program",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/621803",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "startupticker",
-  "quelle_name": "Startupticker.ch – Events",
-  "region_hinweis": "Schweiz",
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-22|startupticker.ch/en/events/deadline-talent-kick-program",
+  "schluessel": "2026-11-22|regensburg.de/veranstaltungen/detail/621803",
   "quellen": [
-   "startupticker"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-13",
+  "zuerst_gesehen": "2026-11-23",
   "erfasst_als": null,
-  "entscheidung": "abgelehnt: allgemeines Gründerseminar ohne Branchenbezug"
+  "entscheidung": ""
  },
  {
-  "titel": "Festive Gift Fair - Day 4",
+  "titel": "Gradium Expo Regensburg 2026",
   "start": "2026-11-22",
   "ende": "2026-11-22",
-  "ort": "The NEC",
+  "ort": "Sportgaststätte Walhalla, Regensburg",
   "land": "",
   "online": false,
-  "url": "https://www.thenec.co.uk/events/festive-gift-fair/",
+  "url": "https://www.regensburg.de/veranstaltungen/detail/618306",
   "veranstalter": "",
   "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2026-11-22|thenec.co.uk/events/festive-gift-fair",
+  "schluessel": "2026-11-22|regensburg.de/veranstaltungen/detail/618306",
   "quellen": [
-   "messe-nec"
+   "regensburg-wirtschaft"
   ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": "genera-2026",
+  "entscheidung": ""
  },
  {
   "titel": "MCL - Day 2",
@@ -249,29 +87,6 @@
   "region_hinweis": "Europa",
   "branchen_vorschlag": [],
   "schluessel": "2026-11-22|thenec.co.uk/events/mcl",
-  "quellen": [
-   "messe-nec"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": null,
-  "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
- },
- {
-  "titel": "The National Festival of Railway Modelling - Day 2",
-  "start": "2026-11-22",
-  "ende": "2026-11-22",
-  "ort": "The NEC",
-  "land": "",
-  "online": false,
-  "url": "https://www.thenec.co.uk/events/the-national-festival-of-railway-modelling/",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "json-ld",
-  "quelle_id": "messe-nec",
-  "quelle_name": "NEC Birmingham – What's on",
-  "region_hinweis": "Europa",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-22|thenec.co.uk/events/the-national-festival-of-railway-modelling",
   "quellen": [
    "messe-nec"
   ],
@@ -357,30 +172,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "Campus meets Company 2026",
-  "start": "2026-11-23",
-  "ende": "2026-11-23",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/campus-meets-company-2026",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-23|uni-passau.de/veranstaltungskalender/detail/event/campus-meets-company-2026",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-19",
-  "erfasst_als": "genera-2026",
-  "entscheidung": ""
- },
- {
   "titel": "DeepTech Startup Monitor 2026",
   "start": "2026-11-23",
   "ende": "2026-11-23",
@@ -404,30 +195,6 @@
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "genera-2026",
-  "entscheidung": ""
- },
- {
-  "titel": "Eine Zeit der Sakramentalisierung.",
-  "start": "2026-11-23",
-  "ende": "2026-11-23",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/eine-zeit-der-sakramentalisierung",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-23|uni-passau.de/veranstaltungskalender/detail/event/eine-zeit-der-sakramentalisierung",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-20",
-  "erfasst_als": null,
   "entscheidung": ""
  },
  {
@@ -802,30 +569,6 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen (Gesundheit/Life Sciences)"
  },
  {
-  "titel": "Vortrag: Alleinerziehend – aber nicht allein! Familienbilder und Alltagserfahrungen",
-  "start": "2026-11-23",
-  "ende": "2026-11-23",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/vortrag-alleinerziehend-aber-nicht-allein-familienbilder-und-alltagserfahrungen",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-23|uni-passau.de/veranstaltungskalender/detail/event/vortrag-alleinerziehend-aber-nicht-allein-familienbilder-und-alltagserfahrungen",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-19",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "VäterCampus-Lagerfeuer im November -",
   "start": "2026-11-23",
   "ende": "2026-11-23",
@@ -872,30 +615,6 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
- },
- {
-  "titel": "Wo Kontinente auseinanderdriften – Island: Unterwegs im Land der Gegensätze",
-  "start": "2026-11-23",
-  "ende": "2026-11-23",
-  "ort": "Kontinente auseinanderdriften – Island: Unterwegs im Land der Gegensätze",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/wo-kontinente-auseinanderdriften-island-unterwegs-im-land-der-gegensaetze",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-11-23|uni-passau.de/veranstaltungskalender/detail/event/wo-kontinente-auseinanderdriften-island-unterwegs-im-land-der-gegensaetze",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-21",
-  "erfasst_als": null,
-  "entscheidung": ""
  },
  {
   "titel": "Workshop Update iSFP mit DIN V 18599",
@@ -1377,32 +1096,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "Gastvortrag: Zwischen Modethema und Weltordnung. Zeitungen als historische Infrastrukturen populärer Klimawandeldeutungen (1780-1950)",
-  "start": "2026-11-24",
-  "ende": "2026-11-24",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/gastvortrag-zwischen-modethema-und-weltordnung-zeitungen-als-historische-infrastrukturen-populaerer-klimawandeldeutungen-1780-1950",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Bau & Immobilien"
-  ],
-  "schluessel": "2026-11-24|uni-passau.de/veranstaltungskalender/detail/event/gastvortrag-zwischen-modethema-und-weltordnung-zeitungen-als-historische-infrastrukturen-populaerer-klimawandeldeutungen-1780-1950",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-21",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "Genera",
   "start": "2026-11-24",
   "ende": "2026-11-26",
@@ -1426,6 +1119,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "genera-2026",
   "entscheidung": "schon erfasst: genera-2026"
+ },
+ {
+  "titel": "Getting the Deal done with Linklaters – M&A-Transaktionen und der Einsatz von Rhetorik-Softskills in der Praxis (65051)",
+  "start": "2026-11-24",
+  "ende": "2026-11-24",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/getting-the-deal-done-with-linklaters-ma-transaktionen-und-der-einsatz-von-rhetorik-softskills-in-der-praxis-65051",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-24|uni-passau.de/veranstaltungskalender/detail/event/getting-the-deal-done-with-linklaters-ma-transaktionen-und-der-einsatz-von-rhetorik-softskills-in-der-praxis-65051",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Gruppe AGIHL lädt ein zum Thema „Fenecon – Stromspeicher und Steuerung“ mir Ilias Agapidis",
@@ -1725,32 +1442,6 @@
   "zuerst_gesehen": "2026-11-11",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: Studien- und Weiterbildungsberatung"
- },
- {
-  "titel": "PATEC FoundHers HerTurn: An Open Exchange with Passau Student and Founder Anna Roppelt",
-  "start": "2026-11-24",
-  "ende": "2026-11-24",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/patec-foundhers-herturn-an-open-exchange-with-passau-student-and-founder-anna-roppelt",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-24|uni-passau.de/veranstaltungskalender/detail/event/patec-foundhers-herturn-an-open-exchange-with-passau-student-and-founder-anna-roppelt",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-21",
-  "erfasst_als": null,
-  "entscheidung": ""
  },
  {
   "titel": "SPS 2026",
@@ -2858,6 +2549,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Sonderausstellung - Exhibition - \"Stadel x Stadel IV - Dialog über die Donau\"",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "Besucherzentrum Welterbe im Salzstadel, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/611731",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-25|regensburg.de/veranstaltungen/detail/611731",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Sprechstunde des Welcome Service Region Stuttgart in Böblingen, am 25.11.2026",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -3133,6 +2848,32 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
  },
  {
+  "titel": "Webinar: Schritt für Schritt zur Gründung",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
+  "veranstalter": "",
+  "kurz": "Wer seine Gründung gut plant, kommt schneller ans Ziel. Welche Überlegungen im Vorfeld wichtig sind und was bei der Gründung beachtet werden muss erfahrt ihr im Webinar der IHK.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-25|digitale-oberpfalz.de/news-events/termine/detail/25/11/2026/webinar-schritt-fuer-schritt-zur-gruendung",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "webinar-schritt-fuer-schritt-zur-gruendung-2026",
+  "entscheidung": "aufgenommen: webinar-schritt-fuer-schritt-zur-gruendung-2026"
+ },
+ {
   "titel": "Workshop \"Fit for the Job\"",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -3180,6 +2921,31 @@
   ],
   "zuerst_gesehen": "2026-11-05",
   "erfasst_als": "genera-2026",
+  "entscheidung": ""
+ },
+ {
+  "titel": "BBGlüh – Deep Tech, Venture Capital und Networking im freiRaum",
+  "start": "2026-11-26",
+  "ende": "1970-01-01",
+  "ort": "freiRaum, Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://www.startup-region-stuttgart.de/termine/bbglueh-deep-tech-venture-capital-und-networking-im-freiraum/",
+  "veranstalter": "",
+  "kurz": "Am 26. November 2026 laden die TTI GmbH und TRACES zum BBGlüh in den freiRaum der Universität Stuttgart ein. Im Mittelpunkt der Veranstaltung stehen zwei Impulsvorträge zu Wagniskapital und Deep-Tech-Gründungen sowie der",
+  "methode": "json-ld",
+  "quelle_id": "startup-region-stuttgart",
+  "quelle_name": "Start-up-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-26|startup-region-stuttgart.de/termine/bbglueh-deep-tech-venture-capital-und-networking-im-freiraum",
+  "quellen": [
+   "startup-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": null,
   "entscheidung": ""
  },
  {
@@ -5034,6 +4800,33 @@
   "entscheidung": ""
  },
  {
+  "titel": "StartUP Factory Regensburg 2026",
+  "start": "2026-11-28",
+  "ende": "2026-11-28",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
+  "veranstalter": "",
+  "kurz": "TechBase Regensburg",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Industrie & Fertigung",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-28|digitale-oberpfalz.de/news-events/termine/detail/26/11/2026/startup-factory-regensburg-2026",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "startup-factory-2026",
+  "entscheidung": ""
+ },
+ {
   "titel": "ANGELWELT auf der OutVenture Berlin",
   "start": "2026-11-29",
   "ende": "2026-11-29",
@@ -5157,6 +4950,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "open-link-day-wien-2026",
   "entscheidung": "abgelehnt: Publikums- oder Fremdbranchenveranstaltung bzw. nicht im Europa-Umfang (nur wichtige Messen, Kongresse, Start-up-Events)"
+ },
+ {
+  "titel": "Die Sammlung Weidinger",
+  "start": "2026-11-29",
+  "ende": "2026-11-29",
+  "ort": "Kunstforum Ostdeutsche Galerie, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/609829",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-29|regensburg.de/veranstaltungen/detail/609829",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Festive Good Food Show - Day 4",
@@ -6263,6 +6080,33 @@
   "entscheidung": ""
  },
  {
+  "titel": "Swiss Fintech & AI Investor Day 2026 @ Ergon Informatik AG,",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "Ergon Informatik AG · Merkurstrasse 43 · 8032 Zürich",
+  "land": "",
+  "online": false,
+  "url": "https://www.startupticker.ch/en/events/swiss-fintech-ai-investor-day-2026-at-ergon-informatik-ag",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-01|startupticker.ch/en/events/swiss-fintech-ai-investor-day-2026-at-ergon-informatik-ag",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": "open-link-day-wien-2026",
+  "entscheidung": ""
+ },
+ {
   "titel": "THOMAS + THOMAS In Conversation on Mixed-Mode + Comfort",
   "start": "2026-12-01",
   "ende": "2026-12-01",
@@ -6338,6 +6182,54 @@
    "bayern-innovativ"
   ],
   "zuerst_gesehen": "2026-11-12",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "„Bis zur Wahrheit“ – Filmvorführung mit anschließendem Gespräch mit Regisseurin Saralisa Volm",
+  "start": "2026-12-01",
+  "ende": "2026-12-01",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/bis-zur-wahrheit-filmvorfuehrung-mit-anschliessendem-gespraech-mit-regisseurin-saralisa-volm",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-01|uni-passau.de/veranstaltungskalender/detail/event/bis-zur-wahrheit-filmvorfuehrung-mit-anschliessendem-gespraech-mit-regisseurin-saralisa-volm",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Berufe im Profil: HR Management bei der BMW AG",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/berufe-im-profil-hr-management-bei-der-bmw-ag-65014",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-02|uni-passau.de/veranstaltungskalender/detail/event/berufe-im-profil-hr-management-bei-der-bmw-ag-65014",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-23",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -6664,6 +6556,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Science Slam Security: Wie Forschung Sicherheit schafft",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/science-slam-security-wie-forschung-sicherheit-schafft",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-02|uni-passau.de/veranstaltungskalender/detail/event/science-slam-security-wie-forschung-sicherheit-schafft",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Sustainable Places 2026 (Luxembourg)",
   "start": "2026-12-02",
   "ende": "2026-12-04",
@@ -6738,6 +6654,30 @@
   "zuerst_gesehen": "2026-11-14",
   "erfasst_als": "tutorial-finanzierung-innovativer-unternehmen-2026",
   "entscheidung": "aufgenommen: tutorial-finanzierung-innovativer-unternehmen-2026"
+ },
+ {
+  "titel": "Tutorial: Finanzierung innovativer Unternehmen",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "eu01web.zoom.us/webinar/register/WN_78CUd16gTzm0LwOnmd2NCw",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
+  "veranstalter": "",
+  "kurz": "Online, 17:00 - 19:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-02|digitale-oberpfalz.de/news-events/termine/detail/2/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-2",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-11",
+  "erfasst_als": "tutorial-finanzierung-innovativer-unternehmen-2026",
+  "entscheidung": "schon erfasst: tutorial-finanzierung-innovativer-unternehmen-2026"
  },
  {
   "titel": "WordPress meetup Stuttgart | 2026.12",
@@ -7095,6 +7035,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Effizient recherchieren für die Seminar- und Bachelorarbeit",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/effizient-recherchieren-fuer-die-seminar-und-bachelorarbeit-1",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-03|uni-passau.de/veranstaltungskalender/detail/event/effizient-recherchieren-fuer-die-seminar-und-bachelorarbeit-1",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "From Data Strategy to Adoption: Building Trusted Foundations for Governance and AI",
   "start": "2026-12-03",
   "ende": "2026-12-03",
@@ -7221,6 +7185,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Präsenz-Tutorial: Wie gehe ich während meines Pitches souverän mit Druck um?",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "MTZ München | E1 im 1.OG, München",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/3/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1",
+  "veranstalter": "",
+  "kurz": "MTZ München, 14:45-17:00 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-03|digitale-oberpfalz.de/news-events/termine/detail/3/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": "tk-praesenz-tutorial-wie-gehe-ich-waehrend-meines-pitches-so-2026",
+  "entscheidung": ""
+ },
+ {
   "titel": "Renewable Hydrogen Summit 2026",
   "start": "2026-12-03",
   "ende": "2026-12-03",
@@ -7308,16 +7298,16 @@
   "veranstalter": "",
   "kurz": "Startup masterclass Online",
   "methode": "json-ld",
-  "quelle_id": "dev-events-at",
-  "quelle_name": "dev.events – Start-up-Meetups Österreich",
-  "region_hinweis": "Österreich",
+  "quelle_id": "dev-events-de",
+  "quelle_name": "dev.events – Start-up-Meetups Deutschland",
+  "region_hinweis": "Deutschland",
   "branchen_vorschlag": [
    "Gründung & Innovation"
   ],
   "schluessel": "2026-12-03|dev.events/conferences/principal-developer-online-5-2022",
   "quellen": [
-   "dev-events-at",
-   "dev-events-de"
+   "dev-events-de",
+   "dev-events-at"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
@@ -7349,6 +7339,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "renewable-hydrogen-summit-2026",
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
+ },
+ {
+  "titel": "Webinar zum neuen Studiengang \"Medienkulturwissenschaft\"",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/webinar-zum-neuen-studiengang-medienkulturwissenschaft",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-03|uni-passau.de/veranstaltungskalender/detail/event/webinar-zum-neuen-studiengang-medienkulturwissenschaft",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Webinar: VDI 4646 - Großwärmepumpen sicher planen und bewerten",
@@ -8075,7 +8089,7 @@
   "ort": "Termin",
   "land": "",
   "online": true,
-  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795322170-c0dc1fdf6",
+  "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795409358-ca5e5d26e",
   "veranstalter": "",
   "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
   "methode": "detailseite-text",
@@ -8187,6 +8201,30 @@
    "techbase-events"
   ],
   "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "English Tutorial: US Reimbursement Strategy – Getting Paid After FDA",
+  "start": "2026-12-08",
+  "ende": "2026-12-08",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3",
+  "veranstalter": "",
+  "kurz": "Online, 16:00-17:00 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-08|digitale-oberpfalz.de/news-events/termine/detail/8/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-17",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -8621,6 +8659,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Tutorial: Pitchen vor Investoren – deine Startup-Story",
+  "start": "2026-12-09",
+  "ende": "2026-12-09",
+  "ort": "sind diesbezüglich eure Stärken und Schwächen?",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1",
+  "veranstalter": "",
+  "kurz": "Online, 13:30 - 14:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-09|digitale-oberpfalz.de/news-events/termine/detail/9/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-17",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Webinar: GW-Thementag Fenstersanierung trifft Vakuumglas",
   "start": "2026-12-09",
   "ende": "2026-12-09",
@@ -8727,20 +8791,44 @@
   "veranstalter": "",
   "kurz": "Startup masterclass Online",
   "methode": "json-ld",
-  "quelle_id": "dev-events-at",
-  "quelle_name": "dev.events – Start-up-Meetups Österreich",
-  "region_hinweis": "Österreich",
+  "quelle_id": "dev-events-de",
+  "quelle_name": "dev.events – Start-up-Meetups Deutschland",
+  "region_hinweis": "Deutschland",
   "branchen_vorschlag": [
    "Gründung & Innovation"
   ],
   "schluessel": "2026-12-10|dev.events/conferences/clean-architecture-online-4-2023",
   "quellen": [
-   "dev-events-at",
-   "dev-events-de"
+   "dev-events-de",
+   "dev-events-at"
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
+ },
+ {
+  "titel": "Die Farbe des Lichts - Bilderwelten einer Grenzerfahrung - Auszüge aus Monumentalwerken von Axel Neumann",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "ort": "Basilika St. Emmeram, Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/621738",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-10|regensburg.de/veranstaltungen/detail/621738",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-23",
+  "erfasst_als": null,
+  "entscheidung": ""
  },
  {
   "titel": "Expertenrunde: Einrohr-Heizung und Wärmepumpe – so geht’s",
@@ -8917,6 +9005,32 @@
    "techbase-events"
   ],
   "zuerst_gesehen": "2026-11-21",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Tutorial: Startup Valuation & Value Creation: Bewertung verstehen und gezielt steigern",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/10/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1-1",
+  "veranstalter": "",
+  "kurz": "Online, 13:30 - 14:30 Uhr",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-10|digitale-oberpfalz.de/news-events/termine/detail/10/12/2026/tutorial-was-startup-gruender-von-spitzentrainern-im-sport-lernen-koennen-3-1-1-1",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-19",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -10611,6 +10725,30 @@
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": null,
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars"
+ },
+ {
+  "titel": "Start?Zuschuss!",
+  "start": "2027-01-10",
+  "ende": "2027-01-10",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/10/1/2027/startzuschuss-3",
+  "veranstalter": "",
+  "kurz": "Wettbewerb, 25.11.2026 bis 10.01.2027 (Fristende)",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-01-10|digitale-oberpfalz.de/news-events/termine/detail/10/1/2027/startzuschuss-3",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": "bau-2027",
+  "entscheidung": ""
  },
  {
   "titel": "Nordstil Winter",
@@ -14721,6 +14859,30 @@
   "entscheidung": ""
  },
  {
+  "titel": "Seminar: Von der Idee zum Produkt",
+  "start": "2027-03-16",
+  "ende": "2027-03-16",
+  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/16/3/2027/seminar-von-der-idee-zum-produkt",
+  "veranstalter": "",
+  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "dgo-termine",
+  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-03-16|digitale-oberpfalz.de/news-events/termine/detail/16/3/2027/seminar-von-der-idee-zum-produkt",
+  "quellen": [
+   "dgo-termine"
+  ],
+  "zuerst_gesehen": "2026-11-04",
+  "erfasst_als": "seminar-von-der-idee-zum-produkt-2027",
+  "entscheidung": "aufgenommen: seminar-von-der-idee-zum-produkt-2027"
+ },
+ {
   "titel": "XPONENTIAL Europe",
   "start": "2027-03-16",
   "ende": "2027-03-18",
@@ -15793,30 +15955,6 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
  },
  {
-  "titel": "Seminar: Vom Produkt zum Markt",
-  "start": "2027-04-06",
-  "ende": "2027-04-06",
-  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
-  "land": "",
-  "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/6/4/2027/seminar-von-der-idee-zum-produkt-1",
-  "veranstalter": "",
-  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-04-06|digitale-oberpfalz.de/news-events/termine/detail/6/4/2027/seminar-von-der-idee-zum-produkt-1",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-10",
-  "erfasst_als": "seminar-vom-produkt-zum-markt-2027",
-  "entscheidung": "aufgenommen: seminar-vom-produkt-zum-markt-2027"
- },
- {
   "titel": "Battery Business & Development Forum 2027",
   "start": "2027-04-07",
   "ende": "2027-04-07",
@@ -16342,30 +16480,6 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
  },
  {
-  "titel": "Seminar: Vom Markt zum Firmenaufbau",
-  "start": "2027-04-13",
-  "ende": "2027-04-13",
-  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
-  "land": "",
-  "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/13/4/2027/seminar-von-der-idee-zum-produkt-1-1",
-  "veranstalter": "",
-  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-04-13|digitale-oberpfalz.de/news-events/termine/detail/13/4/2027/seminar-von-der-idee-zum-produkt-1-1",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-14",
-  "erfasst_als": "seminar-vom-markt-zum-firmenaufbau-2027",
-  "entscheidung": "aufgenommen: seminar-vom-markt-zum-firmenaufbau-2027"
- },
- {
   "titel": "Solarplaza Summit | Energy Storage The Netherlands",
   "start": "2027-04-13",
   "ende": "2027-04-13",
@@ -16703,30 +16817,6 @@
    "gentner-events"
   ],
   "zuerst_gesehen": "2026-11-19",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Seminar: Vom Firmenaufbau zu den Planzahlen",
-  "start": "2027-04-20",
-  "ende": "2027-04-20",
-  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
-  "land": "",
-  "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/20/4/2027/seminar-von-der-idee-zum-produkt-1-2",
-  "veranstalter": "",
-  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-04-20|digitale-oberpfalz.de/news-events/termine/detail/20/4/2027/seminar-von-der-idee-zum-produkt-1-2",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-22",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -17119,30 +17209,6 @@
   "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars oder kleineres Format außerhalb DACH"
  },
  {
-  "titel": "Seminar: Von den Planzahlen zur Wirklichkeit",
-  "start": "2027-04-27",
-  "ende": "2027-04-27",
-  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
-  "land": "",
-  "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/27/4/2027/seminar-von-der-idee-zum-produkt-1-3",
-  "veranstalter": "",
-  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-04-27|digitale-oberpfalz.de/news-events/termine/detail/27/4/2027/seminar-von-der-idee-zum-produkt-1-3",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-22",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "The Health & Safety Event 2027 - Day 1",
   "start": "2027-04-27",
   "ende": "2027-04-27",
@@ -17430,30 +17496,6 @@
   "entscheidung": "aufgenommen: cwieme-berlin-2027"
  },
  {
-  "titel": "Gemeinschaftsstand auf der transport logistic 2027",
-  "start": "2027-04-29",
-  "ende": "2027-04-29",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/26/4/2027/gemeinschaftsstand-auf-der-transport-logistic-2027",
-  "veranstalter": "",
-  "kurz": "Messe München, Halle C3, Stand 417/516, ganztags",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-04-29|digitale-oberpfalz.de/news-events/termine/detail/26/4/2027/gemeinschaftsstand-auf-der-transport-logistic-2027",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-04",
-  "erfasst_als": "changenow-2027",
-  "entscheidung": "aufgenommen: transport-logistic-2027"
- },
- {
   "titel": "National Cyber Security Show - Day 3",
   "start": "2027-04-29",
   "ende": "2027-04-29",
@@ -17671,30 +17713,6 @@
   "entscheidung": ""
  },
  {
-  "titel": "Seminar: Von der Wirklichkeit in die Virtualität",
-  "start": "2027-05-04",
-  "ende": "2027-05-04",
-  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
-  "land": "",
-  "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/4/5/2027/seminar-von-der-idee-zum-produkt-1-4",
-  "veranstalter": "",
-  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-05-04|digitale-oberpfalz.de/news-events/termine/detail/4/5/2027/seminar-von-der-idee-zum-produkt-1-4",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-22",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "DDG Diabetes Kongress 2027",
   "start": "2027-05-08",
   "ende": "2027-05-08",
@@ -17821,30 +17839,6 @@
   "entscheidung": "aufgenommen: solarplaza-summit-romania-2027"
  },
  {
-  "titel": "Spezialseminar: Betriebsübernahme und -nachfolge",
-  "start": "2027-05-11",
-  "ende": "2027-05-11",
-  "ort": "Landratsamt Regensburg, Großer Sitzungssaal, Altmühlstraße 3, 93059 Regensburg",
-  "land": "",
-  "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/11/5/2027/seminar-von-der-idee-zum-produkt-1-5",
-  "veranstalter": "",
-  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-05-11|digitale-oberpfalz.de/news-events/termine/detail/11/5/2027/seminar-von-der-idee-zum-produkt-1-5",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-22",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
   "titel": "Unternehmerreise nach Kanada: CHIPS NORTH 2027",
   "start": "2027-05-11",
   "ende": "2027-05-11",
@@ -17943,30 +17937,6 @@
   "entscheidung": "aufgenommen: 48-ulmer-gespraech-2027"
  },
  {
-  "titel": "JOBTECH 2027 - die Jobmesse der TechBase",
-  "start": "2027-05-12",
-  "ende": "2027-05-12",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/12/5/2027/jobtech-2027-die-jobmesse-der-techbase",
-  "veranstalter": "",
-  "kurz": "TechBase Regensburg, 12:00 - 16:00 Uhr",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2027-05-12|digitale-oberpfalz.de/news-events/termine/detail/12/5/2027/jobtech-2027-die-jobmesse-der-techbase",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-22",
-  "erfasst_als": "ligna-2027",
-  "entscheidung": ""
- },
- {
   "titel": "WITEX",
   "start": "2027-05-12",
   "ende": "2027-05-14",
@@ -18015,32 +17985,6 @@
   ],
   "zuerst_gesehen": "2026-11-04",
   "erfasst_als": "ligna-2027",
-  "entscheidung": ""
- },
- {
-  "titel": "Spezialseminar: Gründen im Nebenerwerb",
-  "start": "2027-05-13",
-  "ende": "2027-05-13",
-  "ort": "Online",
-  "land": "",
-  "online": true,
-  "url": "https://www.digitale-oberpfalz.de/news-events/termine/detail/13/5/2027/seminar-von-der-idee-zum-produkt-1-6",
-  "veranstalter": "",
-  "kurz": "Starte erfolgreich in die Selbstständigkeit: Grundlagen zu Businessplan, Formalien & Förderung beim Seminar 1 der UnternehmerSchule. Jetzt anmelden!",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "dgo-termine",
-  "quelle_name": "Digitale Gründerinitiative Oberpfalz – Termine",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2027-05-13|digitale-oberpfalz.de/news-events/termine/detail/13/5/2027/seminar-von-der-idee-zum-produkt-1-6",
-  "quellen": [
-   "dgo-termine"
-  ],
-  "zuerst_gesehen": "2026-11-22",
-  "erfasst_als": null,
   "entscheidung": ""
  },
  {

@@ -1605,7 +1605,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-22",
+  "geholt": "2026-11-23",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -49051,6 +49051,482 @@
     "land": "",
     "online": true,
     "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795322170-c0dc1fdf6",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/getting-the-deal-done-with-linklaters-ma-transaktionen-und-der-einsatz-von-rhetorik-softskills-in-der-praxis-65051": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Getting the Deal done with Linklaters – M&A-Transaktionen und der Einsatz von Rhetorik-Softskills in der Praxis (65051)",
+    "start": "2026-11-24",
+    "ende": "2026-11-24",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/getting-the-deal-done-with-linklaters-ma-transaktionen-und-der-einsatz-von-rhetorik-softskills-in-der-praxis-65051",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-24|uni-passau.de/veranstaltungskalender/detail/event/getting-the-deal-done-with-linklaters-ma-transaktionen-und-der-einsatz-von-rhetorik-softskills-in-der-praxis-65051",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/600000": {
+  "geholt": "2026-11-23",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/bis-zur-wahrheit-filmvorfuehrung-mit-anschliessendem-gespraech-mit-regisseurin-saralisa-volm": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "„Bis zur Wahrheit“ – Filmvorführung mit anschließendem Gespräch mit Regisseurin Saralisa Volm",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/bis-zur-wahrheit-filmvorfuehrung-mit-anschliessendem-gespraech-mit-regisseurin-saralisa-volm",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-01|uni-passau.de/veranstaltungskalender/detail/event/bis-zur-wahrheit-filmvorfuehrung-mit-anschliessendem-gespraech-mit-regisseurin-saralisa-volm",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/617600": {
+  "geholt": "2026-11-23",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/berufe-im-profil-hr-management-bei-der-bmw-ag-65014": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Berufe im Profil: HR Management bei der BMW AG",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/berufe-im-profil-hr-management-bei-der-bmw-ag-65014",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|uni-passau.de/veranstaltungskalender/detail/event/berufe-im-profil-hr-management-bei-der-bmw-ag-65014",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621252": {
+  "geholt": "2026-11-23",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/science-slam-security-wie-forschung-sicherheit-schafft": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Science Slam Security: Wie Forschung Sicherheit schafft",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/science-slam-security-wie-forschung-sicherheit-schafft",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|uni-passau.de/veranstaltungskalender/detail/event/science-slam-security-wie-forschung-sicherheit-schafft",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621803": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Bücherbasar Herz Jesu",
+    "start": "2026-11-22",
+    "ende": "2026-11-22",
+    "ort": "St. Josefsaal Kirche Herz Jesu, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/621803",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-22|regensburg.de/veranstaltungen/detail/621803",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/effizient-recherchieren-fuer-die-seminar-und-bachelorarbeit-1": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Effizient recherchieren für die Seminar- und Bachelorarbeit",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/effizient-recherchieren-fuer-die-seminar-und-bachelorarbeit-1",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-03|uni-passau.de/veranstaltungskalender/detail/event/effizient-recherchieren-fuer-die-seminar-und-bachelorarbeit-1",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/619387": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Ausstellung Thomas Freiss in der Stadelgalerie \"Stadel temporär\"",
+    "start": "2026-11-22",
+    "ende": "2026-11-22",
+    "ort": "Künstlerhaus Andreas-Stadel, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/619387",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-22|regensburg.de/veranstaltungen/detail/619387",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/618306": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Gradium Expo Regensburg 2026",
+    "start": "2026-11-22",
+    "ende": "2026-11-22",
+    "ort": "Sportgaststätte Walhalla, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/618306",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-22|regensburg.de/veranstaltungen/detail/618306",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": "genera-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-passau.de/veranstaltungskalender/detail/event/webinar-zum-neuen-studiengang-medienkulturwissenschaft": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Webinar zum neuen Studiengang \"Medienkulturwissenschaft\"",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/webinar-zum-neuen-studiengang-medienkulturwissenschaft",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-passau",
+    "quelle_name": "Universität Passau – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-03|uni-passau.de/veranstaltungskalender/detail/event/webinar-zum-neuen-studiengang-medienkulturwissenschaft",
+    "quellen": [
+     "uni-passau"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620497": {
+  "geholt": "2026-11-23",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/611731": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Sonderausstellung - Exhibition - \"Stadel x Stadel IV - Dialog über die Donau\"",
+    "start": "2026-11-25",
+    "ende": "2026-11-25",
+    "ort": "Besucherzentrum Welterbe im Salzstadel, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/611731",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-25|regensburg.de/veranstaltungen/detail/611731",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/bbglueh-deep-tech-venture-capital-und-networking-im-freiraum/": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "BBGlüh – Deep Tech, Venture Capital und Networking im freiRaum",
+    "start": "2026-11-26",
+    "ende": "1970-01-01",
+    "ort": "freiRaum, Stuttgart",
+    "land": "",
+    "online": false,
+    "url": "https://www.startup-region-stuttgart.de/termine/bbglueh-deep-tech-venture-capital-und-networking-im-freiraum/",
+    "veranstalter": "",
+    "kurz": "Am 26. November 2026 laden die TTI GmbH und TRACES zum BBGlüh in den freiRaum der Universität Stuttgart ein. Im Mittelpunkt der Veranstaltung stehen zwei Impulsvorträge zu Wagniskapital und Deep-Tech-Gründungen sowie der",
+    "methode": "json-ld",
+    "quelle_id": "startup-region-stuttgart",
+    "quelle_name": "Start-up-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-11-26|startup-region-stuttgart.de/termine/bbglueh-deep-tech-venture-capital-und-networking-im-freiraum",
+    "quellen": [
+     "startup-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/609829": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Die Sammlung Weidinger",
+    "start": "2026-11-29",
+    "ende": "2026-11-29",
+    "ort": "Kunstforum Ostdeutsche Galerie, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/609829",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-11-29|regensburg.de/veranstaltungen/detail/609829",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621738": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Die Farbe des Lichts - Bilderwelten einer Grenzerfahrung - Auszüge aus Monumentalwerken von Axel Neumann",
+    "start": "2026-12-10",
+    "ende": "2026-12-10",
+    "ort": "Basilika St. Emmeram, Regensburg",
+    "land": "",
+    "online": false,
+    "url": "https://www.regensburg.de/veranstaltungen/detail/621738",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "regensburg-wirtschaft",
+    "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-10|regensburg.de/veranstaltungen/detail/621738",
+    "quellen": [
+     "regensburg-wirtschaft"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/swiss-fintech-ai-investor-day-2026-at-ergon-informatik-ag": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Swiss Fintech & AI Investor Day 2026 @ Ergon Informatik AG,",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "Ergon Informatik AG · Merkurstrasse 43 · 8032 Zürich",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/swiss-fintech-ai-investor-day-2026-at-ergon-informatik-ag",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Software, KI & Daten",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-01|startupticker.ch/en/events/swiss-fintech-ai-investor-day-2026-at-ergon-informatik-ag",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-23",
+    "erfasst_als": "open-link-day-wien-2026",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795409358-ca5e5d26e": {
+  "geholt": "2026-11-23",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2026-12-07",
+    "ende": "2026-12-07",
+    "ort": "Termin",
+    "land": "",
+    "online": true,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795409358-ca5e5d26e",
     "veranstalter": "",
     "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
     "methode": "detailseite-text",
