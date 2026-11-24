@@ -2,7 +2,7 @@
  "quelle": "firmen-europa",
  "name": "Nachrecherche: europäische Start-ups aus Ranglisten (Cemex Ventures Top 50 Contech, Green Tech Startups Austria u. a.)",
  "url": "https://www.cemexventures.com/top-50/",
- "abgerufen": "2026-11-23",
+ "abgerufen": "2026-11-24",
  "koepfe": [],
  "links": [],
  "eintraege": [],
@@ -207,6 +207,11 @@
   {
    "website": "https://planlabs.com/",
    "fehler": "URLError"
+  },
+  {
+   "website": "https://www.mosaico.dev",
+   "name": "Mosaico: The Data Platform for Robotics and Physical AILinuxmacOS",
+   "kurz": "The Data Platform for Robotics and Physical AI"
   }
  ]
 }

@@ -2,12 +2,13 @@
  "quelle": "liste-contech-report",
  "name": "starting-up.de – ConTech-Start-up-Report 2026",
  "url": "https://www.starting-up.de/geschaeftsideen/trends/contech-start-up-report-2026.html",
- "abgerufen": "2026-11-23",
+ "abgerufen": "2026-11-24",
  "koepfe": [
   "Highlights des Jahres",
   "Zum Newsletter per QR-Code",
   "Frage des Monats",
-  "22.06.2026"
+  "22.06.2026",
+  "Geld ist nichts für die Bank"
  ],
  "links": [
   {
@@ -276,48 +277,23 @@
    "extern": false
   },
   {
-   "text": "HAGER Executive Consulting",
-   "url": "https://hager-consulting.com/",
+   "text": "HARTLICH Steuerberatung",
+   "url": "https://www.hartlich-steuerberatung.de/index.html",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/interview-der-bruch-zeigt-sich-zuerst-im-vertrieb.html",
+   "url": "https://www.starting-up.de/ideen/unternehmer-typen/fabian-hartlich-vom-start-up-zur-kanzlei-der-zukunft.html",
    "extern": false
   },
   {
-   "text": "Brandenburg Labs",
-   "url": "https://brandenburg-labs.com/",
-   "extern": true
-  },
-  {
-   "text": "Prof. Dr.-Ing. Karlheinz Brandenburg",
-   "url": "https://de.wikipedia.org/wiki/Karlheinz_Brandenburg",
-   "extern": true
-  },
-  {
-   "text": "Bundesagentur für Sprunginnovationen (SPRIND)",
-   "url": "https://www.sprind.org/",
-   "extern": true
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/ideen/unternehmer-typen/prof-karlheinz-brandenburg-vom-mp3-triumph-zur-audio-ar.html",
-   "extern": false
-  },
-  {
-   "text": "Dies ist ein Auszug aus einem aktuellen Artikel unseres Print-Objekts StartingUp: Den vollständigen Artikel lesen Sie in der aktuellen StartingUp - Heft 02/16 -",
+   "text": "Dies ist ein Auszug aus einem aktuellen Artikel unseres Print-Objekts StartingUp: Den vollständigen Artikel lesen Sie in der aktuellen StartingUp - Heft 01/16 -",
    "url": "http://www.starting-up.de/abo-service/alle-ausgaben.html",
    "extern": false
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/drew-houston-und-die-dropbox-story.html",
-   "extern": false
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/travis-kalanick-und-die-uber-story.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/unternehmer-typen/joe-gebbia-und-die-airbnb-story.html",
    "extern": false
   },
   {
@@ -331,33 +307,68 @@
    "extern": false
   },
   {
+   "text": "spiceboys",
+   "url": "https://www.spiceboys.shop/",
+   "extern": true
+  },
+  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/in-orbit-economy-der-wahre-milliardenmarkt-im-all.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiceboys-chai-latte-vibes-statt-kaesefuss.html",
    "extern": false
   },
   {
-   "text": "Karevo",
-   "url": "https://www.karevo.de/de",
+   "text": "Order Right",
+   "url": "https://orderright.de/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/karevo-der-125000-euro-befreiungsschlag-von-der-knochenarbeit.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-order-right-mit-ki-das-gastro-sterben-bekaempft.html",
    "extern": false
   },
   {
-   "text": "Reflip",
-   "url": "https://www.reflip.net/",
+   "text": "Tanso",
+   "url": "https://www.tanso.de/",
    "extern": true
   },
   {
-   "text": "TTI Technologie-Transfer-Initiative GmbH",
-   "url": "https://www.tti-stuttgart.de/",
+   "text": "Atlas Metrics",
+   "url": "https://www.atlasmetrics.io/",
+   "extern": true
+  },
+  {
+   "text": "Kertos",
+   "url": "https://kertos.io/",
+   "extern": true
+  },
+  {
+   "text": "Kodex AI",
+   "url": "https://www.kodex-ai.com/",
+   "extern": true
+  },
+  {
+   "text": "Sunhat",
+   "url": "https://www.getsunhat.com/de",
+   "extern": true
+  },
+  {
+   "text": "Fides-Technology",
+   "url": "https://fides.technology/de",
+   "extern": true
+  },
+  {
+   "text": "Briink",
+   "url": "https://www.briink.com/",
+   "extern": true
+  },
+  {
+   "text": "ContractHero",
+   "url": "https://www.contracthero.com/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/reflip-die-europaeische-social-media-hoffnung.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/trends/regtech-start-up-report-2026.html",
    "extern": false
   },
   {
@@ -381,43 +392,33 @@
    "extern": false
   },
   {
-   "text": "QOODA",
-   "url": "https://www.qooda.io/",
-   "extern": true
-  },
-  {
-   "text": "BayStartUP-Wettbewerb",
-   "url": "https://www.baystartup.de/businessplan-wettbewerbe",
+   "text": "exist women",
+   "url": "https://exist.de/programm/women/",
    "extern": true
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/qooda-satelliten-blackout-als-geschaeftsmodell.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/drik-17-smartes-gadget-skalierbares-business.html",
+   "extern": false
+  },
+  {
+   "text": "Pfandpirat",
+   "url": "https://pfandpirat.com/",
+   "extern": true
+  },
+  {
+   "text": "Weiterlesen",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/pfandpirat-bootstrapping-auf-der-strasse.html",
    "extern": false
   },
   {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/trends/b2b-edtech-start-up-report.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/savin-zinsen-statt-strom-schock.html",
    "extern": false
   },
   {
-   "text": "Friday/Poppins",
-   "url": "https://www.fridaypoppins.de/",
-   "extern": true
-  },
-  {
    "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/wie-friday/poppins-im-hr-aufraeumen-will.html",
-   "extern": false
-  },
-  {
-   "text": "Neurawork",
-   "url": "https://neurawork.ai/",
-   "extern": true
-  },
-  {
-   "text": "Weiterlesen",
-   "url": "https://www.starting-up.de/geschaeftsideen/ki/step-by-step-zum-profitablen-ki-einsatz-im-start-up.html",
+   "url": "https://www.starting-up.de/geschaeftsideen/gruenderstorys/spiritory-vom-trading-floor-zum-flagship-store.html",
    "extern": false
   },
   {

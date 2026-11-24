@@ -2,14 +2,14 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-23",
+ "abgerufen": "2026-11-24",
  "koepfe": [
   "Top Beiträge",
-  "Mehr als 46 Stunden Rekordverlängerung: Weltklimakonferenz COP31 fast ohne Ergebnis",
-  "Fünfmal länger haltbar? Berliner Forscher entwickeln Brücke aus Holz und Granit",
-  "Bayern stellt Musialas Gehalt infrage, dürfte Ihr Chef das auch?",
-  "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
-  "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
+  "Bundesnetzagentur-Chef Klaus Müller: Von Habecks „Gasmann“ zu Reiches Stabilitätsanker",
+  "Alte Batterien helfen bei der Wasserreinigung – doch es gibt ein Problem",
+  "27.000 m³ Holz: Was vom größten Holzbau der Welt übrig bleibt",
+  "2600 Stahlträger verschwinden in einer Goldmine, für ein gewaltiges Bauprojekt",
+  "475 t am Haken: In Koblenz beginnt ein gewaltiger Brückeneinhub",
   "Bautechnik und mehr",
   "1. Bauprojekt-Management",
   "2. Baustoffe und -elemente",
@@ -34,11 +34,11 @@
   "Top Stellenanzeigen",
   "Weitere Artikel",
   "Sie ist nur 23 cm groß und sucht selbstständig nach Rissen in Brücken",
-  "Mehr als 46 Stunden Rekordverlängerung: Weltklimakonferenz COP31 fast ohne Ergebnis",
-  "Fünfmal länger haltbar? Berliner Forscher entwickeln Brücke aus Holz und Granit",
-  "Bayern stellt Musialas Gehalt infrage, dürfte Ihr Chef das auch?",
-  "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
-  "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
+  "Bundesnetzagentur-Chef Klaus Müller: Von Habecks „Gasmann“ zu Reiches Stabilitätsanker",
+  "Alte Batterien helfen bei der Wasserreinigung – doch es gibt ein Problem",
+  "27.000 m³ Holz: Was vom größten Holzbau der Welt übrig bleibt",
+  "2600 Stahlträger verschwinden in einer Goldmine, für ein gewaltiges Bauprojekt",
+  "475 t am Haken: In Koblenz beginnt ein gewaltiger Brückeneinhub",
   "Firmenprofile"
  ],
  "links": [
@@ -53,13 +53,33 @@
    "extern": false
   },
   {
-   "text": "Umwelt",
-   "url": "https://www.ingenieur.de/umwelt/",
+   "text": "Energie",
+   "url": "https://www.ingenieur.de/energie/",
    "extern": false
   },
   {
-   "text": "Mehr als 46 Stunden Rekordverlängerung: Weltklimakonferenz COP31 fast ohne Ergebnis",
-   "url": "https://www.ingenieur.de/cop31-endet-mit-welchem-ergebnis-705d3b4b-7e22-43c2-81e1-38de937e4375/",
+   "text": "Bundesnetzagentur-Chef Klaus Müller: Von Habecks „Gasmann“ zu Reiches Stabilitätsanker",
+   "url": "https://www.ingenieur.de/klaus-mueller-habecks-gasmann-bleibt-chef-der-bundesnetzagentur-9fd48327-d21a-4fdb-b68b-534ca73ff069/",
+   "extern": false
+  },
+  {
+   "text": "Wasser und Abwasser",
+   "url": "https://www.ingenieur.de/wasser-und-abwasser/",
+   "extern": false
+  },
+  {
+   "text": "Alte Batterien helfen bei der Wasserreinigung – doch es gibt ein Problem",
+   "url": "https://www.ingenieur.de/alte-batterien-helfen-bei-der-wasserreinigung-doch-es-gibt-ein-problem-8069ad67-42ac-4dc9-8c31-715d27c6d33f/",
+   "extern": false
+  },
+  {
+   "text": "Architektur",
+   "url": "https://www.ingenieur.de/architektur/",
+   "extern": false
+  },
+  {
+   "text": "27.000 m³ Holz: Was vom größten Holzbau der Welt übrig bleibt",
+   "url": "https://www.ingenieur.de/27-000-m3-holz-was-vom-groessten-holzbau-der-welt-uebrig-bleibt-06d830c7-0c24-47b7-bce0-5a4beafb32a7/",
    "extern": false
   },
   {
@@ -68,38 +88,18 @@
    "extern": false
   },
   {
-   "text": "Fünfmal länger haltbar? Berliner Forscher entwickeln Brücke aus Holz und Granit",
-   "url": "https://www.ingenieur.de/fuenfmal-laenger-haltbar-berliner-forscher-entwickeln-bruecke-aus-holz-und-granit-ae3f1e61-09b7-45d5-9ea8-409b586e563b/",
+   "text": "2600 Stahlträger verschwinden in einer Goldmine, für ein gewaltiges Bauprojekt",
+   "url": "https://www.ingenieur.de/2600-stahltraeger-verschwinden-in-einer-goldmine-fuer-ein-gewaltiges-bauprojekt-edf03621-ea9d-476a-97a9-d311ea480503/",
    "extern": false
   },
   {
-   "text": "Arbeitsrecht",
-   "url": "https://www.ingenieur.de/karriere/arbeitsrecht/",
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "Bayern stellt Musialas Gehalt infrage, dürfte Ihr Chef das auch?",
-   "url": "https://www.ingenieur.de/bayern-stellt-musialas-gehalt-infrage-duerfte-ihr-chef-das-auch-53bb18f8-afb3-403b-bf85-83e042c7fc53/",
-   "extern": false
-  },
-  {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
-   "url": "https://www.ingenieur.de/26-000-km-h-neuer-schutzschild-soll-astronauten-vor-weltraumschrott-schuetzen-138c9ff1-d369-490b-b338-f2d1623cec99/",
-   "extern": false
-  },
-  {
-   "text": "Naturwissenschaften",
-   "url": "https://www.ingenieur.de/naturwissenschaften/",
-   "extern": false
-  },
-  {
-   "text": "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
-   "url": "https://www.ingenieur.de/riemannsche-vermutung-hat-ki-das-groesste-mathe-raetsel-nach-167-jahren-geloest-134e428c-97fd-4992-ac52-45e3ed87b957/",
+   "text": "475 t am Haken: In Koblenz beginnt ein gewaltiger Brückeneinhub",
+   "url": "https://www.ingenieur.de/475-t-am-haken-in-koblenz-beginnt-ein-gewaltiger-brueckeneinhub-e9e3e174-102f-4734-b4da-938586884fc5/",
    "extern": false
   },
   {
@@ -188,71 +188,6 @@
    "extern": true
   },
   {
-   "text": "mehr zu Junior Bauüberwacher:in Oberbau / Konstruktiver Ingenieurbau (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/junior-bauueberwacher-in-oberbau-konstruktiver-ingenieurbau-w-m-d-064379311?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Senior Ingenieur:in Leit- und Sicherungstechnik im Großprojekt Rhein-Ruhr-Express (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/senior-ingenieur-in-leit-und-sicherungstechnik-im-grossprojekt-rhein-ruhr-express-w-m-d-064379310?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Junior Bauingenieur:in als Bezirksleiter:in Fahrbahn (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/junior-bauingenieur-in-als-bezirksleiter-in-fahrbahn-w-m-d-064379312?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektleiter (m/w/d) Industriebau bei MEGGLE GmbH & Co. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleiter-m-w-d-industriebau-064379404?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Projektingenieur Elektrotechnik (w/m/d) bei Infraserv GmbH & Co. Höchst KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektingenieur-elektrotechnik-w-m-d-064382713?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Produktmanager &#8211; Infantry Fighting Systems (w/m/d) bei HENSOLDT (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/produktmanager-infantry-fighting-systems-w-m-d-064655960?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Ingenieur/in oder Techniker/in für unseren Straßenbau und unsere Ingenieurbauwerke (w/m/d) bei Stadt Hemer (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-in-oder-techniker-in-fuer-unseren-strassenbau-und-unsere-ingenieurbauwerke-w-m-d-064666063?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Prozesstechniker (m/w/d) Kunststofftechnik bei Diehl Metal Applications GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/prozesstechniker-m-w-d-kunststofftechnik-064757113?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Chemiker / Ingenieur Normungsarbeit &#8211; Wasser / Chemie (m/w/d) bei BRITA (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/chemiker-ingenieur-normungsarbeit-wasser-chemie-m-w-d-064753650?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Diplom-Ingenieur (m/w/d) (FH) oder Bachelor of Engineering der Versorgungstechnik / Gebäudetechnik, Technische Gebäudeausrüstung oder Maschinenbau bei S",
-   "url": "https://jobs.ingenieur.de/job/diplom-ingenieur-m-w-d-fh-oder-bachelor-of-engineering-der-versorgungstechnik-gebaeudetechnik-technische-gebaeudeausruestung-oder-maschinenbau-064759343?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Ingenieur / Techniker (m/w/d) HKLS im Bundesbau bei Gebäudemanagement Schleswig-Holstein (GMSH) (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-techniker-m-w-d-hkls-im-bundesbau-064759468?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Ingenieurin (m/w/d) für Raumlufttechnik bei Gebäudemanagement Schleswig-Holstein (GMSH) (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieurin-m-w-d-fuer-raumlufttechnik-064759467?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
-   "text": "mehr zu Fachbereichsleitung Betriebstechnik (m/w/d) bei Niedersächsisches Landesamt für Bau und Liegenschaften (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/fachbereichsleitung-betriebstechnik-m-w-d-064759594?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
-   "extern": true
-  },
-  {
    "text": "mehr zu Automatisierungsingenieur / SPS-Ingenieur (m/w/d) bei Gebrüder Lödige Maschinenbau GmbH (öffnet in neuem Fenster)",
    "url": "https://jobs.ingenieur.de/job/automatisierungsingenieur-sps-ingenieur-m-w-d-064382988?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
@@ -288,6 +223,71 @@
    "extern": true
   },
   {
+   "text": "mehr zu Werkleiter (w/m/d) bei WITTENSTEIN SE (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/werkleiter-w-m-d-064475108?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu TGA-Ingenieur (m/w/d) in Leverkusen bei Dohm Pharmaceutical Engineering (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/tga-ingenieur-m-w-d-in-leverkusen-064466966?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Leiter Programmanagement Netzausbau Nord-West (m/w/d) bei TenneT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/leiter-programmanagement-netzausbau-nord-west-m-w-d-064475060?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu ARCHITEKT:IN &#8211; LP 2-5 HOAI (m/w/d) bei Rabensteiner GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/architekt-in-lp-2-5-hoai-m-w-d-064476254?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Projektleiter (m/w/d) für die Planung der Gebäudeautomation im Bereich TGA bei GePlan Ingenieure (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektleiter-m-w-d-fuer-die-planung-der-gebaeudeautomation-im-bereich-tga-064466967?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Mechatroniker für Leit- und Sicherungstechnik / Signalmechaniker / Stellwerkstechniker (m/w/d) bei YARA Rostock, Zweigniederlassung der Yara GmbH & Co. ",
+   "url": "https://jobs.ingenieur.de/job/mechatroniker-fuer-leit-und-sicherungstechnik-signalmechaniker-stellwerkstechniker-m-w-d-064476372?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Bereichsleiter*in Elektrotechnik im Gebäudebetrieb bei Deutsche Rentenversicherung Bund (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bereichsleiter-in-elektrotechnik-im-gebaeudebetrieb-064296819?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Entwicklungsingenieur Automotive Hardware (m/w/d) bei Rheinmetall Landsysteme GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/entwicklungsingenieur-automotive-hardware-m-w-d-064759537?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Entwicklungsingenieur Embedded Software / Automotive (m/w/d) bei Rheinmetall Landsysteme GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/entwicklungsingenieur-embedded-software-automotive-m-w-d-064759538?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieur/-in (m/w/d) für den Außendienst als Aufsichtsperson bei BG ETEM (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-in-m-w-d-fuer-den-aussendienst-als-aufsichtsperson-064778327?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieur Elektrotechnik (m/w/d) Prüflabor bei Schaltbau GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-elektrotechnik-m-w-d-prueflabor-064780588?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Quality Manager (m/w/d) bei SEG Electronics GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/quality-manager-m-w-d-064321919?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
+   "text": "mehr zu Ingenieur für Netzanschlussregeln (m/w/d) bei TenneT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-fuer-netzanschlussregeln-m-w-d-064337894?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "extern": true
+  },
+  {
    "text": "Digitalisierung Bau",
    "url": "https://www.ingenieur.de/digitalisierung-bau/",
    "extern": false
@@ -298,13 +298,33 @@
    "extern": false
   },
   {
-   "text": "Umwelt",
-   "url": "https://www.ingenieur.de/umwelt/",
+   "text": "Energie",
+   "url": "https://www.ingenieur.de/energie/",
    "extern": false
   },
   {
-   "text": "Mehr als 46 Stunden Rekordverlängerung: Weltklimakonferenz COP31 fast ohne Ergebnis",
-   "url": "https://www.ingenieur.de/cop31-endet-mit-welchem-ergebnis-705d3b4b-7e22-43c2-81e1-38de937e4375/",
+   "text": "Bundesnetzagentur-Chef Klaus Müller: Von Habecks „Gasmann“ zu Reiches Stabilitätsanker",
+   "url": "https://www.ingenieur.de/klaus-mueller-habecks-gasmann-bleibt-chef-der-bundesnetzagentur-9fd48327-d21a-4fdb-b68b-534ca73ff069/",
+   "extern": false
+  },
+  {
+   "text": "Wasser und Abwasser",
+   "url": "https://www.ingenieur.de/wasser-und-abwasser/",
+   "extern": false
+  },
+  {
+   "text": "Alte Batterien helfen bei der Wasserreinigung – doch es gibt ein Problem",
+   "url": "https://www.ingenieur.de/alte-batterien-helfen-bei-der-wasserreinigung-doch-es-gibt-ein-problem-8069ad67-42ac-4dc9-8c31-715d27c6d33f/",
+   "extern": false
+  },
+  {
+   "text": "Architektur",
+   "url": "https://www.ingenieur.de/architektur/",
+   "extern": false
+  },
+  {
+   "text": "27.000 m³ Holz: Was vom größten Holzbau der Welt übrig bleibt",
+   "url": "https://www.ingenieur.de/27-000-m3-holz-was-vom-groessten-holzbau-der-welt-uebrig-bleibt-06d830c7-0c24-47b7-bce0-5a4beafb32a7/",
    "extern": false
   },
   {
@@ -313,38 +333,18 @@
    "extern": false
   },
   {
-   "text": "Fünfmal länger haltbar? Berliner Forscher entwickeln Brücke aus Holz und Granit",
-   "url": "https://www.ingenieur.de/fuenfmal-laenger-haltbar-berliner-forscher-entwickeln-bruecke-aus-holz-und-granit-ae3f1e61-09b7-45d5-9ea8-409b586e563b/",
+   "text": "2600 Stahlträger verschwinden in einer Goldmine, für ein gewaltiges Bauprojekt",
+   "url": "https://www.ingenieur.de/2600-stahltraeger-verschwinden-in-einer-goldmine-fuer-ein-gewaltiges-bauprojekt-edf03621-ea9d-476a-97a9-d311ea480503/",
    "extern": false
   },
   {
-   "text": "Arbeitsrecht",
-   "url": "https://www.ingenieur.de/karriere/arbeitsrecht/",
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "Bayern stellt Musialas Gehalt infrage, dürfte Ihr Chef das auch?",
-   "url": "https://www.ingenieur.de/bayern-stellt-musialas-gehalt-infrage-duerfte-ihr-chef-das-auch-53bb18f8-afb3-403b-bf85-83e042c7fc53/",
-   "extern": false
-  },
-  {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
-   "extern": false
-  },
-  {
-   "text": "Weltraumschrott mit 26.000 km/h: Dieses Material soll Astronauten schützen",
-   "url": "https://www.ingenieur.de/26-000-km-h-neuer-schutzschild-soll-astronauten-vor-weltraumschrott-schuetzen-138c9ff1-d369-490b-b338-f2d1623cec99/",
-   "extern": false
-  },
-  {
-   "text": "Naturwissenschaften",
-   "url": "https://www.ingenieur.de/naturwissenschaften/",
-   "extern": false
-  },
-  {
-   "text": "Riemannsche Vermutung: Hat KI das größte Mathe-Rätsel nach 167 Jahren geknackt?",
-   "url": "https://www.ingenieur.de/riemannsche-vermutung-hat-ki-das-groesste-mathe-raetsel-nach-167-jahren-geloest-134e428c-97fd-4992-ac52-45e3ed87b957/",
+   "text": "475 t am Haken: In Koblenz beginnt ein gewaltiger Brückeneinhub",
+   "url": "https://www.ingenieur.de/475-t-am-haken-in-koblenz-beginnt-ein-gewaltiger-brueckeneinhub-e9e3e174-102f-4734-b4da-938586884fc5/",
    "extern": false
   },
   {
@@ -353,53 +353,23 @@
    "extern": false
   },
   {
-   "text": "Bundesamt für Bauwesen und Raumordnung",
-   "url": "https://www.ingenieur.de/firmenprofile/bundesamt-fuer-bauwesen-und-raumordnung/",
+   "text": "Fresenius Group",
+   "url": "https://www.ingenieur.de/firmenprofile/fresenius-group/",
    "extern": false
   },
   {
-   "text": "Flex Automotive GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/flex-automotive-gmbh/",
+   "text": "Neugart GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/neugart-gmbh/",
    "extern": false
   },
   {
-   "text": "FERCHAU GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/ferchau-gmbh/",
+   "text": "FAULHABER Antriebssysteme",
+   "url": "https://www.ingenieur.de/firmenprofile/faulhaber-gmbh-co-kg/",
    "extern": false
   },
   {
-   "text": "HARIBO Deutschland",
-   "url": "https://www.ingenieur.de/firmenprofile/haribo-deutschland/",
-   "extern": false
-  },
-  {
-   "text": "Rheinmetall",
-   "url": "https://www.ingenieur.de/firmenprofile/rheinmetall/",
-   "extern": false
-  },
-  {
-   "text": "Baumüller Nürnberg GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/baumueller-nuernberg-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "Webasto Gruppe",
-   "url": "https://www.ingenieur.de/firmenprofile/webasto-gruppe/",
-   "extern": false
-  },
-  {
-   "text": "Windmöller & Hölscher KG",
-   "url": "https://www.ingenieur.de/firmenprofile/windmoeller-hoelscher-kg/",
-   "extern": false
-  },
-  {
-   "text": "PLANFRED GMBH",
-   "url": "https://www.ingenieur.de/firmenprofile/planfred-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "Festo AG & Co. KG",
-   "url": "https://www.ingenieur.de/firmenprofile/festo-ag-co-kg/",
+   "text": "MPDV",
+   "url": "https://www.ingenieur.de/firmenprofile/mpdv/",
    "extern": false
   },
   {
@@ -408,8 +378,38 @@
    "extern": false
   },
   {
-   "text": "TenneT TSO GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/tennet-tso-gmbh/",
+   "text": "ATP architekten ingenieure",
+   "url": "https://www.ingenieur.de/firmenprofile/atp-architekten-ingenieure/",
+   "extern": false
+  },
+  {
+   "text": "Knorr-Bremse AG",
+   "url": "https://www.ingenieur.de/firmenprofile/knorr-bremse-ag/",
+   "extern": false
+  },
+  {
+   "text": "AutoVision – Der Personaldienstleister GmbH & Co. OHG",
+   "url": "https://www.ingenieur.de/firmenprofile/autovision-der-personaldienstleister-gmbh-co-ohg/",
+   "extern": false
+  },
+  {
+   "text": "FERCHAU GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/ferchau-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "EPLAN Software & Service GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/eplan-software-service-gmbh-co-kg/",
+   "extern": false
+  },
+  {
+   "text": "Freudenberg Sealing Technologies GmbH & Co. KG",
+   "url": "https://www.ingenieur.de/firmenprofile/freudenberg-sealing-technologies-gmbh-co-kg/",
+   "extern": false
+  },
+  {
+   "text": "REMBE® GmbH Safety + Control",
+   "url": "https://www.ingenieur.de/firmenprofile/rember-gmbh-safety-control/",
    "extern": false
   }
  ],
