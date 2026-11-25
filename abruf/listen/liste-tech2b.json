@@ -2,8 +2,10 @@
  "quelle": "liste-tech2b",
  "name": "tech2b – Start-ups",
  "url": "https://www.tech2b.at/startups/",
- "abgerufen": "2026-11-24",
+ "abgerufen": "2026-11-25",
  "koepfe": [
+  "Forstly",
+  "HOMIT Verkehrswegebau FlexCo",
   "PolitikDashboard",
   "bloomnow",
   "Trailpulse",
@@ -332,6 +334,16 @@
   {
    "text": "Ich möchte ein Startup gründen",
    "url": "https://www.tech2b.at/idee-einreichen/",
+   "extern": false
+  },
+  {
+   "text": "Forstly",
+   "url": "https://www.tech2b.at/startup/forstly/",
+   "extern": false
+  },
+  {
+   "text": "HOMIT Verkehrswegebau FlexCo",
+   "url": "https://www.tech2b.at/startup/homit-verkehrswegebau-flexco/",
    "extern": false
   },
   {

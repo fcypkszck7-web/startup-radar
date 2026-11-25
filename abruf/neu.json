@@ -1,79 +1,24 @@
 [
  {
-  "titel": "Gastvortrag: Zwischen Modethema und Weltordnung. Zeitungen als historische Infrastrukturen populärer Klimawandeldeutungen (1780-1950)",
-  "start": "2026-11-24",
-  "ende": "2026-11-24",
-  "ort": "",
+  "titel": "Erfolgreich bewerben und arbeiten in der Region Stuttgart",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "us06web.zoom.us/webinar/register…",
   "land": "",
   "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/gastvortrag-zwischen-modethema-und-weltordnung-zeitungen-als-historische-infrastrukturen-populaerer-klimawandeldeutungen-1780-1950",
+  "url": "https://wrs.region-stuttgart.de/termine/erfolgreich-bewerben-und-arbeiten-in-der-region-stuttgart-25-11/",
   "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Bau & Immobilien"
-  ],
-  "schluessel": "2026-11-24|uni-passau.de/veranstaltungskalender/detail/event/gastvortrag-zwischen-modethema-und-weltordnung-zeitungen-als-historische-infrastrukturen-populaerer-klimawandeldeutungen-1780-1950",
+  "kurz": "Webinar für Studierende, Absolvent*innen und internationale Fachkräfte (auf Englisch)",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-25|wrs.region-stuttgart.de/termine/erfolgreich-bewerben-und-arbeiten-in-der-region-stuttgart-25-11",
   "quellen": [
-   "uni-passau"
+   "wrs-termine"
   ],
-  "zuerst_gesehen": "2026-11-21",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "PATEC FoundHers HerTurn: An Open Exchange with Passau Student and Founder Anna Roppelt",
-  "start": "2026-11-24",
-  "ende": "2026-11-24",
-  "ort": "",
-  "land": "",
-  "online": false,
-  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/patec-foundhers-herturn-an-open-exchange-with-passau-student-and-founder-anna-roppelt",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "uni-passau",
-  "quelle_name": "Universität Passau – Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-24|uni-passau.de/veranstaltungskalender/detail/event/patec-foundhers-herturn-an-open-exchange-with-passau-student-and-founder-anna-roppelt",
-  "quellen": [
-   "uni-passau"
-  ],
-  "zuerst_gesehen": "2026-11-21",
-  "erfasst_als": null,
-  "entscheidung": ""
- },
- {
-  "titel": "Schutzrechte im Innovationsprozess",
-  "start": "2026-11-24",
-  "ende": "2026-11-24",
-  "ort": "",
-  "land": "",
-  "online": true,
-  "url": "https://www.biz-up.at/veranstaltung/schutzrechte-im-innovationsprozess-24-11-2026",
-  "veranstalter": "",
-  "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "business-upper-austria",
-  "quelle_name": "Business Upper Austria – Veranstaltungen",
-  "region_hinweis": "Österreich",
-  "branchen_vorschlag": [
-   "Gründung & Innovation"
-  ],
-  "schluessel": "2026-11-24|biz-up.at/veranstaltung/schutzrechte-im-innovationsprozess-24-11-2026",
-  "quellen": [
-   "business-upper-austria"
-  ],
-  "zuerst_gesehen": "2026-11-18",
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -126,6 +71,31 @@
   "entscheidung": ""
  },
  {
+  "titel": "Open Stage Games BW",
+  "start": "2026-11-25",
+  "ende": "2026-11-25",
+  "ort": "anmeldung.mfg.de/EventOnline/Eve…",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/open-stage-games-bw-3-2-2-2-2/",
+  "veranstalter": "",
+  "kurz": "Offene Plattform für die Games-Szene im Südwesten",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-11-25|wrs.region-stuttgart.de/termine/open-stage-games-bw-3-2-2-2-2",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "TecNet Connected Car",
   "start": "2026-11-25",
   "ende": "2026-11-25",
@@ -148,6 +118,31 @@
    "wrs-termine"
   ],
   "zuerst_gesehen": "2026-11-24",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Abgesagt – Gründen ohne Grenzen? Das 28. Regime und die Zukunft des europäischen Binnenmarkts",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Europahaus Baden-Württemberg, Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://wrs.region-stuttgart.de/termine/gruenden-ohne-grenzen-das-28-regime-und-die-zukunft-des-europaeischen-binnenmarkts/",
+  "veranstalter": "",
+  "kurz": "Diskussionsrunde zu dem von der Europäischen Kommission vorgeschlagenen, optionalen Rechtsrahmen für Unternehmen in der Europäischen Union.",
+  "methode": "json-ld",
+  "quelle_id": "wrs-termine",
+  "quelle_name": "Wirtschaftsförderung Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-11-26|wrs.region-stuttgart.de/termine/gruenden-ohne-grenzen-das-28-regime-und-die-zukunft-des-europaeischen-binnenmarkts",
+  "quellen": [
+   "wrs-termine"
+  ],
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -176,6 +171,29 @@
   "entscheidung": ""
  },
  {
+  "titel": "GIH-Hessen mit Werkbank Süd -Stammtisch",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Restaurant Rössler Steinacker Straße 90 D-64372 Ober-Ramstadt",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/gih-hessen-mit-werkbank-sued-stammtisch-2/",
+  "veranstalter": "",
+  "kurz": "Ein herzliches Hallo! Gerne laden wir euch zu unserem nächsten GIH-Wissenswerkstatt Stammtisch Süd ein. Die Veranstaltung bietet eine schöne Gelegenheit […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|gih.de/veranstaltung/gih-hessen-mit-werkbank-sued-stammtisch-2",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Gründen ohne Grenzen? Das 28. Regime und die Zukunft des europäischen Binnenmarkts",
   "start": "2026-11-26",
   "ende": "2026-11-26",
@@ -197,6 +215,247 @@
    "startup-region-stuttgart"
   ],
   "zuerst_gesehen": "2026-11-24",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Infoabend zum Thema GIH-Ausbildung – Gebäudeenergieberatende für Wohngebäude",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Online-Meeting",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/infoabend-zum-thema-gih-ausbildung-gebaeudeenergieberatende-fuer-wohngebaeude-3/",
+  "veranstalter": "",
+  "kurz": "INFOABEND GIH-Ausbildung zum Gebäudeenergieberatenden für Wohngebäude An dem Abend […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-26|gih.de/veranstaltung/infoabend-zum-thema-gih-ausbildung-gebaeudeenergieberatende-fuer-wohngebaeude-3",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Innendämmung von Bestandswänden",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Online-Schulung",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/innendaemmung-von-bestandswaenden/",
+  "veranstalter": "",
+  "kurz": "Vermeidung von Tauwasser, Schimmelpilzbildung und Feuchteschäden Der Nutzen im Überblick Die energetische Sanierung von Bestandgebäuden verläuft in Deutschland deutlich langsamer […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Dach & Gebäudehülle"
+  ],
+  "schluessel": "2026-11-26|gih.de/veranstaltung/innendaemmung-von-bestandswaenden",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Join the EIT Community Hub Moldova Launch",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Glia Impact Hub, ASEM, Chișinău",
+  "land": "",
+  "online": false,
+  "url": "https://www.eit.europa.eu/news-events/events/join-eit-community-hub-moldova-launch",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "eit-manufacturing-events",
+  "quelle_name": "EIT (alle Innovationsgemeinschaften) – Events",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|eit.europa.eu/news-events/events/join-eit-community-hub-moldova-launch",
+  "quellen": [
+   "eit-manufacturing-events"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Präsenz Stammtisch Rhein-Neckar",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Gasthaus zum Goldenen Löwen, Hauptstraße 139, 69214 Eppelheim",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/praesenz-stammtisch-rhein-neckar/",
+  "veranstalter": "",
+  "kurz": "Hallo zusammen, Wir treffen uns zum gemeinsamen Austausch im Rhein-Neckar Raum. Wann: ab 19:00 Uhr. Wo: Gasthaus zum Löwen Adresse: Hauptstraße […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|gih.de/veranstaltung/praesenz-stammtisch-rhein-neckar",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Sommerlicher Wärmeschutz nach der DIN 4108-2: Grundlagen und Nachweisverfahren",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Online-Seminar",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/sommerlicher-waermeschutz-nach-der-din-4108-2-grundlagen-und-nachweisverfahren-4/",
+  "veranstalter": "",
+  "kurz": "Sommerlicher Wärmeschutz Der Nutzen im Überblick Der gegenwärtig verbindliche Standardnachweis für den sommerlichen Wärmeschutz in neu gebauten, natürlich klimatisierten Gebäuden […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-26|gih.de/veranstaltung/sommerlicher-waermeschutz-nach-der-din-4108-2-grundlagen-und-nachweisverfahren-4",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Stammtisch Stuttgart- zum Thema Lehrgeld statt Lehrbuch  Die ersten Schritte in der Energieberatung",
+  "start": "2026-11-26",
+  "ende": "2026-11-26",
+  "ort": "Fritz-Walter-Weg 10, 70372 Stuttgart",
+  "land": "",
+  "online": false,
+  "url": "https://www.gih.de/veranstaltung/praesenz-stammtisch-stuttgart-zum-thema/",
+  "veranstalter": "",
+  "kurz": "Hallo zusammen, der Stuttgarter Energieberater Stammtisch „live und in Farbe“ trifft sich wieder. Diesmal berteut von unserem Neueinsteiger Andreas Müller […] \\n",
+  "methode": "json-ld",
+  "quelle_id": "geb-energieberater",
+  "quelle_name": "GIH Energieberater – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Energie & Solar"
+  ],
+  "schluessel": "2026-11-26|gih.de/veranstaltung/praesenz-stammtisch-stuttgart-zum-thema",
+  "quellen": [
+   "geb-energieberater"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Interpoma Business Match",
+  "start": "2026-11-27",
+  "ende": "2026-11-27",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://een.ec.europa.eu/events/interpoma-business-match",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "een-events",
+  "quelle_name": "Enterprise Europe Network – Events und Partnerbörsen",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-27|een.ec.europa.eu/events/interpoma-business-match",
+  "quellen": [
+   "een-events"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Veranstaltung: Teamforum 2026",
+  "start": "2026-11-28",
+  "ende": "2026-11-28",
+  "ort": "Kursaal, Bad Abbach",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/28-11-2026_teamforum-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-regensburg",
+  "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-28|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/28-11-2026_teamforum-2026",
+  "quellen": [
+   "uni-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Lernwerkstatt Religionsunterricht: Vielfalt erleben: Social Walk",
+  "start": "2026-11-30",
+  "ende": "2026-11-30",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/lernwerkstatt-religionsunterricht-vielfalt-erleben-social-walk",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-30|uni-passau.de/veranstaltungskalender/detail/event/lernwerkstatt-religionsunterricht-vielfalt-erleben-social-walk",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "kuwi.webinar \"How to Create Meaningful Rituals: Das Leben feiern, Abschied nehmen und Neubeginne gestalten\"",
+  "start": "2026-11-30",
+  "ende": "2026-11-30",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.uni-passau.de/veranstaltungskalender/detail/event/kuwiwebinar-quothow-to-create-meaningful-rituals-das-leben-feiern-abschied-nehmen-und-neubeginne-gestaltenquot",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "uni-passau",
+  "quelle_name": "Universität Passau – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-11-30|uni-passau.de/veranstaltungskalender/detail/event/kuwiwebinar-quothow-to-create-meaningful-rituals-das-leben-feiern-abschied-nehmen-und-neubeginne-gestaltenquot",
+  "quellen": [
+   "uni-passau"
+  ],
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -280,6 +539,131 @@
   "entscheidung": ""
  },
  {
+  "titel": "Insurance & provision for your company and yourself (EN)",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/insurance-provision-for-your-company-and-yourself-en-%2818%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-02|startupticker.ch/index.php/en/events/insurance-provision-for-your-company-and-yourself-en-%2818%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Introduction to trademark protection",
+  "start": "2026-12-02",
+  "ende": "2026-12-02",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/index.php/en/events/introduction-to-trademark-protection-%2828%29",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-02|startupticker.ch/index.php/en/events/introduction-to-trademark-protection-%2828%29",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "ABGESAGT: Sprechtag Patentberatung & Recherche",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "Linz",
+  "land": "",
+  "online": true,
+  "url": "https://www.biz-up.at/veranstaltung/abgesagt-sprechtag-patentberatung-recherche-03-12-2026",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "business-upper-austria",
+  "quelle_name": "Business Upper Austria – Veranstaltungen",
+  "region_hinweis": "Österreich",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-03|biz-up.at/veranstaltung/abgesagt-sprechtag-patentberatung-recherche-03-12-2026",
+  "quellen": [
+   "business-upper-austria"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "CA de startup : entre croissance, risques et responsabilités",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "Online",
+  "land": "",
+  "online": true,
+  "url": "https://www.startupticker.ch/en/events/ca-de-startup-entre-croissance-risques-et-responsabilites",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "startupticker",
+  "quelle_name": "Startupticker.ch – Events",
+  "region_hinweis": "Schweiz",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2026-12-03|startupticker.ch/en/events/ca-de-startup-entre-croissance-risques-et-responsabilites",
+  "quellen": [
+   "startupticker"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "KI Schulungs­programm für ESG Professionals",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "stuttgart.de/wirtschaft/wirtscha…",
+  "land": "",
+  "online": true,
+  "url": "https://it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals-2-2/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "KI Tools können die Aufgaben von Nachhaltigkeitsverantwortlichen unterstützen.",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten",
+   "Material & Kreislauf"
+  ],
+  "schluessel": "2026-12-03|it.region-stuttgart.de/termine/ki-schulungsprogramm-fuer-esg-professionals-2-2",
+  "quellen": [
+   "it-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-18",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Schlüsseltechnologien für die Halbleiterfertigung",
   "start": "2026-12-03",
   "ende": "2026-12-03",
@@ -303,6 +687,57 @@
    "bayern-innovativ"
   ],
   "zuerst_gesehen": "2026-11-24",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "XR in der Aus- und Weiterbildung – Lab Visit am VDC",
+  "start": "2026-12-03",
+  "ende": "2026-12-03",
+  "ort": "Virtual Dimension Center (VDC), Fellbach",
+  "land": "",
+  "online": false,
+  "url": "https://it.region-stuttgart.de/termine/xr-in-der-aus-und-weiterbildung-lab-visit-am-vdc/",
+  "veranstalter": "IT Region Stuttgart",
+  "kurz": "Exklusive Einblicke in XR-Lösungen für Training und Qualifizierung sowie Vorstellung der Projekte InnoVET PLUS XR-Upskill und InnoVET PLUS XR2ACH",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "it-region-stuttgart",
+  "quelle_name": "IT-Region Stuttgart – Termine",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-12-03|it.region-stuttgart.de/termine/xr-in-der-aus-und-weiterbildung-lab-visit-am-vdc",
+  "quellen": [
+   "it-region-stuttgart"
+  ],
+  "zuerst_gesehen": "2026-11-19",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Digital Product Passport under the CPR – from concept to reality (Brussels & online)",
+  "start": "2026-12-04",
+  "ende": "2026-12-04",
+  "ort": "",
+  "land": "",
+  "online": false,
+  "url": "https://ectp.info/event/digital-product-passport-under-the-cpr-from-concept-to-reality-brussels-online/",
+  "veranstalter": "",
+  "kurz": "The workshop “The Digital Product Passport under the CPR: From Concept to Reality” will take place on 4 December 2026, both in Brussels (CCAB, Rue Froissart 36, 1040 Brussels) and online.     This workshop is organised b",
+  "methode": "ical",
+  "quelle_id": "ectp-events",
+  "quelle_name": "ECTP (European Construction, built environment and energy efficient building Technology Platform) – Events",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [
+   "Software, KI & Daten"
+  ],
+  "schluessel": "2026-12-04|ectp.info/event/digital-product-passport-under-the-cpr-from-concept-to-reality-brussels-online",
+  "quellen": [
+   "ectp-events"
+  ],
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -358,26 +793,27 @@
   "entscheidung": ""
  },
  {
-  "titel": "Forschen – Lernen – Erinnern",
-  "start": "2026-12-12",
-  "ende": "2026-12-12",
-  "ort": "Zentralbücherei - Lesehalle, Regensburg",
+  "titel": "Hybrid-Veranstaltung: \"Null Haftung bei Werbung und Wettbewerb?\"",
+  "start": "2026-12-10",
+  "ende": "2026-12-10",
+  "ort": "Hybrid: online via Microsoft Teams und in der Handwerkskammer für München und Oberbayern",
   "land": "",
   "online": false,
-  "url": "https://www.regensburg.de/veranstaltungen/detail/618709",
-  "veranstalter": "",
+  "url": "https://www.hwk-muenchen.de/termine/hybrid-veranstaltung-null-haftung-bei-werbung-und-wettbewerb-74,0,evedetail.html?eve=5162",
+  "veranstalter": "Rechtsberater der Handwerkskammer für München und Oberbayern",
   "kurz": "",
-  "methode": "detailseite-text",
-  "datum_aus_text": true,
-  "quelle_id": "regensburg-wirtschaft",
-  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
-  "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [],
-  "schluessel": "2026-12-12|regensburg.de/veranstaltungen/detail/618709",
-  "quellen": [
-   "regensburg-wirtschaft"
+  "methode": "json-ld",
+  "quelle_id": "hwk-muenchen",
+  "quelle_name": "Handwerkskammer für München und Oberbayern – Veranstaltungen",
+  "region_hinweis": "Bayern",
+  "branchen_vorschlag": [
+   "Handwerk"
   ],
-  "zuerst_gesehen": "2026-11-24",
+  "schluessel": "2026-12-10|hwk-muenchen.de/termine/hybrid-veranstaltung-null-haftung-bei-werbung-und-wettbewerb-74,0,evedetail.html",
+  "quellen": [
+   "hwk-muenchen"
+  ],
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -402,6 +838,30 @@
    "oth-regensburg"
   ],
   "zuerst_gesehen": "2026-11-24",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Buchclub Regensburg im AKUSO FORUM",
+  "start": "2026-12-16",
+  "ende": "2026-12-16",
+  "ort": "AKUSO Regensburg, Regensburg",
+  "land": "",
+  "online": true,
+  "url": "https://www.regensburg.de/veranstaltungen/detail/618738",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "regensburg-wirtschaft",
+  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-16|regensburg.de/veranstaltungen/detail/618738",
+  "quellen": [
+   "regensburg-wirtschaft"
+  ],
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -480,76 +940,122 @@
   "entscheidung": ""
  },
  {
-  "titel": "Ausstellung \"Über die Zeit erhaben - Metallkunst der Werkstätte Weichmann\"",
-  "start": "2026-12-20",
-  "ende": "2026-12-20",
-  "ort": "Kunst- und Gewerbeverein Regensburg, Regensburg",
+  "titel": "Offene Sprechstunde Landshut Graduate Center",
+  "start": "2026-12-18",
+  "ende": "2026-12-18",
+  "ort": "N3 21",
   "land": "",
   "online": false,
-  "url": "https://www.regensburg.de/veranstaltungen/detail/622198",
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261218",
   "veranstalter": "",
-  "kurz": "",
+  "kurz": "Offene Sprechstunde des Graduate Centers",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "regensburg-wirtschaft",
-  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
   "region_hinweis": "Ostbayern",
-  "branchen_vorschlag": [
-   "Metall & Oberflächen"
-  ],
-  "schluessel": "2026-12-20|regensburg.de/veranstaltungen/detail/622198",
+  "branchen_vorschlag": [],
+  "schluessel": "2026-12-18|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261218",
   "quellen": [
-   "regensburg-wirtschaft"
+   "hs-landshut"
   ],
-  "zuerst_gesehen": "2026-11-24",
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Jasmin Schmidt: One door opens",
-  "start": "2027-01-05",
-  "ende": "2027-01-05",
-  "ort": "Schaulager Erdel, Regensburg",
+  "titel": "Offene Sprechstunde Landshut Graduate Center",
+  "start": "2026-12-25",
+  "ende": "2026-12-25",
+  "ort": "N3 21",
   "land": "",
   "online": false,
-  "url": "https://www.regensburg.de/veranstaltungen/detail/620787",
+  "url": "https://www.haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261225",
   "veranstalter": "",
-  "kurz": "",
+  "kurz": "Offene Sprechstunde des Graduate Centers",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "regensburg-wirtschaft",
-  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "quelle_id": "hs-landshut",
+  "quelle_name": "Hochschule Landshut – Veranstaltungen",
   "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2027-01-05|regensburg.de/veranstaltungen/detail/620787",
+  "schluessel": "2026-12-25|haw-landshut.de/veranstaltungen/termin/offene-sprechstunde-landshut-graduate-center-20261225",
   "quellen": [
-   "regensburg-wirtschaft"
+   "hs-landshut"
   ],
-  "zuerst_gesehen": "2026-11-24",
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
  {
-  "titel": "Masterpieces - immersive Licht- und Videoshow",
-  "start": "2027-01-10",
-  "ende": "2027-01-10",
-  "ort": "llwirkergasse 4, Regensburg",
+  "titel": "Online-Infoabend im BA Musik- und bewegungsorientierte Soziale Arbeit",
+  "start": "2027-01-11",
+  "ende": "2027-01-11",
+  "ort": "",
   "land": "",
-  "online": false,
-  "url": "https://www.regensburg.de/veranstaltungen/detail/616267",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/online-infoabend-im-ba-musik-und-beweungsorientierte-soziale-arbeit-1",
   "veranstalter": "",
   "kurz": "",
   "methode": "detailseite-text",
   "datum_aus_text": true,
-  "quelle_id": "regensburg-wirtschaft",
-  "quelle_name": "Stadt Regensburg – Wirtschaft und Wissenschaft, Veranstaltungen",
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
   "region_hinweis": "Ostbayern",
   "branchen_vorschlag": [],
-  "schluessel": "2027-01-10|regensburg.de/veranstaltungen/detail/616267",
+  "schluessel": "2027-01-11|oth-regensburg.de/termine/detailansicht/online-infoabend-im-ba-musik-und-beweungsorientierte-soziale-arbeit-1",
   "quellen": [
-   "regensburg-wirtschaft"
+   "oth-regensburg"
   ],
-  "zuerst_gesehen": "2026-11-24",
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Vortragsreihe Bauingenieurwesen im Wintersemester 2026/27, Ingenieurbau rund um Regensburg und weltweit",
+  "start": "2027-01-12",
+  "ende": "2027-01-12",
+  "ort": "Regensburg",
+  "land": "",
+  "online": false,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/vortragsreihe-bauingenieurwesen-im-wintersemester-2026-27-ingenieurbau-rund-um-regensburg-und-weltweit",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-01-12|oth-regensburg.de/termine/detailansicht/vortragsreihe-bauingenieurwesen-im-wintersemester-2026-27-ingenieurbau-rund-um-regensburg-und-weltweit",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Informationsveranstaltung 1 - Zusatzstudien an der OTH",
+  "start": "2027-01-14",
+  "ende": "2027-01-14",
+  "ort": "",
+  "land": "",
+  "online": true,
+  "url": "https://www.oth-regensburg.de/termine/detailansicht/informationsveranstaltung-1-zusatzstudien-an-der-oth-1",
+  "veranstalter": "",
+  "kurz": "",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "oth-regensburg",
+  "quelle_name": "OTH Regensburg – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-01-14|oth-regensburg.de/termine/detailansicht/informationsveranstaltung-1-zusatzstudien-an-der-oth-1",
+  "quellen": [
+   "oth-regensburg"
+  ],
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -574,6 +1080,29 @@
    "startupticker"
   ],
   "zuerst_gesehen": "2026-11-24",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "AULA",
+  "start": "2027-02-17",
+  "ende": "2027-02-21",
+  "ort": "IFEMA, Madrid",
+  "land": "ES",
+  "online": false,
+  "url": "https://www.ifema.es/en/aula",
+  "veranstalter": "IFEMA MADRID",
+  "kurz": "International Educational Opportunities",
+  "methode": "json-ld",
+  "quelle_id": "messe-ifema",
+  "quelle_name": "IFEMA Madrid – Messekalender",
+  "region_hinweis": "Europa",
+  "branchen_vorschlag": [],
+  "schluessel": "2027-02-17|ifema.es/en/aula",
+  "quellen": [
+   "messe-ifema"
+  ],
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  },
@@ -680,6 +1209,32 @@
   "entscheidung": ""
  },
  {
+  "titel": "Markterkundungsreise in die britische Möbelindustrie",
+  "start": "2027-05-24",
+  "ende": "2027-05-26",
+  "ort": "London, Großbritannien ",
+  "land": "",
+  "online": false,
+  "url": "https://www.hwkno.de/termine/markterkundungsreise-in-die-britische-moebelindustrie-76,0,evedetail.html?eve=1832",
+  "veranstalter": "Bundesministerium für Wirtschaft und Energie, in2newmarkets",
+  "kurz": "",
+  "methode": "json-ld",
+  "quelle_id": "hwkno",
+  "quelle_name": "Handwerkskammer Niederbayern-Oberpfalz – Veranstaltungen",
+  "region_hinweis": "Ostbayern",
+  "branchen_vorschlag": [
+   "Energie & Solar",
+   "Industrie & Fertigung"
+  ],
+  "schluessel": "2027-05-24|hwkno.de/termine/markterkundungsreise-in-die-britische-moebelindustrie-76,0,evedetail.html",
+  "quellen": [
+   "hwkno"
+  ],
+  "zuerst_gesehen": "2026-11-25",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
   "titel": "Forum UnternehmerTUM 2027",
   "start": "2027-06-10",
   "ende": "2027-06-10",
@@ -699,6 +1254,32 @@
    "unternehmertum"
   ],
   "zuerst_gesehen": "2026-11-24",
+  "erfasst_als": null,
+  "entscheidung": ""
+ },
+ {
+  "titel": "Singapore International Healthcare Week",
+  "start": "2027-07-09",
+  "ende": "2027-07-09",
+  "ort": "Sands Expo & Convention Centre, Singapore",
+  "land": "",
+  "online": false,
+  "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/singapore-international-healthcare-week-2027",
+  "veranstalter": "",
+  "kurz": "From Innovation to Adoption",
+  "methode": "detailseite-text",
+  "datum_aus_text": true,
+  "quelle_id": "messe-berlin",
+  "quelle_name": "Messe Berlin – Veranstaltungen",
+  "region_hinweis": "Deutschland",
+  "branchen_vorschlag": [
+   "Gründung & Innovation"
+  ],
+  "schluessel": "2027-07-09|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/singapore-international-healthcare-week-2027",
+  "quellen": [
+   "messe-berlin"
+  ],
+  "zuerst_gesehen": "2026-11-25",
   "erfasst_als": null,
   "entscheidung": ""
  }
