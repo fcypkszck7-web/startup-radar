@@ -2,14 +2,14 @@
  "quelle": "liste-ingenieur-100-bau",
  "name": "ingenieur.de – 100 Bau-Start-ups, die Sie kennen sollten",
  "url": "https://www.ingenieur.de/fachmedien/bauingenieur/digitalisierung-bauingenieur/100-bau-start-ups-die-sie-kennen-sollten/",
- "abgerufen": "2026-11-26",
+ "abgerufen": "2026-11-27",
  "koepfe": [
   "Top Beiträge",
-  "Stadiongroßer Krater: So sieht der Asteroid aus, den die Nasa absichtlich rammte",
-  "9 Jahre Testmodus: Warum autonomes Fahren in Deutschland stockt",
-  "1700 m²: Netto eröffnet weltweit ersten Supermarkt aus dem 3D-Drucker",
-  "Wo Gletscher schmelzen, könnten Tausende Kraftwerke entstehen",
-  "Kernfusion made in Germany: Erste Metallplatte für neue Magnetspule ist fertig",
+  "Baustelle auf 1834 m Höhe: So wird das ausgebrannte Kehlsteinhaus gerettet",
+  "70 m über dem Neckartal: Die Hochbrücke Horb braucht bald keine Hilfsstützen mehr",
+  "Walzen statt Pressen: Wasserstoff-Bauteil wird fast 30 % billiger",
+  "Quantencomputing: Planqc geht nach England und holt SAP stärker ins Boot",
+  "Der Rhein soll liefern: Mannheim baut eine der größten Flusswärmepumpen der Welt",
   "Bautechnik und mehr",
   "1. Bauprojekt-Management",
   "2. Baustoffe und -elemente",
@@ -35,10 +35,10 @@
   "Weitere Artikel",
   "5-t-Baumaschine tanzt mit Hilfe von KI auf zwei Rädern, wofür ist das gut?",
   "Sie ist nur 23 cm groß und sucht selbstständig nach Rissen in Brücken",
-  "Stadiongroßer Krater: So sieht der Asteroid aus, den die Nasa absichtlich rammte",
-  "9 Jahre Testmodus: Warum autonomes Fahren in Deutschland stockt",
-  "1700 m²: Netto eröffnet weltweit ersten Supermarkt aus dem 3D-Drucker",
-  "Wo Gletscher schmelzen, könnten Tausende Kraftwerke entstehen",
+  "Baustelle auf 1834 m Höhe: So wird das ausgebrannte Kehlsteinhaus gerettet",
+  "70 m über dem Neckartal: Die Hochbrücke Horb braucht bald keine Hilfsstützen mehr",
+  "Walzen statt Pressen: Wasserstoff-Bauteil wird fast 30 % billiger",
+  "Quantencomputing: Planqc geht nach England und holt SAP stärker ins Boot",
   "Firmenprofile"
  ],
  "links": [
@@ -53,23 +53,13 @@
    "extern": false
   },
   {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "Stadiongroßer Krater: So sieht der Asteroid aus, den die Nasa absichtlich rammte",
-   "url": "https://www.ingenieur.de/stadiongrosser-krater-so-sieht-der-asteroid-aus-den-die-nasa-absichtlich-rammte-ba55f9a5-6b41-46b3-a107-9da673a6ced3/",
-   "extern": false
-  },
-  {
-   "text": "Mobilität",
-   "url": "https://www.ingenieur.de/mobilitaet/",
-   "extern": false
-  },
-  {
-   "text": "9 Jahre Testmodus: Warum autonomes Fahren in Deutschland stockt",
-   "url": "https://www.ingenieur.de/9-jahre-testmodus-warum-autonomes-fahren-in-deutschland-stockt-708b462c-9ed7-48c7-961c-08842305a436/",
+   "text": "Baustelle auf 1834 m Höhe: So wird das ausgebrannte Kehlsteinhaus gerettet",
+   "url": "https://www.ingenieur.de/baustelle-auf-1834-m-hoehe-so-wird-das-ausgebrannte-kehlsteinhaus-gerettet-4b819204-8746-4cca-905b-99e54c534688/",
    "extern": false
   },
   {
@@ -78,8 +68,28 @@
    "extern": false
   },
   {
-   "text": "1700 m²: Netto eröffnet weltweit ersten Supermarkt aus dem 3D-Drucker",
-   "url": "https://www.ingenieur.de/ein-supermarkt-aus-dem-3d-drucker-mit-1300-m2-wandflaeche-zum-weltrekord-bb0d1e2f-6c31-47dc-8a72-d9cddd0a83f4/",
+   "text": "70 m über dem Neckartal: Die Hochbrücke Horb braucht bald keine Hilfsstützen mehr",
+   "url": "https://www.ingenieur.de/70-m-ueber-dem-neckartal-die-hochbruecke-horb-braucht-bald-keine-hilfsstuetzen-mehr-d97820c0-5204-4bff-9824-6339e21627c4/",
+   "extern": false
+  },
+  {
+   "text": "Produktion",
+   "url": "https://www.ingenieur.de/produktion/",
+   "extern": false
+  },
+  {
+   "text": "Walzen statt Pressen: Wasserstoff-Bauteil wird fast 30 % billiger",
+   "url": "https://www.ingenieur.de/walzen-statt-pressen-wasserstoff-bauteil-wird-fast-30-billiger-bc14cd61-1b53-42db-bca2-48549a7dc1e5/",
+   "extern": false
+  },
+  {
+   "text": "Elektronik",
+   "url": "https://www.ingenieur.de/elektronik/",
+   "extern": false
+  },
+  {
+   "text": "Quantencomputing: Planqc geht nach England und holt SAP stärker ins Boot",
+   "url": "https://www.ingenieur.de/quantencomputing-planqc-geht-nach-england-und-holt-sap-starker-ins-boot-0147a6ed-8763-4860-b2be-c9fe18edccad/",
    "extern": false
   },
   {
@@ -88,18 +98,8 @@
    "extern": false
   },
   {
-   "text": "Wo Gletscher schmelzen, könnten Tausende Kraftwerke entstehen",
-   "url": "https://www.ingenieur.de/wo-gletscher-schmelzen-konnten-tausende-neue-kraftwerke-entstehen-124dd953-0037-473e-bfa1-21c141edff46/",
-   "extern": false
-  },
-  {
-   "text": "Energieversorgung",
-   "url": "https://www.ingenieur.de/energieversorgung/",
-   "extern": false
-  },
-  {
-   "text": "Kernfusion made in Germany: Erste Metallplatte für neue Magnetspule ist fertig",
-   "url": "https://www.ingenieur.de/kernfusion-made-in-germany-erste-metallplatte-fuer-neue-magnetspule-ist-fertig-b554b732-ddda-42c5-80e0-7177af80b972/",
+   "text": "Der Rhein soll liefern: Mannheim baut eine der größten Flusswärmepumpen der Welt",
+   "url": "https://www.ingenieur.de/der-rhein-soll-liefern-mannheim-baut-eine-der-groessten-flusswaermepumpen-der-welt-70230b1c-457f-4976-89db-911cc422e410/",
    "extern": false
   },
   {
@@ -188,103 +188,103 @@
    "extern": true
   },
   {
-   "text": "mehr zu Leiter Technik (m/w/d) bei EMS-CHEMIE (Deutschland) GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/leiter-technik-m-w-d-064423851?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektingenieur intelligente Energiemanagementsysteme und Smart Home (m/w/d) bei Honda (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektingenieur-intelligente-energiemanagementsysteme-und-smart-home-m-w-d-064556657?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Vertriebsmanager Wärme- &#038; Energielösungen (m/w/d) bei Stadtwerke Esslingen am Neckar GmbH & Co. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/vertriebsmanager-waerme-energieloesungen-m-w-d-064437660?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Ingenieur/-in für den Ausbau des Hildesheimer Binnenwasserhafens (m/w/d) bei Stadt Hildesheim Der Oberbürgermeister (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-in-fuer-den-ausbau-des-hildesheimer-binnenwasserhafens-m-w-d-064556806?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu BIM-Manager (w/m/d) bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bim-manager-w-m-d-064438103?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Abteilungsleiter Planung (m/w/d) Reihenhäuser bei weisenburger bau GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/abteilungsleiter-planung-m-w-d-reihenhaeuser-064621286?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Ingenieur Straßenausstattung (w/m/d) bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieur-strassenausstattung-w-m-d-064438105?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Sachverständiger (m/w/d) Elektrotechnik bei TÜV Technische Überwachung Hessen GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/sachverstaendiger-m-w-d-elektrotechnik-064632059?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Projektleitung Planung Bauwerke (w/m/d) bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektleitung-planung-bauwerke-w-m-d-064438106?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Leitung Anwendungstechnik Flammschutz / Textil (m/w/d) bei THOR GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/leitung-anwendungstechnik-flammschutz-textil-m-w-d-064724290?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Qualitätsingenieur Fertigungs- und Prozessqualität (m/w/d) bei Menlo Systems GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/qualitaetsingenieur-fertigungs-und-prozessqualitaet-m-w-d-064520163?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Fachleitung Städtische Grünflächen und Friedhöfe (w/m/d) bei Wirtschaftsbetrieb Hagen AöR (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/fachleitung-staedtische-gruenflaechen-und-friedhoefe-w-m-d-064725836?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Entwicklungsingenieur Kunststoff (m/w/d) bei ULTRA REFLEX GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/entwicklungsingenieur-kunststoff-m-w-d-064520391?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektleitung Strategische Bauprojekte/Großprojekte (m/w/d) bei Hamburg Wasser (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektleitung-strategische-bauprojekte-grossprojekte-m-w-d-064726275?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Elektroingenieurin elektrische Energietechnik und Infrastruktur als Projektleiterin (m/w/d) bei HAMBURG WASSER (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/elektroingenieurin-elektrische-energietechnik-und-infrastruktur-als-projektleiterin-m-w-d-064521611?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Ingenieur (m/w/d) Betrieb, Schwerpunkt Betreuung der Autobahnmeistereien bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-m-w-d-betrieb-schwerpunkt-betreuung-der-autobahnmeistereien-064731797?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Ingenieurin oder Ingenieur konstruktiver Ingenieurbau (w/m/d) bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/ingenieurin-oder-ingenieur-konstruktiver-ingenieurbau-w-m-d-064585064?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu HSE Business Partner 2GW (m/w/d) bei TenneT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/hse-business-partner-2gw-m-w-d-064816298?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Entwickler Mechanik / Konstruktion (m/w/d) bei ai6 SOLUTIONS GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/entwickler-mechanik-konstruktion-m-w-d-064585115?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Diplom-Ingenieur (m/w/d) (FH) oder Bachelor of Engineering der Fachrichtung Gebäude- / Versorgungstechnik bei Staatliches Bauamt München 1 (öffnet in ne",
+   "url": "https://jobs.ingenieur.de/job/diplom-ingenieur-m-w-d-fh-oder-bachelor-of-engineering-der-fachrichtung-gebaeude-versorgungstechnik-064818634?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Entwicklungsingenieur (m/w/d) Kältetechnik bei LAUDA DR. R. WOBSER GMBH & CO. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/entwicklungsingenieur-m-w-d-kaeltetechnik-064597688?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Bauingenieurin (w/m/d) für die Projektleitung Konstruktiver Ingenieurbau bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/bauingenieurin-w-m-d-fuer-die-projektleitung-konstruktiver-ingenieurbau-064825188?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Projektingenieur Steuerungstechnik (m/w/d) bei Dr. Otto Suwelack Nachf. GmbH & Co. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektingenieur-steuerungstechnik-m-w-d-064601796?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Junior Bauüberwacher:in Oberbau / Konstruktiver Ingenieurbau (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/junior-bauueberwacher-in-oberbau-konstruktiver-ingenieurbau-w-m-d-064379311?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Service Projektingenieur Inhouse (m/w/d) bei Schleifring GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/service-projektingenieur-inhouse-m-w-d-064601942?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Senior Ingenieur:in Leit- und Sicherungstechnik im Großprojekt Rhein-Ruhr-Express (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/senior-ingenieur-in-leit-und-sicherungstechnik-im-grossprojekt-rhein-ruhr-express-w-m-d-064379310?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Innovation Manager Produktentwicklung (m/w/d) &#8211; Maschinenbau / Werkstofftechnik bei Poppe + Potthoff Präzisionsstahlrohre GmbH (öffnet in neuem Fe",
-   "url": "https://jobs.ingenieur.de/job/innovation-manager-produktentwicklung-m-w-d-maschinenbau-werkstofftechnik-064601941?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Junior Bauingenieur:in als Bezirksleiter:in Fahrbahn (w/m/d) bei DB InfraGO AG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/junior-bauingenieur-in-als-bezirksleiter-in-fahrbahn-w-m-d-064379312?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Cost Engineer (w/m/d) bei WITTENSTEIN cyber motor GmbH (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/cost-engineer-w-m-d-064685998?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektleiter (m/w/d) Industriebau bei MEGGLE GmbH & Co. KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektleiter-m-w-d-industriebau-064379404?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Professorin | Professor oder Nachwuchsprofessorin | Nachwuchsprofessor (m/w/d) für das Lehrgebiet &#8222;Hochfrequenztechnik und elektronische Schaltung",
-   "url": "https://jobs.ingenieur.de/job/professorin-professor-oder-nachwuchsprofessorin-nachwuchsprofessor-m-w-d-fuer-das-lehrgebiet-hochfrequenztechnik-und-elektronische-schaltungen-064278693?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Projektingenieur Elektrotechnik (w/m/d) bei Infraserv GmbH & Co. Höchst KG (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/projektingenieur-elektrotechnik-w-m-d-064382713?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Projektingenieur EMSR / Energietechnik (m/w/d) bei Stadtwerke Esslingen am Neckar GmbH & Co. KG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/projektingenieur-emsr-energietechnik-m-w-d-064438125?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Produktmanager &#8211; Infantry Fighting Systems (w/m/d) bei HENSOLDT (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/produktmanager-infantry-fighting-systems-w-m-d-064655960?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Technischer Leiter (m/w/d) Kunststofftechnik bei MEWA Textil-Service SE & CO. Management OHG (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/technischer-leiter-m-w-d-kunststofftechnik-064450462?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Prozesstechniker (m/w/d) Kunststofftechnik bei Diehl Metal Applications GmbH (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/prozesstechniker-m-w-d-kunststofftechnik-064757113?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Bauingenieur (w/m/d) Planfeststellung bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-planfeststellung-064451355?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Ingenieur/in oder Techniker/in für unseren Straßenbau und unsere Ingenieurbauwerke (w/m/d) bei Stadt Hemer (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/ingenieur-in-oder-techniker-in-fuer-unseren-strassenbau-und-unsere-ingenieurbauwerke-w-m-d-064666063?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
-   "text": "mehr zu Bauingenieur (w/m/d) für die Planung von Ingenieurbauwerken bei Die Autobahn GmbH des Bundes (öffnet in neuem Fenster)",
-   "url": "https://jobs.ingenieur.de/job/bauingenieur-w-m-d-fuer-die-planung-von-ingenieurbauwerken-064451356?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
+   "text": "mehr zu Chemiker / Ingenieur Normungsarbeit &#8211; Wasser / Chemie (m/w/d) bei BRITA (öffnet in neuem Fenster)",
+   "url": "https://jobs.ingenieur.de/job/chemiker-ingenieur-normungsarbeit-wasser-chemie-m-w-d-064753650?jw_chl_seg=VDI_FEED&utm_campaign=jobiqo-air&utm_term=digitalisierung-bau",
    "extern": true
   },
   {
@@ -308,23 +308,13 @@
    "extern": false
   },
   {
-   "text": "Raumfahrt",
-   "url": "https://www.ingenieur.de/raumfahrt/",
+   "text": "Bau",
+   "url": "https://www.ingenieur.de/bau/",
    "extern": false
   },
   {
-   "text": "Stadiongroßer Krater: So sieht der Asteroid aus, den die Nasa absichtlich rammte",
-   "url": "https://www.ingenieur.de/stadiongrosser-krater-so-sieht-der-asteroid-aus-den-die-nasa-absichtlich-rammte-ba55f9a5-6b41-46b3-a107-9da673a6ced3/",
-   "extern": false
-  },
-  {
-   "text": "Mobilität",
-   "url": "https://www.ingenieur.de/mobilitaet/",
-   "extern": false
-  },
-  {
-   "text": "9 Jahre Testmodus: Warum autonomes Fahren in Deutschland stockt",
-   "url": "https://www.ingenieur.de/9-jahre-testmodus-warum-autonomes-fahren-in-deutschland-stockt-708b462c-9ed7-48c7-961c-08842305a436/",
+   "text": "Baustelle auf 1834 m Höhe: So wird das ausgebrannte Kehlsteinhaus gerettet",
+   "url": "https://www.ingenieur.de/baustelle-auf-1834-m-hoehe-so-wird-das-ausgebrannte-kehlsteinhaus-gerettet-4b819204-8746-4cca-905b-99e54c534688/",
    "extern": false
   },
   {
@@ -333,18 +323,28 @@
    "extern": false
   },
   {
-   "text": "1700 m²: Netto eröffnet weltweit ersten Supermarkt aus dem 3D-Drucker",
-   "url": "https://www.ingenieur.de/ein-supermarkt-aus-dem-3d-drucker-mit-1300-m2-wandflaeche-zum-weltrekord-bb0d1e2f-6c31-47dc-8a72-d9cddd0a83f4/",
+   "text": "70 m über dem Neckartal: Die Hochbrücke Horb braucht bald keine Hilfsstützen mehr",
+   "url": "https://www.ingenieur.de/70-m-ueber-dem-neckartal-die-hochbruecke-horb-braucht-bald-keine-hilfsstuetzen-mehr-d97820c0-5204-4bff-9824-6339e21627c4/",
    "extern": false
   },
   {
-   "text": "Energieversorgung",
-   "url": "https://www.ingenieur.de/energieversorgung/",
+   "text": "Produktion",
+   "url": "https://www.ingenieur.de/produktion/",
    "extern": false
   },
   {
-   "text": "Wo Gletscher schmelzen, könnten Tausende Kraftwerke entstehen",
-   "url": "https://www.ingenieur.de/wo-gletscher-schmelzen-konnten-tausende-neue-kraftwerke-entstehen-124dd953-0037-473e-bfa1-21c141edff46/",
+   "text": "Walzen statt Pressen: Wasserstoff-Bauteil wird fast 30 % billiger",
+   "url": "https://www.ingenieur.de/walzen-statt-pressen-wasserstoff-bauteil-wird-fast-30-billiger-bc14cd61-1b53-42db-bca2-48549a7dc1e5/",
+   "extern": false
+  },
+  {
+   "text": "Elektronik",
+   "url": "https://www.ingenieur.de/elektronik/",
+   "extern": false
+  },
+  {
+   "text": "Quantencomputing: Planqc geht nach England und holt SAP stärker ins Boot",
+   "url": "https://www.ingenieur.de/quantencomputing-planqc-geht-nach-england-und-holt-sap-starker-ins-boot-0147a6ed-8763-4860-b2be-c9fe18edccad/",
    "extern": false
   },
   {
@@ -353,18 +353,33 @@
    "extern": false
   },
   {
-   "text": "Windmöller & Hölscher KG",
-   "url": "https://www.ingenieur.de/firmenprofile/windmoeller-hoelscher-kg/",
+   "text": "HHLA Sky GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/hhla-sky-gmbh/",
    "extern": false
   },
   {
-   "text": "Unilever",
-   "url": "https://www.ingenieur.de/firmenprofile/unilever/",
+   "text": "ASML Berlin GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/asml-berlin-gmbh/",
    "extern": false
   },
   {
-   "text": "Drees & Sommer",
-   "url": "https://www.ingenieur.de/firmenprofile/drees-sommer/",
+   "text": "STILL GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/still-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "Bundespolizeipräsidium",
+   "url": "https://www.ingenieur.de/firmenprofile/bundespolizeipraesidium/",
+   "extern": false
+  },
+  {
+   "text": "Quantum-Systems GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/quantum-systems-gmbh/",
+   "extern": false
+  },
+  {
+   "text": "CADFEM Germany",
+   "url": "https://www.ingenieur.de/firmenprofile/cadfem-germany/",
    "extern": false
   },
   {
@@ -373,43 +388,28 @@
    "extern": false
   },
   {
-   "text": "Gebäudemanagement Schleswig-Holstein AöR (GMSH)",
-   "url": "https://www.ingenieur.de/firmenprofile/gebaeudemanagement-schleswig-holstein-aoer-gmsh/",
+   "text": "Rhein-Neckar-Verkehr GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/rhein-neckar-verkehr-gmbh/",
    "extern": false
   },
   {
-   "text": "REMBE® GmbH Safety + Control",
-   "url": "https://www.ingenieur.de/firmenprofile/rember-gmbh-safety-control/",
+   "text": "HENSOLDT",
+   "url": "https://www.ingenieur.de/firmenprofile/hensoldt/",
    "extern": false
   },
   {
-   "text": "BASF",
-   "url": "https://www.ingenieur.de/firmenprofile/basf/",
+   "text": "Comsol Multiphysics GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/comsol-multiphysics-gmbh/",
    "extern": false
   },
   {
-   "text": "ZEISS",
-   "url": "https://www.ingenieur.de/firmenprofile/zeiss/",
+   "text": "telent GmbH",
+   "url": "https://www.ingenieur.de/firmenprofile/telent-gmbh/",
    "extern": false
   },
   {
-   "text": "FAULHABER Antriebssysteme",
-   "url": "https://www.ingenieur.de/firmenprofile/faulhaber-gmbh-co-kg/",
-   "extern": false
-  },
-  {
-   "text": "Jacobs GmbH",
-   "url": "https://www.ingenieur.de/firmenprofile/jacobs-gmbh/",
-   "extern": false
-  },
-  {
-   "text": "Bundesagentur für Arbeit",
-   "url": "https://www.ingenieur.de/firmenprofile/bundesagentur-fuer-arbeit/",
-   "extern": false
-  },
-  {
-   "text": "PLANFRED GMBH",
-   "url": "https://www.ingenieur.de/firmenprofile/planfred-gmbh/",
+   "text": "SKF Deutschland",
+   "url": "https://www.ingenieur.de/firmenprofile/skf-deutschland/",
    "extern": false
   }
  ],
