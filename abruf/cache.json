@@ -1107,35 +1107,8 @@
   "v": 2
  },
  "https://startupverband.de/events/deeptechstartupmonitor2026-23-11-2026": {
-  "geholt": "2026-11-04",
-  "events": [
-   {
-    "titel": "DeepTech Startup Monitor 2026",
-    "start": "2026-11-23",
-    "ende": "2026-11-23",
-    "ort": "Online",
-    "land": "",
-    "online": true,
-    "url": "https://startupverband.de/events/deeptechstartupmonitor2026-23-11-2026",
-    "veranstalter": "",
-    "kurz": "Erfahren Sie mehr über DeepTech Startup Monitor 2026",
-    "methode": "detailseite-text",
-    "datum_aus_text": true,
-    "quelle_id": "startupverband",
-    "quelle_name": "Startup-Verband – Events",
-    "region_hinweis": "Deutschland",
-    "branchen_vorschlag": [
-     "Gründung & Innovation"
-    ],
-    "schluessel": "2026-11-23|startupverband.de/events/deeptechstartupmonitor2026-23-11-2026",
-    "quellen": [
-     "startupverband"
-    ],
-    "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": "genera-2026",
-    "entscheidung": ""
-   }
-  ],
+  "geholt": "2026-11-28",
+  "events": [],
   "v": 2
  },
  "https://www.solarwirtschaft.de/veranstaltungen/verbandstermine/": {
@@ -1591,7 +1564,7 @@
   "v": 2
  },
  "https://startupverband.de/events/owlstartupmonitor2025–regionaleinsightsmitnationalerrelevanz-26-11-2025": {
-  "geholt": "2026-11-27",
+  "geholt": "2026-11-28",
   "events": [],
   "fehler": "UnicodeEncodeError"
  },
@@ -7608,7 +7581,7 @@
   "v": 2
  },
  "https://www.auma.de/messen-finden/details/?tfd=amsterdam_fachmesse-fur-das-hotel-und-gaststattengew_230735": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "HORECAVA",
@@ -10774,7 +10747,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/gni-symposium-expo-on-ai-for-the-built-world/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -10852,7 +10825,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/quantum-idealab-spring-2024/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -10896,7 +10869,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/catalyze-innovation-novel-solutions-for-a-silent-pandemic-innovation-in-antibiotics/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -10931,7 +10904,7 @@
   "v": 2
  },
  "https://startupverband.de/events/captablerealitycheckwaterfallbeimexit-07-10-2026": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -10946,7 +10919,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/clean-tech-microclass-decarbonizing-the-industry/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -10981,7 +10954,7 @@
   "v": 2
  },
  "https://startupverband.de/events/investorreadyfundingproofsogehtsrichtig-14-10-2026": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -11024,7 +10997,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/bayzen-workshop-series-meet-the-tum-venture-labs/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -11059,7 +11032,7 @@
   "v": 2
  },
  "https://startupverband.de/events/politicspizza-15-10-2026": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -11096,7 +11069,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/tum-sd-2024/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -11131,7 +11104,7 @@
   "v": 2
  },
  "https://startupverband.de/events/startupfails,diedirkeinersagtbiseszuspaetist-28-10-2026": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -11173,40 +11146,13 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/wpsm-successfully-delivered/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://startupverband.de/events/founderscirclerlp-03-11-2026": {
-  "geholt": "2026-11-04",
-  "events": [
-   {
-    "titel": "Founders Circle RLP",
-    "start": "2026-11-03",
-    "ende": "2026-11-03",
-    "ort": "Mainz",
-    "land": "",
-    "online": false,
-    "url": "https://startupverband.de/events/founderscirclerlp-03-11-2026",
-    "veranstalter": "",
-    "kurz": "Erfahren Sie mehr über Founders Circle RLP",
-    "methode": "detailseite-text",
-    "datum_aus_text": true,
-    "quelle_id": "startupverband",
-    "quelle_name": "Startup-Verband – Events",
-    "region_hinweis": "Deutschland",
-    "branchen_vorschlag": [
-     "Gründung & Innovation"
-    ],
-    "schluessel": "2026-11-03|startupverband.de/events/founderscirclerlp-03-11-2026",
-    "quellen": [
-     "startupverband"
-    ],
-    "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
-    "entscheidung": ""
-   }
-  ],
+  "geholt": "2026-11-28",
+  "events": [],
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/eular-2027-2027": {
@@ -11245,7 +11191,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/nextgen-ventures-entrepreneurial-perspectives-on-6g/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -11312,12 +11258,12 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/future-of-computing-risc-v/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://startupverband.de/events/onestartuponeeuropeeuincerklaert-04-11-2026": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -11392,7 +11338,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/wpsm-innovation/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -11568,33 +11514,8 @@
   "v": 2
  },
  "https://startupverband.de/events/politicspizza-12-11-2026": {
-  "geholt": "2026-11-04",
-  "events": [
-   {
-    "titel": "Politics & Pizza",
-    "start": "2026-11-12",
-    "ende": "2026-11-12",
-    "ort": "COBL, Legienstraße 40, Kiel",
-    "land": "",
-    "online": false,
-    "url": "https://startupverband.de/events/politicspizza-12-11-2026",
-    "veranstalter": "",
-    "kurz": "Erfahren Sie mehr über Politics & Pizza",
-    "methode": "detailseite-text",
-    "datum_aus_text": true,
-    "quelle_id": "startupverband",
-    "quelle_name": "Startup-Verband – Events",
-    "region_hinweis": "Deutschland",
-    "branchen_vorschlag": [],
-    "schluessel": "2026-11-12|startupverband.de/events/politicspizza-12-11-2026",
-    "quellen": [
-     "startupverband"
-    ],
-    "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
-    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
-   }
-  ],
+  "geholt": "2026-11-28",
+  "events": [],
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-da3790075bc84a1ca06bfed7b1dc1f0d?no_cache=1": {
@@ -11668,33 +11589,8 @@
   "v": 2
  },
  "https://startupverband.de/events/realtalkpizza-18-11-2026": {
-  "geholt": "2026-11-04",
-  "events": [
-   {
-    "titel": "Real Talk & Pizza",
-    "start": "2026-11-18",
-    "ende": "2026-11-18",
-    "ort": "Kröpeliner Straße 76, 18055 Rostock",
-    "land": "",
-    "online": true,
-    "url": "https://startupverband.de/events/realtalkpizza-18-11-2026",
-    "veranstalter": "",
-    "kurz": "Erfahren Sie mehr über Real Talk & Pizza",
-    "methode": "detailseite-text",
-    "datum_aus_text": true,
-    "quelle_id": "startupverband",
-    "quelle_name": "Startup-Verband – Events",
-    "region_hinweis": "Deutschland",
-    "branchen_vorschlag": [],
-    "schluessel": "2026-11-18|startupverband.de/events/realtalkpizza-18-11-2026",
-    "quellen": [
-     "startupverband"
-    ],
-    "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": null,
-    "entscheidung": "abgelehnt: kein Bezug zu den Branchen des Radars, Dublette oder kein öffentlicher Termin"
-   }
-  ],
+  "geholt": "2026-11-28",
+  "events": [],
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/innotrans-asia-2027-2027": {
@@ -11733,35 +11629,8 @@
   "v": 2
  },
  "https://startupverband.de/events/prozesse2.0wiekideinteamupgradet-18-11-2026": {
-  "geholt": "2026-11-04",
-  "events": [
-   {
-    "titel": "Prozesse 2.0: Wie KI dein Team upgradet",
-    "start": "2026-11-18",
-    "ende": "2026-11-18",
-    "ort": "Online",
-    "land": "",
-    "online": true,
-    "url": "https://startupverband.de/events/prozesse2.0wiekideinteamupgradet-18-11-2026",
-    "veranstalter": "",
-    "kurz": "Erfahren Sie mehr über Prozesse 2.0: Wie KI dein Team upgradet",
-    "methode": "detailseite-text",
-    "datum_aus_text": true,
-    "quelle_id": "startupverband",
-    "quelle_name": "Startup-Verband – Events",
-    "region_hinweis": "Deutschland",
-    "branchen_vorschlag": [
-     "Software, KI & Daten"
-    ],
-    "schluessel": "2026-11-18|startupverband.de/events/prozesse2.0wiekideinteamupgradet-18-11-2026",
-    "quellen": [
-     "startupverband"
-    ],
-    "zuerst_gesehen": "2026-11-04",
-    "erfasst_als": "prozesse-2-0-wie-ki-dein-team-upgradet-2026",
-    "entscheidung": "aufgenommen: prozesse-2-0-wie-ki-dein-team-upgradet-2026"
-   }
-  ],
+  "geholt": "2026-11-28",
+  "events": [],
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/cms-2027-clean-meets-smart-2027": {
@@ -11795,7 +11664,7 @@
   "v": 2
  },
  "https://startupverband.de/events/cashfragegeklaertbootstrappenoderventurecapital-02-12-2026": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Cash-Frage geklärt: Bootstrappen oder Venture Capital",
@@ -11889,7 +11758,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-fb47b3684607450fb004d04def16c310?no_cache=1": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -11979,7 +11848,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-ea209567769641ac966c94a5374ef359?no_cache=1": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -12016,7 +11885,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-66484ff88d40448bb5c3017c8fbb7c9b?no_cache=1": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -12081,7 +11950,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-be75d8a1ac434dbebb62a8dc22f6b4be?no_cache=1": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -12176,7 +12045,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-72f52ef859f14d798f6df9ba04afd930?no_cache=1": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -12276,12 +12145,12 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-23912ebd1b3b41528c6165b2eb342c9c?no_cache=1": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/modular-build-2027": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Modular Build",
@@ -12344,12 +12213,12 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-5bbe50efa5c4474c8e97f5794b165d65?no_cache=1": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bazaar-berlin-2027-2027": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Bazaar Berlin 2027",
@@ -12443,7 +12312,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fresh-food-expo-asia-pacific-2027": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Fresh Food Expo Asia Pacific",
@@ -12536,7 +12405,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/jobmedi-2027-2027": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Jobmedi 2027",
@@ -12680,7 +12549,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgppn-kongress-2027-2027": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "dgppn Kongress 2027",
@@ -12841,7 +12710,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/boot-fun-auf-der-outventure-berlin-2027": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "BOOT & FUN auf der OutVenture Berlin",
@@ -12942,7 +12811,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/outventure-berlin-2027": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "OutVenture Berlin",
@@ -13009,7 +12878,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/angelwelt-auf-der-outventure-berlin-2027": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "ANGELWELT auf der OutVenture Berlin",
@@ -13121,7 +12990,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/agrar-unternehmertage-2028": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "AGRAR Unternehmertage",
@@ -13248,7 +13117,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bus2bus-2028": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "BUS2BUS",
@@ -13259,7 +13128,7 @@
     "online": false,
     "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/bus2bus-2028",
     "veranstalter": "",
-    "kurz": "Unser Veranstaltungskalender informiert Sie über alle zukünftigen Messen, Kongresse und Events die auf den Berliner Messegeländen und weltweit stattfinden.",
+    "kurz": "Die Fachmesse für Mobilität",
     "methode": "detailseite-text",
     "datum_aus_text": true,
     "quelle_id": "messe-berlin",
@@ -13355,8 +13224,33 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fruit-logistica-connect-india-2028-2028": {
-  "geholt": "2026-11-04",
-  "events": [],
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Fruit Logistica Connect India 2028",
+    "start": "2028-05-27",
+    "ende": "2028-05-27",
+    "ort": "Mumbai, India",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fruit-logistica-connect-india-2028-2028",
+    "veranstalter": "",
+    "kurz": "India's Premier Fresh Produce B2B Event",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2028-05-27|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/fruit-logistica-connect-india-2028-2028",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
   "v": 2
  },
  "https://events.gentner.de/de/aufzeichnung-komplexe-pv-projekte-einfach-loesen-mit-k2-systems": {
@@ -23602,7 +23496,7 @@
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/cosmopharm-pack/": {
-  "geholt": "2026-11-04",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24511,7 +24405,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-87b3b199636346d0b183282b113660c5?no_cache=1": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24553,7 +24447,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-56584b7cf6744f8eb62604451c9b3477?no_cache=1": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24601,7 +24495,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-fb682c7dfe454680a1b50f219128c3ea?no_cache=1": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24648,7 +24542,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/vlnight-2024/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24658,12 +24552,12 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-770577a748f642d79eb299ed8f3d02f5?no_cache=1": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/digitalbau-2024/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24673,7 +24567,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/kreativwirtschaft/detail/fristen-kreativwirtschaft/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Fristen Kreativwirtschaft",
@@ -24735,7 +24629,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/hardware-for-ai/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24745,7 +24639,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-8721d1bc31a54a89988dc40a76b27447?no_cache=1": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24760,7 +24654,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/open-house-am-check-in/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24826,7 +24720,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-93a1a15b25584b9faac90f7be1059ff6?no_cache=1": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24836,7 +24730,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/clear-2023-construction-logistics-equipment-and-robotics/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24876,17 +24770,17 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/ameetup-2nd-edition/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovationsmanagement/detail/branchentermine-kreativwirtschaft/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-5e899d6c52144a04bc47071d6d9ec657?no_cache=1": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -24920,12 +24814,12 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/ameetup-3rd-edition/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovationsmanagement/detail/fristen-kreativwirtschaft/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Fristen Kreativwirtschaft",
@@ -24960,12 +24854,12 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-6aafce18984a4f2a9d1f6cc9e619b1ea?no_cache=1": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/digitalbau/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -25005,12 +24899,12 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/hack-n-talk/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-384ee454cf1746c18f902fca0ae9aac5?no_cache=1": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -25045,7 +24939,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/coc-industry-day-2023/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -25080,7 +24974,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/strategy-game-make-it-circular-2/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -25117,7 +25011,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/catalyze-innovation-3/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -25212,7 +25106,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/catalyze-innovation-2/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -25339,7 +25233,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/catalyze-innovation/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -25374,7 +25268,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovationsmanagement/detail/wie-fuehre-ich-meine-eigene-markt-und-wettbewerbsanalyse-durch/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Wie führe ich meine eigene Markt- und Wettbewerbsanalyse durch?",
@@ -25536,7 +25430,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovationsmanagement/detail/von-der-projektidee-zur-umsetzung-crashkurs-agiles-arbeiten/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Von der Projektidee zur Umsetzung - Crashkurs agiles Arbeiten",
@@ -25658,7 +25552,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovationsmanagement/detail/wie-nutze-ich-ki-um-schneller-auf-bessere-ideen-zu-kommen/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Wie nutze ich KI, um schneller auf bessere Ideen zu kommen?",
@@ -25762,7 +25656,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/patente-ce/detail/branchentermine-patente-ce/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -25889,7 +25783,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/patente-ce/detail/grundlagen-zur-anwendung-der-neuen-maschinenverordnung-januar-2027/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Grundlagen zur Anwendung der neuen Maschinenverordnung (EU) 2023/1230",
@@ -25949,7 +25843,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/patente-ce/detail/fit-fuer-den-eu-markt-produktsicherheit-und-ce-kennzeichnung-maerz-2027/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Fit für den EU-Markt: Produktsicherheit und CE-Kennzeichnung",
@@ -26131,12 +26025,12 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/een-be-medica-2026/": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "EEN Healthcare Brokerage Event @MEDICA 2026",
-    "start": "2026-11-16",
-    "ende": "2026-11-16",
+    "start": "2026-11-29",
+    "ende": "2026-11-29",
     "ort": "Düsseldorf",
     "land": "",
     "online": true,
@@ -26149,12 +26043,12 @@
     "quelle_name": "Bayern Innovativ – Veranstaltungen",
     "region_hinweis": "Bayern",
     "branchen_vorschlag": [],
-    "schluessel": "2026-11-16|bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/een-be-medica-2026",
+    "schluessel": "2026-11-29|bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/een-be-medica-2026",
     "quellen": [
      "bayern-innovativ"
     ],
-    "zuerst_gesehen": "2026-11-05",
-    "erfasst_als": "formnext-2026",
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
     "entscheidung": ""
    }
   ],
@@ -26223,12 +26117,37 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/ila-berlin-2028-2028": {
-  "geholt": "2026-11-05",
-  "events": [],
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "ILA Berlin 2028",
+    "start": "2028-05-21",
+    "ende": "2028-05-21",
+    "ort": "Berlin ExpoCenter Airport",
+    "land": "",
+    "online": false,
+    "url": "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/ila-berlin-2028-2028",
+    "veranstalter": "",
+    "kurz": "Pioneering Aerospace",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-berlin",
+    "quelle_name": "Messe Berlin – Veranstaltungen",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2028-05-21|messe-berlin.de/de/veranstaltungen/veranstaltungskalender/ila-berlin-2028-2028",
+    "quellen": [
+     "messe-berlin"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/innotrans-2028": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -26265,7 +26184,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/smart-country-convention-2028-2028": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -26335,7 +26254,7 @@
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/gedatec-2028-2028": {
-  "geholt": "2026-11-05",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -28353,7 +28272,7 @@
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/warsaw-manufacturing-week/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -28383,7 +28302,7 @@
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/warsaw-marketing-week/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -28418,7 +28337,7 @@
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/warsaw-logistics-week/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -30251,7 +30170,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-bdc6c19aa8194121a3424273af875f92?no_cache=1": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -30296,12 +30215,12 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/digitalisierung/detail/keramik-fuer-die-elektronik-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Keramik für die Elektronik 2027",
-    "start": "2027-03-11",
-    "ende": "2027-03-11",
+    "start": "2027-02-22",
+    "ende": "2027-02-22",
     "ort": "wird Keramik in der Elektronik eingesetzt?",
     "land": "",
     "online": false,
@@ -30314,19 +30233,19 @@
     "quelle_name": "Bayern Innovativ – Veranstaltungen",
     "region_hinweis": "Bayern",
     "branchen_vorschlag": [],
-    "schluessel": "2027-03-11|bayern-innovativ.de/events-termine/digitalisierung/detail/keramik-fuer-die-elektronik-2027",
+    "schluessel": "2027-02-22|bayern-innovativ.de/events-termine/digitalisierung/detail/keramik-fuer-die-elektronik-2027",
     "quellen": [
      "bayern-innovativ"
     ],
-    "zuerst_gesehen": "2026-11-06",
-    "erfasst_als": "h2-forum-2027",
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
     "entscheidung": ""
    }
   ],
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-f83912bfdc6d4012bfddce66cbf8d849?no_cache=1": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -30336,7 +30255,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/energie-bau/detail/fusionx-global-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Recap 2026: Das hat die FusionX:Global bereits bewegt",
@@ -30374,7 +30293,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-1431bf990b2440baaa8745163c32503e?no_cache=1": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -30421,7 +30340,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-b9ea4c0f755e49f584f903fa18613cf2?no_cache=1": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -30461,7 +30380,7 @@
   "v": 2
  },
  "https://www.baystartup.de/termine/detailview/event-bc7b0436f3124ebbbc61b47b0c54cd3d?no_cache=1": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -30471,7 +30390,7 @@
   "v": 2
  },
  "https://www.tum-venture-labs.de/events/founders-regulars-table-food-agtech-3/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -30599,7 +30518,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/een-invest-2026/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "EEN Invest 2026 - Aerospace & Defence European Investment Forum",
@@ -30637,7 +30556,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/e-world-energy-water-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "E-world energy & water 2027",
@@ -30700,7 +30619,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/fit-fuer-den-eu-markt-produktsicherheit-und-ce-kennzeichnung-maerz-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Fit für den EU-Markt: Produktsicherheit und CE-Kennzeichnung",
@@ -30761,7 +30680,7 @@
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/hannover-messe-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Hannover Messe 2027",
@@ -30793,7 +30712,7 @@
   "v": 2
  },
  "https://www.zdh.de/presse/veranstaltungen/zdh-termine/schlussfeier-deutsche-meisterschaft-im-handwerk-1/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Schlussfeier Deutsche Meisterschaft im Handwerk",
@@ -30887,7 +30806,7 @@
   "v": 2
  },
  "https://www.zdh.de/presse/veranstaltungen/zdh-termine/ihm-zukunft-handwerk/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "IHM + Zukunft Handwerk",
@@ -30955,12 +30874,12 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/asean-disaster-prevention-recovery-expo": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.messe-berlin.de/de/veranstaltungen/veranstaltungskalender/dgn-2027": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "DGN",
@@ -31022,12 +30941,12 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/international-fastener-show-china": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.messe.de/de/messen/details/xiamen-industry-expo": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31064,18 +30983,18 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/domotex-asia-chinafloor": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/transformation/detail/transformation-im-dialog-energie-nachhaltigkeit-praesenz/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Kamingespräch Transformation. Im Dialog. Energie & Nachhaltigkeit",
     "start": "2026-12-01",
     "ende": "2026-12-01",
-    "ort": "München",
+    "ort": "Motorworld München",
     "land": "",
     "online": false,
     "url": "https://www.bayern-innovativ.de/events-termine/transformation/detail/transformation-im-dialog-energie-nachhaltigkeit-praesenz/",
@@ -31102,7 +31021,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/win-eurasia": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31137,12 +31056,12 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/let-a-cemat-asia-event": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.bayern-innovativ.de/events-termine/transformation/detail/helden-der-transformation-unternehmen-zeigen-wie-wandel-gelingt/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Helden der Transformation – Unternehmen zeigen, wie Wandel gelingt",
@@ -31174,7 +31093,7 @@
   "v": 2
  },
  "https://www.auma.de/messen-finden/details/?tfd=las-vegas_ces-consumer-electronics-show_228890": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "CES - Consumer Electronics Show",
@@ -31204,17 +31123,17 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/real-estate-arena-2": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.messe.de/de/messen/details/laserfair-shenzen": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.messe.de/de/messen/details/south-china-international-industry-fair": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31249,7 +31168,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/futureag": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31286,7 +31205,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/intelligent-manufacturing-expo-southeast-asia": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31321,7 +31240,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/art-vision": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31358,7 +31277,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/cemat-south-east-asia": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31396,12 +31315,12 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/industrial-transformation-asia-pacific-2": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.messe.de/de/messen/details/hr-l-d-innovation-tech-fest": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31438,7 +31357,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/cemat-australia": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31473,7 +31392,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/industrial-transformation-australia-2": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31510,7 +31429,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/afac-powered-by-interschutz": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31545,12 +31464,12 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/itma-2027": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.messe.de/de/messen/details/aluexpo": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31585,7 +31504,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/how-hub-of-warehouse": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31622,7 +31541,7 @@
   "v": 2
  },
  "https://events.gentner.de/de/webinar-vdi-4646-grosswaermepumpen-sicher-planen-und-bewerten": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Webinar: VDI 4646 - Großwärmepumpen sicher planen und bewerten",
@@ -31654,7 +31573,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/parts2clean": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31721,7 +31640,7 @@
   "v": 2
  },
  "https://www.messe.de/de/messen/details/infa-3": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -31761,12 +31680,12 @@
   "v": 2
  },
  "https://events.gentner.de/de/aufzeichnung-shke-essen-strom-der-gebaeudetechnik": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Aufzeichnung: SHK+E Essen Strom in der Gebäudetechnik",
-    "start": "2026-11-11",
-    "ende": "2026-11-11",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
     "ort": "",
     "land": "",
     "online": true,
@@ -31782,13 +31701,13 @@
      "Gebäudetechnik",
      "Energie & Solar"
     ],
-    "schluessel": "2026-11-11|events.gentner.de/de/aufzeichnung-shke-essen-strom-der-gebaeudetechnik",
+    "schluessel": "2026-12-03|events.gentner.de/de/aufzeichnung-shke-essen-strom-der-gebaeudetechnik",
     "quellen": [
      "gentner-events"
     ],
-    "zuerst_gesehen": "2026-11-06",
+    "zuerst_gesehen": "2026-11-28",
     "erfasst_als": null,
-    "entscheidung": "abgelehnt: Aufzeichnung, kein Termin"
+    "entscheidung": ""
    }
   ],
   "v": 2
@@ -31991,12 +31910,12 @@
   "v": 2
  },
  "https://it.region-stuttgart.de/termine/innovation-sprint-4/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "INNOVATION sprint",
-    "start": "2026-11-23",
-    "ende": "2026-11-23",
+    "start": "2026-12-04",
+    "ende": "2026-12-04",
     "ort": "AI xpress, 71032 Böblingen",
     "land": "",
     "online": true,
@@ -32012,12 +31931,12 @@
      "Software, KI & Daten",
      "Gründung & Innovation"
     ],
-    "schluessel": "2026-11-23|it.region-stuttgart.de/termine/innovation-sprint-4",
+    "schluessel": "2026-12-04|it.region-stuttgart.de/termine/innovation-sprint-4",
     "quellen": [
      "it-region-stuttgart"
     ],
-    "zuerst_gesehen": "2026-11-06",
-    "erfasst_als": "innovation-coffee-mit-neue-materialien-bayreuth-gmbh-2026",
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": "e4s-the-innovation-ecosystem-of-tu-wien-2026",
     "entscheidung": ""
    }
   ],
@@ -32210,12 +32129,12 @@
   "v": 2
  },
  "https://www.viparis.com/en/news-events/events/salon-saveurs-des-plaisirs-gourmands-winter-2016": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://www.rai.nl/agenda/de-vier-jaargetijden-2026": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "De Vier Jaargetijden",
@@ -32245,7 +32164,7 @@
   "v": 2
  },
  "https://www.rai.nl/agenda/Harrymens2026": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Theatershow Harry Mens",
@@ -32275,7 +32194,7 @@
   "v": 2
  },
  "https://www.rai.nl/agenda/masters-expo-2026": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "MASTERS EXPO",
@@ -32307,7 +32226,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/collected-card-show-nec-edition/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Collected Card Show NEC Edition - Day 1",
@@ -32359,7 +32278,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/farm-shop-and-deli-show-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Farm Shop & Deli Show 2027 - Day 1",
@@ -32434,7 +32353,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/food-and-drink-expo-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Food & Drink Expo 2027 - Day 1",
@@ -32509,7 +32428,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/national-convenience-show-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "National Convenience Show 2027 - Day 1",
@@ -32584,7 +32503,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/the-forecourt-show-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "The Forecourt Show 2027 - Day 1",
@@ -32659,7 +32578,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/commercial-vehicle-show-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Commercial Vehicle Show 2027 - Day 1",
@@ -32734,7 +32653,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/bus-coach-expo-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Bus & Coach Expo 2027 - Day 1",
@@ -32809,7 +32728,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/automechanika-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Automechanika Birmingham - Day 1",
@@ -32916,7 +32835,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/invictus-games-birmingham-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Invictus Games Birmingham 2027 - Day 1",
@@ -33136,7 +33055,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/the-pharmacy-show/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "The Pharmacy Show - Day 1",
@@ -33188,7 +33107,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/halal-expo-2027/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Halal Expo UK - Day 1",
@@ -33240,7 +33159,7 @@
   "v": 2
  },
  "https://www.thenec.co.uk/events/interplas-2029/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [
    {
     "titel": "Interplas 2029 - Day 1",
@@ -33282,117 +33201,173 @@
   "v": 2
  },
  "https://www.solarplaza.com/event/solarplaza-summit-azerbaijan-pv-storage/": {
-  "geholt": "2026-11-06",
-  "events": [],
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Solarplaza Summit | Azerbaijan PV & Storage",
+    "start": "2027-04-22",
+    "ende": "2027-04-22",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.solarplaza.com/event/solarplaza-summit-azerbaijan-pv-storage/",
+    "veranstalter": "",
+    "kurz": "\n  \n    Looking for industry insights and exclusive content from expert speakers? Join our\n    upcoming\n    event Solarplaza Summit Azerbaijan PV & Storage! Get ahead of the curve and reconnect with the industry's top le",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "solarplaza-events",
+    "quelle_name": "Solarplaza – Konferenzen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [
+     "Energie & Solar",
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2027-04-22|solarplaza.com/event/solarplaza-summit-azerbaijan-pv-storage",
+    "quellen": [
+     "solarplaza-events"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
   "v": 2
  },
  "https://www.solarplaza.com/event/solarplaza-summit-central-america-pv-storage/": {
-  "geholt": "2026-11-06",
-  "events": [],
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Solarplaza Summit | Central America PV & Storage",
+    "start": "2027-09-07",
+    "ende": "2027-09-07",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.solarplaza.com/event/solarplaza-summit-central-america-pv-storage/",
+    "veranstalter": "",
+    "kurz": "\n  \n    Looking for industry insights and exclusive content from expert speakers? Join our\n    upcoming\n    event Solarplaza Summit Central America PV & Storage! Get ahead of the curve and reconnect with the industry's t",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "solarplaza-events",
+    "quelle_name": "Solarplaza – Konferenzen",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [
+     "Energie & Solar",
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2027-09-07|solarplaza.com/event/solarplaza-summit-central-america-pv-storage",
+    "quellen": [
+     "solarplaza-events"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/robotics-warsaw/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/warsaw-fleet-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/self-storage-expo-poland/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/warsaw-horticulture-week/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/warsaw-garden-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/eco-world-poland/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/nursery-trade-fair/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/futurecity-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/urban-greentech-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/warsaw-industrial-construction-week/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/stone-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/concrete-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/parking-tech-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/warsaw-hvac-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/smart-home-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/isoltex/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/wood-tech-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/world-of-build-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/construction-site-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/forestech-expo-poland/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
  "https://warsawexpo.eu/en/fair-calendar/modular-prefab-expo/": {
-  "geholt": "2026-11-06",
+  "geholt": "2026-11-28",
   "events": [],
   "v": 2
  },
@@ -54591,6 +54566,813 @@
      "een-events"
     ],
     "zuerst_gesehen": "2026-11-27",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.techbase.de/news-termine/events-termine/detail/10/1/2027/startzuschuss-3": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Start?Zuschuss!",
+    "start": "2027-01-10",
+    "ende": "2027-01-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.techbase.de/news-termine/events-termine/detail/10/1/2027/startzuschuss-3",
+    "veranstalter": "",
+    "kurz": "Wettbewerb, 25.11.2026 bis 10.01.2027 (Fristende)",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "techbase-events",
+    "quelle_name": "TechBase Regensburg – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-10|techbase.de/news-termine/events-termine/detail/10/1/2027/startzuschuss-3",
+    "quellen": [
+     "techbase-events"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": "bau-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/30-11-2026_ausbildungsreihe-feminist-legal-aid-antidiskriminierungsrecht": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/01-12-2026_info-veranstaltung-master-alte-geschichte-klassikstudien": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/01-12-2026_school-systems-worldwide-4": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Veranstaltung: School Systems Worldwide",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "online via Zoom",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/01-12-2026_school-systems-worldwide-4",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-01|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/01-12-2026_school-systems-worldwide-4",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2027-01-12&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=lunch-bag-sessions-9-20270112&cHash=7c330132e755079508bd2b149d193768": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Lunch Bag Sessions",
+    "start": "2027-01-12",
+    "ende": "2027-01-12",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/lunch-bag-sessions-9-20270112",
+    "veranstalter": "",
+    "kurz": "Kurze Präsentationen über Themen, welche die Kolleg:innen der Fakultät beschäftigen, und dabei das mitgebrachte Lunchpaket essen\r\n\r\n",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-12|haw-landshut.de/veranstaltungen/termin/lunch-bag-sessions-9-20270112",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_mittagsfuehrung-zur-ausstellung-human-nature-1": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Veranstaltung: Mittagsführung zur Ausstellung HUMAN NATURE",
+    "start": "2027-01-17",
+    "ende": "2027-01-17",
+    "ort": "Kunsthalle im Audimax",
+    "land": "",
+    "online": false,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_mittagsfuehrung-zur-ausstellung-human-nature-1",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-17|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_mittagsfuehrung-zur-ausstellung-human-nature-1",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620637": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_missbrauch-in-institutionen-sexuelle-spirituelle-systemische-komponenten-7": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/619389": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2027-01-13&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=digitale-medien-fluch-oder-segen-haltung-finden-statt-verbote-erteilen&cHash=b87015ef78af15185eaf33502bb241b2": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Digitale Medien – Fluch oder Segen? Haltung finden statt Verbote erteilen!",
+    "start": "2027-01-13",
+    "ende": "2027-01-13",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/digitale-medien-fluch-oder-segen-haltung-finden-statt-verbote-erteilen",
+    "veranstalter": "",
+    "kurz": "Interaktiver Vortrag, Tipps & Austausch\r\n",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2027-01-13|haw-landshut.de/veranstaltungen/termin/digitale-medien-fluch-oder-segen-haltung-finden-statt-verbote-erteilen",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_sprache-die-bass-fuer-inklusion-6": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Veranstaltung: Sprache - die BAS!S für Inklusion",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "online via Zoom",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_sprache-die-bass-fuer-inklusion-6",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-02|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_sprache-die-bass-fuer-inklusion-6",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/560472": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/material/detail/cluster-connect/": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Cluster Connect 2027",
+    "start": "2027-02-25",
+    "ende": "2027-02-25",
+    "ort": "München",
+    "land": "",
+    "online": false,
+    "url": "https://www.bayern-innovativ.de/events-termine/material/detail/cluster-connect/",
+    "veranstalter": "",
+    "kurz": "Es erwartet Sie ein stimmungsvoller Abend mit spannenden Impulsen, wertvollen Gesprächen und einer inspirierenden Keynote. Genießen Sie unvergessliche Momente hoch über den Dächern der Landeshauptstadt.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-02-25|bayern-innovativ.de/events-termine/material/detail/cluster-connect",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": "getec-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_kritische-perspektiven-auf-bildung-fuer-nachhaltige-entwicklung-theoretische-grundlagen-und-praxisanwendungen-2": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Veranstaltung: Kritische Perspektiven auf Bildung für nachhaltige Entwicklung: Theoretische Grundlagen und Praxisanwendungen",
+    "start": "2026-12-02",
+    "ende": "2026-12-02",
+    "ort": "digital über Zoom",
+    "land": "",
+    "online": true,
+    "url": "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_kritische-perspektiven-auf-bildung-fuer-nachhaltige-entwicklung-theoretische-grundlagen-und-praxisanwendungen-2",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "uni-regensburg",
+    "quelle_name": "Universität Regensburg – Veranstaltungskalender",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [
+     "Material & Kreislauf"
+    ],
+    "schluessel": "2026-12-02|uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_kritische-perspektiven-auf-bildung-fuer-nachhaltige-entwicklung-theoretische-grundlagen-und-praxisanwendungen-2",
+    "quellen": [
+     "uni-regensburg"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621118": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.haw-landshut.de/veranstaltungen?tx_calendarizepheenetz_fecalendarizepheenetz%5Baction%5D=show&tx_calendarizepheenetz_fecalendarizepheenetz%5Bcontroller%5D=Calendar&tx_calendarizepheenetz_fecalendarizepheenetz%5Bdate%5D=2027-01-13&tx_calendarizepheenetz_fecalendarizepheenetz%5Bslug%5D=online-gruppenberatung-fuer-berufliche-qualifizierung-20270113&cHash=f489576b5b2c7864039c558a9e2bcb98": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Online-Gruppenberatung für Berufliche Qualifizierung",
+    "start": "2027-01-13",
+    "ende": "2027-01-13",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.haw-landshut.de/veranstaltungen/termin/online-gruppenberatung-fuer-berufliche-qualifizierung-20270113",
+    "veranstalter": "",
+    "kurz": "Gruppenberatung Berufliche Qualifizierung ",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "hs-landshut",
+    "quelle_name": "Hochschule Landshut – Veranstaltungen",
+    "region_hinweis": "Ostbayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-13|haw-landshut.de/veranstaltungen/termin/online-gruppenberatung-fuer-berufliche-qualifizierung-20270113",
+    "quellen": [
+     "hs-landshut"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.uni-regensburg.de/universitaet/aktuelles/kalender/veranstaltung/02-12-2026_winckelmannsvortrag-der-klassischen-archaeologie-prof-dr-ortwin-dally-das-kapitol-zwischen-archaeologie-und-geschichte": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/622194": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621914": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.gruenderland.bayern/veranstaltungen/event/betriebsfuehrung-in-kleinunternehmen/": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Webinar zur Betriebsführung in Kleinunternehmen",
+    "start": "2027-01-27",
+    "ende": "2027-01-27",
+    "ort": "Online-Veranstaltung",
+    "land": "",
+    "online": true,
+    "url": "https://www.gruenderland.bayern/veranstaltungen/event/betriebsfuehrung-in-kleinunternehmen/",
+    "veranstalter": "",
+    "kurz": "Erfahren Sie mehr über das kostenfreie Unternehmenssteuerungssystem ICE",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gruenderland-bayern",
+    "quelle_name": "Gründerland Bayern – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [],
+    "schluessel": "2027-01-27|gruenderland.bayern/veranstaltungen/event/betriebsfuehrung-in-kleinunternehmen",
+    "quellen": [
+     "gruenderland-bayern"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620833": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/622170": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/620792": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.regensburg.de/veranstaltungen/detail/621515": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/informationen-zur-existenzgruendung-waiblingen-7-2-2-2/": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Informationen zur Existenzgründung (Waiblingen)",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "IHK Region Stuttgart Bezirkskammer Rems-Murr, Waiblingen",
+    "land": "",
+    "online": false,
+    "url": "https://www.startup-region-stuttgart.de/termine/informationen-zur-existenzgruendung-waiblingen-7-2-2-2/",
+    "veranstalter": "",
+    "kurz": "Eine erfolgreiche Gründung beginnt mit einer guten Vorbereitung. Die IHK-Bezirkskammer Rems-Murr vermittelt gemeinsam mit ihren Kooperationspartnern wichtiges Grundlagenwissen für alle, die den Schritt in die Selbstständ",
+    "methode": "json-ld",
+    "quelle_id": "startup-region-stuttgart",
+    "quelle_name": "Start-up-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-03|startup-region-stuttgart.de/termine/informationen-zur-existenzgruendung-waiblingen-7-2-2-2",
+    "quellen": [
+     "startup-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/informationen-zur-existenzgruendung-stuttgart-4-2/": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Informationen zur Existenzgründung (Stuttgart)",
+    "start": "2026-12-09",
+    "ende": "2026-12-09",
+    "ort": "IHK Region Stuttgart",
+    "land": "",
+    "online": false,
+    "url": "https://www.startup-region-stuttgart.de/termine/informationen-zur-existenzgruendung-stuttgart-4-2/",
+    "veranstalter": "",
+    "kurz": "Der Schritt in die Selbstständigkeit will gut überlegt sein: Eine sorgfältige Planung und die gewissenhafte Vorbereitung der Existenzgründung sind unerlässlich, um gleich von Anfang an die richtigen Entscheidungen zu tre",
+    "methode": "json-ld",
+    "quelle_id": "startup-region-stuttgart",
+    "quelle_name": "Start-up-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-09|startup-region-stuttgart.de/termine/informationen-zur-existenzgruendung-stuttgart-4-2",
+    "quellen": [
+     "startup-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startup-region-stuttgart.de/termine/informationen-zur-existenzgruendung-esslingen-6-2-2/": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Informationen zur Existenzgründung (Esslingen)",
+    "start": "2026-12-09",
+    "ende": "2026-12-09",
+    "ort": "IHK Region Stuttgart Bezirkskammer Esslingen-Nürtingen, Esslingen",
+    "land": "",
+    "online": false,
+    "url": "https://www.startup-region-stuttgart.de/termine/informationen-zur-existenzgruendung-esslingen-6-2-2/",
+    "veranstalter": "",
+    "kurz": "Wer ein Unternehmen gründen möchte, steht gerade am Anfang vor vielen Fragen: Welche Rechtsform ist die richtige? Wie erstelle ich einen überzeugenden Businessplan? Welche Finanzierungsmöglichkeiten und Förderprogramme g",
+    "methode": "json-ld",
+    "quelle_id": "startup-region-stuttgart",
+    "quelle_name": "Start-up-Region Stuttgart – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-09|startup-region-stuttgart.de/termine/informationen-zur-existenzgruendung-esslingen-6-2-2",
+    "quellen": [
+     "startup-region-stuttgart"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/medtecsummit-2027/": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "MedtecSUMMIT 2027 For Innovators. For Leaders. For You.",
+    "start": "2027-03-11",
+    "ende": "2027-03-11",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/medtecsummit-2027/",
+    "veranstalter": "",
+    "kurz": "Der MedtecSUMMIT 2027 ist die zentrale Plattform für Austausch und Orientierung in einer sich wandelnden Gesundheitsindustrie. Internationale Expertinnen und Experten, innovative Themen und zukunftsweisende Impulse unter",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Industrie & Fertigung",
+     "Software, KI & Daten"
+    ],
+    "schluessel": "2027-03-11|bayern-innovativ.de/events-termine/innovation-und-kooperation-in-europa/detail/medtecsummit-2027",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": "h2-forum-2027",
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.zdh.de/presse/veranstaltungen/internationale-handwerksmesse-ihm/zukunft-handwerk-und-ihm-2025/": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.zdh.de/presse/veranstaltungen/internationale-handwerksmesse-ihm/zukunft-handwerk-und-ihm-2024/": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.zdh.de/presse/veranstaltungen/internationale-handwerksmesse-ihm/zukunft-handwerk-und-ihm-2023/": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.zdh.de/presse/veranstaltungen/internationale-handwerksmesse-ihm/": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Internationale Handwerksmesse (IHM)",
+    "start": "2027-03-14",
+    "ende": "2027-03-14",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.zdh.de/presse/veranstaltungen/internationale-handwerksmesse-ihm/",
+    "veranstalter": "",
+    "kurz": "Das deutsche Handwerk präsentiert sich auf der Messe München. Der Austausch mit der Spitzenpolitik steht bei den zahlreichen Events im Fokus.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "zdh",
+    "quelle_name": "Zentralverband des Deutschen Handwerks – Termine",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Handwerk"
+    ],
+    "schluessel": "2027-03-14|zdh.de/presse/veranstaltungen/internationale-handwerksmesse-ihm",
+    "quellen": [
+     "zdh"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.bayern-innovativ.de/events-termine/transformation/detail/brauchen-unternehmen-noch-berufseinsteiger-einstieg-und-talententwicklung-im-ki-zeitalter/": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Brauchen Unternehmen noch Berufseinsteiger? Einstieg und Talententwicklung im KI-Zeitalter",
+    "start": "2026-12-15",
+    "ende": "2026-12-15",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://www.bayern-innovativ.de/events-termine/transformation/detail/brauchen-unternehmen-noch-berufseinsteiger-einstieg-und-talententwicklung-im-ki-zeitalter/",
+    "veranstalter": "",
+    "kurz": "Der Berufseinstieg steht vor einem grundlegenden Wandel: Künstliche Intelligenz übernimmt zunehmend Aufgaben, die bislang als Lernfeld für Berufseinsteiger galten. Doch wenn Routinearbeiten automatisiert werden, wie entw",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "bayern-innovativ",
+    "quelle_name": "Bayern Innovativ – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Software, KI & Daten",
+     "Industrie & Fertigung"
+    ],
+    "schluessel": "2026-12-15|bayern-innovativ.de/events-termine/transformation/detail/brauchen-unternehmen-noch-berufseinsteiger-einstieg-und-talententwicklung-im-ki-zeitalter",
+    "quellen": [
+     "bayern-innovativ"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/verhandeln-der-erfolgsfaktor-fuer-dein-start-up": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Verhandeln – der Erfolgsfaktor für Dein Start-up",
+    "start": "2026-12-01",
+    "ende": "2026-12-01",
+    "ort": "Webinar (online)",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/en/events/verhandeln-der-erfolgsfaktor-fuer-dein-start-up",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [
+     "Logistik & Handel",
+     "Gründung & Innovation"
+    ],
+    "schluessel": "2026-12-01|startupticker.ch/en/events/verhandeln-der-erfolgsfaktor-fuer-dein-start-up",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/index.php/en/events/so-ueberzeugst-du-mit-deinem-logo-und-deiner-website-%2823%29": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "So überzeugst du mit deinem Logo und deiner Website",
+    "start": "2026-12-15",
+    "ende": "2026-12-15",
+    "ort": "Online",
+    "land": "",
+    "online": true,
+    "url": "https://www.startupticker.ch/index.php/en/events/so-ueberzeugst-du-mit-deinem-logo-und-deiner-website-%2823%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-15|startupticker.ch/index.php/en/events/so-ueberzeugst-du-mit-deinem-logo-und-deiner-website-%2823%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.startupticker.ch/en/events/ip-basic-workshop-%2821%29": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "IP Basic Workshop",
+    "start": "2026-12-15",
+    "ende": "2026-12-15",
+    "ort": "Remote",
+    "land": "",
+    "online": false,
+    "url": "https://www.startupticker.ch/en/events/ip-basic-workshop-%2821%29",
+    "veranstalter": "",
+    "kurz": "",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "startupticker",
+    "quelle_name": "Startupticker.ch – Events",
+    "region_hinweis": "Schweiz",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-15|startupticker.ch/en/events/ip-basic-workshop-%2821%29",
+    "quellen": [
+     "startupticker"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/infalino-2": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://www.messe.de/de/messen/details/infa-kreativ-2": {
+  "geholt": "2026-11-28",
+  "events": [],
+  "v": 2
+ },
+ "https://events.gentner.de/de/aufzeichnungen-sonnige-aussichten-energetische-gewinnungsflaechen-auf-daechern-planen-und-errichten": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Aufzeichnungen: Sonnige Aussichten - Energetische Gewinnungsflächen auf Dächern planen und errichten",
+    "start": "2026-12-10",
+    "ende": "2026-12-10",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://events.gentner.de/de/aufzeichnungen-sonnige-aussichten-energetische-gewinnungsflaechen-auf-daechern-planen-und-errichten",
+    "veranstalter": "Gentner Events",
+    "kurz": "Sonnige Dächer clever nutzen: Erfahren Sie, wie Sie energetische Gewinnungsflächen auf Flach- und Steildächern technisch fundiert planen, rechtssicher umsetzen und zukunftsfähig gestalten – von der Statik über die Ausfüh",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gentner-events",
+    "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-10|events.gentner.de/de/aufzeichnungen-sonnige-aussichten-energetische-gewinnungsflaechen-auf-daechern-planen-und-errichten",
+    "quellen": [
+     "gentner-events"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://events.gentner.de/de/aufzeichnung-raumklima-und-lueftungssysteme-ifh-intherm": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Aufzeichnung: Raumklima- und Lüftungssysteme (IFH Intherm)",
+    "start": "2026-12-03",
+    "ende": "2026-12-03",
+    "ort": "",
+    "land": "",
+    "online": true,
+    "url": "https://events.gentner.de/de/aufzeichnung-raumklima-und-lueftungssysteme-ifh-intherm",
+    "veranstalter": "Gentner Events",
+    "kurz": "Vorab-Webinare zur IFH/Intherm 2026 vermitteln Trends und praxisnahe Lösungen für SHK-Betriebe.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "gentner-events",
+    "quelle_name": "Gentner Verlag – Veranstaltungen (u. a. Dachdecker-Handwerk, Photovoltaik)",
+    "region_hinweis": "Deutschland",
+    "branchen_vorschlag": [
+     "Gebäudetechnik"
+    ],
+    "schluessel": "2026-12-03|events.gentner.de/de/aufzeichnung-raumklima-und-lueftungssysteme-ifh-intherm",
+    "quellen": [
+     "gentner-events"
+    ],
+    "zuerst_gesehen": "2026-11-28",
+    "erfasst_als": null,
+    "entscheidung": ""
+   }
+  ],
+  "v": 2
+ },
+ "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795840785-cdbf049f2": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Vortragseinreichungen The smarter E Europe Conference 2027",
+    "start": "2026-12-07",
+    "ende": "2026-12-07",
+    "ort": "Termin",
+    "land": "",
+    "online": true,
+    "url": "https://www.intersolar.de/konferenz/call-for-abstracts?ref=m5f53a666f3a2cb2fee160554-s648b1d3a246f8c29905bc943-t1795840785-cdbf049f2",
+    "veranstalter": "",
+    "kurz": "Vortragseinreichungen der The smarter E Europe Conference sind vom 16. November bis 7. Dezember 2026 möglich.",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "intersolar-events",
+    "quelle_name": "The smarter E Europe – Veranstaltungen",
+    "region_hinweis": "Bayern",
+    "branchen_vorschlag": [
+     "Energie & Solar"
+    ],
+    "schluessel": "2026-12-07|intersolar.de/konferenz/call-for-abstracts",
+    "quellen": [
+     "intersolar-events"
+    ],
+    "zuerst_gesehen": "2026-11-04",
+    "erfasst_als": null,
+    "entscheidung": "abgelehnt: als Frist bei intersolar-2027 eingetragen"
+   }
+  ],
+  "v": 2
+ },
+ "https://www.rai.nl/agenda/een-speciale-kindereditie-de-notenkraker": {
+  "geholt": "2026-11-28",
+  "events": [
+   {
+    "titel": "Een Speciale Kindereditie: De Notenkraker",
+    "start": "2026-12-28",
+    "ende": "2026-12-28",
+    "ort": "",
+    "land": "",
+    "online": false,
+    "url": "https://www.rai.nl/agenda/een-speciale-kindereditie-de-notenkraker",
+    "veranstalter": "",
+    "kurz": "Een betoverend ballet waarin Madame Rose het verhaal toegankelijk maakt voor iedereen. Met de dansers van de Nationale Opera van Oekraïne, prachtige decors en Tsjaikovski’s muziek ontstaat een magische wereld waar liefde",
+    "methode": "detailseite-text",
+    "datum_aus_text": true,
+    "quelle_id": "messe-rai",
+    "quelle_name": "RAI Amsterdam – Agenda",
+    "region_hinweis": "Europa",
+    "branchen_vorschlag": [],
+    "schluessel": "2026-12-28|rai.nl/agenda/een-speciale-kindereditie-de-notenkraker",
+    "quellen": [
+     "messe-rai"
+    ],
+    "zuerst_gesehen": "2026-11-28",
     "erfasst_als": null,
     "entscheidung": ""
    }
